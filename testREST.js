@@ -15,15 +15,7 @@ var body={
     grant_type: 'client_credentials'
 }
 
-var aaa = Object.keys(body).map(key => key + '=' + body[key]).join('&');
-
-// const stringified = queryString.stringify(parsed);
-console.log(aaa)
-
-// var postData = queryString.parse({
-//     grant_type: 'client_credentials'
-// });
-// console.log(postData)
+var qString = Object.keys(body).map(key => key + '=' + body[key]).join('&');
 
 // request option
 var options = {
@@ -34,7 +26,7 @@ var options = {
     headers: {
         'Authorization': 'Basic ' + Buffer.from(client_id + ':' + client_secret).toString('base64'), //Fixing Deprication,
         'Content-Type': 'application/x-www-form-urlencoded',
-        'Content-Length': aaa.length
+        'Content-Length': qString.length
     }
 };
 
@@ -56,7 +48,6 @@ var req = https.request(options, function (res) {
 req.on('error', function (err) {
     console.log(err);
 });
-
 //send request witht the postData form
-req.write(aaa);
+req.write(qString);
 req.end();

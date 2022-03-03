@@ -1,53 +1,55 @@
 import * as fs from 'fs';
+import * as https from 'https'
 // import * as request from 'request';
 
 export function getCredToken(authOptions) {
 
-    var creds=readDat("creds")
+    var creds = readDat("creds")
     var client_id = creds.client_id; // Your client id
     var client_secret = creds.client_secret; // Your secret
-    var auOps
-    if (authOptions) {
-        auOps = authOptions
-    } else {
-        auOps = {
-            url: 'https://accounts.spotify.com/api/token',
-            headers: {
-                // 'Authorization': 'Basic ' + (new Buffer(client_id + ':' + client_secret).toString('base64'))
-                'Authorization': 'Basic ' + Buffer.from(client_id + ':' + client_secret).toString('base64') //Fixing Deprication
-            },
-            form: {
-                grant_type: 'client_credentials'
-            },
-            json: true
-        };
+    var body = {
+        grant_type: 'client_credentials'
     }
 
+    var qString = Object.keys(body).map(key => key + '=' + body[key]).join('&');
 
-    request.post(authOptions, function (error, response, body) {
-        const tempTokenPath='./tempToken.json'
-        if (!error && response.statusCode === 200) {
-            // use the access token to access the Spotify Web API
-            console.log(response)
-            console.log(body)
-            var token = body.access_token;
-            // var tempTokenTemplate={
-            //     "access_token":null,
-            //     "token_type":null,
-            //     "expires_in":null,
-            //     "exires_at":null
-            // }
-            // fs.writeFile(tempTokenPath, JSON.stringify(tempTokenTemplate), function (err) {
-            //     if (err) throw err;
-            //     console.log('File is created successfully.');
-            //   });
-
-        } else {
-            throw response
-            // console.log(response)
-            // console.log(body)
+    // request option
+    var options = {
+        host: 'accounts.spotify.com',
+        port: 443,
+        method: 'POST',
+        path: '/api/token',
+        headers: {
+            'Authorization': 'Basic ' + Buffer.from(client_id + ':' + client_secret).toString('base64'), //Fixing Deprication,
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'Content-Length': qString.length
         }
+    };
+
+    var qString = Object.keys(body).map(key => key + '=' + body[key]).join('&');
+
+    // request object
+    var req = https.request(options, function (res) {
+        var result = '';
+        res.on('data', function (chunk) {
+            result += chunk;
+        });
+        res.on('end', function () {
+            console.log(JSON.parse(result))
+            return result
+        });
+        res.on('error', function (err) {
+            console.log(err);
+        })
     });
+
+    // req error
+    req.on('error', function (err) {
+        console.log(err);
+    });
+    //send request witht the postData form
+    req.write(qString);
+    req.end();
 
 };
 
@@ -55,57 +57,57 @@ export function getCredToken(authOptions) {
 
 
 export function readDat(type) {
-    const tempTokenPath='./tempToken.json'
-    const credPath='./credentials.json'
+    const tempTokenPath = './tempToken.json'
+    const credPath = './credentials.json'
     var path
-    if(type=="token"){
-        path=tempTokenPath
-    }else if(type=="creds"){
-        path=credPath
+    if (type == "token") {
+        path = tempTokenPath
+    } else if (type == "creds") {
+        path = credPath
     }
 
     //check for token file existence
-    var exists=false
+    var exists = false
     try {
         if (fs.existsSync(path)) {
-            exists=true
+            exists = true
         }
     } catch (err) {
         // console.error(err)
     }
 
     //if exists read it, else CREATE and write to it
-    if(exists){
+    if (exists) {
         try {
             const data = fs.readFileSync(path, 'utf8')
             return JSON.parse(data)
-          } catch (err) {
+        } catch (err) {
             console.error(err)
-          }
-          
-    }else{
-        var body
-        const tempTokenTemplate={
-            "access_token":null,
-            "token_type":null,
-            "expires_in":null,
-            "exires_at":null
-        }
-        const credTemplate={
-            "client_secret":null,
-            "client_id":null,
         }
 
-        if(type=="token"){
-            body=tempTokenTemplate
-        }else if(type=="creds"){
-            body=credTemplate
+    } else {
+        var body
+        const tempTokenTemplate = {
+            "access_token": null,
+            "token_type": null,
+            "expires_in": null,
+            "exires_at": null
         }
-        
+        const credTemplate = {
+            "client_secret": null,
+            "client_id": null,
+        }
+
+        if (type == "token") {
+            body = tempTokenTemplate
+        } else if (type == "creds") {
+            body = credTemplate
+        }
+
         fs.writeFile(path, JSON.stringify(body), function (err) {
             if (err) throw err;
             console.log('File is created successfully.');
-          });
-        
+        });
+
     }
 }
