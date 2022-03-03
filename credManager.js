@@ -64,7 +64,6 @@ export function readDat(type) {
         path=credPath
     }
 
-    console.log(path)
     //check for token file existence
     var exists=false
     try {
