@@ -32,14 +32,19 @@ export function getCredToken(authOptions) {
     var qString = Object.keys(body).map(key => key + '=' + body[key]).join('&');
 
     // request object
+    
     var req = https.request(options, function (res) {
+        var tokenPath='./tempToken.json'
         var result = '';
         res.on('data', function (chunk) {
             result += chunk;
         });
         res.on('end', function () {
             console.log(JSON.parse(result))
-            fs.writeFile('./tempToken.json', result, function (err) {
+
+            let tokenData = fs.readFileSync(tokenPath, 'utf8')
+
+            fs.writeFile(tokenPath, result, function (err) {
                 if (err) throw err;
                 console.log('File is created successfully.');
             });
@@ -87,11 +92,7 @@ export function readDat(type) {
     if (exists) {
         try {
             const data = fs.readFileSync(path, 'utf8')
-            if (type == "token") {
-                return JSON.parse(data)
-            } else if (type == "creds") {
-                return JSON.parse(data)
-            }
+            return JSON.parse(data)
             
         } catch (err) {
             console.error(err)
