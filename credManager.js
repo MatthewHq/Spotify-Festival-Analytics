@@ -2,6 +2,9 @@ import * as fs from 'fs';
 import * as https from 'https'
 // import * as request from 'request';
 
+
+
+
 export function getCredToken(authOptions) {
 
     var creds = readDat("creds")
@@ -36,6 +39,10 @@ export function getCredToken(authOptions) {
         });
         res.on('end', function () {
             console.log(JSON.parse(result))
+            fs.writeFile('./tempToken.json', result, function (err) {
+                if (err) throw err;
+                console.log('File is created successfully.');
+            });
             return result
         });
         res.on('error', function (err) {
@@ -80,7 +87,12 @@ export function readDat(type) {
     if (exists) {
         try {
             const data = fs.readFileSync(path, 'utf8')
-            return JSON.parse(data)
+            if (type == "token") {
+                return JSON.parse(data)
+            } else if (type == "creds") {
+                return JSON.parse(data)
+            }
+            
         } catch (err) {
             console.error(err)
         }
