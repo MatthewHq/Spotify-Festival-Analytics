@@ -4,8 +4,22 @@ import * as https from 'https'
 
 
 
+export async function supplyTokenData() {
+    return new Promise((resolve, reject) => {
+        let tokenData = readDat("token")
+        if (tokenData.expires_at < Date().now) {
+            console.log("token expired, fetching new one...")
+            resolve(getCredToken())
+        } else {
+            console.log("token not expired yet")
+            resolve(tokenData)
+        }
+    })
 
-export function getCredToken(authOptions) {
+}
+
+
+export async function getCredToken() {
 
     var creds = readDat("creds")
     var client_id = creds.client_id; // Your client id
@@ -32,36 +46,51 @@ export function getCredToken(authOptions) {
     var qString = Object.keys(body).map(key => key + '=' + body[key]).join('&');
 
     // request object
-    
-    var req = https.request(options, function (res) {
-        var tokenPath='./tempToken.json'
-        var result = '';
-        res.on('data', function (chunk) {
-            result += chunk;
-        });
-        res.on('end', function () {
-            console.log(JSON.parse(result))
 
-            let tokenData = fs.readFileSync(tokenPath, 'utf8')
-
-            fs.writeFile(tokenPath, result, function (err) {
-                if (err) throw err;
-                console.log('File is created successfully.');
+    return new Promise((resolve, reject) => {
+        var req = https.request(options, function (res) {
+            var tokenPath = './tempToken.json'
+            var result = '';
+            res.on('data', function (chunk) {
+                result += chunk;
             });
-            return result
-        });
-        res.on('error', function (err) {
-            console.log(err);
-        })
-    });
+            res.on('end', function () {
+                console.log(JSON.parse(result))
 
-    // req error
-    req.on('error', function (err) {
-        console.log(err);
-    });
-    //send request witht the postData form
-    req.write(qString);
-    req.end();
+                let tokenData = fs.readFileSync(tokenPath, 'utf8')
+                tokenData = JSON.parse(tokenData)
+
+                // console.log("TD" + tokenData + "\n" + JSON.stringify(tokenData))
+                // console.log("TD" + result + "\n" + JSON.stringify(result))
+                result = JSON.parse(result)
+                tokenData.access_token = result.access_token
+                tokenData.token_type = result.token_type
+                tokenData.expires_in = result.expires_in
+                tokenData.expires_at = Math.floor(Date.now() / 1000) + result.expires_in - 1
+
+
+                fs.writeFile(tokenPath, JSON.stringify(tokenData), function (err) {
+                    if (err) throw err;
+                    console.log('File is created successfully.');
+                });
+                resolve(tokenData)
+            });
+            res.on('error', function (err) {
+                console.log(err + "| raw print"); //keeping these around just incase because i'm new to implementing async
+                reject(err)
+            })
+        });
+
+        // req error
+        req.on('error', function (err) {
+            console.log(err + "| raw print");//keeping these around just incase because i'm new to implementing async
+            reject(err)
+        });
+        //send request witht the postData form
+        req.write(qString);
+        req.end();
+    })
+
 
 };
 
@@ -93,7 +122,7 @@ export function readDat(type) {
         try {
             const data = fs.readFileSync(path, 'utf8')
             return JSON.parse(data)
-            
+
         } catch (err) {
             console.error(err)
         }
@@ -104,7 +133,7 @@ export function readDat(type) {
             "access_token": null,
             "token_type": null,
             "expires_in": null,
-            "exires_at": null
+            "expires_at": null
         }
         const credTemplate = {
             "client_secret": null,
