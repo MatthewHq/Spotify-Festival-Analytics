@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=John+Summit&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 50544
+      },
+      "genres" : [ "deep groove house", "deep house", "edm", "electro house", "house", "pop dance" ],
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb06eb316b85b8cad8d9df0d33",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517406eb316b85b8cad8d9df0d33",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17806eb316b85b8cad8d9df0d33",
+        "width" : 160
+      } ],
+      "name" : "John Summit",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sgjpBLksoJa3rh1omyyiZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0sgjpBLksoJa3rh1omyyiZ",
+      "id" : "0sgjpBLksoJa3rh1omyyiZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273886e1277c2b13732c7edd271",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02886e1277c2b13732c7edd271",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851886e1277c2b13732c7edd271",
+        "width" : 64
+      } ],
+      "name" : "John Summite",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0sgjpBLksoJa3rh1omyyiZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 119586
+      },
+      "genres" : [ "dance pop", "deep groove house", "edm", "house", "pop dance", "tropical house", "uk dance" ],
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe03987a142f6ba53d230a58c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e03987a142f6ba53d230a58c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e03987a142f6ba53d230a58c",
+        "width" : 160
+      } ],
+      "name" : "Sonny Fodera",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Kudeki&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YtBU4nVIalfA7dKgWVuPV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2YtBU4nVIalfA7dKgWVuPV",
+      "id" : "2YtBU4nVIalfA7dKgWVuPV",
+      "images" : [ ],
+      "name" : "Kudeki",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2YtBU4nVIalfA7dKgWVuPV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/135GkgDjTXCOWFWQneTyTY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/135GkgDjTXCOWFWQneTyTY",
+      "id" : "135GkgDjTXCOWFWQneTyTY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273174c59d9a744a97a1f9daab1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02174c59d9a744a97a1f9daab1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851174c59d9a744a97a1f9daab1",
+        "width" : 64
+      } ],
+      "name" : "Kudekidd",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:135GkgDjTXCOWFWQneTyTY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DvvwVRSd8s1Wb54DRynWo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4DvvwVRSd8s1Wb54DRynWo",
+      "id" : "4DvvwVRSd8s1Wb54DRynWo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebabc3a12cdedef66e0d148dbb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174abc3a12cdedef66e0d148dbb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178abc3a12cdedef66e0d148dbb",
+        "width" : 160
+      } ],
+      "name" : "Kudekidd",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4DvvwVRSd8s1Wb54DRynWo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PqO4yQVYEno2fW6lBD5zV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1PqO4yQVYEno2fW6lBD5zV",
+      "id" : "1PqO4yQVYEno2fW6lBD5zV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738d6bd72e8de4875c2c93e515",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028d6bd72e8de4875c2c93e515",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518d6bd72e8de4875c2c93e515",
+        "width" : 64
+      } ],
+      "name" : "Kudekidd",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1PqO4yQVYEno2fW6lBD5zV"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

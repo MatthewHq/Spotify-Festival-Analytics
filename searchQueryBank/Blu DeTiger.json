@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Blu+DeTiger&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75624
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5NyCIBCeU080ynEj33S4hC",
+      "id" : "5NyCIBCeU080ynEj33S4hC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6468ba0707707619541d1cf0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746468ba0707707619541d1cf0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786468ba0707707619541d1cf0",
+        "width" : 160
+      } ],
+      "name" : "Blu DeTiger",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:5NyCIBCeU080ynEj33S4hC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21251
+      },
+      "genres" : [ "baltimore indie", "chamber pop", "indie folk", "indie pop" ],
+      "href" : "https://api.spotify.com/v1/artists/1TTfuOdEtj8lin2zR4OWmP",
+      "id" : "1TTfuOdEtj8lin2zR4OWmP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0599f6ccd72986b1cc4218d0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740599f6ccd72986b1cc4218d0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780599f6ccd72986b1cc4218d0",
+        "width" : 160
+      } ],
+      "name" : "Flock of Dimes",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:1TTfuOdEtj8lin2zR4OWmP"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Nina+Kraviz&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 361610
+      },
+      "genres" : [ "electra", "minimal techno", "russian electronic", "russian techno" ],
+      "href" : "https://api.spotify.com/v1/artists/1oZmFNkGAT93yD1xX4vTRE",
+      "id" : "1oZmFNkGAT93yD1xX4vTRE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebff41e0635ccd25283f5c5739",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ff41e0635ccd25283f5c5739",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ff41e0635ccd25283f5c5739",
+        "width" : 160
+      } ],
+      "name" : "Nina Kraviz",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:1oZmFNkGAT93yD1xX4vTRE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7usqqiKzew6qcfKK5VneH8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7usqqiKzew6qcfKK5VneH8",
+      "id" : "7usqqiKzew6qcfKK5VneH8",
+      "images" : [ ],
+      "name" : "Nina Kraviz & Snazzy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7usqqiKzew6qcfKK5VneH8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 413522
+      },
+      "genres" : [ "acid techno", "belgian techno", "dark techno", "electra", "minimal techno" ],
+      "href" : "https://api.spotify.com/v1/artists/5Ho1vKl1Uz8bJlk4vbmvmf",
+      "id" : "5Ho1vKl1Uz8bJlk4vbmvmf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb48072c9c30a62b2de0d93ba5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517448072c9c30a62b2de0d93ba5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17848072c9c30a62b2de0d93ba5",
+        "width" : 160
+      } ],
+      "name" : "Amelie Lens",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

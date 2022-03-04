@@ -1,0 +1,203 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Parcels&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 518930
+      },
+      "genres" : [ "aussietronica", "indie soul" ],
+      "href" : "https://api.spotify.com/v1/artists/3oKRxpszQKUjjaHz388fVA",
+      "id" : "3oKRxpszQKUjjaHz388fVA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb6edcc3e5c79c2bb67a17d00",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b6edcc3e5c79c2bb67a17d00",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b6edcc3e5c79c2bb67a17d00",
+        "width" : 160
+      } ],
+      "name" : "Parcels",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKRxpszQKUjjaHz388fVA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xQq6knn0rd4OkNHSUg0dd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5xQq6knn0rd4OkNHSUg0dd",
+      "id" : "5xQq6knn0rd4OkNHSUg0dd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d233fe430b3b23ec722d395c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d233fe430b3b23ec722d395c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d233fe430b3b23ec722d395c",
+        "width" : 64
+      } ],
+      "name" : "Parcels",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5xQq6knn0rd4OkNHSUg0dd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7AIvpGgar0rRZ8FZphvsHv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 433
+      },
+      "genres" : [ "experimental dub" ],
+      "href" : "https://api.spotify.com/v1/artists/7AIvpGgar0rRZ8FZphvsHv",
+      "id" : "7AIvpGgar0rRZ8FZphvsHv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f3b046fd30eed2b880089bdf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f3b046fd30eed2b880089bdf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f3b046fd30eed2b880089bdf",
+        "width" : 64
+      } ],
+      "name" : "Strange Parcels",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:7AIvpGgar0rRZ8FZphvsHv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5OqEx4vx1ntKC6o7zSbla5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5OqEx4vx1ntKC6o7zSbla5",
+      "id" : "5OqEx4vx1ntKC6o7zSbla5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731afdadd721589e8433470969",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021afdadd721589e8433470969",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511afdadd721589e8433470969",
+        "width" : 64
+      } ],
+      "name" : "Empire parcels",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5OqEx4vx1ntKC6o7zSbla5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5I1wuamEskzeyTZDbaeVLb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5I1wuamEskzeyTZDbaeVLb",
+      "id" : "5I1wuamEskzeyTZDbaeVLb",
+      "images" : [ ],
+      "name" : "Strange Parcels & Bim Sherman",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5I1wuamEskzeyTZDbaeVLb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1nH7E9vp3IWYoJmr6qhVjV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 226
+      },
+      "genres" : [ "experimental dub" ],
+      "href" : "https://api.spotify.com/v1/artists/1nH7E9vp3IWYoJmr6qhVjV",
+      "id" : "1nH7E9vp3IWYoJmr6qhVjV",
+      "images" : [ ],
+      "name" : "Bim Sherman & The Strange Parcels",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1nH7E9vp3IWYoJmr6qhVjV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XDUjY4jbB7wnRkICblHeO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2XDUjY4jbB7wnRkICblHeO",
+      "id" : "2XDUjY4jbB7wnRkICblHeO",
+      "images" : [ ],
+      "name" : "Strange Parcels & Basil",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2XDUjY4jbB7wnRkICblHeO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zNMA77U7fXu5CHUdpzkqM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0zNMA77U7fXu5CHUdpzkqM",
+      "id" : "0zNMA77U7fXu5CHUdpzkqM",
+      "images" : [ ],
+      "name" : "Strange Parcels & Bernard Fowler",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0zNMA77U7fXu5CHUdpzkqM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vFq86HKANcSVkxGvrUzEY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0vFq86HKANcSVkxGvrUzEY",
+      "id" : "0vFq86HKANcSVkxGvrUzEY",
+      "images" : [ ],
+      "name" : "Strange Parcels & Jesse Rae",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0vFq86HKANcSVkxGvrUzEY"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 9
+  }
+}

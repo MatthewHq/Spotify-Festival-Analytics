@@ -1,20 +1,35 @@
 import * as https from 'https'
 import * as credManager from './credManager.js'
+import * as fs from 'fs'
+import * as dbManage from './dbManage.js'
 
 export async function bulkArtistCache(){
-    import * as fs from 'fs'
+    return new Promise(async (resolve,reject)=>{
+        
+        await credManager.supplyTokenData()
+        setTimeout(async() => {
+            let lineup = fs.readFileSync('artists.json', 'utf8')
+            lineup = JSON.parse(lineup)
+            lineup.artists.forEach(async (artist) => {
+                console.log(artist)
+                let check= await dbManage.dbCheckQuery(artist)
+                if(!check){
+                    var search=await searchArtist(artist)
+                    fs.writeFile('./searchQueryBank/'+artist+".json", search,  (err)=> {
+                    if (err) reject(err) ;
+                    console.log('File is created successfully.');
+                });
+                }
+            });
+        resolve("true")
+        
+        }, 2000);
+        
 
-    let text="abcd"
-    console.log(text.substring(1,text.length))
+        
+        
 
-    fs.readdir('./testing', (err, files) =>{
-        if (err) {
-            return console.log('Cannot Read Dir: ' + err);
-        } 
-        files.forEach( (file) =>{
-            console.log(file); 
-        });
-    });
+    })
 }
 
 
@@ -62,7 +77,8 @@ export async function searchArtist(search) {
             // include_external: 'true',
         }
         var qString = "?" + Object.keys(body).map(key => key + '=' + body[key]).join('&');
-        qString = qString.replace(" ", "%20")
+        qString = qString.split(' ').join('%20');
+        console.log(qString)
 
         const options = {
             hostname: 'api.spotify.com',

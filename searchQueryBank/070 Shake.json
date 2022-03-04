@@ -1,0 +1,99 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=070+Shake&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 322121
+      },
+      "genres" : [ "alternative r&b", "new jersey rap" ],
+      "href" : "https://api.spotify.com/v1/artists/12Zk1DFhCbHY6v3xep2ZjI",
+      "id" : "12Zk1DFhCbHY6v3xep2ZjI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba4fe9e7039edf6c60113e741",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a4fe9e7039edf6c60113e741",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a4fe9e7039edf6c60113e741",
+        "width" : 160
+      } ],
+      "name" : "070 Shake",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:12Zk1DFhCbHY6v3xep2ZjI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/537TdgvzMOCOI1pvhkkVt5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/537TdgvzMOCOI1pvhkkVt5",
+      "id" : "537TdgvzMOCOI1pvhkkVt5",
+      "images" : [ ],
+      "name" : "070 Shake",
+      "popularity" : 29,
+      "type" : "artist",
+      "uri" : "spotify:artist:537TdgvzMOCOI1pvhkkVt5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4J2hC9YELmVLlvxtZrB0CV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 205
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4J2hC9YELmVLlvxtZrB0CV",
+      "id" : "4J2hC9YELmVLlvxtZrB0CV",
+      "images" : [ ],
+      "name" : "070Shake",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:4J2hC9YELmVLlvxtZrB0CV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16559175
+      },
+      "genres" : [ "chicago rap", "rap" ],
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb867008a971fae0f4d913f63a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174867008a971fae0f4d913f63a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178867008a971fae0f4d913f63a",
+        "width" : 160
+      } ],
+      "name" : "Kanye West",
+      "popularity" : 95,
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

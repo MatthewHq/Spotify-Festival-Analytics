@@ -2,12 +2,17 @@
 // cr.readToken()
 import * as credManager from './credManager.js';
 import * as spotifyRequests from './spotifyRequests.js'
+import * as dbManage from './dbManage.js'
 async function main() {
     // credManager.readDat("token")
     // let credToken = await credManager.supplyTokenData()
     // console.log(credToken.access_token + "| async")
-    var aSearch = await spotifyRequests.searchArtist("fisher")
-    console.log(aSearch)
+    // var aSearch = await spotifyRequests.searchArtist("fisher")
+    // console.log(aSearch)
+    // let check= await dbManage.dbCheckQuery("a")
+    // console.log(check)
+
+    spotifyRequests.bulkArtistCache()
 }
 main()
 
