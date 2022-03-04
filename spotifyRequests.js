@@ -1,6 +1,23 @@
 import * as https from 'https'
 import * as credManager from './credManager.js'
 
+export async function bulkArtistCache(){
+    import * as fs from 'fs'
+
+    let text="abcd"
+    console.log(text.substring(1,text.length))
+
+    fs.readdir('./testing', (err, files) =>{
+        if (err) {
+            return console.log('Cannot Read Dir: ' + err);
+        } 
+        files.forEach( (file) =>{
+            console.log(file); 
+        });
+    });
+}
+
+
 export async function generalGet(options) {
     return new Promise((resolve, reject) => {
         var req = https.request(options, function (res) {
