@@ -1,10 +1,13 @@
 // const cr= require('./credManager.js')
 // cr.readToken()
 import * as credManager from './credManager.js';
+import * as spotifyRequests from './spotifyRequests.js'
 async function main() {
-    credManager.readDat("token")
-    let credToken = await credManager.supplyTokenData()
-    console.log(credToken.access_token + "| async")
+    // credManager.readDat("token")
+    // let credToken = await credManager.supplyTokenData()
+    // console.log(credToken.access_token + "| async")
+    var aSearch = await spotifyRequests.searchArtist("fisher")
+    console.log(aSearch)
 }
 main()
 

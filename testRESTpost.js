@@ -11,7 +11,7 @@ var client_secret = creds.client_secret; // Your secret
 // form data
 
 
-var body={
+var body = {
     grant_type: 'client_credentials'
 }
 
