@@ -62,7 +62,9 @@ export async function consolidateTopTracks() {
             if (err) {
                 reject(new Error(('Cannot Read Dir: ' + err)));
             }
+
             files.forEach(async (file) => {
+                let topTrackOrder = 1
                 let artistTopTracks = fs.readFileSync(topTracksDBPath + '/' + file, 'utf8')
                 artistTopTracks = JSON.parse(artistTopTracks)
 
@@ -73,6 +75,8 @@ export async function consolidateTopTracks() {
                     let topTrack = {}
                     topTrack.track = track
                     topTrack.artist = artist
+                    topTrack.topTrackOrder=topTrackOrder
+                    topTrackOrder++
                     allTracks.tracks[allTracks.tracks.length] = topTrack
                 });
 
