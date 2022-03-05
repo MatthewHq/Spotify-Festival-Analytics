@@ -670,29 +670,29 @@
         "uri" : "spotify:artist:7LJSAfWhO7jhjnewy6pKyZ"
       } ],
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/album/5FbCczrPYSkCuPig2eoQ2U"
+        "spotify" : "https://open.spotify.com/album/04nfHNhm5mcAtmZS6bLwwy"
       },
-      "href" : "https://api.spotify.com/v1/albums/5FbCczrPYSkCuPig2eoQ2U",
-      "id" : "5FbCczrPYSkCuPig2eoQ2U",
+      "href" : "https://api.spotify.com/v1/albums/04nfHNhm5mcAtmZS6bLwwy",
+      "id" : "04nfHNhm5mcAtmZS6bLwwy",
       "images" : [ {
         "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b27388bde08299b5c4051e813591",
+        "url" : "https://i.scdn.co/image/ab67616d0000b273993d9734d664a84ec13f646d",
         "width" : 640
       }, {
         "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e0288bde08299b5c4051e813591",
+        "url" : "https://i.scdn.co/image/ab67616d00001e02993d9734d664a84ec13f646d",
         "width" : 300
       }, {
         "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d0000485188bde08299b5c4051e813591",
+        "url" : "https://i.scdn.co/image/ab67616d00004851993d9734d664a84ec13f646d",
         "width" : 64
       } ],
-      "name" : "Mind Your Business",
-      "release_date" : "2022-01-21",
+      "name" : "Hold On (feat. Hans Lowie)",
+      "release_date" : "2021-04-09",
       "release_date_precision" : "day",
       "total_tracks" : 1,
       "type" : "album",
-      "uri" : "spotify:album:5FbCczrPYSkCuPig2eoQ2U"
+      "uri" : "spotify:album:04nfHNhm5mcAtmZS6bLwwy"
     },
     "artists" : [ {
       "external_urls" : {
@@ -703,25 +703,34 @@
       "name" : "Kyle Watson",
       "type" : "artist",
       "uri" : "spotify:artist:7LJSAfWhO7jhjnewy6pKyZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tZdYo9pVUnCLY702maWvE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5tZdYo9pVUnCLY702maWvE",
+      "id" : "5tZdYo9pVUnCLY702maWvE",
+      "name" : "Hans Lowie",
+      "type" : "artist",
+      "uri" : "spotify:artist:5tZdYo9pVUnCLY702maWvE"
     } ],
     "disc_number" : 1,
-    "duration_ms" : 229440,
+    "duration_ms" : 195609,
     "explicit" : false,
     "external_ids" : {
-      "isrc" : "GBLV62126704"
+      "isrc" : "USAT22101118"
     },
     "external_urls" : {
-      "spotify" : "https://open.spotify.com/track/09I3xzEWdgqCrAiok2qNAv"
+      "spotify" : "https://open.spotify.com/track/6NuGbFbuehLmCklBz5swkQ"
     },
-    "href" : "https://api.spotify.com/v1/tracks/09I3xzEWdgqCrAiok2qNAv",
-    "id" : "09I3xzEWdgqCrAiok2qNAv",
+    "href" : "https://api.spotify.com/v1/tracks/6NuGbFbuehLmCklBz5swkQ",
+    "id" : "6NuGbFbuehLmCklBz5swkQ",
     "is_local" : false,
     "is_playable" : true,
-    "name" : "Mind Your Business",
+    "name" : "Hold On (feat. Hans Lowie)",
     "popularity" : 43,
-    "preview_url" : "https://p.scdn.co/mp3-preview/f9f7e8230d8559084a580944740ef4ef3e8f0f37?cid=b161b04bc8624dbe92750da1368b73c0",
+    "preview_url" : "https://p.scdn.co/mp3-preview/22bfc648d281e212695686f5ed430c27ee6dfad3?cid=b161b04bc8624dbe92750da1368b73c0",
     "track_number" : 1,
     "type" : "track",
-    "uri" : "spotify:track:09I3xzEWdgqCrAiok2qNAv"
+    "uri" : "spotify:track:6NuGbFbuehLmCklBz5swkQ"
   } ]
 }

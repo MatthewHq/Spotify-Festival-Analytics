@@ -164,7 +164,7 @@
     "is_local" : false,
     "is_playable" : true,
     "name" : "Deep End - SIDEPIECE Remix",
-    "popularity" : 61,
+    "popularity" : 62,
     "preview_url" : "https://p.scdn.co/mp3-preview/386addf4cbd30194dc4f1ee6751a0453086759a9?cid=b161b04bc8624dbe92750da1368b73c0",
     "track_number" : 1,
     "type" : "track",
@@ -778,38 +778,47 @@
         "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
       }, {
         "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "spotify" : "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
         },
-        "href" : "https://api.spotify.com/v1/artists/7btR5VXutQv39SDEzcfXEk",
-        "id" : "7btR5VXutQv39SDEzcfXEk",
-        "name" : "Nic Fanciulli",
+        "href" : "https://api.spotify.com/v1/artists/4pT84mlmySh9CkiGfJA9xV",
+        "id" : "4pT84mlmySh9CkiGfJA9xV",
+        "name" : "Echoes",
         "type" : "artist",
-        "uri" : "spotify:artist:7btR5VXutQv39SDEzcfXEk"
+        "uri" : "spotify:artist:4pT84mlmySh9CkiGfJA9xV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KJPsGYJN54GllYOKTleaj",
+        "id" : "6KJPsGYJN54GllYOKTleaj",
+        "name" : "Hibell",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KJPsGYJN54GllYOKTleaj"
       } ],
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4"
+        "spotify" : "https://open.spotify.com/album/0E8IudongeQszuQs96CoC2"
       },
-      "href" : "https://api.spotify.com/v1/albums/7etpucnkFPkpi89M5CCdu4",
-      "id" : "7etpucnkFPkpi89M5CCdu4",
+      "href" : "https://api.spotify.com/v1/albums/0E8IudongeQszuQs96CoC2",
+      "id" : "0E8IudongeQszuQs96CoC2",
       "images" : [ {
         "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b27371c013b43988169c7e82a1ef",
+        "url" : "https://i.scdn.co/image/ab67616d0000b273abf7db8d5315d967eae5cf88",
         "width" : 640
       }, {
         "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e0271c013b43988169c7e82a1ef",
+        "url" : "https://i.scdn.co/image/ab67616d00001e02abf7db8d5315d967eae5cf88",
         "width" : 300
       }, {
         "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d0000485171c013b43988169c7e82a1ef",
+        "url" : "https://i.scdn.co/image/ab67616d00004851abf7db8d5315d967eae5cf88",
         "width" : 64
       } ],
-      "name" : "Witch Doctor",
-      "release_date" : "2021-06-25",
+      "name" : "Human (feat. Echoes) [Hibell Remix]",
+      "release_date" : "2022-02-25",
       "release_date_precision" : "day",
       "total_tracks" : 2,
       "type" : "album",
-      "uri" : "spotify:album:7etpucnkFPkpi89M5CCdu4"
+      "uri" : "spotify:album:0E8IudongeQszuQs96CoC2"
     },
     "artists" : [ {
       "external_urls" : {
@@ -822,32 +831,41 @@
       "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
     }, {
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        "spotify" : "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
       },
-      "href" : "https://api.spotify.com/v1/artists/7btR5VXutQv39SDEzcfXEk",
-      "id" : "7btR5VXutQv39SDEzcfXEk",
-      "name" : "Nic Fanciulli",
+      "href" : "https://api.spotify.com/v1/artists/4pT84mlmySh9CkiGfJA9xV",
+      "id" : "4pT84mlmySh9CkiGfJA9xV",
+      "name" : "Echoes",
       "type" : "artist",
-      "uri" : "spotify:artist:7btR5VXutQv39SDEzcfXEk"
+      "uri" : "spotify:artist:4pT84mlmySh9CkiGfJA9xV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KJPsGYJN54GllYOKTleaj",
+      "id" : "6KJPsGYJN54GllYOKTleaj",
+      "name" : "Hibell",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KJPsGYJN54GllYOKTleaj"
     } ],
     "disc_number" : 1,
-    "duration_ms" : 186666,
+    "duration_ms" : 171807,
     "explicit" : false,
     "external_ids" : {
-      "isrc" : "GBJAJ2101120"
+      "isrc" : "GBAYE2200131"
     },
     "external_urls" : {
-      "spotify" : "https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc"
+      "spotify" : "https://open.spotify.com/track/6hQRP0fV38up2v9YPZikNh"
     },
-    "href" : "https://api.spotify.com/v1/tracks/4lWGhzUW3dTPDMX9EII1Fc",
-    "id" : "4lWGhzUW3dTPDMX9EII1Fc",
+    "href" : "https://api.spotify.com/v1/tracks/6hQRP0fV38up2v9YPZikNh",
+    "id" : "6hQRP0fV38up2v9YPZikNh",
     "is_local" : false,
     "is_playable" : true,
-    "name" : "Witch Doctor",
+    "name" : "Human (feat. Echoes) - Hibell Remix",
     "popularity" : 52,
-    "preview_url" : "https://p.scdn.co/mp3-preview/6e1f7be914415a4cf7f24aedd51fffb90c311e2e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "preview_url" : "https://p.scdn.co/mp3-preview/4cfa7742d1f44ac7aeccf65cbeee140a8ad99a5a?cid=b161b04bc8624dbe92750da1368b73c0",
     "track_number" : 1,
     "type" : "track",
-    "uri" : "spotify:track:4lWGhzUW3dTPDMX9EII1Fc"
+    "uri" : "spotify:track:6hQRP0fV38up2v9YPZikNh"
   } ]
 }

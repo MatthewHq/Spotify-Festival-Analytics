@@ -41,7 +41,7 @@ export async function bulkArtistTopTrack() {
                     artist = JSON.parse(artist)
 
                     // if (artistQuery.artists.items.length != 0) {
-                    let check = await dbManage.checkForJSON(file,topTracksDBPath)
+                    let check = await dbManage.checkForJSON(file, topTracksDBPath)
                     if (!check) {
                         let topTracks = await getTopTracks(artist.id)
                         fs.writeFile(topTracksDBPath + "/" + file, topTracks, (err) => {
@@ -155,5 +155,95 @@ export async function getTopTracks(artistId) {
         }
 
         resolve(await generalGet(options))
+    })
+}
+
+export async function getMultiTrackAudioFeatures(allIds) {
+    return new Promise(async (resolve, reject) => {
+        try {
+            var tkd = await credManager.supplyTokenData()
+        } catch {
+            reject(new Error("supplyTokenData in searchArtist Error"))
+        }
+
+        var body = {
+            ids: allIds,
+        }
+        var qString = "?" + Object.keys(body).map(key => key + '=' + body[key]).join('&');
+        // console.log(qString)
+
+        const options = {
+            hostname: 'api.spotify.com',
+            port: 443,
+            path: '/v1/audio-features' + qString,
+            method: 'GET',
+            headers: {
+                'Authorization': 'Bearer ' + tkd.access_token,
+                'Content-Type': 'application/json',
+            }
+        }
+        let getDat = await generalGet(options)
+        console.log("| " + getDat + " |")
+        resolve(getDat)
+    })
+}
+
+export async function getAllTrackAudioFeatures() {
+    return new Promise(async (resolve, reject) => {
+
+        try {
+            await credManager.supplyTokenData()
+        } catch {
+            reject(new Error("supplyTokenData in searchArtist Error"))
+        }
+
+        setTimeout(async () => {
+            let allTracks = await dbManage.consolidateTopTracks()
+            // console.log(allTracks)
+            let allIds = ""
+            let batchCount = 0 //100s
+            let batchCounter = 0 //1s
+            for (let i = 0; i < allTracks.tracks.length; i++) {
+                allIds += "," + allTracks.tracks[i].track.id
+                batchCounter++
+                if (batchCounter == 100) {
+                    allIds = allIds.substring(1, allIds.length)
+                    let multiTrackArray = await getMultiTrackAudioFeatures(allIds)
+                    multiTrackArray = JSON.parse(multiTrackArray)
+                    // console.log(JSON.stringify(multiTrackArray))
+                    console.log("batch of 100 number" + batchCount)
+                    for (let j = 0; j < batchCounter; j++) {
+                        allTracks.tracks[j + batchCount * 100].audio_features =
+                            multiTrackArray.audio_features[j * batchCount * 100]
+                    }
+                    batchCount++;
+                    allIds = ""
+                    batchCounter = 0 //1s
+
+                }
+            }
+            allIds = allIds.substring(1, allIds.length)
+            let multiTrackArray = await getMultiTrackAudioFeatures(allIds)
+            multiTrackArray = JSON.parse(multiTrackArray)
+            console.log("final batch of " + batchCounter)
+            for (let j = 0; j < batchCounter; j++) {
+                allTracks.tracks[j + batchCount * 100].audio_features =
+                    multiTrackArray.audio_features[j * batchCount * 100]
+            }
+            // allTracks.tracks.forEach(async (element) => {
+            //     allIds += "," + element.track.id
+            // });
+
+
+
+
+
+            fs.writeFile("topTracksData.json", JSON.stringify(allTracks), (err) => {
+                if (err) reject(err);
+                // console.log('File is created ' + file);
+            });
+        }, 2000);
+        resolve(true)
+
     })
 }

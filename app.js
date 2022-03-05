@@ -15,10 +15,18 @@ async function main() {
     // spotifyRequests.bulkArtistCache()
     // dbManage.artistCollect()
 
+
     // let topTracks = await spotifyRequests.getTopTracks('12Zk1DFhCbHY6v3xep2ZjI')
     // console.log(topTracks)
 
-    spotifyRequests.bulkArtistTopTrack()
+    // spotifyRequests.bulkArtistTopTrack()
+
+    // dbManage.consolidateTopTracks()
+
+    // let audioFeatues = await spotifyRequests.getMultiTrackAudioFeatures('0PoMoPqIJxe6H0rDMnpGP8,5i5fCpsnqDJ9AfeObgd0gW')
+    // console.log(audioFeatues)
+
+    await spotifyRequests.getAllTrackAudioFeatures()
 }
 main()
 

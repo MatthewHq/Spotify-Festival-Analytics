@@ -429,6 +429,73 @@
         "uri" : "spotify:artist:12Zk1DFhCbHY6v3xep2ZjI"
       } ],
       "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5HCBV9Epivfv54NNH7VQqA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5HCBV9Epivfv54NNH7VQqA",
+      "id" : "5HCBV9Epivfv54NNH7VQqA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273075c66063f45f0d2b61ccff2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02075c66063f45f0d2b61ccff2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851075c66063f45f0d2b61ccff2",
+        "width" : 64
+      } ],
+      "name" : "Glitter",
+      "release_date" : "2018-03-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:5HCBV9Epivfv54NNH7VQqA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12Zk1DFhCbHY6v3xep2ZjI",
+      "id" : "12Zk1DFhCbHY6v3xep2ZjI",
+      "name" : "070 Shake",
+      "type" : "artist",
+      "uri" : "spotify:artist:12Zk1DFhCbHY6v3xep2ZjI"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 256480,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71802711"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4DJ9ZxVFyv8AWdBmZnV0CN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4DJ9ZxVFyv8AWdBmZnV0CN",
+    "id" : "4DJ9ZxVFyv8AWdBmZnV0CN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Glitter",
+    "popularity" : 60,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4DJ9ZxVFyv8AWdBmZnV0CN"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/12Zk1DFhCbHY6v3xep2ZjI",
+        "id" : "12Zk1DFhCbHY6v3xep2ZjI",
+        "name" : "070 Shake",
+        "type" : "artist",
+        "uri" : "spotify:artist:12Zk1DFhCbHY6v3xep2ZjI"
+      } ],
+      "external_urls" : {
         "spotify" : "https://open.spotify.com/album/0R8UQCG358KD07cX4zbOdB"
       },
       "href" : "https://api.spotify.com/v1/albums/0R8UQCG358KD07cX4zbOdB",
@@ -491,73 +558,6 @@
     "track_number" : 1,
     "type" : "track",
     "uri" : "spotify:track:31UJNSt6tUbROThjfaAZfT"
-  }, {
-    "album" : {
-      "album_type" : "single",
-      "artists" : [ {
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        },
-        "href" : "https://api.spotify.com/v1/artists/12Zk1DFhCbHY6v3xep2ZjI",
-        "id" : "12Zk1DFhCbHY6v3xep2ZjI",
-        "name" : "070 Shake",
-        "type" : "artist",
-        "uri" : "spotify:artist:12Zk1DFhCbHY6v3xep2ZjI"
-      } ],
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/album/5HCBV9Epivfv54NNH7VQqA"
-      },
-      "href" : "https://api.spotify.com/v1/albums/5HCBV9Epivfv54NNH7VQqA",
-      "id" : "5HCBV9Epivfv54NNH7VQqA",
-      "images" : [ {
-        "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b273075c66063f45f0d2b61ccff2",
-        "width" : 640
-      }, {
-        "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e02075c66063f45f0d2b61ccff2",
-        "width" : 300
-      }, {
-        "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d00004851075c66063f45f0d2b61ccff2",
-        "width" : 64
-      } ],
-      "name" : "Glitter",
-      "release_date" : "2018-03-23",
-      "release_date_precision" : "day",
-      "total_tracks" : 6,
-      "type" : "album",
-      "uri" : "spotify:album:5HCBV9Epivfv54NNH7VQqA"
-    },
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-      },
-      "href" : "https://api.spotify.com/v1/artists/12Zk1DFhCbHY6v3xep2ZjI",
-      "id" : "12Zk1DFhCbHY6v3xep2ZjI",
-      "name" : "070 Shake",
-      "type" : "artist",
-      "uri" : "spotify:artist:12Zk1DFhCbHY6v3xep2ZjI"
-    } ],
-    "disc_number" : 1,
-    "duration_ms" : 256480,
-    "explicit" : false,
-    "external_ids" : {
-      "isrc" : "USUM71802711"
-    },
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/track/4DJ9ZxVFyv8AWdBmZnV0CN"
-    },
-    "href" : "https://api.spotify.com/v1/tracks/4DJ9ZxVFyv8AWdBmZnV0CN",
-    "id" : "4DJ9ZxVFyv8AWdBmZnV0CN",
-    "is_local" : false,
-    "is_playable" : true,
-    "name" : "Glitter",
-    "popularity" : 60,
-    "preview_url" : null,
-    "track_number" : 6,
-    "type" : "track",
-    "uri" : "spotify:track:4DJ9ZxVFyv8AWdBmZnV0CN"
   }, {
     "album" : {
       "album_type" : "album",

@@ -382,6 +382,73 @@
         "name" : "Kasablanca",
         "type" : "artist",
         "uri" : "spotify:artist:297Z0teiCkp5s9eneWROpI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1DnO4no4X4ung57AJHBB0M"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1DnO4no4X4ung57AJHBB0M",
+      "id" : "1DnO4no4X4ung57AJHBB0M",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273757b01cb3b03b36a97ebfa2e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02757b01cb3b03b36a97ebfa2e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851757b01cb3b03b36a97ebfa2e",
+        "width" : 64
+      } ],
+      "name" : "Can You Hear Me Now?",
+      "release_date" : "2022-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:1DnO4no4X4ung57AJHBB0M"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/297Z0teiCkp5s9eneWROpI",
+      "id" : "297Z0teiCkp5s9eneWROpI",
+      "name" : "Kasablanca",
+      "type" : "artist",
+      "uri" : "spotify:artist:297Z0teiCkp5s9eneWROpI"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 299432,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA2200880"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2rZi8e0Aoom140GJTExMhW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2rZi8e0Aoom140GJTExMhW",
+    "id" : "2rZi8e0Aoom140GJTExMhW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Can You Hear Me Now?",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b7c977d86033e4f96cb629bd44e9516ffde6c27c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2rZi8e0Aoom140GJTExMhW"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/297Z0teiCkp5s9eneWROpI",
+        "id" : "297Z0teiCkp5s9eneWROpI",
+        "name" : "Kasablanca",
+        "type" : "artist",
+        "uri" : "spotify:artist:297Z0teiCkp5s9eneWROpI"
       }, {
         "external_urls" : {
           "spotify" : "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
@@ -455,73 +522,6 @@
     "track_number" : 1,
     "type" : "track",
     "uri" : "spotify:track:3861Kxj3FITxsP2vul8dPi"
-  }, {
-    "album" : {
-      "album_type" : "single",
-      "artists" : [ {
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        },
-        "href" : "https://api.spotify.com/v1/artists/297Z0teiCkp5s9eneWROpI",
-        "id" : "297Z0teiCkp5s9eneWROpI",
-        "name" : "Kasablanca",
-        "type" : "artist",
-        "uri" : "spotify:artist:297Z0teiCkp5s9eneWROpI"
-      } ],
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/album/1DnO4no4X4ung57AJHBB0M"
-      },
-      "href" : "https://api.spotify.com/v1/albums/1DnO4no4X4ung57AJHBB0M",
-      "id" : "1DnO4no4X4ung57AJHBB0M",
-      "images" : [ {
-        "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b273757b01cb3b03b36a97ebfa2e",
-        "width" : 640
-      }, {
-        "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e02757b01cb3b03b36a97ebfa2e",
-        "width" : 300
-      }, {
-        "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d00004851757b01cb3b03b36a97ebfa2e",
-        "width" : 64
-      } ],
-      "name" : "Can You Hear Me Now?",
-      "release_date" : "2022-02-23",
-      "release_date_precision" : "day",
-      "total_tracks" : 4,
-      "type" : "album",
-      "uri" : "spotify:album:1DnO4no4X4ung57AJHBB0M"
-    },
-    "artists" : [ {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-      },
-      "href" : "https://api.spotify.com/v1/artists/297Z0teiCkp5s9eneWROpI",
-      "id" : "297Z0teiCkp5s9eneWROpI",
-      "name" : "Kasablanca",
-      "type" : "artist",
-      "uri" : "spotify:artist:297Z0teiCkp5s9eneWROpI"
-    } ],
-    "disc_number" : 1,
-    "duration_ms" : 299432,
-    "explicit" : false,
-    "external_ids" : {
-      "isrc" : "GBEWA2200880"
-    },
-    "external_urls" : {
-      "spotify" : "https://open.spotify.com/track/2rZi8e0Aoom140GJTExMhW"
-    },
-    "href" : "https://api.spotify.com/v1/tracks/2rZi8e0Aoom140GJTExMhW",
-    "id" : "2rZi8e0Aoom140GJTExMhW",
-    "is_local" : false,
-    "is_playable" : true,
-    "name" : "Can You Hear Me Now?",
-    "popularity" : 41,
-    "preview_url" : "https://p.scdn.co/mp3-preview/b7c977d86033e4f96cb629bd44e9516ffde6c27c?cid=b161b04bc8624dbe92750da1368b73c0",
-    "track_number" : 1,
-    "type" : "track",
-    "uri" : "spotify:track:2rZi8e0Aoom140GJTExMhW"
   }, {
     "album" : {
       "album_type" : "single",
@@ -754,7 +754,7 @@
     "is_local" : false,
     "is_playable" : true,
     "name" : "Synthetic Blues (ABGT470) - Matt Fax Remix",
-    "popularity" : 41,
+    "popularity" : 40,
     "preview_url" : "https://p.scdn.co/mp3-preview/b997d0435c1d087158ed444f060e760c2349bd74?cid=b161b04bc8624dbe92750da1368b73c0",
     "track_number" : 5,
     "type" : "track",
