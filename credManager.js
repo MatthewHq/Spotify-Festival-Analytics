@@ -6,8 +6,8 @@ import * as https from 'https'
 export async function supplyTokenData() {
     return new Promise((resolve, reject) => {
         let tokenData = readDat("token")
-        console.log(tokenData.expires_at + " vs \n" + (Math.floor(Date.now() / 1000)))
-        console.log(tokenData.expires_at - Math.floor(Date.now() / 1000))
+        // console.log(tokenData.expires_at + " vs \n" + (Math.floor(Date.now() / 1000)))
+        console.log('expires in '+(tokenData.expires_at - Math.floor(Date.now() / 1000)))
         if (tokenData.expires_at < Math.floor(Date.now() / 1000)) {
             console.log("token expired, fetching new one...")
             resolve(getCredToken())

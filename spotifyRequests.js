@@ -3,32 +3,63 @@ import * as credManager from './credManager.js'
 import * as fs from 'fs'
 import * as dbManage from './dbManage.js'
 
-export async function bulkArtistCache(){
-    return new Promise(async (resolve,reject)=>{
-        
+export async function bulkArtistCache() {
+    return new Promise(async (resolve, reject) => {
+
         await credManager.supplyTokenData()
-        setTimeout(async() => {
+        setTimeout(async () => {
             let lineup = fs.readFileSync('artists.json', 'utf8')
             lineup = JSON.parse(lineup)
             lineup.artists.forEach(async (artist) => {
                 console.log(artist)
-                let check= await dbManage.dbCheckQuery(artist)
-                if(!check){
-                    var search=await searchArtist(artist)
-                    fs.writeFile('./searchQueryBank/'+artist+".json", search,  (err)=> {
-                    if (err) reject(err) ;
-                    console.log('File is created successfully.');
-                });
+                let check = await dbManage.checkForJSON(artist, './searchQueryBank')
+                if (!check) {
+                    var search = await searchArtist(artist)
+                    fs.writeFile('./searchQueryBank/' + artist + ".json", search, (err) => {
+                        if (err) reject(err);
+                        console.log('File is created successfully.');
+                    });
                 }
             });
-        resolve("true")
-        
+            resolve("true")
         }, 2000);
-        
+    })
+}
 
-        
-        
+export async function bulkArtistTopTrack() {
+    return new Promise(async (resolve, reject) => {
+        await credManager.supplyTokenData()
+        setTimeout(async () => {
+            let artistsPath = './artistDB'
+            let topTracksDBPath = './topTracksDB'
+            fs.readdir(artistsPath, (err, files) => {
+                if (err) {
+                    reject(new Error(('Cannot Read Dir: ' + err)));
+                }
+                files.forEach(async (file) => {
+                    let artist = fs.readFileSync(artistsPath + "/" + file, 'utf8')
+                    artist = JSON.parse(artist)
 
+                    // if (artistQuery.artists.items.length != 0) {
+                    let check = await dbManage.checkForJSON(file,topTracksDBPath)
+                    if (!check) {
+                        let topTracks = await getTopTracks(artist.id)
+                        fs.writeFile(topTracksDBPath + "/" + file, topTracks, (err) => {
+                            if (err) reject(err);
+                            console.log('File is created ' + topTracksDBPath + "/" + file);
+                        });
+                    }
+                    // } else {
+                    //     console.log("DID NOT FIND DATA FOR " + file)
+                    // }
+                    // break //debug
+
+                });
+
+            });
+
+        }, 2000);
+        resolve(true)
     })
 }
 
@@ -94,3 +125,35 @@ export async function searchArtist(search) {
     })
 }
 
+
+
+export async function getTopTracks(artistId) {
+    return new Promise(async (resolve, reject) => {
+        try {
+            var tkd = await credManager.supplyTokenData()
+        } catch {
+            reject(new Error("supplyTokenData in searchArtist Error"))
+        }
+
+        var body = {
+            // id: artistId,
+            market: 'US'
+        }
+        var qString = "?" + Object.keys(body).map(key => key + '=' + body[key]).join('&');
+        qString = qString.split(' ').join('%20');
+        console.log(qString)
+
+        const options = {
+            hostname: 'api.spotify.com',
+            port: 443,
+            path: '/v1/artists/' + artistId + '/top-tracks' + qString,
+            method: 'GET',
+            headers: {
+                'Authorization': 'Bearer ' + tkd.access_token,
+                'Content-Type': 'application/json',
+            }
+        }
+
+        resolve(await generalGet(options))
+    })
+}

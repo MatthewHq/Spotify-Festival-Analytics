@@ -1,0 +1,781 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+        "id" : "3ABaec4jjl95VqmG1iD4k2",
+        "name" : "Green Velvet",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IuM6CZV1zSyZIKl2tbbpj",
+      "id" : "3IuM6CZV1zSyZIKl2tbbpj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734821d2f503cbe38922495128",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024821d2f503cbe38922495128",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514821d2f503cbe38922495128",
+        "width" : 64
+      } ],
+      "name" : "Jolean",
+      "release_date" : "2019-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3IuM6CZV1zSyZIKl2tbbpj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+      "id" : "3ABaec4jjl95VqmG1iD4k2",
+      "name" : "Green Velvet",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193602,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS11900575"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ng0DafMn7xw3JnzF1Zzmi",
+    "id" : "2ng0DafMn7xw3JnzF1Zzmi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Jolean",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/929f25e914401ffef437282ed6ecde42f0b0e81c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2ng0DafMn7xw3JnzF1Zzmi"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+        "id" : "3ABaec4jjl95VqmG1iD4k2",
+        "name" : "Green Velvet",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2lnGF32A7Vmx6oNzTbmzoj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2lnGF32A7Vmx6oNzTbmzoj",
+      "id" : "2lnGF32A7Vmx6oNzTbmzoj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735587058d8ce94b2a03b28c8d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025587058d8ce94b2a03b28c8d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515587058d8ce94b2a03b28c8d",
+        "width" : 64
+      } ],
+      "name" : "Mind Yo Bizness / Snuffaluffagus",
+      "release_date" : "2016-02-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2lnGF32A7Vmx6oNzTbmzoj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+      "id" : "3ABaec4jjl95VqmG1iD4k2",
+      "name" : "Green Velvet",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 331554,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKQU1602691"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0QCl9rZxNa6wJDAcLawmy9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0QCl9rZxNa6wJDAcLawmy9",
+    "id" : "0QCl9rZxNa6wJDAcLawmy9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mind Yo Bizness - Original Mix",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/84113acbde90a90019dca25976efaa4bdec85a6c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0QCl9rZxNa6wJDAcLawmy9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+        "id" : "3ABaec4jjl95VqmG1iD4k2",
+        "name" : "Green Velvet",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2lnGF32A7Vmx6oNzTbmzoj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2lnGF32A7Vmx6oNzTbmzoj",
+      "id" : "2lnGF32A7Vmx6oNzTbmzoj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735587058d8ce94b2a03b28c8d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025587058d8ce94b2a03b28c8d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515587058d8ce94b2a03b28c8d",
+        "width" : 64
+      } ],
+      "name" : "Mind Yo Bizness / Snuffaluffagus",
+      "release_date" : "2016-02-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2lnGF32A7Vmx6oNzTbmzoj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+      "id" : "3ABaec4jjl95VqmG1iD4k2",
+      "name" : "Green Velvet",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 348837,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKQU1602692"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0xrFl8umf6tMbEVLRZGM6j"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0xrFl8umf6tMbEVLRZGM6j",
+    "id" : "0xrFl8umf6tMbEVLRZGM6j",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Snuffaluffagus - Original Mix",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d80dfed7cc8ee4bac348f38b107b7d6dc36d0bbe?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0xrFl8umf6tMbEVLRZGM6j"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6GFdYd2qWSxgGYf18YgGTp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6GFdYd2qWSxgGYf18YgGTp",
+      "id" : "6GFdYd2qWSxgGYf18YgGTp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383fa960269ed2e7f7765660e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283fa960269ed2e7f7765660e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183fa960269ed2e7f7765660e",
+        "width" : 64
+      } ],
+      "name" : "Shore Style",
+      "release_date" : "2004-10-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6GFdYd2qWSxgGYf18YgGTp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 70582,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6MZ2031392"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2UZaiivSqJ9xNPDhiPbPLw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2UZaiivSqJ9xNPDhiPbPLw",
+    "id" : "2UZaiivSqJ9xNPDhiPbPLw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Party Poopers",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c4d504824de2bfd6ad60317ce0a646db988c8548?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2UZaiivSqJ9xNPDhiPbPLw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6GFdYd2qWSxgGYf18YgGTp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6GFdYd2qWSxgGYf18YgGTp",
+      "id" : "6GFdYd2qWSxgGYf18YgGTp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383fa960269ed2e7f7765660e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283fa960269ed2e7f7765660e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183fa960269ed2e7f7765660e",
+        "width" : 64
+      } ],
+      "name" : "Shore Style",
+      "release_date" : "2004-10-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6GFdYd2qWSxgGYf18YgGTp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 66037,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6MZ2031389"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/48haS4HLc2E1lhKvJJtCkK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/48haS4HLc2E1lhKvJJtCkK",
+    "id" : "48haS4HLc2E1lhKvJJtCkK",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Stress Cracks",
+    "popularity" : 7,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a88ebed93815916630ba4ca15a5ee93d7ace817f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:48haS4HLc2E1lhKvJJtCkK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6GFdYd2qWSxgGYf18YgGTp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6GFdYd2qWSxgGYf18YgGTp",
+      "id" : "6GFdYd2qWSxgGYf18YgGTp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383fa960269ed2e7f7765660e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283fa960269ed2e7f7765660e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183fa960269ed2e7f7765660e",
+        "width" : 64
+      } ],
+      "name" : "Shore Style",
+      "release_date" : "2004-10-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6GFdYd2qWSxgGYf18YgGTp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 89600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6MZ2031396"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4XC3NURNHkFxcvmJa7KSfQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4XC3NURNHkFxcvmJa7KSfQ",
+    "id" : "4XC3NURNHkFxcvmJa7KSfQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "What's Your Major Malfunction",
+    "popularity" : 5,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2a38b307fe11d835a9c95e74926bc7c1dfe3c41?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4XC3NURNHkFxcvmJa7KSfQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6GFdYd2qWSxgGYf18YgGTp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6GFdYd2qWSxgGYf18YgGTp",
+      "id" : "6GFdYd2qWSxgGYf18YgGTp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383fa960269ed2e7f7765660e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283fa960269ed2e7f7765660e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183fa960269ed2e7f7765660e",
+        "width" : 64
+      } ],
+      "name" : "Shore Style",
+      "release_date" : "2004-10-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6GFdYd2qWSxgGYf18YgGTp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 62589,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6MZ2031391"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6U7X5vjNOFMYafpnOvl9u5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6U7X5vjNOFMYafpnOvl9u5",
+    "id" : "6U7X5vjNOFMYafpnOvl9u5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Anti-Social Life",
+    "popularity" : 5,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5b2d808a92f412c5237b30dd4c68f5006af7fd08?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6U7X5vjNOFMYafpnOvl9u5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6GFdYd2qWSxgGYf18YgGTp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6GFdYd2qWSxgGYf18YgGTp",
+      "id" : "6GFdYd2qWSxgGYf18YgGTp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383fa960269ed2e7f7765660e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283fa960269ed2e7f7765660e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183fa960269ed2e7f7765660e",
+        "width" : 64
+      } ],
+      "name" : "Shore Style",
+      "release_date" : "2004-10-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6GFdYd2qWSxgGYf18YgGTp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 66220,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6MZ2031393"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/78RPrl9YEpZ97vom7asHxc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/78RPrl9YEpZ97vom7asHxc",
+    "id" : "78RPrl9YEpZ97vom7asHxc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Welcome to My World",
+    "popularity" : 4,
+    "preview_url" : "https://p.scdn.co/mp3-preview/85bfa5c265a67349c08817a589b64209c508abbd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:78RPrl9YEpZ97vom7asHxc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6GFdYd2qWSxgGYf18YgGTp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6GFdYd2qWSxgGYf18YgGTp",
+      "id" : "6GFdYd2qWSxgGYf18YgGTp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383fa960269ed2e7f7765660e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283fa960269ed2e7f7765660e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183fa960269ed2e7f7765660e",
+        "width" : 64
+      } ],
+      "name" : "Shore Style",
+      "release_date" : "2004-10-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6GFdYd2qWSxgGYf18YgGTp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 63346,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6MZ2031394"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3qabSRzaxeVGwUiDSTsWLs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3qabSRzaxeVGwUiDSTsWLs",
+    "id" : "3qabSRzaxeVGwUiDSTsWLs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Intro",
+    "popularity" : 3,
+    "preview_url" : "https://p.scdn.co/mp3-preview/423f5ec7ff17a42155d7e44f71ef7928e5636162?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3qabSRzaxeVGwUiDSTsWLs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6GFdYd2qWSxgGYf18YgGTp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6GFdYd2qWSxgGYf18YgGTp",
+      "id" : "6GFdYd2qWSxgGYf18YgGTp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383fa960269ed2e7f7765660e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283fa960269ed2e7f7765660e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183fa960269ed2e7f7765660e",
+        "width" : 64
+      } ],
+      "name" : "Shore Style",
+      "release_date" : "2004-10-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6GFdYd2qWSxgGYf18YgGTp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 71497,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6MZ2031395"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0YEbFO8Qj4L4JDc9ESccZj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0YEbFO8Qj4L4JDc9ESccZj",
+    "id" : "0YEbFO8Qj4L4JDc9ESccZj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Day by Day",
+    "popularity" : 3,
+    "preview_url" : "https://p.scdn.co/mp3-preview/63e7e1abf88a15907e20c529247189e228ac7563?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:0YEbFO8Qj4L4JDc9ESccZj"
+  } ]
+}

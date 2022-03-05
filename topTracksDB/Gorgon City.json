@@ -1,0 +1,853 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3r4dG6bUfL4jasKeo50kLE",
+      "id" : "3r4dG6bUfL4jasKeo50kLE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bafa195f89e8bea7b7846589",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bafa195f89e8bea7b7846589",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bafa195f89e8bea7b7846589",
+        "width" : 64
+      } ],
+      "name" : "Olympia",
+      "release_date" : "2021-06-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:3r4dG6bUfL4jasKeo50kLE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7LvvNoUPwTZpgXDWBRrfHg",
+      "id" : "7LvvNoUPwTZpgXDWBRrfHg",
+      "name" : "DRAMA",
+      "type" : "artist",
+      "uri" : "spotify:artist:7LvvNoUPwTZpgXDWBRrfHg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212893,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72006904"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/77VqW84V88aKD8Bi8CzEsP",
+    "id" : "77VqW84V88aKD8Bi8CzEsP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "You've Done Enough",
+    "popularity" : 68,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:77VqW84V88aKD8Bi8CzEsP"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+        "id" : "586uxXMyD5ObPuzjtrzO1Q",
+        "name" : "Sofi Tukker",
+        "type" : "artist",
+        "uri" : "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5vZrYQsNJQgC2r7ioImfBx",
+      "id" : "5vZrYQsNJQgC2r7ioImfBx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27351a9aa4cbca93270342c7a8f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0251a9aa4cbca93270342c7a8f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485151a9aa4cbca93270342c7a8f",
+        "width" : 64
+      } ],
+      "name" : "House Arrest",
+      "release_date" : "2020-05-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5vZrYQsNJQgC2r7ioImfBx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+      "id" : "586uxXMyD5ObPuzjtrzO1Q",
+      "name" : "Sofi Tukker",
+      "type" : "artist",
+      "uri" : "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216441,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM37X2000014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5QYKmxfPsl69GgeZKDAVSx",
+    "id" : "5QYKmxfPsl69GgeZKDAVSx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "House Arrest",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3051473d1181d72afc7c4ebbae0f7fd9561ab1b1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5QYKmxfPsl69GgeZKDAVSx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7MQaCAAj19jwc9WKNZTcJG",
+      "id" : "7MQaCAAj19jwc9WKNZTcJG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736f704961acb4b1d770411156",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026f704961acb4b1d770411156",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516f704961acb4b1d770411156",
+        "width" : 64
+      } ],
+      "name" : "Sirens",
+      "release_date" : "2014-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7MQaCAAj19jwc9WKNZTcJG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7uMh23xWiuR7zsNkuNcm2G",
+      "id" : "7uMh23xWiuR7zsNkuNcm2G",
+      "name" : "MNEK",
+      "type" : "artist",
+      "uri" : "spotify:artist:7uMh23xWiuR7zsNkuNcm2G"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 198880,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71307023"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5wGLQvq6JoxYZX7V3ymPS5",
+    "id" : "5wGLQvq6JoxYZX7V3ymPS5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ready For Your Love",
+    "popularity" : 49,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5wGLQvq6JoxYZX7V3ymPS5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0quOpHBDwcOmM5B9V3TPpL",
+        "id" : "0quOpHBDwcOmM5B9V3TPpL",
+        "name" : "Ben Kim",
+        "type" : "artist",
+        "uri" : "spotify:artist:0quOpHBDwcOmM5B9V3TPpL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Nt3fFGjvlgERESi1QtPjW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Nt3fFGjvlgERESi1QtPjW",
+      "id" : "2Nt3fFGjvlgERESi1QtPjW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e0e62f8020fcba688f98ef03",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e0e62f8020fcba688f98ef03",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e0e62f8020fcba688f98ef03",
+        "width" : 64
+      } ],
+      "name" : "Somebody To Love (Gorgon City Remix)",
+      "release_date" : "2022-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2Nt3fFGjvlgERESi1QtPjW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0quOpHBDwcOmM5B9V3TPpL",
+      "id" : "0quOpHBDwcOmM5B9V3TPpL",
+      "name" : "Ben Kim",
+      "type" : "artist",
+      "uri" : "spotify:artist:0quOpHBDwcOmM5B9V3TPpL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 282461,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2220696"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4gJMsAYnnwNBsrhqjLWbWi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4gJMsAYnnwNBsrhqjLWbWi",
+    "id" : "4gJMsAYnnwNBsrhqjLWbWi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Somebody To Love - Gorgon City Remix",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/571345cd692a4cb48198d2b04bdc7e446cfab01d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4gJMsAYnnwNBsrhqjLWbWi"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yqxFtPHKcGcv6SXZNdyT9",
+        "id" : "1yqxFtPHKcGcv6SXZNdyT9",
+        "name" : "MK",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6NzQodogOTKSt76iDpZgpK",
+      "id" : "6NzQodogOTKSt76iDpZgpK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bc8337368995366d48650871",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bc8337368995366d48650871",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bc8337368995366d48650871",
+        "width" : 64
+      } ],
+      "name" : "There For You",
+      "release_date" : "2019-08-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6NzQodogOTKSt76iDpZgpK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yqxFtPHKcGcv6SXZNdyT9",
+      "id" : "1yqxFtPHKcGcv6SXZNdyT9",
+      "name" : "MK",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 186493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71904082"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Qv71lFPCObf7zol1uWCJb",
+    "id" : "4Qv71lFPCObf7zol1uWCJb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "There For You",
+    "popularity" : 62,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Qv71lFPCObf7zol1uWCJb"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        "href" : "https://api.spotify.com/v1/artists/61lyPtntblHJvA7FMMhi7E",
+        "id" : "61lyPtntblHJvA7FMMhi7E",
+        "name" : "Duke Dumont",
+        "type" : "artist",
+        "uri" : "spotify:artist:61lyPtntblHJvA7FMMhi7E"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6mpxgK8EZh8VDoe6trGF0f",
+        "id" : "6mpxgK8EZh8VDoe6trGF0f",
+        "name" : "NAATIONS",
+        "type" : "artist",
+        "uri" : "spotify:artist:6mpxgK8EZh8VDoe6trGF0f"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55pLHOPxFKEi82Z15IeHxq",
+      "id" : "55pLHOPxFKEi82Z15IeHxq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ec21400f167aa9a7e6128e3c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ec21400f167aa9a7e6128e3c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ec21400f167aa9a7e6128e3c",
+        "width" : 64
+      } ],
+      "name" : "Real Life",
+      "release_date" : "2017-06-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:55pLHOPxFKEi82Z15IeHxq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/61lyPtntblHJvA7FMMhi7E",
+      "id" : "61lyPtntblHJvA7FMMhi7E",
+      "name" : "Duke Dumont",
+      "type" : "artist",
+      "uri" : "spotify:artist:61lyPtntblHJvA7FMMhi7E"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6mpxgK8EZh8VDoe6trGF0f",
+      "id" : "6mpxgK8EZh8VDoe6trGF0f",
+      "name" : "NAATIONS",
+      "type" : "artist",
+      "uri" : "spotify:artist:6mpxgK8EZh8VDoe6trGF0f"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71701961"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jz9EMWHffNKVlZQVXOLoz",
+    "id" : "6jz9EMWHffNKVlZQVXOLoz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Real Life",
+    "popularity" : 62,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6jz9EMWHffNKVlZQVXOLoz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3r4dG6bUfL4jasKeo50kLE",
+      "id" : "3r4dG6bUfL4jasKeo50kLE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bafa195f89e8bea7b7846589",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bafa195f89e8bea7b7846589",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bafa195f89e8bea7b7846589",
+        "width" : 64
+      } ],
+      "name" : "Olympia",
+      "release_date" : "2021-06-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:3r4dG6bUfL4jasKeo50kLE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7LvvNoUPwTZpgXDWBRrfHg",
+      "id" : "7LvvNoUPwTZpgXDWBRrfHg",
+      "name" : "DRAMA",
+      "type" : "artist",
+      "uri" : "spotify:artist:7LvvNoUPwTZpgXDWBRrfHg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 199013,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72000850"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1pJwEPkqfgtmV68vYQ7RyD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1pJwEPkqfgtmV68vYQ7RyD",
+    "id" : "1pJwEPkqfgtmV68vYQ7RyD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nobody",
+    "popularity" : 60,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1pJwEPkqfgtmV68vYQ7RyD"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NYySx3H1V7zHemD9hmsQv",
+        "id" : "3NYySx3H1V7zHemD9hmsQv",
+        "name" : "PAX",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NYySx3H1V7zHemD9hmsQv"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7BnjJ7fmbHiehY8WjwoKs9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7BnjJ7fmbHiehY8WjwoKs9",
+      "id" : "7BnjJ7fmbHiehY8WjwoKs9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730fdbd81239550689888a6d07",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020fdbd81239550689888a6d07",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510fdbd81239550689888a6d07",
+        "width" : 64
+      } ],
+      "name" : "Alive",
+      "release_date" : "2020-11-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7BnjJ7fmbHiehY8WjwoKs9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NYySx3H1V7zHemD9hmsQv",
+      "id" : "3NYySx3H1V7zHemD9hmsQv",
+      "name" : "PAX",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NYySx3H1V7zHemD9hmsQv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230476,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRS182084963"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ijMfK5xwJTDdeyJp72mPM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ijMfK5xwJTDdeyJp72mPM",
+    "id" : "3ijMfK5xwJTDdeyJp72mPM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Alive",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8f7ef54dadcabc2b0fdfb63f9024ce2ad2dee6ca?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3ijMfK5xwJTDdeyJp72mPM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+        "id" : "4csQIMQm6vI2A2SCVDuM2z",
+        "name" : "Hayden James",
+        "type" : "artist",
+        "uri" : "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uNiUxDeo17yUnA472Zhni",
+        "id" : "6uNiUxDeo17yUnA472Zhni",
+        "name" : "Nat Dunn",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uNiUxDeo17yUnA472Zhni"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vYnBMoh3OSzIodVBkD2JX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vYnBMoh3OSzIodVBkD2JX",
+      "id" : "0vYnBMoh3OSzIodVBkD2JX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733d964e77b4a7be4c7ee7b251",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023d964e77b4a7be4c7ee7b251",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513d964e77b4a7be4c7ee7b251",
+        "width" : 64
+      } ],
+      "name" : "Foolproof",
+      "release_date" : "2021-03-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0vYnBMoh3OSzIodVBkD2JX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+      "id" : "4csQIMQm6vI2A2SCVDuM2z",
+      "name" : "Hayden James",
+      "type" : "artist",
+      "uri" : "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uNiUxDeo17yUnA472Zhni",
+      "id" : "6uNiUxDeo17yUnA472Zhni",
+      "name" : "Nat Dunn",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uNiUxDeo17yUnA472Zhni"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 267348,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF02100031"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0hFv8cFtw4zmcQonKZUA9b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0hFv8cFtw4zmcQonKZUA9b",
+    "id" : "0hFv8cFtw4zmcQonKZUA9b",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Foolproof",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a087f3e86d1040597f0af4a60f3129f3517dddcb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0hFv8cFtw4zmcQonKZUA9b"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3r4dG6bUfL4jasKeo50kLE",
+      "id" : "3r4dG6bUfL4jasKeo50kLE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bafa195f89e8bea7b7846589",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bafa195f89e8bea7b7846589",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bafa195f89e8bea7b7846589",
+        "width" : 64
+      } ],
+      "name" : "Olympia",
+      "release_date" : "2021-06-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:3r4dG6bUfL4jasKeo50kLE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1WcwbtAnG5HWNbPPK84ued",
+      "id" : "1WcwbtAnG5HWNbPPK84ued",
+      "name" : "Hayley May",
+      "type" : "artist",
+      "uri" : "spotify:artist:1WcwbtAnG5HWNbPPK84ued"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 185133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72101631"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3PBxGPKTvxXvcP1Z7dDc3Q"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3PBxGPKTvxXvcP1Z7dDc3Q",
+    "id" : "3PBxGPKTvxXvcP1Z7dDc3Q",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Never Let Me Down",
+    "popularity" : 54,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3PBxGPKTvxXvcP1Z7dDc3Q"
+  } ]
+}

@@ -12,7 +12,13 @@ async function main() {
     // let check= await dbManage.dbCheckQuery("a")
     // console.log(check)
 
-    spotifyRequests.bulkArtistCache()
+    // spotifyRequests.bulkArtistCache()
+    // dbManage.artistCollect()
+
+    // let topTracks = await spotifyRequests.getTopTracks('12Zk1DFhCbHY6v3xep2ZjI')
+    // console.log(topTracks)
+
+    spotifyRequests.bulkArtistTopTrack()
 }
 main()
 
