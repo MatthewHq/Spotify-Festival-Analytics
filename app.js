@@ -26,7 +26,8 @@ async function main() {
     // let audioFeatues = await spotifyRequests.getMultiTrackAudioFeatures('0PoMoPqIJxe6H0rDMnpGP8,5i5fCpsnqDJ9AfeObgd0gW')
     // console.log(audioFeatues)
 
-    await spotifyRequests.getAllTrackAudioFeatures()
+    // await spotifyRequests.getAllTrackAudioFeatures()
+    await dbManage.consolidateArtists()
 }
 main()
 

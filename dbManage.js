@@ -75,26 +75,44 @@ export async function consolidateTopTracks() {
                     let topTrack = {}
                     topTrack.track = track
                     topTrack.artist = artist
-                    topTrack.topTrackOrder=topTrackOrder
+                    topTrack.topTrackOrder = topTrackOrder
                     topTrackOrder++
                     allTracks.tracks[allTracks.tracks.length] = topTrack
                 });
 
-
-
-                // let check = await checkForJSON(file, artistDBPath)
-                // if (!check) {
-
-                // fs.writeFile(artistDBPath + file, JSON.stringify(artistQuery.artists.items[0]), (err) => {
-                //     if (err) reject(err);
-                //     console.log('File is created ' + file);
-                // });
-
-
-                // }
             });
             // console.log(JSON.stringify(allTracks))
             resolve(allTracks)
+
+        });
+    })
+
+}
+
+
+export async function consolidateArtists() {
+    return new Promise((resolve, reject) => {
+        let artistDBPath = './artistDB/'
+        fs.readdir(artistDBPath, (err, files) => {
+            let allArtists = { "artists": [] }
+
+            if (err) {
+                reject(new Error(('Cannot Read Dir: ' + err)));
+            }
+
+            files.forEach(async (file) => {
+
+            });
+
+            for (let i = 0; i < files.length; i++) {
+                let artistData = fs.readFileSync(artistDBPath + '/' + files[i], 'utf8')
+                artistData = JSON.parse(artistData)
+                allArtists.artists[i] = artistData
+            }
+            fs.writeFile("allArtistsData.json", JSON.stringify(allArtists), (err) => {
+                if (err) reject(err);
+            });
+            resolve(true)
 
         });
     })
