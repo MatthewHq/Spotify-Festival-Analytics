@@ -11,18 +11,25 @@ async function main() {
     // console.log(aSearch)
     // let check= await dbManage.dbCheckQuery("a")
     // console.log(check)
+
+
     credManager.readDat("token")
     setTimeout(() => {
         credManager.supplyTokenData()
     }, 1000);
 
     setTimeout(() => {
-        spotifyRequests.bulkArtistCache()
-            // .then(spotifyRequests.bulkArtistTopTrack())
-            // .then(dbManage.consolidateTopTracks())
+        spotifyRequests.bulkArtistCache() //up to here so far
+        // .then(dbManage.artistCollect())
+        // .then(spotifyRequests.bulkArtistTopTrack())
+        // .then(dbManage.consolidateTopTracks())
     }, 4000);
 
+    
+    // let artist = await spotifyRequests.getArtist("3NYySx3H1V7zHemD9hmsQv")
+    // console.log(artist)
 
+    // await spotifyRequests.overWriteArtists()
 
 
 

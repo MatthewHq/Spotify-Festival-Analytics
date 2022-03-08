@@ -22,59 +22,77 @@ export async function checkForJSON(query, path) {
 //this process may be changed later as there were issues with less popular artists being picked up
 export async function artistCollect() {
     return new Promise(async (resolve, reject) => {
+        let promises = []
         console.log("ASYNC CHECKPOINT ARTISTCOLLECT")
         let searchQBPath = './searchQueryBank'
         let artistDBPath = './artistDB/'
-        fs.readdir(searchQBPath, (err, files) => {
-            if (err) {
-                reject(new Error(('Cannot Read Dir: ' + err)));
-            }
-            files.forEach(async (file) => {
-                let artistQuery = fs.readFileSync(searchQBPath + '/' + file, 'utf8')
-                artistQuery = JSON.parse(artistQuery)
 
-                if (artistQuery.artists.items.length != 0) {
-                    let check = await checkForJSON(file, artistDBPath)
-                    if (!check) {
-                        let index = -1
-                        let popularity = 0
-                        let compare = 9001
-                        for (let i = 0; i < artistQuery.artists.items.length; i++) {
-                            let compareVal = comprStrs(file.substring(0, file.length - 5), artistQuery.artists.items[i].name)
-                            if (compareVal < compare) {
-                                index = i
-                                popularity = artistQuery.artists.items[i].popularity
+
+
+        // fs.readdir(searchQBPath, async (err, files) => {
+        // });
+
+        try { var files = await promiseReadDir(searchQBPath) } catch (err) {
+            reject(err)
+        }
+        for (let i = 0; i < files.length; i++) {
+            // console.log("ASYNC CHECKPOINT INNER FOR LOOP ARTISTCOLLECT")
+            let artistQuery = fs.readFileSync(searchQBPath + '/' + files[i], 'utf8')
+            artistQuery = JSON.parse(artistQuery)
+
+            if (artistQuery.artists.items.length != 0) {
+                let check = await checkForJSON(files[i], artistDBPath)
+                if (!check) {
+                    let index = -1
+                    let popularity = 0
+                    let compare = 9001
+                    for (let j = 0; j < artistQuery.artists.items.length; j++) {
+                        let compareVal = comprStrs(files[i].substring(0, files[i].length - 5), artistQuery.artists.items[j].name)
+                        if (compareVal < compare) {
+                            index = j
+                            popularity = artistQuery.artists.items[j].popularity
+                            compare = compareVal
+                            // console.log("BETTER DATA | " + file.substring(0, file.length - 5) + " | -- |" + artistQuery.artists.items[index].name + " | with a dif of " + compare)
+                        } else if (compareVal == compare) {
+                            if (artistQuery.artists.items[j].popularity > popularity) {
+                                console.log("***SAME DATA | " + files[i].substring(0, files[i].length - 5) + "|" + " pop (" + popularity + ") -- |" + artistQuery.artists.items[index].name + "|" +
+                                    " pop(" + artistQuery.artists.items[j].popularity + ") with a dif of " + compare)
+                                index = j
+                                popularity = artistQuery.artists.items[j].popularity
                                 compare = compareVal
-                                // console.log("BETTER DATA | " + file.substring(0, file.length - 5) + " | -- |" + artistQuery.artists.items[index].name + " | with a dif of " + compare)
-                            } else if (compareVal == compare) {
-                                if (artistQuery.artists.items[i].popularity > popularity) {
-                                    console.log("***SAME DATA | " + file.substring(0, file.length - 5) + "|" + " pop (" + popularity + ") -- |" + artistQuery.artists.items[index].name + "|" +
-                                        " pop(" + artistQuery.artists.items[i].popularity + ") with a dif of " + compare)
-                                    index = i
-                                    popularity = artistQuery.artists.items[i].popularity
-                                    compare = compareVal
 
-                                }
                             }
                         }
-                        if (compare < 100) {
-                            fs.writeFile(artistDBPath + file, JSON.stringify(artistQuery.artists.items[0]), (err) => {
-                                if (err) reject(err);
-                                // console.log('File is created ' + file);
-                            });
-                        } else {
-                            console.log("DID NOT FIND CORRECT DATA FOR | " + file + " | closest is |" + artistQuery.artists.items[index].name + " | with a dif of " + compare)
-                        }
                     }
-                } else {
-                    console.log("DID NOT FIND DATA FOR " + file)
+                    if (compare < 100) {
+                        promises.push(promiseWriteFile(artistDBPath + files[i], JSON.stringify(artistQuery.artists.items[index])))
+                        // console.log(promises)
+                        // console.log("promises^")
+                    } else {
+                        console.log("DID NOT FIND CORRECT DATA FOR | " + files[i] + " | closest is |" + artistQuery.artists.items[index].name + " | with a dif of " + compare)
+                    }
                 }
+            } else {
+                console.log("DID NOT FIND DATA FOR " + files[i])
+            }
+
+        }
 
 
-            });
-            resolve(true)
 
-        });
+        let nP = new Promise((resolve, reject) => {
+            setTimeout(() => {
+                resolve(true)
+                reject(false)
+            }, 2000);
+        })
+
+        promises.push(nP)
+
+        console.log(promises)
+        console.log("promisesFINAL^")
+        await Promise.all(promises)
+        resolve(true)
 
     })
 }
@@ -121,28 +139,25 @@ export async function consolidateTopTracks() {
 //puts all the artists in artistDB into a json file
 export async function consolidateArtists() {
     return new Promise((resolve, reject) => {
-        let artistDBPath = './artistDB/'
-        fs.readdir(artistDBPath, (err, files) => {
+        let artistDBPath = './artistDB'
+        fs.readdir(artistDBPath, async (err, files) => {
             let allArtists = { "artists": [] }
+
+            console.log(files)
 
             if (err) {
                 reject(new Error(('Cannot Read Dir: ' + err)));
             }
 
-            files.forEach(async (file) => {
-
-            });
-
             for (let i = 0; i < files.length; i++) {
                 let artistData = fs.readFileSync(artistDBPath + '/' + files[i], 'utf8')
+                console.log(files[i] + " a")
                 artistData = JSON.parse(artistData)
+                console.log(files[i])
                 allArtists.artists[i] = artistData
+                console.log(files[i])
             }
-            fs.writeFile("mainDB/allArtistsData.json", JSON.stringify(allArtists), (err) => {
-                if (err) reject(err);
-            });
-            resolve(true)
-
+            resolve(await promiseWriteFile("mainDB/allArtistsData.json", JSON.stringify(allArtists)))
         });
     })
 
@@ -186,11 +201,7 @@ export async function allArtistsToCSVcustom() {
 
         console.log(data)
         let datCSV = arrToCSV(data)
-        fs.writeFile("mainDB/allArtists.CSV", datCSV, (err) => {
-            if (err) reject(err);
-            console.log('File is created : mainDB/allArtists.CSV');
-        });
-        resolve(true)
+        resolve(await promiseWriteFile("mainDB/allArtists.CSV", datCSV))
     })
 }
 
@@ -221,6 +232,43 @@ export function cmprStrLoop(arr) {
         }
     });
     return total
+}
+
+//async writefile wrapped in a promise
+export async function promiseWriteFile(path, data) {
+    return new Promise((resolve, reject) => {
+        fs.writeFile(path, data, (err) => {
+            if (err) {
+                reject(err)
+            }
+            else {
+                resolve(true)
+            }
+
+        })
+    })
+
+}
+
+
+export async function read() {
+    fs.readdir("./artistDB", (err, files) => {
+        if (err) {
+            reject(new Error(('Cannot Read Dir: ' + err)));
+        }
+        console.log(files + " IS FILES")
+    });
+}
+
+
+export async function promiseReadDir(path) {
+    return new Promise((resolve, reject) => {
+        fs.readdir(path, (err, files) => {
+            if (err) reject(new Error(('Cannot Read Dir: ' + err)));
+            else resolve(files)
+        })
+    })
+
 }
 
 
