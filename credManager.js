@@ -7,7 +7,7 @@ export async function supplyTokenData() {
     return new Promise((resolve, reject) => {
         let tokenData = readDat("token")
         // console.log(tokenData.expires_at + " vs \n" + (Math.floor(Date.now() / 1000)))
-        console.log('expires in '+(tokenData.expires_at - Math.floor(Date.now() / 1000)))
+        console.log('expires in ' + (tokenData.expires_at - Math.floor(Date.now() / 1000)))
         if (tokenData.expires_at < Math.floor(Date.now() / 1000)) {
             console.log("token expired, fetching new one...")
             resolve(getCredToken())
@@ -50,7 +50,7 @@ export async function getCredToken() {
 
     return new Promise((resolve, reject) => {
         var req = https.request(options, function (res) {
-            var tokenPath = './tempToken.json'
+            var tokenPath = './mainDB/tempToken.json'
             var result = '';
             res.on('data', function (chunk) {
                 result += chunk;
@@ -99,8 +99,8 @@ export async function getCredToken() {
 
 
 export function readDat(type) {
-    const tempTokenPath = './tempToken.json'
-    const credPath = './credentials.json'
+    const tempTokenPath = './mainDB/tempToken.json'
+    const credPath = './mainDB/credentials.json'
     var path
     if (type == "token") {
         path = tempTokenPath

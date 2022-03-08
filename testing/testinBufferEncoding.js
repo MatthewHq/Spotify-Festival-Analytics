@@ -1,4 +1,4 @@
-var creds=require('./credentials.json')
+var creds=require('./mainDB/credentials.json')
 
 var client_id = creds.client_id; // Your client id
 var client_secret = creds.client_secret; // Your secret
