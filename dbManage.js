@@ -129,7 +129,7 @@ export async function consolidateArtists() {
 //takes the 'allArtistsData.json' from consolidateArtists() and organizes it into a csv extracting only some of the information
 export async function allArtistsToCSVcustom() {
     return new Promise(async (resolve, reject) => {
-        let allArtistsPath = 'allArtistsData.json'
+        let allArtistsPath = 'mainDB/allArtistsData.json'
         let allArtists = fs.readFileSync(allArtistsPath, 'utf8')
         allArtists = JSON.parse(allArtists)
         let data = []
@@ -164,9 +164,9 @@ export async function allArtistsToCSVcustom() {
 
         console.log(data)
         let datCSV = arrToCSV(data)
-        fs.writeFile("allArtists.CSV", datCSV, (err) => {
+        fs.writeFile("mainDB/allArtists.CSV", datCSV, (err) => {
             if (err) reject(err);
-            console.log('File is created : allArtists.CSV');
+            console.log('File is created : mainDB/allArtists.CSV');
         });
         resolve(true)
     })

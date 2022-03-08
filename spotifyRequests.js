@@ -10,7 +10,7 @@ export async function bulkArtistCache() {
 
         await credManager.supplyTokenData()
         setTimeout(async () => {
-            let lineup = fs.readFileSync('artists.json', 'utf8')
+            let lineup = fs.readFileSync('mainDB/artists.json', 'utf8')
             lineup = JSON.parse(lineup)
             lineup.artists.forEach(async (artist) => {
                 console.log(artist)
@@ -247,7 +247,7 @@ export async function getAllTrackAudioFeatures() {
 
 
 
-            fs.writeFile("topTracksData.json", JSON.stringify(allTracks), (err) => {
+            fs.writeFile("mainDB/topTracksData.json", JSON.stringify(allTracks), (err) => {
                 if (err) reject(err);
                 // console.log('File is created ' + file);
             });
