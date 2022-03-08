@@ -27,7 +27,9 @@ async function main() {
     // console.log(audioFeatues)
 
     // await spotifyRequests.getAllTrackAudioFeatures()
-    await dbManage.consolidateArtists()
+    // await dbManage.consolidateArtists()
+
+    await dbManage.allArtistsToCSVcustom()
 }
 main()
 

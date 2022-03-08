@@ -1,6 +1,6 @@
 import * as fs from 'fs'
 
-
+//check if a JSON file is in existance and return if it is or not
 export async function checkForJSON(query, path) {
     return new Promise(async (resolve, reject) => {
         fs.readdir(path, (err, files) => {
@@ -18,7 +18,8 @@ export async function checkForJSON(query, path) {
 }
 
 
-
+//collects all artists from the querybank, each artist is selected from the top result
+//this process may be changed later as there were issues with less popular artists being picked up
 export async function artistCollect() {
     return new Promise(async (resolve, reject) => {
         let searchQBPath = './searchQueryBank'
@@ -52,6 +53,8 @@ export async function artistCollect() {
     })
 }
 
+//collects all topTracks with artist info embedded into each track
+//redundant data on purpose as these are small batches
 export async function consolidateTopTracks() {
     return new Promise((resolve, reject) => {
         let topTracksDBPath = './topTracksDB/'
@@ -81,7 +84,6 @@ export async function consolidateTopTracks() {
                 });
 
             });
-            // console.log(JSON.stringify(allTracks))
             resolve(allTracks)
 
         });
@@ -90,6 +92,7 @@ export async function consolidateTopTracks() {
 }
 
 
+//puts all the artists in artistDB into a json file
 export async function consolidateArtists() {
     return new Promise((resolve, reject) => {
         let artistDBPath = './artistDB/'
@@ -117,6 +120,59 @@ export async function consolidateArtists() {
         });
     })
 
+}
+
+//takes the 'allArtistsData.json' from consolidateArtists() and organizes it into a csv extracting only some of the information
+export async function allArtistsToCSVcustom() {
+    return new Promise(async (resolve, reject) => {
+        let allArtistsPath = 'allArtistsData.json'
+        let allArtists = fs.readFileSync(allArtistsPath, 'utf8')
+        allArtists = JSON.parse(allArtists)
+        let data = []
+
+        console.log(allArtists.artists.length)
+
+        for (let i = 0; i < allArtists.artists.length; i++) {
+            let artistObj = {}
+            artistObj.name = allArtists.artists[i].name
+            artistObj.followers = allArtists.artists[i].followers.total
+            artistObj.popularity = allArtists.artists[i].popularity
+
+
+            let aGenreString = ""
+            allArtists.artists[i].genres.forEach(genre => {
+                aGenreString += '| ' + genre
+            });
+            aGenreString = aGenreString.substring(2, aGenreString.length)
+            artistObj.genres = aGenreString
+
+
+
+            artistObj.uri = allArtists.artists[i].uri
+            artistObj.url = allArtists.artists[i].external_urls.spotify
+            if (allArtists.artists[i].images.length > 0) {
+                artistObj.image = allArtists.artists[i].images[0].url
+            }
+            console.log(JSON.stringify(artistObj))
+            data[i] = artistObj
+
+        }
+
+        console.log(data)
+        let datCSV = arrToCSV(data)
+        fs.writeFile("allArtists.CSV", datCSV, (err) => {
+            if (err) reject(err);
+            console.log('File is created : allArtists.CSV');
+        });
+        resolve(true)
+    })
+}
+
+//makes an array of json data into a CSV
+function arrToCSV(data) {
+    let csv = data.map(row => Object.values(row));
+    csv.unshift(Object.keys(data[0]));
+    return `"${csv.join('"\n"').replace(/,/g, '","')}"`;
 }
 
 

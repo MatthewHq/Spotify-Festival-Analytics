@@ -3,6 +3,8 @@ import * as credManager from './credManager.js'
 import * as fs from 'fs'
 import * as dbManage from './dbManage.js'
 
+
+//gets the a bulk of artists from artists.json and caches them into searchQueryBank dir
 export async function bulkArtistCache() {
     return new Promise(async (resolve, reject) => {
 
@@ -26,6 +28,8 @@ export async function bulkArtistCache() {
     })
 }
 
+
+//takes the top tracks from each artist and adds them to topTracksDB
 export async function bulkArtistTopTrack() {
     return new Promise(async (resolve, reject) => {
         await credManager.supplyTokenData()
@@ -64,6 +68,7 @@ export async function bulkArtistTopTrack() {
 }
 
 
+//general format structure for a get call to spotify API
 export async function generalGet(options) {
     return new Promise((resolve, reject) => {
         var req = https.request(options, function (res) {
@@ -91,7 +96,7 @@ export async function generalGet(options) {
 
 }
 
-
+//spotify api call for searching an artist
 export async function searchArtist(search) {
     return new Promise(async (resolve, reject) => {
         try {
@@ -127,6 +132,7 @@ export async function searchArtist(search) {
 
 
 
+//spotify api call for searching an artist's top tracks
 export async function getTopTracks(artistId) {
     return new Promise(async (resolve, reject) => {
         try {
@@ -158,6 +164,7 @@ export async function getTopTracks(artistId) {
     })
 }
 
+//getting multiple tracks spotify api call limit of 100 tracks
 export async function getMultiTrackAudioFeatures(allIds) {
     return new Promise(async (resolve, reject) => {
         try {
@@ -188,6 +195,8 @@ export async function getMultiTrackAudioFeatures(allIds) {
     })
 }
 
+//will call getMultiTrackAudioFeatures(allIds) every 100 tracks from the toptracks database
+//gathered from consolidateTopTracks()
 export async function getAllTrackAudioFeatures() {
     return new Promise(async (resolve, reject) => {
 
