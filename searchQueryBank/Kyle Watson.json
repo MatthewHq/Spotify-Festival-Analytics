@@ -7,7 +7,7 @@
       },
       "followers" : {
         "href" : null,
-        "total" : 89011
+        "total" : 89138
       },
       "genres" : [ "bass house", "edm", "electro house", "fidget house", "house" ],
       "href" : "https://api.spotify.com/v1/artists/7LJSAfWhO7jhjnewy6pKyZ",
@@ -59,6 +59,34 @@
       "uri" : "spotify:artist:1z8hbtpWAvFBzZpsbSgRDm"
     }, {
       "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4445
+      },
+      "genres" : [ "bass house", "deep groove house" ],
+      "href" : "https://api.spotify.com/v1/artists/4kB1srfgZ4eok7CmDqyOJP",
+      "id" : "4kB1srfgZ4eok7CmDqyOJP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb715810c64128db1ceefc159b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174715810c64128db1ceefc159b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178715810c64128db1ceefc159b",
+        "width" : 160
+      } ],
+      "name" : "Kyle Walker",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:4kB1srfgZ4eok7CmDqyOJP"
+    }, {
+      "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/63UiFS5b0ctM7iOYRDDu5V"
       },
       "followers" : {
@@ -106,6 +134,6 @@
     "next" : null,
     "offset" : 0,
     "previous" : null,
-    "total" : 4
+    "total" : 5
   }
 }

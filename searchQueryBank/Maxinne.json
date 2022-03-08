@@ -7,9 +7,9 @@
       },
       "followers" : {
         "href" : null,
-        "total" : 5084
+        "total" : 5102
       },
-      "genres" : [ "deep groove house", "funky tech house", "house" ],
+      "genres" : [ "deep groove house", "disco house", "funky tech house", "house" ],
       "href" : "https://api.spotify.com/v1/artists/3sv9dCyzqOsGcJHPl5seiq",
       "id" : "3sv9dCyzqOsGcJHPl5seiq",
       "images" : [ {
@@ -31,32 +31,32 @@
       "uri" : "spotify:artist:3sv9dCyzqOsGcJHPl5seiq"
     }, {
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/0SvUxkU29KWv1cfSyygQa2"
+        "spotify" : "https://open.spotify.com/artist/3HSGbLHJ6fmmhnBB3CzN1V"
       },
       "followers" : {
         "href" : null,
-        "total" : 11
+        "total" : 615
       },
       "genres" : [ ],
-      "href" : "https://api.spotify.com/v1/artists/0SvUxkU29KWv1cfSyygQa2",
-      "id" : "0SvUxkU29KWv1cfSyygQa2",
+      "href" : "https://api.spotify.com/v1/artists/3HSGbLHJ6fmmhnBB3CzN1V",
+      "id" : "3HSGbLHJ6fmmhnBB3CzN1V",
       "images" : [ {
         "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b27367a211808c8bf92579fb995a",
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732411b5c00863cb6efe23ffe6",
         "width" : 640
       }, {
         "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e0267a211808c8bf92579fb995a",
+        "url" : "https://i.scdn.co/image/ab67616d00001e022411b5c00863cb6efe23ffe6",
         "width" : 300
       }, {
         "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d0000485167a211808c8bf92579fb995a",
+        "url" : "https://i.scdn.co/image/ab67616d000048512411b5c00863cb6efe23ffe6",
         "width" : 64
       } ],
-      "name" : "Maxinne Sentina",
-      "popularity" : 0,
+      "name" : "Maxi Gen",
+      "popularity" : 54,
       "type" : "artist",
-      "uri" : "spotify:artist:0SvUxkU29KWv1cfSyygQa2"
+      "uri" : "spotify:artist:3HSGbLHJ6fmmhnBB3CzN1V"
     }, {
       "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/1JrPagZH9gNCA6QH2JEiWr"
@@ -85,11 +85,39 @@
       "popularity" : 0,
       "type" : "artist",
       "uri" : "spotify:artist:1JrPagZH9gNCA6QH2JEiWr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SvUxkU29KWv1cfSyygQa2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0SvUxkU29KWv1cfSyygQa2",
+      "id" : "0SvUxkU29KWv1cfSyygQa2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27367a211808c8bf92579fb995a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0267a211808c8bf92579fb995a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485167a211808c8bf92579fb995a",
+        "width" : 64
+      } ],
+      "name" : "Maxinne Sentina",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0SvUxkU29KWv1cfSyygQa2"
     } ],
     "limit" : 20,
     "next" : null,
     "offset" : 0,
     "previous" : null,
-    "total" : 3
+    "total" : 4
   }
 }

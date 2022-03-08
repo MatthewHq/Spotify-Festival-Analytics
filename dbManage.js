@@ -22,6 +22,7 @@ export async function checkForJSON(query, path) {
 //this process may be changed later as there were issues with less popular artists being picked up
 export async function artistCollect() {
     return new Promise(async (resolve, reject) => {
+        console.log("ASYNC CHECKPOINT ARTISTCOLLECT")
         let searchQBPath = './searchQueryBank'
         let artistDBPath = './artistDB/'
         fs.readdir(searchQBPath, (err, files) => {

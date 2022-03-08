@@ -7,7 +7,7 @@
       },
       "followers" : {
         "href" : null,
-        "total" : 322121
+        "total" : 322600
       },
       "genres" : [ "alternative r&b", "new jersey rap" ],
       "href" : "https://api.spotify.com/v1/artists/12Zk1DFhCbHY6v3xep2ZjI",
@@ -35,7 +35,7 @@
       },
       "followers" : {
         "href" : null,
-        "total" : 12
+        "total" : 13
       },
       "genres" : [ ],
       "href" : "https://api.spotify.com/v1/artists/537TdgvzMOCOI1pvhkkVt5",
@@ -67,7 +67,7 @@
       },
       "followers" : {
         "href" : null,
-        "total" : 16559175
+        "total" : 16592217
       },
       "genres" : [ "chicago rap", "rap" ],
       "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
@@ -86,14 +86,42 @@
         "width" : 160
       } ],
       "name" : "Kanye West",
-      "popularity" : 95,
+      "popularity" : 96,
       "type" : "artist",
       "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 61468845
+      },
+      "genres" : [ "canadian hip hop", "canadian pop", "hip hop", "rap", "toronto rap" ],
+      "href" : "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id" : "3TVXtAsR1Inumwj472S9r4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9e46a78c5cd2f7a8e7669980",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749e46a78c5cd2f7a8e7669980",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789e46a78c5cd2f7a8e7669980",
+        "width" : 160
+      } ],
+      "name" : "Drake",
+      "popularity" : 98,
+      "type" : "artist",
+      "uri" : "spotify:artist:3TVXtAsR1Inumwj472S9r4"
     } ],
     "limit" : 20,
     "next" : null,
     "offset" : 0,
     "previous" : null,
-    "total" : 4
+    "total" : 5
   }
 }

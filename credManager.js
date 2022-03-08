@@ -5,16 +5,18 @@ import * as https from 'https'
 
 export async function supplyTokenData() {
     return new Promise((resolve, reject) => {
+        console.log("ASYNC CHECKPOINT supplyTokenData")
         let tokenData = readDat("token")
         // console.log(tokenData.expires_at + " vs \n" + (Math.floor(Date.now() / 1000)))
-        console.log('expires in ' + (tokenData.expires_at - Math.floor(Date.now() / 1000)))
+        // console.log('expires in ' + (tokenData.expires_at - Math.floor(Date.now() / 1000)))
         if (tokenData.expires_at < Math.floor(Date.now() / 1000)) {
             console.log("token expired, fetching new one...")
             resolve(getCredToken())
         } else {
-            console.log("token not expired yet")
+            // console.log("token not expired yet")
             resolve(tokenData)
         }
+        reject(false)
     })
 
 }
@@ -99,8 +101,8 @@ export async function getCredToken() {
 
 
 export function readDat(type) {
-    const tempTokenPath = './mainDB/tempToken.json'
-    const credPath = './mainDB/credentials.json'
+    const tempTokenPath = 'mainDB/tempToken.json'
+    const credPath = 'mainDB/credentials.json'
     var path
     if (type == "token") {
         path = tempTokenPath
@@ -122,7 +124,7 @@ export function readDat(type) {
     if (exists) {
         try {
             const data = fs.readFileSync(path, 'utf8')
-            return JSON.parse(data)
+                return JSON.parse(data)
 
         } catch (err) {
             console.error(err)

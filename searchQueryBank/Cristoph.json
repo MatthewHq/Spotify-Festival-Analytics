@@ -7,7 +7,7 @@
       },
       "followers" : {
         "href" : null,
-        "total" : 44583
+        "total" : 44653
       },
       "genres" : [ "house", "progressive house", "tech house" ],
       "href" : "https://api.spotify.com/v1/artists/532SqCIYmJyXEdEiCJLgYG",
@@ -29,6 +29,34 @@
       "popularity" : 59,
       "type" : "artist",
       "uri" : "spotify:artist:532SqCIYmJyXEdEiCJLgYG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 477794
+      },
+      "genres" : [ "chanson", "francoton", "french pop" ],
+      "href" : "https://api.spotify.com/v1/artists/7jgnJBnpZTiGnCF2Wvka2Z",
+      "id" : "7jgnJBnpZTiGnCF2Wvka2Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6e6e51926bf84d25071c1bca",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746e6e51926bf84d25071c1bca",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786e6e51926bf84d25071c1bca",
+        "width" : 160
+      } ],
+      "name" : "Christophe Maé",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:7jgnJBnpZTiGnCF2Wvka2Z"
     }, {
       "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/7GvvZWqI8qi9E13IAbYnXE"
@@ -59,34 +87,6 @@
       "uri" : "spotify:artist:7GvvZWqI8qi9E13IAbYnXE"
     }, {
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-      },
-      "followers" : {
-        "href" : null,
-        "total" : 29854
-      },
-      "genres" : [ "house", "progressive house", "uk dance", "uk house" ],
-      "href" : "https://api.spotify.com/v1/artists/3IG3Ub4ra8AuSxCFDVkVco",
-      "id" : "3IG3Ub4ra8AuSxCFDVkVco",
-      "images" : [ {
-        "height" : 640,
-        "url" : "https://i.scdn.co/image/ab6761610000e5ebb1783532279780aab06d8182",
-        "width" : 640
-      }, {
-        "height" : 320,
-        "url" : "https://i.scdn.co/image/ab67616100005174b1783532279780aab06d8182",
-        "width" : 320
-      }, {
-        "height" : 160,
-        "url" : "https://i.scdn.co/image/ab6761610000f178b1783532279780aab06d8182",
-        "width" : 160
-      } ],
-      "name" : "Franky Wah",
-      "popularity" : 56,
-      "type" : "artist",
-      "uri" : "spotify:artist:3IG3Ub4ra8AuSxCFDVkVco"
-    }, {
-      "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/4isIKIxNXhS88HYcnLwlUn"
       },
       "followers" : {
@@ -115,39 +115,39 @@
       "uri" : "spotify:artist:4isIKIxNXhS88HYcnLwlUn"
     }, {
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        "spotify" : "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
       },
       "followers" : {
         "href" : null,
-        "total" : 728627
+        "total" : 29960
       },
-      "genres" : [ "adult standards", "album rock", "disco", "folk rock", "mellow gold", "new wave pop", "quiet storm", "soft rock", "yacht rock" ],
-      "href" : "https://api.spotify.com/v1/artists/695W5F2Ih8dYahLdjVOIoH",
-      "id" : "695W5F2Ih8dYahLdjVOIoH",
+      "genres" : [ "house", "progressive house", "uk dance", "uk house" ],
+      "href" : "https://api.spotify.com/v1/artists/3IG3Ub4ra8AuSxCFDVkVco",
+      "id" : "3IG3Ub4ra8AuSxCFDVkVco",
       "images" : [ {
         "height" : 640,
-        "url" : "https://i.scdn.co/image/ab6761610000e5eba2e75d072e19a6150744f924",
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb1783532279780aab06d8182",
         "width" : 640
       }, {
         "height" : 320,
-        "url" : "https://i.scdn.co/image/ab67616100005174a2e75d072e19a6150744f924",
+        "url" : "https://i.scdn.co/image/ab67616100005174b1783532279780aab06d8182",
         "width" : 320
       }, {
         "height" : 160,
-        "url" : "https://i.scdn.co/image/ab6761610000f178a2e75d072e19a6150744f924",
+        "url" : "https://i.scdn.co/image/ab6761610000f178b1783532279780aab06d8182",
         "width" : 160
       } ],
-      "name" : "Christopher Cross",
-      "popularity" : 66,
+      "name" : "Franky Wah",
+      "popularity" : 56,
       "type" : "artist",
-      "uri" : "spotify:artist:695W5F2Ih8dYahLdjVOIoH"
+      "uri" : "spotify:artist:3IG3Ub4ra8AuSxCFDVkVco"
     }, {
       "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/6QvNxv5FiGF4C94FTYTT1B"
       },
       "followers" : {
         "href" : null,
-        "total" : 6
+        "total" : 7
       },
       "genres" : [ ],
       "href" : "https://api.spotify.com/v1/artists/6QvNxv5FiGF4C94FTYTT1B",
@@ -169,34 +169,6 @@
       "popularity" : 6,
       "type" : "artist",
       "uri" : "spotify:artist:6QvNxv5FiGF4C94FTYTT1B"
-    }, {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/5wzQJV9zEwTqR08Gx1AmSC"
-      },
-      "followers" : {
-        "href" : null,
-        "total" : 0
-      },
-      "genres" : [ ],
-      "href" : "https://api.spotify.com/v1/artists/5wzQJV9zEwTqR08Gx1AmSC",
-      "id" : "5wzQJV9zEwTqR08Gx1AmSC",
-      "images" : [ {
-        "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b2731298975f9e53b8432c96886e",
-        "width" : 640
-      }, {
-        "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e021298975f9e53b8432c96886e",
-        "width" : 300
-      }, {
-        "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d000048511298975f9e53b8432c96886e",
-        "width" : 64
-      } ],
-      "name" : "Cristopher Dee",
-      "popularity" : 5,
-      "type" : "artist",
-      "uri" : "spotify:artist:5wzQJV9zEwTqR08Gx1AmSC"
     }, {
       "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/0DuC7iIqkSCH82VmuQb5hv"
@@ -225,6 +197,62 @@
       "popularity" : 6,
       "type" : "artist",
       "uri" : "spotify:artist:0DuC7iIqkSCH82VmuQb5hv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 730005
+      },
+      "genres" : [ "adult standards", "album rock", "disco", "folk rock", "mellow gold", "new wave pop", "quiet storm", "soft rock", "yacht rock" ],
+      "href" : "https://api.spotify.com/v1/artists/695W5F2Ih8dYahLdjVOIoH",
+      "id" : "695W5F2Ih8dYahLdjVOIoH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba2e75d072e19a6150744f924",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a2e75d072e19a6150744f924",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a2e75d072e19a6150744f924",
+        "width" : 160
+      } ],
+      "name" : "Christopher Cross",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:695W5F2Ih8dYahLdjVOIoH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wzQJV9zEwTqR08Gx1AmSC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5wzQJV9zEwTqR08Gx1AmSC",
+      "id" : "5wzQJV9zEwTqR08Gx1AmSC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731298975f9e53b8432c96886e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021298975f9e53b8432c96886e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511298975f9e53b8432c96886e",
+        "width" : 64
+      } ],
+      "name" : "Cristopher Dee",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:5wzQJV9zEwTqR08Gx1AmSC"
     }, {
       "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/2y0nZNYGkNq3bp2XKDoxc7"
@@ -295,7 +323,7 @@
       },
       "followers" : {
         "href" : null,
-        "total" : 23
+        "total" : 24
       },
       "genres" : [ ],
       "href" : "https://api.spotify.com/v1/artists/7vrBO3tQZSt5nCAcmFazim",
@@ -335,6 +363,62 @@
       "uri" : "spotify:artist:5z7CurkvaNOntDUhwehovl"
     }, {
       "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dPnKleGZYisbjtTMDhDlt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 37
+      },
+      "genres" : [ "orquesta tropical" ],
+      "href" : "https://api.spotify.com/v1/artists/7dPnKleGZYisbjtTMDhDlt",
+      "id" : "7dPnKleGZYisbjtTMDhDlt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c13bb428f1a2627192cb8634",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c13bb428f1a2627192cb8634",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c13bb428f1a2627192cb8634",
+        "width" : 64
+      } ],
+      "name" : "Cristopher Valoy",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:7dPnKleGZYisbjtTMDhDlt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zL5vI5JWSouoHLYnfNrkG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3zL5vI5JWSouoHLYnfNrkG",
+      "id" : "3zL5vI5JWSouoHLYnfNrkG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9e04fe5de2889d1a8df13030",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749e04fe5de2889d1a8df13030",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789e04fe5de2889d1a8df13030",
+        "width" : 160
+      } ],
+      "name" : "CristopherSchoerz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3zL5vI5JWSouoHLYnfNrkG"
+    }, {
+      "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/4AmukpmX1vxgFpnmyCvczV"
       },
       "followers" : {
@@ -363,32 +447,32 @@
       "uri" : "spotify:artist:4AmukpmX1vxgFpnmyCvczV"
     }, {
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/6TTneL9FSMeDTbNEWKaCNz"
+        "spotify" : "https://open.spotify.com/artist/3mCqmqJGuakr8JlyYNIlMz"
       },
       "followers" : {
         "href" : null,
         "total" : 2
       },
       "genres" : [ ],
-      "href" : "https://api.spotify.com/v1/artists/6TTneL9FSMeDTbNEWKaCNz",
-      "id" : "6TTneL9FSMeDTbNEWKaCNz",
+      "href" : "https://api.spotify.com/v1/artists/3mCqmqJGuakr8JlyYNIlMz",
+      "id" : "3mCqmqJGuakr8JlyYNIlMz",
       "images" : [ {
         "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b273f47fa511d43862615970fa1c",
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3e66d10ccc8ba45ba2d9d6c",
         "width" : 640
       }, {
         "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e02f47fa511d43862615970fa1c",
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3e66d10ccc8ba45ba2d9d6c",
         "width" : 300
       }, {
         "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d00004851f47fa511d43862615970fa1c",
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3e66d10ccc8ba45ba2d9d6c",
         "width" : 64
       } ],
-      "name" : "Cristophan",
+      "name" : "Cristopher",
       "popularity" : 0,
       "type" : "artist",
-      "uri" : "spotify:artist:6TTneL9FSMeDTbNEWKaCNz"
+      "uri" : "spotify:artist:3mCqmqJGuakr8JlyYNIlMz"
     }, {
       "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/6mMKZEFPF1vtDpHTP0plcx"
@@ -417,83 +501,11 @@
       "popularity" : 11,
       "type" : "artist",
       "uri" : "spotify:artist:6mMKZEFPF1vtDpHTP0plcx"
-    }, {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/3t2hK9tHJCwVxKHkr3pGUb"
-      },
-      "followers" : {
-        "href" : null,
-        "total" : 72
-      },
-      "genres" : [ ],
-      "href" : "https://api.spotify.com/v1/artists/3t2hK9tHJCwVxKHkr3pGUb",
-      "id" : "3t2hK9tHJCwVxKHkr3pGUb",
-      "images" : [ {
-        "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b2736bd55576c2431b52a22b4542",
-        "width" : 640
-      }, {
-        "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e026bd55576c2431b52a22b4542",
-        "width" : 300
-      }, {
-        "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d000048516bd55576c2431b52a22b4542",
-        "width" : 64
-      } ],
-      "name" : "Cristopher",
-      "popularity" : 5,
-      "type" : "artist",
-      "uri" : "spotify:artist:3t2hK9tHJCwVxKHkr3pGUb"
-    }, {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/7qN8sPubPGI2kyv5o0ilkq"
-      },
-      "followers" : {
-        "href" : null,
-        "total" : 1
-      },
-      "genres" : [ ],
-      "href" : "https://api.spotify.com/v1/artists/7qN8sPubPGI2kyv5o0ilkq",
-      "id" : "7qN8sPubPGI2kyv5o0ilkq",
-      "images" : [ ],
-      "name" : "Cristopher Carlos",
-      "popularity" : 1,
-      "type" : "artist",
-      "uri" : "spotify:artist:7qN8sPubPGI2kyv5o0ilkq"
-    }, {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/1PNtMEYfdfoKOUhyT3db75"
-      },
-      "followers" : {
-        "href" : null,
-        "total" : 5
-      },
-      "genres" : [ ],
-      "href" : "https://api.spotify.com/v1/artists/1PNtMEYfdfoKOUhyT3db75",
-      "id" : "1PNtMEYfdfoKOUhyT3db75",
-      "images" : [ {
-        "height" : 640,
-        "url" : "https://i.scdn.co/image/ab6761610000e5ebc60decbaed65287eba0074e6",
-        "width" : 640
-      }, {
-        "height" : 320,
-        "url" : "https://i.scdn.co/image/ab67616100005174c60decbaed65287eba0074e6",
-        "width" : 320
-      }, {
-        "height" : 160,
-        "url" : "https://i.scdn.co/image/ab6761610000f178c60decbaed65287eba0074e6",
-        "width" : 160
-      } ],
-      "name" : "Cristopher",
-      "popularity" : 0,
-      "type" : "artist",
-      "uri" : "spotify:artist:1PNtMEYfdfoKOUhyT3db75"
     } ],
     "limit" : 20,
     "next" : "https://api.spotify.com/v1/search?query=Cristoph&type=artist&market=US&offset=20&limit=20",
     "offset" : 0,
     "previous" : null,
-    "total" : 152
+    "total" : 154
   }
 }

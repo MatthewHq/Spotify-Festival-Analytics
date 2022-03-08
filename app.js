@@ -11,15 +11,25 @@ async function main() {
     // console.log(aSearch)
     // let check= await dbManage.dbCheckQuery("a")
     // console.log(check)
+    credManager.readDat("token")
+    setTimeout(() => {
+        credManager.supplyTokenData()
+    }, 1000);
 
-    // spotifyRequests.bulkArtistCache()
-    await dbManage.artistCollect()
+    setTimeout(() => {
+        spotifyRequests.bulkArtistCache()
+            // .then(spotifyRequests.bulkArtistTopTrack())
+            // .then(dbManage.consolidateTopTracks())
+    }, 4000);
+
+
+
 
 
     // let topTracks = await spotifyRequests.getTopTracks('12Zk1DFhCbHY6v3xep2ZjI')
     // console.log(topTracks)
 
-    // spotifyRequests.bulkArtistTopTrack()
+    // 
 
     // dbManage.consolidateTopTracks()
 

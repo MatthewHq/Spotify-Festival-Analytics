@@ -7,7 +7,7 @@ import * as dbManage from './dbManage.js'
 //gets the a bulk of artists from artists.json and caches them into searchQueryBank dir
 export async function bulkArtistCache() {
     return new Promise(async (resolve, reject) => {
-
+        console.log("ASYNC CHECKPOINT bulkArtistCache")
         await credManager.supplyTokenData()
         setTimeout(async () => {
             let lineup = fs.readFileSync('mainDB/artists.json', 'utf8')
@@ -19,10 +19,10 @@ export async function bulkArtistCache() {
                     var search = await searchArtist(artist)
                     fs.writeFile('./searchQueryBank/' + artist + ".json", search, (err) => {
                         if (err) reject(err);
-                        console.log('File is created successfully.');
                     });
                 }
             });
+            console.log('bulkArtistCache files created successfully.');
             resolve("true")
         }, 2000);
     })
@@ -114,7 +114,7 @@ export async function searchArtist(search) {
         }
         var qString = "?" + Object.keys(body).map(key => key + '=' + body[key]).join('&');
         qString = qString.split(' ').join('%20');
-        console.log(qString)
+        // console.log(qString)
 
         const options = {
             hostname: 'api.spotify.com',
@@ -147,7 +147,7 @@ export async function getTopTracks(artistId) {
         }
         var qString = "?" + Object.keys(body).map(key => key + '=' + body[key]).join('&');
         qString = qString.split(' ').join('%20');
-        console.log(qString)
+        // console.log(qString)s
 
         const options = {
             hostname: 'api.spotify.com',
