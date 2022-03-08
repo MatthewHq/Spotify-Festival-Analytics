@@ -13,7 +13,7 @@ async function main() {
     // console.log(check)
 
     // spotifyRequests.bulkArtistCache()
-    // dbManage.artistCollect()
+    await dbManage.artistCollect()
 
 
     // let topTracks = await spotifyRequests.getTopTracks('12Zk1DFhCbHY6v3xep2ZjI')
@@ -29,7 +29,7 @@ async function main() {
     // await spotifyRequests.getAllTrackAudioFeatures()
     // await dbManage.consolidateArtists()
 
-    await dbManage.allArtistsToCSVcustom()
+    // await dbManage.allArtistsToCSVcustom()
 }
 main()
 

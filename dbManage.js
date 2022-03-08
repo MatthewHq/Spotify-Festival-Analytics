@@ -20,10 +20,6 @@ export async function checkForJSON(query, path) {
 
 //collects all artists from the querybank, each artist is selected from the top result
 //this process may be changed later as there were issues with less popular artists being picked up
-export async function artistChoose() {
-
-}
-
 export async function artistCollect() {
     return new Promise(async (resolve, reject) => {
         let searchQBPath = './searchQueryBank'
@@ -39,10 +35,35 @@ export async function artistCollect() {
                 if (artistQuery.artists.items.length != 0) {
                     let check = await checkForJSON(file, artistDBPath)
                     if (!check) {
-                        fs.writeFile(artistDBPath + file, JSON.stringify(artistQuery.artists.items[0]), (err) => {
-                            if (err) reject(err);
-                            console.log('File is created ' + file);
-                        });
+                        let index = -1
+                        let popularity = 0
+                        let compare = 9001
+                        for (let i = 0; i < artistQuery.artists.items.length; i++) {
+                            let compareVal = comprStrs(file.substring(0, file.length - 5), artistQuery.artists.items[i].name)
+                            if (compareVal < compare) {
+                                index = i
+                                popularity = artistQuery.artists.items[i].popularity
+                                compare = compareVal
+                                // console.log("BETTER DATA | " + file.substring(0, file.length - 5) + " | -- |" + artistQuery.artists.items[index].name + " | with a dif of " + compare)
+                            } else if (compareVal == compare) {
+                                if (artistQuery.artists.items[i].popularity > popularity) {
+                                    console.log("***SAME DATA | " + file.substring(0, file.length - 5) + "|" + " pop (" + popularity + ") -- |" + artistQuery.artists.items[index].name + "|" +
+                                        " pop(" + artistQuery.artists.items[i].popularity + ") with a dif of " + compare)
+                                    index = i
+                                    popularity = artistQuery.artists.items[i].popularity
+                                    compare = compareVal
+
+                                }
+                            }
+                        }
+                        if (compare < 100) {
+                            fs.writeFile(artistDBPath + file, JSON.stringify(artistQuery.artists.items[0]), (err) => {
+                                if (err) reject(err);
+                                // console.log('File is created ' + file);
+                            });
+                        } else {
+                            console.log("DID NOT FIND CORRECT DATA FOR | " + file + " | closest is |" + artistQuery.artists.items[index].name + " | with a dif of " + compare)
+                        }
                     }
                 } else {
                     console.log("DID NOT FIND DATA FOR " + file)
