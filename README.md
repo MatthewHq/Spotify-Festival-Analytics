@@ -3,11 +3,7 @@
 to be used for analyzing a festival lineup of artists and helping with where to look for what aspect
 ### Make sure to scroll to "Module Walkthrough" for more program specifics
 
-
-* NO HELPER LIBRARIES USED, only native node.
-  * Decided to go a little purist on this one with the libraries after trying out spotify's own recommended starting guide and realizing that it was using a recently deprecated    module: "request" 
-
-Features:
+## Features:
   * In depth async / await implementation for both file writes and api calls (http reqs)  
   * CSV Export for Artists and for Top Tracks, JSON Import of artist list (by name)
   * Automatic artist search verification, optimization and finally manual correction per artist search if needed
@@ -81,10 +77,14 @@ await dbManage.allTracksToCSVcustom()
  
  These then jump into that data to extract only specific points of interest that can be changed at any time by changing their object properties.
  We finally end up with our clean data ready to be placed in a pivot table or chart!
+ 
  [allArtists.CSV](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/mainDB/allArtists.CSV)
+ 
  [allTopTracks.CSV](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/mainDB/allTopTracks.CSV)
 
  
+ * NO HELPER LIBRARIES USED, only native node.
+  * Decided to go a little purist on this one with the libraries after trying out spotify's own recommended starting guide and realizing that it was using a recently deprecated    module: "request" 
  
 
 
