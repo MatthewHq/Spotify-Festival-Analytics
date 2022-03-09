@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Cautious+Clay&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 213271
+      },
+      "genres" : [ "alternative r&b", "chill r&b", "indie r&b", "nyc pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6iWuBN32BqCJAeXW6o3nil",
+      "id" : "6iWuBN32BqCJAeXW6o3nil",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4041f485c1cb2a8df48d1dd2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744041f485c1cb2a8df48d1dd2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784041f485c1cb2a8df48d1dd2",
+        "width" : 160
+      } ],
+      "name" : "Cautious Clay",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:6iWuBN32BqCJAeXW6o3nil"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3APNqe9QFGwKokptdPOTMg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3APNqe9QFGwKokptdPOTMg",
+      "id" : "3APNqe9QFGwKokptdPOTMg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273932430da0b75a8d1c54537d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02932430da0b75a8d1c54537d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851932430da0b75a8d1c54537d5",
+        "width" : 64
+      } ],
+      "name" : "Jarami feat. Cautious Clay",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3APNqe9QFGwKokptdPOTMg"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

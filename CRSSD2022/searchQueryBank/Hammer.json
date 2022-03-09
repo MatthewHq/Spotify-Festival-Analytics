@@ -1,0 +1,575 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Hammer&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 512972
+      },
+      "genres" : [ "gothenburg metal", "hard rock", "melodic metal", "metal", "neo classical metal", "power metal", "swedish power metal" ],
+      "href" : "https://api.spotify.com/v1/artists/2o18h28enlHxj887tATc58",
+      "id" : "2o18h28enlHxj887tATc58",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5cc9dba7c275fcb81f80f62e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745cc9dba7c275fcb81f80f62e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785cc9dba7c275fcb81f80f62e",
+        "width" : 160
+      } ],
+      "name" : "HammerFall",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:2o18h28enlHxj887tATc58"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 481449
+      },
+      "genres" : [ "hip hop", "hip house", "rap" ],
+      "href" : "https://api.spotify.com/v1/artists/2rblp9fJo16ZPTcKDtlmKW",
+      "id" : "2rblp9fJo16ZPTcKDtlmKW",
+      "images" : [ {
+        "height" : 1282,
+        "url" : "https://i.scdn.co/image/af25ffffde1eb2051221017fa0424d906eaf2e94",
+        "width" : 1000
+      }, {
+        "height" : 820,
+        "url" : "https://i.scdn.co/image/80166b125a7e32ab55a867ca704c1f414d4ccc39",
+        "width" : 640
+      }, {
+        "height" : 256,
+        "url" : "https://i.scdn.co/image/a5f5cf65586d8f6058443011bed5df42a236ba66",
+        "width" : 200
+      }, {
+        "height" : 82,
+        "url" : "https://i.scdn.co/image/023febc40c358850d1a917fdeee6aa75c8d94169",
+        "width" : 64
+      } ],
+      "name" : "MC Hammer",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:2rblp9fJo16ZPTcKDtlmKW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4G12pLC3LNnVnIzB6kaJ52"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4G12pLC3LNnVnIzB6kaJ52",
+      "id" : "4G12pLC3LNnVnIzB6kaJ52",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc47c2ae1d8789562c1c17ce",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc47c2ae1d8789562c1c17ce",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc47c2ae1d8789562c1c17ce",
+        "width" : 64
+      } ],
+      "name" : "Hammer",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:4G12pLC3LNnVnIzB6kaJ52"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 39560
+      },
+      "genres" : [ "alternative hip hop", "boom bap", "escape room", "experimental hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/3SCI7sXHUZIeDKMWC5NT9C",
+      "id" : "3SCI7sXHUZIeDKMWC5NT9C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce7846efcfc5dc8c0e37ba14",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce7846efcfc5dc8c0e37ba14",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce7846efcfc5dc8c0e37ba14",
+        "width" : 64
+      } ],
+      "name" : "Armand Hammer",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:3SCI7sXHUZIeDKMWC5NT9C"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3pVEc3PpqlTFKHbeDXyTIR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3pVEc3PpqlTFKHbeDXyTIR",
+      "id" : "3pVEc3PpqlTFKHbeDXyTIR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b2ffcd00296aee3baf96dc5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b2ffcd00296aee3baf96dc5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b2ffcd00296aee3baf96dc5",
+        "width" : 64
+      } ],
+      "name" : "Hammer",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:3pVEc3PpqlTFKHbeDXyTIR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ys55QfRRqLFsGEVI9xpu6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1308
+      },
+      "genres" : [ "italian trance" ],
+      "href" : "https://api.spotify.com/v1/artists/0ys55QfRRqLFsGEVI9xpu6",
+      "id" : "0ys55QfRRqLFsGEVI9xpu6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc182d33c4acd7814d0252570",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c182d33c4acd7814d0252570",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c182d33c4acd7814d0252570",
+        "width" : 160
+      } ],
+      "name" : "Hammerer",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:0ys55QfRRqLFsGEVI9xpu6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8353
+      },
+      "genres" : [ "scottish techno", "uk house" ],
+      "href" : "https://api.spotify.com/v1/artists/3KtaBB3asBs44O4h3xx2V0",
+      "id" : "3KtaBB3asBs44O4h3xx2V0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc0c1c4aff96ba5618138e1b7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c0c1c4aff96ba5618138e1b7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c0c1c4aff96ba5618138e1b7",
+        "width" : 160
+      } ],
+      "name" : "Hammer",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:3KtaBB3asBs44O4h3xx2V0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3430
+      },
+      "genres" : [ "focus beats", "lo-fi cover" ],
+      "href" : "https://api.spotify.com/v1/artists/5xeMVXkveG9VsUdcZweo3N",
+      "id" : "5xeMVXkveG9VsUdcZweo3N",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebee6076a8add86f819f870a2e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ee6076a8add86f819f870a2e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ee6076a8add86f819f870a2e",
+        "width" : 160
+      } ],
+      "name" : "Billy Hammer",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:5xeMVXkveG9VsUdcZweo3N"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 41580
+      },
+      "genres" : [ "jazz fusion", "new romantic" ],
+      "href" : "https://api.spotify.com/v1/artists/50zRydJXfkLzGIOj9mITfy",
+      "id" : "50zRydJXfkLzGIOj9mITfy",
+      "images" : [ {
+        "height" : 662,
+        "url" : "https://i.scdn.co/image/357006def28d46afdb2fcff31bf8f6b69f2fdc32",
+        "width" : 998
+      }, {
+        "height" : 425,
+        "url" : "https://i.scdn.co/image/31d92c3c9363733ff7209432f46eaedc16fb55fc",
+        "width" : 640
+      }, {
+        "height" : 133,
+        "url" : "https://i.scdn.co/image/c206a6aeb5ebacd3650727df7a77d52a9e4c8b05",
+        "width" : 200
+      }, {
+        "height" : 42,
+        "url" : "https://i.scdn.co/image/dc72ccfea76d475d0a09a0cc6fbef793973adcb1",
+        "width" : 63
+      } ],
+      "name" : "Jan Hammer",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:50zRydJXfkLzGIOj9mITfy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xIrP1oPgrtB8LvEUfqIqN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4685
+      },
+      "genres" : [ "us power metal" ],
+      "href" : "https://api.spotify.com/v1/artists/3xIrP1oPgrtB8LvEUfqIqN",
+      "id" : "3xIrP1oPgrtB8LvEUfqIqN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273895afab91e91e94788119aba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02895afab91e91e94788119aba",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851895afab91e91e94788119aba",
+        "width" : 64
+      } ],
+      "name" : "Hammers of Misfortune",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:3xIrP1oPgrtB8LvEUfqIqN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0rI7tDAyZr2AO1BuvWOxpp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0rI7tDAyZr2AO1BuvWOxpp",
+      "id" : "0rI7tDAyZr2AO1BuvWOxpp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc3017f632ae7f7342300830e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c3017f632ae7f7342300830e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c3017f632ae7f7342300830e",
+        "width" : 160
+      } ],
+      "name" : "Hammer Brothers",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:0rI7tDAyZr2AO1BuvWOxpp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 301
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2utndN6OrmNQKozhXYJ8Hn",
+      "id" : "2utndN6OrmNQKozhXYJ8Hn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb841fc67c71238b0c28e07fb4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174841fc67c71238b0c28e07fb4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178841fc67c71238b0c28e07fb4",
+        "width" : 160
+      } ],
+      "name" : "Alannah Hammer",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:2utndN6OrmNQKozhXYJ8Hn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1558
+      },
+      "genres" : [ "azonto", "hiplife" ],
+      "href" : "https://api.spotify.com/v1/artists/41OZNvPbgdmHijKkTch0To",
+      "id" : "41OZNvPbgdmHijKkTch0To",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb91daf9bd7c970294a7ca16e1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517491daf9bd7c970294a7ca16e1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17891daf9bd7c970294a7ca16e1",
+        "width" : 160
+      } ],
+      "name" : "Hammer of The Last Two",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:41OZNvPbgdmHijKkTch0To"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hXhcmGIY6NgJL8eQRoA5d"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11350
+      },
+      "genres" : [ "deathrash" ],
+      "href" : "https://api.spotify.com/v1/artists/2hXhcmGIY6NgJL8eQRoA5d",
+      "id" : "2hXhcmGIY6NgJL8eQRoA5d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbc4ed7ca0e2350fc00886873",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bc4ed7ca0e2350fc00886873",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bc4ed7ca0e2350fc00886873",
+        "width" : 160
+      } ],
+      "name" : "Hammerhedd",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:2hXhcmGIY6NgJL8eQRoA5d"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1VILxssU3ZxvaH38vn4trl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6900
+      },
+      "genres" : [ "southern soul blues" ],
+      "href" : "https://api.spotify.com/v1/artists/1VILxssU3ZxvaH38vn4trl",
+      "id" : "1VILxssU3ZxvaH38vn4trl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731b5852ab4c6a527d2145f4cf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021b5852ab4c6a527d2145f4cf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511b5852ab4c6a527d2145f4cf",
+        "width" : 64
+      } ],
+      "name" : "Jaye Hammer",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:1VILxssU3ZxvaH38vn4trl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7fPReQt4icFpZxbUgd77d8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 488
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7fPReQt4icFpZxbUgd77d8",
+      "id" : "7fPReQt4icFpZxbUgd77d8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b3a871e8f7e47758fe190271",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b3a871e8f7e47758fe190271",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b3a871e8f7e47758fe190271",
+        "width" : 64
+      } ],
+      "name" : "Hammerlord",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:7fPReQt4icFpZxbUgd77d8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1eJI76Ds5g219NMj32wAnq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1eJI76Ds5g219NMj32wAnq",
+      "id" : "1eJI76Ds5g219NMj32wAnq",
+      "images" : [ ],
+      "name" : "Hammer",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:1eJI76Ds5g219NMj32wAnq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09106ZeZQflw20vaf3HuJL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4504
+      },
+      "genres" : [ "new age piano" ],
+      "href" : "https://api.spotify.com/v1/artists/09106ZeZQflw20vaf3HuJL",
+      "id" : "09106ZeZQflw20vaf3HuJL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb86f26b14cf7775a650fb6e68",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517486f26b14cf7775a650fb6e68",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17886f26b14cf7775a650fb6e68",
+        "width" : 160
+      } ],
+      "name" : "Doug Hammer",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:09106ZeZQflw20vaf3HuJL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5X3hmAle6klG0VvstAnvyD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5749
+      },
+      "genres" : [ "classical performance", "historic orchestral performance", "orchestral performance" ],
+      "href" : "https://api.spotify.com/v1/artists/5X3hmAle6klG0VvstAnvyD",
+      "id" : "5X3hmAle6klG0VvstAnvyD",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/4e960fa5cabc4da31cf211a7570ab0635d0acb9c",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/aed932aac7acb17ed9b7a2b882cfafa900291f14",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/91ac94d0a7e4730f0c36445980d59a1cf9403c67",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/809e2ef1c16bd7f09d324df524f581efd9dc3e03",
+        "width" : 64
+      } ],
+      "name" : "Sir John Barbirolli",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:5X3hmAle6klG0VvstAnvyD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5F1aGADDvPLIm9bkA8tUbK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6383
+      },
+      "genres" : [ "grunge" ],
+      "href" : "https://api.spotify.com/v1/artists/5F1aGADDvPLIm9bkA8tUbK",
+      "id" : "5F1aGADDvPLIm9bkA8tUbK",
+      "images" : [ {
+        "height" : 567,
+        "url" : "https://i.scdn.co/image/73a790ef2258817bf85ef00c283c2c4167786eb1",
+        "width" : 999
+      }, {
+        "height" : 363,
+        "url" : "https://i.scdn.co/image/30bae01b440938965653068a4fb7ff31bbfcec3d",
+        "width" : 640
+      }, {
+        "height" : 113,
+        "url" : "https://i.scdn.co/image/ea0a742f09f8644623dc8d479a2cc0239b4c2f39",
+        "width" : 199
+      }, {
+        "height" : 36,
+        "url" : "https://i.scdn.co/image/fa3790e77b4205013a82b52b72b0581ace1ff823",
+        "width" : 63
+      } ],
+      "name" : "Hammerbox",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:5F1aGADDvPLIm9bkA8tUbK"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Hammer&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1141
+  }
+}

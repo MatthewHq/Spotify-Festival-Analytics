@@ -5,22 +5,22 @@ import * as dbManage from './dbManage.js'
 
 
 //gets the a bulk of artists from artists.json and caches them into searchQueryBank dir
-export async function bulkArtistCache() {
+export async function bulkArtistCache(festivalTitle) {
     return new Promise(async (resolve, reject) => {
         console.log("ASYNC CHECKPOINT bulkArtistCache")
         await credManager.supplyTokenData()
         setTimeout(async () => {
             let promises = []
-            let lineup = fs.readFileSync('mainDB/artists.json', 'utf8')
+            let lineup = fs.readFileSync(festivalTitle + '/mainDB/artists.json', 'utf8')
             lineup = JSON.parse(lineup)
             for (let i = 0; i < lineup.artists.length; i++) {
                 let artist = lineup.artists[i]
                 console.log(artist)
-                let check = await dbManage.checkForJSON(artist, './searchQueryBank')
+                let check = await dbManage.checkForJSON(artist, './' + festivalTitle + '/searchQueryBank')
                 if (!check) {
                     let search = await searchArtist(artist)
                     // let search = JSON.stringify({ "DATA": "1" }) // debug
-                    promises.push(dbManage.promiseWriteFile('./searchQueryBank/' + artist + ".json", search))
+                    promises.push(dbManage.promiseWriteFile('./' + festivalTitle + '/searchQueryBank/' + artist + ".json", search))
                 }
             }
             await Promise.all(promises)
@@ -32,13 +32,13 @@ export async function bulkArtistCache() {
 
 
 //takes the top tracks from each artist and adds them to topTracksDB
-export async function bulkArtistTopTrack() {
+export async function bulkArtistTopTrack(festivalTitle) {
     return new Promise(async (resolve, reject) => {
         await credManager.supplyTokenData()
         setTimeout(async () => {
             let promises = []
-            let artistsPath = './artistDB'
-            let topTracksDBPath = './topTracksDB'
+            let artistsPath = './' + festivalTitle + '/artistDB'
+            let topTracksDBPath = './' + festivalTitle + '/topTracksDB'
             let files = await dbManage.promiseReadDir(artistsPath)
             // fs.readdir(artistsPath, (err, files) => {
             //     if (err) {
@@ -208,7 +208,7 @@ export async function getMultiTrackAudioFeatures(allIds) {
 
 //will call getMultiTrackAudioFeatures(allIds) every 100 tracks from the toptracks database
 //gathered from consolidateTopTracks()
-export async function getAllTrackAudioFeatures() {
+export async function getAllTrackAudioFeatures(festivalTitle) {
     return new Promise(async (resolve, reject) => {
 
         try {
@@ -218,7 +218,7 @@ export async function getAllTrackAudioFeatures() {
         }
 
         setTimeout(async () => {
-            let allTracks = await dbManage.consolidateTopTracks()
+            let allTracks = await dbManage.consolidateTopTracks(festivalTitle)
             // console.log(allTracks)
             let allIds = ""
             let batchCount = 0 //100s
@@ -265,7 +265,7 @@ export async function getAllTrackAudioFeatures() {
             //     if (err) reject(err);
             //     // console.log('File is created ' + file);
             // });
-            resolve(await dbManage.promiseWriteFile("mainDB/topTracksData.json", JSON.stringify(allTracks)))
+            resolve(await dbManage.promiseWriteFile(festivalTitle + "/mainDB/topTracksData.json", JSON.stringify(allTracks)))
         }, 2000);
 
     })
@@ -308,15 +308,15 @@ export async function getArtist(artistId) {
 
 
 //overwrites artists that have data provided under mainDB artistsOverwrite and fetches new data from spotify
-export async function overWriteArtists() {
+export async function overWriteArtists(festivalTitle) {
     return new Promise(async (resolve, reject) => {
         let promises = []
-        let toOW = fs.readFileSync('mainDB/artistsOverwrite.json', 'utf8')
+        let toOW = fs.readFileSync(festivalTitle + '/mainDB/artistsOverwrite.json', 'utf8')
         toOW = JSON.parse(toOW)
         for (let i = 0; i < toOW.artists.length; i++) {
             let artist = toOW.artists[i]
             let artistData = await getArtist(artist.id)
-            promises.push(fs.writeFile("artistDB/" + artist.name + ".json", artistData, (err) => {
+            promises.push(fs.writeFile(festivalTitle + "/artistDB/" + artist.name + ".json", artistData, (err) => {
                 if (err) reject(err);
                 // console.log('File is created ' + file);
             }))

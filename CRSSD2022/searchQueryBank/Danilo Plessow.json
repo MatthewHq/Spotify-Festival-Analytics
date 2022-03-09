@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Danilo+Plessow&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 964
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3frW3pRt2IpKAysgM8ksle",
+      "id" : "3frW3pRt2IpKAysgM8ksle",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735835c4965b6ad418d2603d4d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025835c4965b6ad418d2603d4d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515835c4965b6ad418d2603d4d",
+        "width" : 64
+      } ],
+      "name" : "Danilo Plessow",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:3frW3pRt2IpKAysgM8ksle"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

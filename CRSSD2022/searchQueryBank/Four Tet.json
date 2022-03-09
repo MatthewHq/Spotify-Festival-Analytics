@@ -1,0 +1,535 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Four+Tet&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 574495
+      },
+      "genres" : [ "alternative dance", "electronica", "folktronica", "indie soul", "intelligent dance music" ],
+      "href" : "https://api.spotify.com/v1/artists/7Eu1txygG6nJttLHbZdQOh",
+      "id" : "7Eu1txygG6nJttLHbZdQOh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb84e29d09b4917bec2700a0d7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517484e29d09b4917bec2700a0d7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17884e29d09b4917bec2700a0d7",
+        "width" : 160
+      } ],
+      "name" : "Four Tet",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:7Eu1txygG6nJttLHbZdQOh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZvjNw8UeO0ESveEpKTFdY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ZvjNw8UeO0ESveEpKTFdY",
+      "id" : "1ZvjNw8UeO0ESveEpKTFdY",
+      "images" : [ ],
+      "name" : "Four Tet",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZvjNw8UeO0ESveEpKTFdY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2pgVBJ879HbEQrUy2OTsCD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2pgVBJ879HbEQrUy2OTsCD",
+      "id" : "2pgVBJ879HbEQrUy2OTsCD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27366798fd7357e2bfcfb6b1743",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0266798fd7357e2bfcfb6b1743",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485166798fd7357e2bfcfb6b1743",
+        "width" : 64
+      } ],
+      "name" : "Quatre Tete",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2pgVBJ879HbEQrUy2OTsCD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pYLDhy17Qc3t84ohW3APN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4pYLDhy17Qc3t84ohW3APN",
+      "id" : "4pYLDhy17Qc3t84ohW3APN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735f8b7ece51e90103cc1d81ae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025f8b7ece51e90103cc1d81ae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515f8b7ece51e90103cc1d81ae",
+        "width" : 64
+      } ],
+      "name" : "Krakowczyk 4-tet",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4pYLDhy17Qc3t84ohW3APN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7DYhourvxwJ2GE7BCugVAs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7DYhourvxwJ2GE7BCugVAs",
+      "id" : "7DYhourvxwJ2GE7BCugVAs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a63aefb18e539a11e97a753f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a63aefb18e539a11e97a753f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a63aefb18e539a11e97a753f",
+        "width" : 64
+      } ],
+      "name" : "MARS 4-Tet",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7DYhourvxwJ2GE7BCugVAs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7vWsdj77H5gLzII1QKdyxF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7vWsdj77H5gLzII1QKdyxF",
+      "id" : "7vWsdj77H5gLzII1QKdyxF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b3d11ee43f16fcfd276d47dd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b3d11ee43f16fcfd276d47dd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b3d11ee43f16fcfd276d47dd",
+        "width" : 64
+      } ],
+      "name" : "Thom Rotella 4-tet",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7vWsdj77H5gLzII1QKdyxF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uVyTYTb7B1NAfApHuRZjV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6uVyTYTb7B1NAfApHuRZjV",
+      "id" : "6uVyTYTb7B1NAfApHuRZjV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b08ac2124048be4bef2a8db6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b08ac2124048be4bef2a8db6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b08ac2124048be4bef2a8db6",
+        "width" : 64
+      } ],
+      "name" : "Michel Fernandez 4-TET",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6uVyTYTb7B1NAfApHuRZjV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5p1cfk00zeNHumVi1ECsNz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 315
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5p1cfk00zeNHumVi1ECsNz",
+      "id" : "5p1cfk00zeNHumVi1ECsNz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737538a4f5e5bbad56ec1c50a7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027538a4f5e5bbad56ec1c50a7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517538a4f5e5bbad56ec1c50a7",
+        "width" : 64
+      } ],
+      "name" : "Cuong Vu 4-Tet",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:5p1cfk00zeNHumVi1ECsNz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bQdIgrvd1zvrBtbhfHOYS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5bQdIgrvd1zvrBtbhfHOYS",
+      "id" : "5bQdIgrvd1zvrBtbhfHOYS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273169cef89dc15e0c1074a9d41",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02169cef89dc15e0c1074a9d41",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851169cef89dc15e0c1074a9d41",
+        "width" : 64
+      } ],
+      "name" : "François Petit 4 Têtes",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5bQdIgrvd1zvrBtbhfHOYS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XuHwxwrkktONa0ZSrGjmh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0XuHwxwrkktONa0ZSrGjmh",
+      "id" : "0XuHwxwrkktONa0ZSrGjmh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27361ce2cc35aae9a0226181dfd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0261ce2cc35aae9a0226181dfd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485161ce2cc35aae9a0226181dfd",
+        "width" : 64
+      } ],
+      "name" : "Mystère trio 4 Tet",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0XuHwxwrkktONa0ZSrGjmh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2fiLE4rd146EEy47P8KVaR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2fiLE4rd146EEy47P8KVaR",
+      "id" : "2fiLE4rd146EEy47P8KVaR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e0386d503350c030278232bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e0386d503350c030278232bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e0386d503350c030278232bf",
+        "width" : 64
+      } ],
+      "name" : "Marnix Busstra 4-tet",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2fiLE4rd146EEy47P8KVaR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ssu6FNh8rH42wmiiB9chZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 25
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ssu6FNh8rH42wmiiB9chZ",
+      "id" : "1ssu6FNh8rH42wmiiB9chZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9349373232480e8b60d9bda",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9349373232480e8b60d9bda",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9349373232480e8b60d9bda",
+        "width" : 64
+      } ],
+      "name" : "Sandra Hempel 4-tett",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ssu6FNh8rH42wmiiB9chZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0a5m04y8wrxJ08drfBayVL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 84
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0a5m04y8wrxJ08drfBayVL",
+      "id" : "0a5m04y8wrxJ08drfBayVL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c5efa4df2da307f02e965f27",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c5efa4df2da307f02e965f27",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c5efa4df2da307f02e965f27",
+        "width" : 64
+      } ],
+      "name" : "Chico Freeman 4-Tet",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:0a5m04y8wrxJ08drfBayVL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2HJ4eFxHeabxcq4LunSUFY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2HJ4eFxHeabxcq4LunSUFY",
+      "id" : "2HJ4eFxHeabxcq4LunSUFY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383b291497a19136fa6c762eb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283b291497a19136fa6c762eb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183b291497a19136fa6c762eb",
+        "width" : 64
+      } ],
+      "name" : "Chris Kisielewsky 4 - Tett",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2HJ4eFxHeabxcq4LunSUFY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UoZW0a54OpJIABaIq9Xx3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2UoZW0a54OpJIABaIq9Xx3",
+      "id" : "2UoZW0a54OpJIABaIq9Xx3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2255452945b75df34e65b17",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2255452945b75df34e65b17",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2255452945b75df34e65b17",
+        "width" : 64
+      } ],
+      "name" : "Teté44",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2UoZW0a54OpJIABaIq9Xx3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0xgGNDk4ISplwoLmLg4pWM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0xgGNDk4ISplwoLmLg4pWM",
+      "id" : "0xgGNDk4ISplwoLmLg4pWM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735174a0c1e1500fbaeb1b5c9c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025174a0c1e1500fbaeb1b5c9c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515174a0c1e1500fbaeb1b5c9c",
+        "width" : 64
+      } ],
+      "name" : "TETRA444",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0xgGNDk4ISplwoLmLg4pWM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5enIoQudqM0PTU7mCVWqHu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2375
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5enIoQudqM0PTU7mCVWqHu",
+      "id" : "5enIoQudqM0PTU7mCVWqHu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273265f1a872404509cae31cccc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02265f1a872404509cae31cccc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851265f1a872404509cae31cccc",
+        "width" : 64
+      } ],
+      "name" : "4TET",
+      "popularity" : 23,
+      "type" : "artist",
+      "uri" : "spotify:artist:5enIoQudqM0PTU7mCVWqHu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66AsKL5tNacefR4PeCH1k0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/66AsKL5tNacefR4PeCH1k0",
+      "id" : "66AsKL5tNacefR4PeCH1k0",
+      "images" : [ ],
+      "name" : "4TET",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:66AsKL5tNacefR4PeCH1k0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bPVPy2m59T2Mw9WXeyjRC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 312
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4bPVPy2m59T2Mw9WXeyjRC",
+      "id" : "4bPVPy2m59T2Mw9WXeyjRC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739c262f7de10dfe5c30a80abb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029c262f7de10dfe5c30a80abb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519c262f7de10dfe5c30a80abb",
+        "width" : 64
+      } ],
+      "name" : "Tetrad the Gang of Four",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:4bPVPy2m59T2Mw9WXeyjRC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6LuIK251zxlnXdtqvZft"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6r6LuIK251zxlnXdtqvZft",
+      "id" : "6r6LuIK251zxlnXdtqvZft",
+      "images" : [ ],
+      "name" : "The Tony Crombie 4-Tet",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6LuIK251zxlnXdtqvZft"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Four+Tet&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 159
+  }
+}

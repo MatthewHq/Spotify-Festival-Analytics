@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Sam+Paganini&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 137765
+      },
+      "genres" : [ "deep minimal techno", "italian techno", "minimal techno", "tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb211ff32e987cc75fbb327817",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174211ff32e987cc75fbb327817",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178211ff32e987cc75fbb327817",
+        "width" : 160
+      } ],
+      "name" : "Sam Paganini",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JxpLlTSaJtZns4WwkqyjB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 103
+      },
+      "genres" : [ "belgian dance" ],
+      "href" : "https://api.spotify.com/v1/artists/5JxpLlTSaJtZns4WwkqyjB",
+      "id" : "5JxpLlTSaJtZns4WwkqyjB",
+      "images" : [ ],
+      "name" : "Samuel Paganini",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5JxpLlTSaJtZns4WwkqyjB"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

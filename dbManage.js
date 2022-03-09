@@ -1,5 +1,19 @@
 import * as fs from 'fs'
 
+
+//initialize db dirs for festival
+export function iniFestival(festivalTitle) {
+
+    var dirs = ['mainDB', "artistDB", "topTracksDB", "searchQueryBank"]
+
+    dirs.forEach(dir => {
+        dir = festivalTitle + '/' + dir
+        if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir, { recursive: true });
+        }
+    });
+}
+
 //check if a JSON file is in existance and return if it is or not
 export async function checkForJSON(query, path) {
     return new Promise(async (resolve, reject) => {
@@ -20,12 +34,12 @@ export async function checkForJSON(query, path) {
 
 //collects all artists from the querybank, each artist is selected from the top result
 //this process may be changed later as there were issues with less popular artists being picked up
-export async function artistCollect() {
+export async function artistCollect(festivalTitle) {
     return new Promise(async (resolve, reject) => {
         let promises = []
         console.log("ASYNC CHECKPOINT ARTISTCOLLECT")
-        let searchQBPath = './searchQueryBank'
-        let artistDBPath = './artistDB/'
+        let searchQBPath = './' + festivalTitle + '/searchQueryBank'
+        let artistDBPath = './' + festivalTitle + '/artistDB/'
 
 
 
@@ -100,10 +114,10 @@ export async function artistCollect() {
 
 //collects all topTracks with artist info embedded into each track
 //redundant data on purpose as these are small batches
-export async function consolidateTopTracks() {
+export async function consolidateTopTracks(festivalTitle) {
     return new Promise((resolve, reject) => {
-        let topTracksDBPath = './topTracksDB/'
-        let artistDBPath = './artistDB/'
+        let topTracksDBPath = './' + festivalTitle + '/topTracksDB/'
+        let artistDBPath = './' + festivalTitle + '/artistDB/'
         fs.readdir(topTracksDBPath, (err, files) => {
             let allTracks = { "tracks": [] }
 
@@ -138,9 +152,9 @@ export async function consolidateTopTracks() {
 
 
 //puts all the artists in artistDB into a json file
-export async function consolidateArtists() {
+export async function consolidateArtists(festivalTitle) {
     return new Promise((resolve, reject) => {
-        let artistDBPath = './artistDB'
+        let artistDBPath = './' + festivalTitle + '/artistDB'
         fs.readdir(artistDBPath, async (err, files) => {
             let allArtists = { "artists": [] }
 
@@ -158,16 +172,16 @@ export async function consolidateArtists() {
                 allArtists.artists[i] = artistData
                 console.log(files[i])
             }
-            resolve(await promiseWriteFile("mainDB/allArtistsData.json", JSON.stringify(allArtists)))
+            resolve(await promiseWriteFile(festivalTitle + "/mainDB/allArtistsData.json", JSON.stringify(allArtists)))
         });
     })
 
 }
 
 //takes the 'allArtistsData.json' from consolidateArtists() and organizes it into a csv extracting only some of the information
-export async function allArtistsToCSVcustom() {
+export async function allArtistsToCSVcustom(festivalTitle) {
     return new Promise(async (resolve, reject) => {
-        let allArtistsPath = 'mainDB/allArtistsData.json'
+        let allArtistsPath = festivalTitle + '/mainDB/allArtistsData.json'
         let allArtists = fs.readFileSync(allArtistsPath, 'utf8')
         allArtists = JSON.parse(allArtists)
         let data = []
@@ -204,13 +218,13 @@ export async function allArtistsToCSVcustom() {
 
         console.log(data)
         let datCSV = arrToCSV(data)
-        resolve(await promiseWriteFile("mainDB/allArtists.CSV", datCSV))
+        resolve(await promiseWriteFile(festivalTitle + "/mainDB/allArtists.CSV", datCSV))
     })
 }
 
-export async function allTracksToCSVcustom() {
+export async function allTracksToCSVcustom(festivalTitle) {
     return new Promise(async (resolve, reject) => {
-        let topTracksPath = 'mainDB/topTracksData.json'
+        let topTracksPath = festivalTitle + '/mainDB/topTracksData.json'
         let topTracks = fs.readFileSync(topTracksPath, 'utf8')
         topTracks = JSON.parse(topTracks)
         let data = []
@@ -273,7 +287,7 @@ export async function allTracksToCSVcustom() {
 
         console.log(data)
         let datCSV = arrToCSV(data)
-        resolve(await promiseWriteFile("mainDB/allTopTracks.CSV", datCSV))
+        resolve(await promiseWriteFile(festivalTitle + "/mainDB/allTopTracks.CSV", datCSV))
     })
 }
 
@@ -322,15 +336,6 @@ export async function promiseWriteFile(path, data) {
 
 }
 
-
-export async function read() {
-    fs.readdir("./artistDB", (err, files) => {
-        if (err) {
-            reject(new Error(('Cannot Read Dir: ' + err)));
-        }
-        console.log(files + " IS FILES")
-    });
-}
 
 
 export async function promiseReadDir(path) {

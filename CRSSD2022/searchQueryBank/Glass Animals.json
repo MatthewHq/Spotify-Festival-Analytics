@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Glass+Animals&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2535792
+      },
+      "genres" : [ "gauze pop", "indietronica", "shiver pop" ],
+      "href" : "https://api.spotify.com/v1/artists/4yvcSjfu4PC0CYQyLy4wSq",
+      "id" : "4yvcSjfu4PC0CYQyLy4wSq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517466b27eccb69756f8eceabc23",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17866b27eccb69756f8eceabc23",
+        "width" : 160
+      } ],
+      "name" : "Glass Animals",
+      "popularity" : 87,
+      "type" : "artist",
+      "uri" : "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FdM0AAFMH0vm7GyLGgYpn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 841
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0FdM0AAFMH0vm7GyLGgYpn",
+      "id" : "0FdM0AAFMH0vm7GyLGgYpn",
+      "images" : [ ],
+      "name" : "Dave Glass Animals",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0FdM0AAFMH0vm7GyLGgYpn"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

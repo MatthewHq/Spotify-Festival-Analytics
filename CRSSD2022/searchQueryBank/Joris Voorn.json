@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Joris+Voorn&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 133922
+      },
+      "genres" : [ "dutch tech house", "microhouse", "minimal techno", "tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/4jGpKAmwvU263l0tUh4xKU",
+      "id" : "4jGpKAmwvU263l0tUh4xKU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf7835e73fcb3a69dfc628ed0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f7835e73fcb3a69dfc628ed0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f7835e73fcb3a69dfc628ed0",
+        "width" : 160
+      } ],
+      "name" : "Joris Voorn",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:4jGpKAmwvU263l0tUh4xKU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kpyd5pq17VY4e2Wco3UJR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 178
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0kpyd5pq17VY4e2Wco3UJR",
+      "id" : "0kpyd5pq17VY4e2Wco3UJR",
+      "images" : [ ],
+      "name" : "Nic Fanciulli And Joris Voorn",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0kpyd5pq17VY4e2Wco3UJR"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

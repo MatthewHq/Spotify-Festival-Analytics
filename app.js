@@ -5,22 +5,25 @@ import * as spotifyRequests from './spotifyRequests.js'
 import * as dbManage from './dbManage.js'
 async function main() {
     //MAIN PROCEDURE HERE ++++++++++++++++
+
+    let festivalTitle = "beyond2022"
+
     credManager.readDat("token")
     setTimeout(() => {
         credManager.supplyTokenData()
     }, 1000);
 
     setTimeout(async () => {
-        await spotifyRequests.bulkArtistCache()
-        await dbManage.artistCollect()
-        await spotifyRequests.overWriteArtists()
-        await spotifyRequests.bulkArtistTopTrack()
-        await spotifyRequests.getAllTrackAudioFeatures()
-        await dbManage.consolidateTopTracks()
-        await dbManage.consolidateArtists()
-        await dbManage.allArtistsToCSVcustom()
-        await dbManage.allTracksToCSVcustom()
-
+        dbManage.iniFestival(festivalTitle)
+        await spotifyRequests.bulkArtistCache(festivalTitle)
+        await dbManage.artistCollect(festivalTitle)
+        await spotifyRequests.overWriteArtists(festivalTitle)
+        await spotifyRequests.bulkArtistTopTrack(festivalTitle)
+        await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
+        await dbManage.consolidateTopTracks(festivalTitle)
+        await dbManage.consolidateArtists(festivalTitle)
+        await dbManage.allArtistsToCSVcustom(festivalTitle)
+        await dbManage.allTracksToCSVcustom(festivalTitle)
     }, 2000);
 
     //MAIN PROCEDURE HERE ++++++++++++++++++
