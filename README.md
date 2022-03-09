@@ -1,6 +1,8 @@
 # Spotify-Festival-Analytics
-### Node.js project for interacting with Spotify api
+### Node.js project for using Spotify api
 to be used for analyzing a festival lineup of artists and helping with where to look for what aspect
+### Make sure to scroll to "Module Walkthrough" for more program specifics
+
 
 * NO HELPER LIBRARIES USED, only native node.
   * Decided to go a little purist on this one with the libraries after trying out spotify's own recommended starting guide and realizing that it was using a recently deprecated    module: "request" 
@@ -26,6 +28,64 @@ With 435 top tracks to sort through, this examplem shows the usefulness of using
 
 A chart using artist CSV data sorting them by Spotify followers
 ![byFollowers](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/readmeSources/artistsByFollowers.jpg?raw=true)
+
+
+
+## Module Walkthrough
+[App.js](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/app.js) holds the main function to be executed with each function call in the correct order. All implemented with promises to ensure correct order in the midst of the async chaos
+
+ ```javascript
+ await spotifyRequests.bulkArtistCache() 
+ ```
+located in [spotifyRequests.js](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/spotifyRequests.js) will call upon spotify API to search every entry in [artists.json](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/mainDB/artists.json). All of this search query data is collected in the [searchQueryBank](https://github.com/MatthewHoque/Spotify-Festival-Analytics/tree/main/searchQueryBank) dir as individual .json files per query.
+
+As one might guess, everything that makes a call to spotify is within the [spotifyRequests.js](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/spotifyRequests.js)
+
+As opposed to the other module [dbManage.js](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/dbManage.js) which is responsible for processing any data collected without triggering any http calls. Following into the next call...
+
+ ```javascript
+ await dbManage.artistCollect()
+ ```
+ 
+ this collects all the correct artists and double checks artist name with the initial [artists.json](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/mainDB/artists.json) and reports to the terminal any inconsistencies and optimizations in finding and picking of the artist. All artists are collected into [artistDB](https://github.com/MatthewHoque/Spotify-Festival-Analytics/tree/main/artistDB) dir for further processing. Some artists do not pass any further if they do not meet a similarity score by name to the original input, these artists can be added in the following step along with others that might need to be corrected.
+ 
+  ```javascript
+ await spotifyRequests.overWriteArtists()
+ ```
+ 
+ allows for some corrections on the user end by specifying the correct artistId within the [mainDB/artistsOverwrite.json](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/mainDB/artistsOverwrite.json) file. Any artists to be overwritten will trigger an API call to fetch the correct data. There is room for improvement here by checking if the id is already withing the initially stored query to avoid one additionmal api call, but I spent a little too much time refining my understanding of async properties in this project to get to it
+ 
+  ```javascript
+ await spotifyRequests.bulkArtistTopTrack()
+ ```
+ 
+ Once all artists are corrected an api call per artists can be made to collect their most popular tracks, this track data is saved under [topTrackDataDB](https://github.com/MatthewHoque/Spotify-Festival-Analytics/tree/main/topTracksDB) ready to be processed in the next step
+ 
+   ```javascript
+ await spotifyRequests.getAllTrackAudioFeatures()
+ ```
+ 
+track audio feature data does not come with base track data, however unlike the other api calls we have seen so far, this one allows for bulk calls of 100 tracks per call. Seeing as in this example case we have 435 tracks throughout our database, only 5 api calls are needed to gather this data, after a little bit of parsing and math games of course
+ 
+ ```javascript
+await dbManage.consolidateTopTracks()
+await dbManage.consolidateArtists()
+ ```
+ These two parallel sets gather all the previous database information into a singular json file of artists: [allArtistsData.json](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/mainDB/allArtistsData.json), a singularr json file of tracks: [topTracksData.json](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/mainDB/topTracksData.json) 
+ 
+ 
+  ```javascript
+await dbManage.allArtistsToCSVcustom()
+await dbManage.allTracksToCSVcustom()
+ ```
+ 
+ These then jump into that data to extract only specific points of interest that can be changed at any time by changing their object properties.
+ We finally end up with our clean data ready to be placed in a pivot table or chart!
+ [allArtists.CSV](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/mainDB/allArtists.CSV)
+ [allTopTracks.CSV](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/mainDB/allTopTracks.CSV)
+
+ 
+ 
 
 
 
