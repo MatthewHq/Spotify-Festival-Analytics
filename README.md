@@ -1,8 +1,8 @@
 # Spotify-Festival-Analytics
 ### Node.js project for using Spotify api
 to be used for analyzing a festival lineup of artists and helping with where to look for what aspect
-### Make sure to scroll to "Module Walkthrough" for more program specifics
 
+### [Make sure to scroll to "Module Walkthrough" for more program specifics](https://github.com/MatthewHoque/Spotify-Festival-Analytics/edit/main/README.md#module-walkthrough)
 ## Features:
   * In depth async / await implementation for both file writes and api calls (http reqs)  
   * CSV Export for Artists and for Top Tracks, JSON Import of artist list (by name)
