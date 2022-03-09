@@ -1,0 +1,691 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ZocCJ1c4V46xAAFJa7DIs",
+      "id" : "1ZocCJ1c4V46xAAFJa7DIs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732191bc73e6a348ccee462a41",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022191bc73e6a348ccee462a41",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512191bc73e6a348ccee462a41",
+        "width" : 64
+      } ],
+      "name" : "Satellite",
+      "release_date" : "2014-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1ZocCJ1c4V46xAAFJa7DIs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 405699,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61200238"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5YDbSfN5oKWBoeyf9nBA38",
+    "id" : "5YDbSfN5oKWBoeyf9nBA38",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rave",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5f5a9b64cb83b03a607e990a62164b1464d8c744?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5YDbSfN5oKWBoeyf9nBA38"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ZocCJ1c4V46xAAFJa7DIs",
+      "id" : "1ZocCJ1c4V46xAAFJa7DIs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732191bc73e6a348ccee462a41",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022191bc73e6a348ccee462a41",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512191bc73e6a348ccee462a41",
+        "width" : 64
+      } ],
+      "name" : "Satellite",
+      "release_date" : "2014-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1ZocCJ1c4V46xAAFJa7DIs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 377463,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61200235"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3H14v9PiWGskHdaH6sUL7F"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3H14v9PiWGskHdaH6sUL7F",
+    "id" : "3H14v9PiWGskHdaH6sUL7F",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dusty",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8ebac671a04c55e34ea2755f797506716daa40e6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3H14v9PiWGskHdaH6sUL7F"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/40zbSghjuZnTdi5oidFmTQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/40zbSghjuZnTdi5oidFmTQ",
+      "id" : "40zbSghjuZnTdi5oidFmTQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273430e8f33ba10bf07cd06e6fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02430e8f33ba10bf07cd06e6fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851430e8f33ba10bf07cd06e6fe",
+        "width" : 64
+      } ],
+      "name" : "Zenith",
+      "release_date" : "2017-10-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:40zbSghjuZnTdi5oidFmTQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft"
+      },
+      "href" : "https://api.spotify.com/v1/artists/35GfziDKCTh1aPNFDPuSft",
+      "id" : "35GfziDKCTh1aPNFDPuSft",
+      "name" : "Zøe",
+      "type" : "artist",
+      "uri" : "spotify:artist:35GfziDKCTh1aPNFDPuSft"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 396276,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEH741709283"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0vPWDaYA8GxQkx6UB0vQge"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0vPWDaYA8GxQkx6UB0vQge",
+    "id" : "0vPWDaYA8GxQkx6UB0vQge",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hypnotize",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dac2de75f13cdad5e384fb5cb42128339031ba92?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0vPWDaYA8GxQkx6UB0vQge"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5y7JlSx3o2nJWS0UCXziCZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5y7JlSx3o2nJWS0UCXziCZ",
+      "id" : "5y7JlSx3o2nJWS0UCXziCZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273509aa28ed3d3601159b7464c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02509aa28ed3d3601159b7464c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851509aa28ed3d3601159b7464c",
+        "width" : 64
+      } ],
+      "name" : "Polyester",
+      "release_date" : "2021-05-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5y7JlSx3o2nJWS0UCXziCZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 402053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ITN3C2100031"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5FvcpP9xqu6wAw56f2ZUbE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5FvcpP9xqu6wAw56f2ZUbE",
+    "id" : "5FvcpP9xqu6wAw56f2ZUbE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Polyester",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fe13e73a5a183bd29f2ef784a1fa39c53f19c451?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5FvcpP9xqu6wAw56f2ZUbE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1vbfrwjnDL9VEUQzw1Nd54"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1vbfrwjnDL9VEUQzw1Nd54",
+      "id" : "1vbfrwjnDL9VEUQzw1Nd54",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e79958e5b3efedebe3b39e0d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e79958e5b3efedebe3b39e0d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e79958e5b3efedebe3b39e0d",
+        "width" : 64
+      } ],
+      "name" : "Desire / Mercury",
+      "release_date" : "2017-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1vbfrwjnDL9VEUQzw1Nd54"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 410840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEH741700288"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3YTu1Pt2j7GVFyPpbnIfnw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3YTu1Pt2j7GVFyPpbnIfnw",
+    "id" : "3YTu1Pt2j7GVFyPpbnIfnw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Desire",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a4ee2db28b1f48796d51ec2bf48f9d8b69e1825c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3YTu1Pt2j7GVFyPpbnIfnw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/40zbSghjuZnTdi5oidFmTQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/40zbSghjuZnTdi5oidFmTQ",
+      "id" : "40zbSghjuZnTdi5oidFmTQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273430e8f33ba10bf07cd06e6fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02430e8f33ba10bf07cd06e6fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851430e8f33ba10bf07cd06e6fe",
+        "width" : 64
+      } ],
+      "name" : "Zenith",
+      "release_date" : "2017-10-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:40zbSghjuZnTdi5oidFmTQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 404224,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEH741711974"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4e8ybhE6TTbdqOZUdBGgZX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4e8ybhE6TTbdqOZUdBGgZX",
+    "id" : "4e8ybhE6TTbdqOZUdBGgZX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gravity",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b6d77fa3d746b184a8684a9fd07977eb711456fc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4e8ybhE6TTbdqOZUdBGgZX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ZocCJ1c4V46xAAFJa7DIs",
+      "id" : "1ZocCJ1c4V46xAAFJa7DIs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732191bc73e6a348ccee462a41",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022191bc73e6a348ccee462a41",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512191bc73e6a348ccee462a41",
+        "width" : 64
+      } ],
+      "name" : "Satellite",
+      "release_date" : "2014-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1ZocCJ1c4V46xAAFJa7DIs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 474058,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61200239"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3SxmsAUvRRou88iPCMRaAj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3SxmsAUvRRou88iPCMRaAj",
+    "id" : "3SxmsAUvRRou88iPCMRaAj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sunflower",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1b25007af0e8bd107fecafee9af149c8d2749e7f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:3SxmsAUvRRou88iPCMRaAj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1FtYORL3kjclIVewmkVg5w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1FtYORL3kjclIVewmkVg5w",
+      "id" : "1FtYORL3kjclIVewmkVg5w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b1f2828005815a349f3292e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b1f2828005815a349f3292e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b1f2828005815a349f3292e2",
+        "width" : 64
+      } ],
+      "name" : "The Beat",
+      "release_date" : "2016-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:1FtYORL3kjclIVewmkVg5w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0EW9lm37RfPGenLwuAWuSx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0EW9lm37RfPGenLwuAWuSx",
+      "id" : "0EW9lm37RfPGenLwuAWuSx",
+      "name" : "Zoe",
+      "type" : "artist",
+      "uri" : "spotify:artist:0EW9lm37RfPGenLwuAWuSx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 469603,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61600102"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1wkDPTi5PdTMx9kZEy0oQ3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1wkDPTi5PdTMx9kZEy0oQ3",
+    "id" : "1wkDPTi5PdTMx9kZEy0oQ3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Beat",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2e348c7cb4b1f8acfeb39571f8333a939d9c3046?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1wkDPTi5PdTMx9kZEy0oQ3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1N8PDRjg53HtxNuAB24ibQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1N8PDRjg53HtxNuAB24ibQ",
+      "id" : "1N8PDRjg53HtxNuAB24ibQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273557675ec107a6f0082994c40",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02557675ec107a6f0082994c40",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851557675ec107a6f0082994c40",
+        "width" : 64
+      } ],
+      "name" : "Black Leather EP",
+      "release_date" : "2013-10-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:1N8PDRjg53HtxNuAB24ibQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 413189,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61200104"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/22cw0FR7PUuP8KOUAFiJvn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/22cw0FR7PUuP8KOUAFiJvn",
+    "id" : "22cw0FR7PUuP8KOUAFiJvn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Chocolate",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/31a5247e1859245e8183486c14613b967afbbdfc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:22cw0FR7PUuP8KOUAFiJvn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+        "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name" : "Sam Paganini",
+        "type" : "artist",
+        "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0WIf46ZhjFbYjT8YTumAkY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0WIf46ZhjFbYjT8YTumAkY",
+      "id" : "0WIf46ZhjFbYjT8YTumAkY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a27fe1af335e94653edc6ece",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a27fe1af335e94653edc6ece",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a27fe1af335e94653edc6ece",
+        "width" : 64
+      } ],
+      "name" : "Light + Shadow",
+      "release_date" : "2021-10-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0WIf46ZhjFbYjT8YTumAkY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50ZyjIaVHOy5Xt7FLJ7RZl",
+      "id" : "50ZyjIaVHOy5Xt7FLJ7RZl",
+      "name" : "Sam Paganini",
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 424870,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ITN3C2100040"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5wkAxGgA5MDC8lCQdXufWB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5wkAxGgA5MDC8lCQdXufWB",
+    "id" : "5wkAxGgA5MDC8lCQdXufWB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Starlight",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/77014fd16fd3a26c33a4f8ebd29744b76a2f6f80?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5wkAxGgA5MDC8lCQdXufWB"
+  } ]
+}

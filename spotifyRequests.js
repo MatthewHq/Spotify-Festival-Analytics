@@ -9,21 +9,20 @@ export async function bulkArtistCache() {
     return new Promise(async (resolve, reject) => {
         console.log("ASYNC CHECKPOINT bulkArtistCache")
         await credManager.supplyTokenData()
-        let promises = []
         setTimeout(async () => {
+            let promises = []
             let lineup = fs.readFileSync('mainDB/artists.json', 'utf8')
             lineup = JSON.parse(lineup)
-            lineup.artists.forEach(async (artist) => {
+            for (let i = 0; i < lineup.artists.length; i++) {
+                let artist = lineup.artists[i]
                 console.log(artist)
                 let check = await dbManage.checkForJSON(artist, './searchQueryBank')
                 if (!check) {
                     let search = await searchArtist(artist)
+                    // let search = JSON.stringify({ "DATA": "1" }) // debug
                     promises.push(dbManage.promiseWriteFile('./searchQueryBank/' + artist + ".json", search))
-                    // fs.writeFile('./searchQueryBank/' + artist + ".json", search, (err) => {
-                    //     if (err) reject(err);
-                    // });
                 }
-            });
+            }
             await Promise.all(promises)
             console.log('bulkArtistCache files created successfully.');
             resolve(true)
@@ -36,8 +35,8 @@ export async function bulkArtistCache() {
 export async function bulkArtistTopTrack() {
     return new Promise(async (resolve, reject) => {
         await credManager.supplyTokenData()
-        let promises = []
         setTimeout(async () => {
+            let promises = []
             let artistsPath = './artistDB'
             let topTracksDBPath = './topTracksDB'
             let files = await dbManage.promiseReadDir(artistsPath)
@@ -202,7 +201,7 @@ export async function getMultiTrackAudioFeatures(allIds) {
             }
         }
         let getDat = await generalGet(options)
-        console.log("| " + getDat + " |")
+        // console.log("| " + getDat + " |")
         resolve(getDat)
     })
 }
@@ -234,8 +233,9 @@ export async function getAllTrackAudioFeatures() {
                     // console.log(JSON.stringify(multiTrackArray))
                     console.log("batch of 100 number" + batchCount)
                     for (let j = 0; j < batchCounter; j++) {
-                        allTracks.tracks[j + batchCount * 100].audio_features =
-                            multiTrackArray.audio_features[j * batchCount * 100]
+                        console.log("writing to " + (j + (batchCount * 100)))
+                        allTracks.tracks[j + (batchCount * 100)].audio_features =
+                            multiTrackArray.audio_features[j]
                     }
                     batchCount++;
                     allIds = ""
@@ -248,8 +248,9 @@ export async function getAllTrackAudioFeatures() {
             multiTrackArray = JSON.parse(multiTrackArray)
             console.log("final batch of " + batchCounter)
             for (let j = 0; j < batchCounter; j++) {
-                allTracks.tracks[j + batchCount * 100].audio_features =
-                    multiTrackArray.audio_features[j * batchCount * 100]
+                console.log("writing to " + (j + (batchCount * 100)))
+                allTracks.tracks[j + (batchCount * 100)].audio_features =
+                    multiTrackArray.audio_features[j]
             }
             // allTracks.tracks.forEach(async (element) => {
             //     allIds += "," + element.track.id
@@ -315,7 +316,7 @@ export async function overWriteArtists() {
         for (let i = 0; i < toOW.artists.length; i++) {
             let artist = toOW.artists[i]
             let artistData = await getArtist(artist.id)
-            promises.push(await fs.writeFile("artistDB/" + artist.name + ".json", artistData, (err) => {
+            promises.push(fs.writeFile("artistDB/" + artist.name + ".json", artistData, (err) => {
                 if (err) reject(err);
                 // console.log('File is created ' + file);
             }))

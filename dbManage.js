@@ -35,6 +35,7 @@ export async function artistCollect() {
         try { var files = await promiseReadDir(searchQBPath) } catch (err) {
             reject(err)
         }
+        console.log("FILES " + files)
         for (let i = 0; i < files.length; i++) {
             // console.log("ASYNC CHECKPOINT INNER FOR LOOP ARTISTCOLLECT")
             let artistQuery = fs.readFileSync(searchQBPath + '/' + files[i], 'utf8')
@@ -175,7 +176,7 @@ export async function allArtistsToCSVcustom() {
 
         for (let i = 0; i < allArtists.artists.length; i++) {
             let artistObj = {}
-            artistObj.name = allArtists.artists[i].name
+            artistObj.name = allArtists.artists[i].name.replace(/,/g, "")
             artistObj.followers = allArtists.artists[i].followers.total
             artistObj.popularity = allArtists.artists[i].popularity
 
@@ -193,6 +194,8 @@ export async function allArtistsToCSVcustom() {
             artistObj.url = allArtists.artists[i].external_urls.spotify
             if (allArtists.artists[i].images.length > 0) {
                 artistObj.image = allArtists.artists[i].images[0].url
+            } else {
+                artistObj.image = "notAvailable"
             }
             console.log(JSON.stringify(artistObj))
             data[i] = artistObj
@@ -202,6 +205,75 @@ export async function allArtistsToCSVcustom() {
         console.log(data)
         let datCSV = arrToCSV(data)
         resolve(await promiseWriteFile("mainDB/allArtists.CSV", datCSV))
+    })
+}
+
+export async function allTracksToCSVcustom() {
+    return new Promise(async (resolve, reject) => {
+        let topTracksPath = 'mainDB/topTracksData.json'
+        let topTracks = fs.readFileSync(topTracksPath, 'utf8')
+        topTracks = JSON.parse(topTracks)
+        let data = []
+
+        for (let i = 0; i < topTracks.tracks.length; i++) {
+            let currTrack = topTracks.tracks[i]
+
+            let trackObj = {}
+            trackObj.name = currTrack.track.name.replace(/,/g, "")
+            console.log(trackObj.name + " " + i)
+            trackObj.artist = currTrack.artist.name.replace(/,/g, "")
+            trackObj.artistPopularity = currTrack.artist.popularity
+            trackObj.artistFollowers = currTrack.artist.followers.total
+            trackObj.popularity = currTrack.track.popularity
+
+
+
+            trackObj.topTrackOrder = currTrack.topTrackOrder
+
+
+            if (currTrack.audio_features != null) {
+                trackObj.danceability = currTrack.audio_features.danceability
+                trackObj.energy = currTrack.audio_features.energy
+                trackObj.speechiness = currTrack.audio_features.speechiness
+            } else {
+                trackObj.danceability = "nan"
+                trackObj.energy = "nan"
+                trackObj.speechiness = "nan"
+            }
+
+            if (currTrack.track.external_urls != null) {
+                trackObj.trackURL = currTrack.track.external_urls.spotify
+            } else {
+                trackObj.trackURL = "nan"
+            }
+
+            if (currTrack.track.preview_url != null) {
+                trackObj.trackPrev = currTrack.track.preview_url
+            } else {
+                trackObj.trackPrev = "nan"
+            }
+
+
+            if (currTrack.artist.external_urls != null) {
+                trackObj.artistURL = currTrack.artist.external_urls.spotify
+            } else {
+                trackObj.artistURL = "nan"
+            }
+
+            if (currTrack.artist.images.length > 0) {
+                trackObj.image = currTrack.artist.images[0].url
+            } else {
+                trackObj.image = "nan"
+            }
+
+            console.log(trackObj)
+            data[i] = trackObj
+
+        }
+
+        console.log(data)
+        let datCSV = arrToCSV(data)
+        resolve(await promiseWriteFile("mainDB/allTopTracks.CSV", datCSV))
     })
 }
 

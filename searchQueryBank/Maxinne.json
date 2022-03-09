@@ -7,7 +7,7 @@
       },
       "followers" : {
         "href" : null,
-        "total" : 5102
+        "total" : 5106
       },
       "genres" : [ "deep groove house", "disco house", "funky tech house", "house" ],
       "href" : "https://api.spotify.com/v1/artists/3sv9dCyzqOsGcJHPl5seiq",
@@ -29,34 +29,6 @@
       "popularity" : 38,
       "type" : "artist",
       "uri" : "spotify:artist:3sv9dCyzqOsGcJHPl5seiq"
-    }, {
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/artist/3HSGbLHJ6fmmhnBB3CzN1V"
-      },
-      "followers" : {
-        "href" : null,
-        "total" : 615
-      },
-      "genres" : [ ],
-      "href" : "https://api.spotify.com/v1/artists/3HSGbLHJ6fmmhnBB3CzN1V",
-      "id" : "3HSGbLHJ6fmmhnBB3CzN1V",
-      "images" : [ {
-        "height" : 640,
-        "url" : "https://i.scdn.co/image/ab67616d0000b2732411b5c00863cb6efe23ffe6",
-        "width" : 640
-      }, {
-        "height" : 300,
-        "url" : "https://i.scdn.co/image/ab67616d00001e022411b5c00863cb6efe23ffe6",
-        "width" : 300
-      }, {
-        "height" : 64,
-        "url" : "https://i.scdn.co/image/ab67616d000048512411b5c00863cb6efe23ffe6",
-        "width" : 64
-      } ],
-      "name" : "Maxi Gen",
-      "popularity" : 54,
-      "type" : "artist",
-      "uri" : "spotify:artist:3HSGbLHJ6fmmhnBB3CzN1V"
     }, {
       "external_urls" : {
         "spotify" : "https://open.spotify.com/artist/1JrPagZH9gNCA6QH2JEiWr"
@@ -118,6 +90,6 @@
     "next" : null,
     "offset" : 0,
     "previous" : null,
-    "total" : 4
+    "total" : 3
   }
 }

@@ -4,28 +4,31 @@ import * as credManager from './credManager.js';
 import * as spotifyRequests from './spotifyRequests.js'
 import * as dbManage from './dbManage.js'
 async function main() {
-    // credManager.readDat("token")
-    // let credToken = await credManager.supplyTokenData()
-    // console.log(credToken.access_token + "| async")
-    // var aSearch = await spotifyRequests.searchArtist("fisher")
-    // console.log(aSearch)
-    // let check= await dbManage.dbCheckQuery("a")
-    // console.log(check)
-
-
+    //MAIN PROCEDURE HERE ++++++++++++++++
     credManager.readDat("token")
     setTimeout(() => {
         credManager.supplyTokenData()
     }, 1000);
 
-    setTimeout(() => {
-        spotifyRequests.bulkArtistCache() //up to here so far
-        // .then(dbManage.artistCollect())
-        // .then(spotifyRequests.bulkArtistTopTrack())
-        // .then(dbManage.consolidateTopTracks())
-    }, 4000);
+    setTimeout(async () => {
+        await spotifyRequests.bulkArtistCache()
+        await dbManage.artistCollect()
+        await spotifyRequests.overWriteArtists()
+        await spotifyRequests.bulkArtistTopTrack()
+        await spotifyRequests.getAllTrackAudioFeatures()
+        await dbManage.consolidateTopTracks()
+        await dbManage.consolidateArtists()
+        await dbManage.allArtistsToCSVcustom()
+        await dbManage.allTracksToCSVcustom()
 
-    
+    }, 2000);
+
+    //MAIN PROCEDURE HERE ++++++++++++++++++
+
+
+
+
+
     // let artist = await spotifyRequests.getArtist("3NYySx3H1V7zHemD9hmsQv")
     // console.log(artist)
 
