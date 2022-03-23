@@ -14,12 +14,12 @@ async function main() {
     }, 1000);
 
     setTimeout(async () => {
-        dbManage.iniFestival(festivalTitle)
-        await spotifyRequests.bulkArtistCache(festivalTitle)
-        await dbManage.artistCollect(festivalTitle)
-        await spotifyRequests.overWriteArtists(festivalTitle)
-        await spotifyRequests.bulkArtistTopTrack(festivalTitle)
-        await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
+        // dbManage.iniFestival(festivalTitle)
+        // await spotifyRequests.bulkArtistCache(festivalTitle)
+        // await dbManage.artistCollect(festivalTitle)
+        // await spotifyRequests.overWriteArtists(festivalTitle)
+        // await spotifyRequests.bulkArtistTopTrack(festivalTitle)
+        // await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
         await dbManage.consolidateTopTracks(festivalTitle)
         await dbManage.consolidateArtists(festivalTitle)
         await dbManage.allArtistsToCSVcustom(festivalTitle)

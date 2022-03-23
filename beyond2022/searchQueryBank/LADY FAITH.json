@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=LADY+FAITH&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1va2Hj3SvWvu3L6jAN6k01"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9448
+      },
+      "genres" : [ "classic hardstyle", "hardstyle", "rawstyle" ],
+      "href" : "https://api.spotify.com/v1/artists/1va2Hj3SvWvu3L6jAN6k01",
+      "id" : "1va2Hj3SvWvu3L6jAN6k01",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc289526079a9fc1ce92d793a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c289526079a9fc1ce92d793a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c289526079a9fc1ce92d793a",
+        "width" : 160
+      } ],
+      "name" : "Lady Faith",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:1va2Hj3SvWvu3L6jAN6k01"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/773rTPI0NuZkzHczuohu4e"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/773rTPI0NuZkzHczuohu4e",
+      "id" : "773rTPI0NuZkzHczuohu4e",
+      "images" : [ ],
+      "name" : "Lady Faith",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:773rTPI0NuZkzHczuohu4e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PVlOJXH2I0h8tKlUUEIGm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5PVlOJXH2I0h8tKlUUEIGm",
+      "id" : "5PVlOJXH2I0h8tKlUUEIGm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f4055e6c802d2b74e9fb215f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f4055e6c802d2b74e9fb215f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f4055e6c802d2b74e9fb215f",
+        "width" : 64
+      } ],
+      "name" : "Lady Faith",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5PVlOJXH2I0h8tKlUUEIGm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nYefl8378g3GVRHdCWYxa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0nYefl8378g3GVRHdCWYxa",
+      "id" : "0nYefl8378g3GVRHdCWYxa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734cbcc16e4e5d187549cd8d24",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024cbcc16e4e5d187549cd8d24",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514cbcc16e4e5d187549cd8d24",
+        "width" : 64
+      } ],
+      "name" : "Chimène Manzambi \"The lady of faith\"",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0nYefl8378g3GVRHdCWYxa"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

@@ -1,0 +1,844 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+        "id" : "3CjPghA9sowRwFGSrU038J",
+        "name" : "Junkie Kid",
+        "type" : "artist",
+        "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4MncqghqizuZMGN71WuAyO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4MncqghqizuZMGN71WuAyO",
+      "id" : "4MncqghqizuZMGN71WuAyO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ff6aa08acd0a235344fe239",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ff6aa08acd0a235344fe239",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ff6aa08acd0a235344fe239",
+        "width" : 64
+      } ],
+      "name" : "Toro",
+      "release_date" : "2018-05-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4MncqghqizuZMGN71WuAyO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 203580,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USA2P1835871"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/61IktHTlHcUGQxvHrzA8jm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/61IktHTlHcUGQxvHrzA8jm",
+    "id" : "61IktHTlHcUGQxvHrzA8jm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Toro",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d9fb788a8131879edb64f913df7740bdde70c489?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:61IktHTlHcUGQxvHrzA8jm"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Q6CDBTFFKnanZ20DS2QnQ",
+        "id" : "1Q6CDBTFFKnanZ20DS2QnQ",
+        "name" : "Reggio",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Q6CDBTFFKnanZ20DS2QnQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04Ze9i5w3NXno5DdMNpJZC",
+        "id" : "04Ze9i5w3NXno5DdMNpJZC",
+        "name" : "Olly James",
+        "type" : "artist",
+        "uri" : "spotify:artist:04Ze9i5w3NXno5DdMNpJZC"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3BG4EqMRkllEyVBMmRG162"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3BG4EqMRkllEyVBMmRG162",
+      "id" : "3BG4EqMRkllEyVBMmRG162",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d055cc233d70890b887c73ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d055cc233d70890b887c73ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d055cc233d70890b887c73ab",
+        "width" : 64
+      } ],
+      "name" : "Speed of Light (Junkie Kid Remix)",
+      "release_date" : "2016-07-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3BG4EqMRkllEyVBMmRG162"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Q6CDBTFFKnanZ20DS2QnQ",
+      "id" : "1Q6CDBTFFKnanZ20DS2QnQ",
+      "name" : "Reggio",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Q6CDBTFFKnanZ20DS2QnQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04Ze9i5w3NXno5DdMNpJZC",
+      "id" : "04Ze9i5w3NXno5DdMNpJZC",
+      "name" : "Olly James",
+      "type" : "artist",
+      "uri" : "spotify:artist:04Ze9i5w3NXno5DdMNpJZC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 226968,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKQU1668739"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/71DRBEXgydhyaVr86QTn45"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/71DRBEXgydhyaVr86QTn45",
+    "id" : "71DRBEXgydhyaVr86QTn45",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Speed of Light - Junkie Kid Remix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8be7be333daff5e9cab7a7b9b11fd74975ae39c2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:71DRBEXgydhyaVr86QTn45"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LIl9fjMPEZp8UDiL8Yuo4",
+        "id" : "0LIl9fjMPEZp8UDiL8Yuo4",
+        "name" : "4B",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LIl9fjMPEZp8UDiL8Yuo4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+        "id" : "3CjPghA9sowRwFGSrU038J",
+        "name" : "Junkie Kid",
+        "type" : "artist",
+        "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3dseRZqicGZp7U6Sib0BWa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3dseRZqicGZp7U6Sib0BWa",
+      "id" : "3dseRZqicGZp7U6Sib0BWa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ad2b517aad6a5fdea3b56bf5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ad2b517aad6a5fdea3b56bf5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ad2b517aad6a5fdea3b56bf5",
+        "width" : 64
+      } ],
+      "name" : "Love Is Dead",
+      "release_date" : "2017-04-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3dseRZqicGZp7U6Sib0BWa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LIl9fjMPEZp8UDiL8Yuo4",
+      "id" : "0LIl9fjMPEZp8UDiL8Yuo4",
+      "name" : "4B",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LIl9fjMPEZp8UDiL8Yuo4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 153230,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLQ8D1700076"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1f11Vwl6LXUXTKUuZpt4se"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1f11Vwl6LXUXTKUuZpt4se",
+    "id" : "1f11Vwl6LXUXTKUuZpt4se",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love Is Dead",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0d7cd338a6e415a8d8e793bdcd044466ea5eebb3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1f11Vwl6LXUXTKUuZpt4se"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1kiZfWU37oS0pCOV7Os1Pj",
+        "id" : "1kiZfWU37oS0pCOV7Os1Pj",
+        "name" : "GRAVEDGR",
+        "type" : "artist",
+        "uri" : "spotify:artist:1kiZfWU37oS0pCOV7Os1Pj"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/25r8pqNVU29qtWSvIxdxGl",
+      "id" : "25r8pqNVU29qtWSvIxdxGl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e77957525a1ad029c2e53c20",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e77957525a1ad029c2e53c20",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e77957525a1ad029c2e53c20",
+        "width" : 64
+      } ],
+      "name" : "6 FEET UNDER",
+      "release_date" : "2020-02-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:25r8pqNVU29qtWSvIxdxGl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1kiZfWU37oS0pCOV7Os1Pj",
+      "id" : "1kiZfWU37oS0pCOV7Os1Pj",
+      "name" : "GRAVEDGR",
+      "type" : "artist",
+      "uri" : "spotify:artist:1kiZfWU37oS0pCOV7Os1Pj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 227685,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM24S2001088"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/32OnibT7zFfw4KfKCgLGHr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/32OnibT7zFfw4KfKCgLGHr",
+    "id" : "32OnibT7zFfw4KfKCgLGHr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "MARIA",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a4d4fd718bcf23008aa0ab245331095e7b1113da?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:32OnibT7zFfw4KfKCgLGHr"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CCjtD0hCK005Bvg2WG1a7",
+        "id" : "7CCjtD0hCK005Bvg2WG1a7",
+        "name" : "Carnage",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CCjtD0hCK005Bvg2WG1a7"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+        "id" : "3CjPghA9sowRwFGSrU038J",
+        "name" : "Junkie Kid",
+        "type" : "artist",
+        "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4BNefqgmHstHlE3AIrxSjm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4BNefqgmHstHlE3AIrxSjm",
+      "id" : "4BNefqgmHstHlE3AIrxSjm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27368cd03e7e250f19ed84c96ba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0268cd03e7e250f19ed84c96ba",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485168cd03e7e250f19ed84c96ba",
+        "width" : 64
+      } ],
+      "name" : "Krakatoa",
+      "release_date" : "2014-04-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4BNefqgmHstHlE3AIrxSjm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CCjtD0hCK005Bvg2WG1a7",
+      "id" : "7CCjtD0hCK005Bvg2WG1a7",
+      "name" : "Carnage",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CCjtD0hCK005Bvg2WG1a7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 259992,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CYA111300069"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Yw9JsekwhkhLoD6bpArT2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Yw9JsekwhkhLoD6bpArT2",
+    "id" : "5Yw9JsekwhkhLoD6bpArT2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Krakatoa",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c88ed4e49a0ac120be571fcb5ff48f8218f435fa?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5Yw9JsekwhkhLoD6bpArT2"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/72iCiKwu6nu6Qq9emIwzYv",
+        "id" : "72iCiKwu6nu6Qq9emIwzYv",
+        "name" : "Kayzo",
+        "type" : "artist",
+        "uri" : "spotify:artist:72iCiKwu6nu6Qq9emIwzYv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bHyQBzxvxyU2X96Qpjwi7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bHyQBzxvxyU2X96Qpjwi7",
+      "id" : "2bHyQBzxvxyU2X96Qpjwi7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731ca34bfd454e4b7918909470",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021ca34bfd454e4b7918909470",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511ca34bfd454e4b7918909470",
+        "width" : 64
+      } ],
+      "name" : "Black & White EP",
+      "release_date" : "2016-11-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:2bHyQBzxvxyU2X96Qpjwi7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/72iCiKwu6nu6Qq9emIwzYv",
+      "id" : "72iCiKwu6nu6Qq9emIwzYv",
+      "name" : "Kayzo",
+      "type" : "artist",
+      "uri" : "spotify:artist:72iCiKwu6nu6Qq9emIwzYv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 263164,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQY51608983"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4R8VmOjz8stFpO6VIm6vDY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4R8VmOjz8stFpO6VIm6vDY",
+    "id" : "4R8VmOjz8stFpO6VIm6vDY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "More Than Ever",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/42ed5d9484cf81c45fd7cdc73d4346e74884deed?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4R8VmOjz8stFpO6VIm6vDY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+        "id" : "540vIaP2JwjQb9dm3aArA4",
+        "name" : "DJ Snake",
+        "type" : "artist",
+        "uri" : "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2l1PKPVAMtIG6S3VfZWQYZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2l1PKPVAMtIG6S3VfZWQYZ",
+      "id" : "2l1PKPVAMtIG6S3VfZWQYZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739555161e691ba3f3b84a4c7b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029555161e691ba3f3b84a4c7b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519555161e691ba3f3b84a4c7b",
+        "width" : 64
+      } ],
+      "name" : "Here Comes The Night (Remixes)",
+      "release_date" : "2017-04-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:2l1PKPVAMtIG6S3VfZWQYZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+      "id" : "540vIaP2JwjQb9dm3aArA4",
+      "name" : "DJ Snake",
+      "type" : "artist",
+      "uri" : "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1zV9UjTUevjp5VUddqIUUn",
+      "id" : "1zV9UjTUevjp5VUddqIUUn",
+      "name" : "Mr Hudson",
+      "type" : "artist",
+      "uri" : "spotify:artist:1zV9UjTUevjp5VUddqIUUn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 274511,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMZSY1700163"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2HfWcw5a1XZY52JlLqsWmO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2HfWcw5a1XZY52JlLqsWmO",
+    "id" : "2HfWcw5a1XZY52JlLqsWmO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Here Comes The Night - Junkie Kid Remix",
+    "popularity" : 31,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2HfWcw5a1XZY52JlLqsWmO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LIl9fjMPEZp8UDiL8Yuo4",
+        "id" : "0LIl9fjMPEZp8UDiL8Yuo4",
+        "name" : "4B",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LIl9fjMPEZp8UDiL8Yuo4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+        "id" : "3CjPghA9sowRwFGSrU038J",
+        "name" : "Junkie Kid",
+        "type" : "artist",
+        "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1x0ScxgiyFRQDKT4VwcLHa",
+        "id" : "1x0ScxgiyFRQDKT4VwcLHa",
+        "name" : "LNY TNZ",
+        "type" : "artist",
+        "uri" : "spotify:artist:1x0ScxgiyFRQDKT4VwcLHa"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5NDy2Iyi9ULnMHUvySlpAO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5NDy2Iyi9ULnMHUvySlpAO",
+      "id" : "5NDy2Iyi9ULnMHUvySlpAO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ff0a14288cc02368acc4de1d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ff0a14288cc02368acc4de1d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ff0a14288cc02368acc4de1d",
+        "width" : 64
+      } ],
+      "name" : "Love Is Dead (LNY TNZ Remix)",
+      "release_date" : "2018-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5NDy2Iyi9ULnMHUvySlpAO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LIl9fjMPEZp8UDiL8Yuo4",
+      "id" : "0LIl9fjMPEZp8UDiL8Yuo4",
+      "name" : "4B",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LIl9fjMPEZp8UDiL8Yuo4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1x0ScxgiyFRQDKT4VwcLHa",
+      "id" : "1x0ScxgiyFRQDKT4VwcLHa",
+      "name" : "LNY TNZ",
+      "type" : "artist",
+      "uri" : "spotify:artist:1x0ScxgiyFRQDKT4VwcLHa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 118800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLQ8D1800028"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/62TFSnIRu1F9Ryshll4jFO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/62TFSnIRu1F9Ryshll4jFO",
+    "id" : "62TFSnIRu1F9Ryshll4jFO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love Is Dead - LNY TNZ Remix",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2d1478f0b7a958e490d8701dc8bf3890d4683da7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:62TFSnIRu1F9Ryshll4jFO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+        "id" : "3CjPghA9sowRwFGSrU038J",
+        "name" : "Junkie Kid",
+        "type" : "artist",
+        "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5za9nsr6ne6HQDKrKcyQNB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5za9nsr6ne6HQDKrKcyQNB",
+      "id" : "5za9nsr6ne6HQDKrKcyQNB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329e9cbdff56c434aa3f925e6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229e9cbdff56c434aa3f925e6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129e9cbdff56c434aa3f925e6",
+        "width" : 64
+      } ],
+      "name" : "Find Yourself",
+      "release_date" : "2018-05-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:5za9nsr6ne6HQDKrKcyQNB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 166043,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZCE61847321"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1jhXkNk5qsny9h9egAGcos"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1jhXkNk5qsny9h9egAGcos",
+    "id" : "1jhXkNk5qsny9h9egAGcos",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mamá",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7cf177d99851a66223d703be001f0401c87ddc98?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1jhXkNk5qsny9h9egAGcos"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LIl9fjMPEZp8UDiL8Yuo4",
+        "id" : "0LIl9fjMPEZp8UDiL8Yuo4",
+        "name" : "4B",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LIl9fjMPEZp8UDiL8Yuo4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5G3rEG93OMpckCIEcGWGPO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5G3rEG93OMpckCIEcGWGPO",
+      "id" : "5G3rEG93OMpckCIEcGWGPO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738014a4d8b44fb2487a29d7f4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028014a4d8b44fb2487a29d7f4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518014a4d8b44fb2487a29d7f4",
+        "width" : 64
+      } ],
+      "name" : "Ice Cold (Remixes)",
+      "release_date" : "2018-08-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5G3rEG93OMpckCIEcGWGPO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LIl9fjMPEZp8UDiL8Yuo4",
+      "id" : "0LIl9fjMPEZp8UDiL8Yuo4",
+      "name" : "4B",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LIl9fjMPEZp8UDiL8Yuo4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1I84ICwXGdegIrMPLkgoaU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1I84ICwXGdegIrMPLkgoaU",
+      "id" : "1I84ICwXGdegIrMPLkgoaU",
+      "name" : "Megan Lee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1I84ICwXGdegIrMPLkgoaU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CjPghA9sowRwFGSrU038J",
+      "id" : "3CjPghA9sowRwFGSrU038J",
+      "name" : "Junkie Kid",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CjPghA9sowRwFGSrU038J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 175764,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM6MZ1887806"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3b1RM12RdgmXVkHEH0A07l"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3b1RM12RdgmXVkHEH0A07l",
+    "id" : "3b1RM12RdgmXVkHEH0A07l",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ice Cold - Junkie Kid Remix",
+    "popularity" : 27,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3b1RM12RdgmXVkHEH0A07l"
+  } ]
+}

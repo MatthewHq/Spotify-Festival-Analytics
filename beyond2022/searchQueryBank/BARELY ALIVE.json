@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BARELY+ALIVE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 177538
+      },
+      "genres" : [ "brostep", "dubstep", "edm", "electro house", "electronic trap", "gaming dubstep", "melodic dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/5c3akKV3CUqAVOnGZqf4S3",
+      "id" : "5c3akKV3CUqAVOnGZqf4S3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb578eb59ddfebc23be2dcd4c8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174578eb59ddfebc23be2dcd4c8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178578eb59ddfebc23be2dcd4c8",
+        "width" : 160
+      } ],
+      "name" : "Barely Alive",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:5c3akKV3CUqAVOnGZqf4S3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0JF8x5SxMvVoYq6GP0KDFO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0JF8x5SxMvVoYq6GP0KDFO",
+      "id" : "0JF8x5SxMvVoYq6GP0KDFO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c1e01d8f3985f44f39e8f0c1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c1e01d8f3985f44f39e8f0c1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c1e01d8f3985f44f39e8f0c1",
+        "width" : 64
+      } ],
+      "name" : "A Man Barely Alive",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0JF8x5SxMvVoYq6GP0KDFO"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

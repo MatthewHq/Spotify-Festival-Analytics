@@ -1,6 +1,5 @@
 import * as https from 'https'
 import * as credManager from './credManager.js'
-import * as queryString from 'query-string'
 
 var creds = credManager.readDat("creds")
 var client_id = creds.client_id; // Your client id

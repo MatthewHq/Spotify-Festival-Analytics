@@ -117,7 +117,7 @@ export function readDat(type) {
             exists = true
         }
     } catch (err) {
-        // console.error(err)
+        console.error(err)
     }
 
     //if exists read it, else CREATE and write to it

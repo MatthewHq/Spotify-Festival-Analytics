@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SUB+ZERO+PROJECT&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 118611
+      },
+      "genres" : [ "euphoric hardstyle", "rawstyle" ],
+      "href" : "https://api.spotify.com/v1/artists/4f0OXMMSxr0r8Ztx6CdpAl",
+      "id" : "4f0OXMMSxr0r8Ztx6CdpAl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb70dbe902d7495106172ed30e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517470dbe902d7495106172ed30e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17870dbe902d7495106172ed30e",
+        "width" : 160
+      } ],
+      "name" : "Sub Zero Project",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:4f0OXMMSxr0r8Ztx6CdpAl"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

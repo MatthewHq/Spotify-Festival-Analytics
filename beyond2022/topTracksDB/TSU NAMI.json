@@ -1,0 +1,781 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+        "id" : "3jdMkaMs7875drsoUevvyu",
+        "name" : "Tsu Nami",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XiGZPN1W6HhJDz4shx8VZ",
+        "id" : "0XiGZPN1W6HhJDz4shx8VZ",
+        "name" : "Skyler Cocco",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XiGZPN1W6HhJDz4shx8VZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2cKZ0UC91sfu1ko3vprDnh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2cKZ0UC91sfu1ko3vprDnh",
+      "id" : "2cKZ0UC91sfu1ko3vprDnh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f27b66f324278477ebb2a316",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f27b66f324278477ebb2a316",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f27b66f324278477ebb2a316",
+        "width" : 64
+      } ],
+      "name" : "Party",
+      "release_date" : "2021-02-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2cKZ0UC91sfu1ko3vprDnh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XiGZPN1W6HhJDz4shx8VZ",
+      "id" : "0XiGZPN1W6HhJDz4shx8VZ",
+      "name" : "Skyler Cocco",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XiGZPN1W6HhJDz4shx8VZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 177552,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLRD51632602"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0CuAj0akPWDPmRauLNtF9P"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0CuAj0akPWDPmRauLNtF9P",
+    "id" : "0CuAj0akPWDPmRauLNtF9P",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Party",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/41839d7e4de56bf2d9dfb98b0386ef63cf2af3b1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0CuAj0akPWDPmRauLNtF9P"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+        "id" : "3jdMkaMs7875drsoUevvyu",
+        "name" : "Tsu Nami",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3IoL23eRnUfAwnOTsbTLVp",
+        "id" : "3IoL23eRnUfAwnOTsbTLVp",
+        "name" : "Dani King",
+        "type" : "artist",
+        "uri" : "spotify:artist:3IoL23eRnUfAwnOTsbTLVp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0mojBj3o9EM3B13S5AaY52"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0mojBj3o9EM3B13S5AaY52",
+      "id" : "0mojBj3o9EM3B13S5AaY52",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dd1649c786d5e5a6c247f5f4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dd1649c786d5e5a6c247f5f4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dd1649c786d5e5a6c247f5f4",
+        "width" : 64
+      } ],
+      "name" : "Angel",
+      "release_date" : "2022-02-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0mojBj3o9EM3B13S5AaY52"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IoL23eRnUfAwnOTsbTLVp",
+      "id" : "3IoL23eRnUfAwnOTsbTLVp",
+      "name" : "Dani King",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IoL23eRnUfAwnOTsbTLVp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202434,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLRD51632868"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1qX54AHbcvUeGCLM9lzorU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1qX54AHbcvUeGCLM9lzorU",
+    "id" : "1qX54AHbcvUeGCLM9lzorU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Angel",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0f08a7e3deb8971480e96680594fd5e5a3e11c44?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1qX54AHbcvUeGCLM9lzorU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7FqSU53yVH1SQAtLZ63DGS",
+        "id" : "7FqSU53yVH1SQAtLZ63DGS",
+        "name" : "Rohaan",
+        "type" : "artist",
+        "uri" : "spotify:artist:7FqSU53yVH1SQAtLZ63DGS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/10CfVKDNpvnzdlP9GsZjI9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/10CfVKDNpvnzdlP9GsZjI9",
+      "id" : "10CfVKDNpvnzdlP9GsZjI9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273862d777954567756aa467c45",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02862d777954567756aa467c45",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851862d777954567756aa467c45",
+        "width" : 64
+      } ],
+      "name" : "Bleach Remixes",
+      "release_date" : "2021-08-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:10CfVKDNpvnzdlP9GsZjI9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7FqSU53yVH1SQAtLZ63DGS",
+      "id" : "7FqSU53yVH1SQAtLZ63DGS",
+      "name" : "Rohaan",
+      "type" : "artist",
+      "uri" : "spotify:artist:7FqSU53yVH1SQAtLZ63DGS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2181035"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0peOvIy7NerouGHvXO9b0y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0peOvIy7NerouGHvXO9b0y",
+    "id" : "0peOvIy7NerouGHvXO9b0y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "City of Ezra - Tsu Nami Remix",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8dd4240f0e8d34d91de88f12c9b6ca1c30786c00?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0peOvIy7NerouGHvXO9b0y"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+        "id" : "3jdMkaMs7875drsoUevvyu",
+        "name" : "Tsu Nami",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1V9QPInVC2lnvMYGyknSQg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1V9QPInVC2lnvMYGyknSQg",
+      "id" : "1V9QPInVC2lnvMYGyknSQg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27347bf12e417d03eace1971b79",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0247bf12e417d03eace1971b79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485147bf12e417d03eace1971b79",
+        "width" : 64
+      } ],
+      "name" : "Easy To Love",
+      "release_date" : "2021-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1V9QPInVC2lnvMYGyknSQg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLRD51632739"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/30qGsRFj9dgIhZqxH6EwH4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/30qGsRFj9dgIhZqxH6EwH4",
+    "id" : "30qGsRFj9dgIhZqxH6EwH4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Easy To Love",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/205de5d736c13208c4b460db28e02c5a48e91d11?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:30qGsRFj9dgIhZqxH6EwH4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+        "id" : "3jdMkaMs7875drsoUevvyu",
+        "name" : "Tsu Nami",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4MVG42fEPbnV1Hm9kdDuzZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4MVG42fEPbnV1Hm9kdDuzZ",
+      "id" : "4MVG42fEPbnV1Hm9kdDuzZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d8810400239152524eaef8fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d8810400239152524eaef8fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d8810400239152524eaef8fe",
+        "width" : 64
+      } ],
+      "name" : "Ethereal",
+      "release_date" : "2022-02-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:4MVG42fEPbnV1Hm9kdDuzZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XiGZPN1W6HhJDz4shx8VZ",
+      "id" : "0XiGZPN1W6HhJDz4shx8VZ",
+      "name" : "Skyler Cocco",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XiGZPN1W6HhJDz4shx8VZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 221538,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLRD51632905"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/76zmGyRffSW0aAThzbsZvi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/76zmGyRffSW0aAThzbsZvi",
+    "id" : "76zmGyRffSW0aAThzbsZvi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fire",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3114165f381a5aa333bb404f1bf70c084dfcbacf?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:76zmGyRffSW0aAThzbsZvi"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+        "id" : "3jdMkaMs7875drsoUevvyu",
+        "name" : "Tsu Nami",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/49nqo2DQsN0uLSsrDF7D24"
+      },
+      "href" : "https://api.spotify.com/v1/albums/49nqo2DQsN0uLSsrDF7D24",
+      "id" : "49nqo2DQsN0uLSsrDF7D24",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736739c41bb7721dd7fe25682f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026739c41bb7721dd7fe25682f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516739c41bb7721dd7fe25682f",
+        "width" : 64
+      } ],
+      "name" : "Dream About You",
+      "release_date" : "2021-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:49nqo2DQsN0uLSsrDF7D24"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/29siAJ78u7y79BYOyh0lbp",
+      "id" : "29siAJ78u7y79BYOyh0lbp",
+      "name" : "Luma",
+      "type" : "artist",
+      "uri" : "spotify:artist:29siAJ78u7y79BYOyh0lbp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213637,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLRD51632821"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7ImKTptfTfSsr6YzLSUdPi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7ImKTptfTfSsr6YzLSUdPi",
+    "id" : "7ImKTptfTfSsr6YzLSUdPi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dream About You",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c5dd86588ebd4d9448da9d06029be56be8c7fb68?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7ImKTptfTfSsr6YzLSUdPi"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ixBQngmF4ZFXYHi8sJTfl",
+        "id" : "2ixBQngmF4ZFXYHi8sJTfl",
+        "name" : "juuku",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ixBQngmF4ZFXYHi8sJTfl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4EukMPjtYsdi87lkU1hIxN",
+        "id" : "4EukMPjtYsdi87lkU1hIxN",
+        "name" : "Manila Killa",
+        "type" : "artist",
+        "uri" : "spotify:artist:4EukMPjtYsdi87lkU1hIxN"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4dlJQTnfpRaUyzkrfo3qNT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4dlJQTnfpRaUyzkrfo3qNT",
+      "id" : "4dlJQTnfpRaUyzkrfo3qNT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27365fe5303b821ac082c55a091",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0265fe5303b821ac082c55a091",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485165fe5303b821ac082c55a091",
+        "width" : 64
+      } ],
+      "name" : "Just Lost (The Remixes)",
+      "release_date" : "2021-06-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:4dlJQTnfpRaUyzkrfo3qNT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ixBQngmF4ZFXYHi8sJTfl",
+      "id" : "2ixBQngmF4ZFXYHi8sJTfl",
+      "name" : "juuku",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ixBQngmF4ZFXYHi8sJTfl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EukMPjtYsdi87lkU1hIxN",
+      "id" : "4EukMPjtYsdi87lkU1hIxN",
+      "name" : "Manila Killa",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EukMPjtYsdi87lkU1hIxN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 204705,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZ8QY2100033"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5qxho3B2ZxgCt9dycKEHP1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5qxho3B2ZxgCt9dycKEHP1",
+    "id" : "5qxho3B2ZxgCt9dycKEHP1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Just Lost - Tsu Nami Remix",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/75b785578bc4d7f427e30cf59d1a4fb5a6c4b11b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5qxho3B2ZxgCt9dycKEHP1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+        "id" : "3jdMkaMs7875drsoUevvyu",
+        "name" : "Tsu Nami",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/24VnUZ6IrlTlSNyYspNL0u"
+      },
+      "href" : "https://api.spotify.com/v1/albums/24VnUZ6IrlTlSNyYspNL0u",
+      "id" : "24VnUZ6IrlTlSNyYspNL0u",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fb3a43351691ff0dcef4ada6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fb3a43351691ff0dcef4ada6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fb3a43351691ff0dcef4ada6",
+        "width" : 64
+      } ],
+      "name" : "Faster",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:24VnUZ6IrlTlSNyYspNL0u"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZNWT2040164"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0iw5kw1xVtuf0Z5ec6nqfN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0iw5kw1xVtuf0Z5ec6nqfN",
+    "id" : "0iw5kw1xVtuf0Z5ec6nqfN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Faster",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/838831eaaeafb37fe28f618f21f7cf824c4ee1ae?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0iw5kw1xVtuf0Z5ec6nqfN"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+        "id" : "3jdMkaMs7875drsoUevvyu",
+        "name" : "Tsu Nami",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4MVG42fEPbnV1Hm9kdDuzZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4MVG42fEPbnV1Hm9kdDuzZ",
+      "id" : "4MVG42fEPbnV1Hm9kdDuzZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d8810400239152524eaef8fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d8810400239152524eaef8fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d8810400239152524eaef8fe",
+        "width" : 64
+      } ],
+      "name" : "Ethereal",
+      "release_date" : "2022-02-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:4MVG42fEPbnV1Hm9kdDuzZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 252774,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLRD51632906"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ZECsZc8SdttFVlaz9Z7ZT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ZECsZc8SdttFVlaz9Z7ZT",
+    "id" : "4ZECsZc8SdttFVlaz9Z7ZT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ethereal",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6880f0fa86282d705de47354b19984a04eac7525?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4ZECsZc8SdttFVlaz9Z7ZT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5xR2U3IJuuJP89isSMnxtd",
+        "id" : "5xR2U3IJuuJP89isSMnxtd",
+        "name" : "STAR SEED",
+        "type" : "artist",
+        "uri" : "spotify:artist:5xR2U3IJuuJP89isSMnxtd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+        "id" : "3jdMkaMs7875drsoUevvyu",
+        "name" : "Tsu Nami",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1c8N2LK9n17Q85nQkzeDYk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1c8N2LK9n17Q85nQkzeDYk",
+      "id" : "1c8N2LK9n17Q85nQkzeDYk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732d29744475dcfc53806ecf83",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022d29744475dcfc53806ecf83",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512d29744475dcfc53806ecf83",
+        "width" : 64
+      } ],
+      "name" : "Ultraviolet (with Tsu Nami)",
+      "release_date" : "2021-05-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1c8N2LK9n17Q85nQkzeDYk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xR2U3IJuuJP89isSMnxtd",
+      "id" : "5xR2U3IJuuJP89isSMnxtd",
+      "name" : "STAR SEED",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xR2U3IJuuJP89isSMnxtd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jdMkaMs7875drsoUevvyu",
+      "id" : "3jdMkaMs7875drsoUevvyu",
+      "name" : "Tsu Nami",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jdMkaMs7875drsoUevvyu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 169600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA2102500"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ZetupNlBSzqDRhNMm14ro"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ZetupNlBSzqDRhNMm14ro",
+    "id" : "5ZetupNlBSzqDRhNMm14ro",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ultraviolet (with Tsu Nami)",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e880d234162bb034c7abf989be32e84ddf257a69?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5ZetupNlBSzqDRhNMm14ro"
+  } ]
+}

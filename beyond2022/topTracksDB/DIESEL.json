@@ -1,0 +1,844 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/77AiFEVeAVj2ORpC85QVJs",
+        "id" : "77AiFEVeAVj2ORpC85QVJs",
+        "name" : "Steve Aoki",
+        "type" : "artist",
+        "uri" : "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+        "id" : "67RWyN1fDOu7WuSTIi5hE7",
+        "name" : "Shaquille O'Neal",
+        "type" : "artist",
+        "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6hhEQkw3cuI1HQ61Xma7Cy",
+      "id" : "6hhEQkw3cuI1HQ61Xma7Cy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734bcc4e43f022acf74d1c91b5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024bcc4e43f022acf74d1c91b5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514bcc4e43f022acf74d1c91b5",
+        "width" : 64
+      } ],
+      "name" : "Welcome to the Playhouse",
+      "release_date" : "2022-01-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6hhEQkw3cuI1HQ61Xma7Cy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/77AiFEVeAVj2ORpC85QVJs",
+      "id" : "77AiFEVeAVj2ORpC85QVJs",
+      "name" : "Steve Aoki",
+      "type" : "artist",
+      "uri" : "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 188571,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDM32139601"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1qXTtWP0sNcePb3tT2eHWL",
+    "id" : "1qXTtWP0sNcePb3tT2eHWL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Welcome to the Playhouse",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6f49024b874cd8e130214cf97bdea985d768c187?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1qXTtWP0sNcePb3tT2eHWL"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21AUdblPrTRzkvJn8FGrlk",
+        "id" : "21AUdblPrTRzkvJn8FGrlk",
+        "name" : "Nitti Gritti",
+        "type" : "artist",
+        "uri" : "spotify:artist:21AUdblPrTRzkvJn8FGrlk"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+        "id" : "67RWyN1fDOu7WuSTIi5hE7",
+        "name" : "Shaquille O'Neal",
+        "type" : "artist",
+        "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4820AP0lvBGJjSK0PXgZgo",
+        "id" : "4820AP0lvBGJjSK0PXgZgo",
+        "name" : "IVORY",
+        "type" : "artist",
+        "uri" : "spotify:artist:4820AP0lvBGJjSK0PXgZgo"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0W1fVHmZ0s1E5l8EOWI5T6",
+      "id" : "0W1fVHmZ0s1E5l8EOWI5T6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737a68023c17febce4b8d5e5b4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027a68023c17febce4b8d5e5b4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517a68023c17febce4b8d5e5b4",
+        "width" : 64
+      } ],
+      "name" : "Moshpit / Comin For Ya Neck",
+      "release_date" : "2021-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0W1fVHmZ0s1E5l8EOWI5T6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21AUdblPrTRzkvJn8FGrlk",
+      "id" : "21AUdblPrTRzkvJn8FGrlk",
+      "name" : "Nitti Gritti",
+      "type" : "artist",
+      "uri" : "spotify:artist:21AUdblPrTRzkvJn8FGrlk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4820AP0lvBGJjSK0PXgZgo",
+      "id" : "4820AP0lvBGJjSK0PXgZgo",
+      "name" : "IVORY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4820AP0lvBGJjSK0PXgZgo"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 177600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR0000614"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6EgTYGPIKWgKUf4QnJ3dr7",
+    "id" : "6EgTYGPIKWgKUf4QnJ3dr7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Moshpit",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3877c8e2f1749c0c6ffe59ca2759ec878858b4ea?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6EgTYGPIKWgKUf4QnJ3dr7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Se1y4vDcu9fVHLqdj1N3q",
+        "id" : "6Se1y4vDcu9fVHLqdj1N3q",
+        "name" : "Wuki",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Se1y4vDcu9fVHLqdj1N3q"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Wa2Q6AhkbVvlpu1Wuz8Ir",
+      "id" : "2Wa2Q6AhkbVvlpu1Wuz8Ir",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27372b2d5438b18cab459317e0a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0272b2d5438b18cab459317e0a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485172b2d5438b18cab459317e0a",
+        "width" : 64
+      } ],
+      "name" : "WukiWorld",
+      "release_date" : "2021-03-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2Wa2Q6AhkbVvlpu1Wuz8Ir"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Se1y4vDcu9fVHLqdj1N3q",
+      "id" : "6Se1y4vDcu9fVHLqdj1N3q",
+      "name" : "Wuki",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Se1y4vDcu9fVHLqdj1N3q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1St1N6TsS6S7md9bXTBWJx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1St1N6TsS6S7md9bXTBWJx",
+      "id" : "1St1N6TsS6S7md9bXTBWJx",
+      "name" : "Scrilla King",
+      "type" : "artist",
+      "uri" : "spotify:artist:1St1N6TsS6S7md9bXTBWJx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 171151,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR2107641"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4o6VZA8EusQrSSEs8dlcB9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4o6VZA8EusQrSSEs8dlcB9",
+    "id" : "4o6VZA8EusQrSSEs8dlcB9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "SHUTUP (with Scrilla King)",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/29a9781e0d256f22cc391560efae3fe552585b09?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:4o6VZA8EusQrSSEs8dlcB9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+        "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+        "name" : "NGHTMRE",
+        "type" : "artist",
+        "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+        "id" : "67RWyN1fDOu7WuSTIi5hE7",
+        "name" : "Shaquille O'Neal",
+        "type" : "artist",
+        "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7sfl4Xt5KmfyDs2T3SVSMK",
+        "id" : "7sfl4Xt5KmfyDs2T3SVSMK",
+        "name" : "Lil Jon",
+        "type" : "artist",
+        "uri" : "spotify:artist:7sfl4Xt5KmfyDs2T3SVSMK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4zqJkjapazatkZRvwiG37H"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4zqJkjapazatkZRvwiG37H",
+      "id" : "4zqJkjapazatkZRvwiG37H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304d2e936e7154dfb7ae278e5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204d2e936e7154dfb7ae278e5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104d2e936e7154dfb7ae278e5",
+        "width" : 64
+      } ],
+      "name" : "BANG",
+      "release_date" : "2019-02-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4zqJkjapazatkZRvwiG37H"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+      "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+      "name" : "NGHTMRE",
+      "type" : "artist",
+      "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7sfl4Xt5KmfyDs2T3SVSMK",
+      "id" : "7sfl4Xt5KmfyDs2T3SVSMK",
+      "name" : "Lil Jon",
+      "type" : "artist",
+      "uri" : "spotify:artist:7sfl4Xt5KmfyDs2T3SVSMK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 203750,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR1909309"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5qRUEyakcE4cKgxAFrokNm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5qRUEyakcE4cKgxAFrokNm",
+    "id" : "5qRUEyakcE4cKgxAFrokNm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "BANG",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2a0e5a8b8afa8b21e72fc30288af206a13756d79?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5qRUEyakcE4cKgxAFrokNm"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6sYyA68IIlFTfDlHzDFlGT",
+        "id" : "6sYyA68IIlFTfDlHzDFlGT",
+        "name" : "FREAKY",
+        "type" : "artist",
+        "uri" : "spotify:artist:6sYyA68IIlFTfDlHzDFlGT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+        "id" : "67RWyN1fDOu7WuSTIi5hE7",
+        "name" : "Shaquille O'Neal",
+        "type" : "artist",
+        "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0CLdX3LC98CUhc1FrKCKgh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0CLdX3LC98CUhc1FrKCKgh",
+      "id" : "0CLdX3LC98CUhc1FrKCKgh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c9fc01f10fb28e949c1127e9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c9fc01f10fb28e949c1127e9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c9fc01f10fb28e949c1127e9",
+        "width" : 64
+      } ],
+      "name" : "Backbreaker",
+      "release_date" : "2022-02-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0CLdX3LC98CUhc1FrKCKgh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sYyA68IIlFTfDlHzDFlGT",
+      "id" : "6sYyA68IIlFTfDlHzDFlGT",
+      "name" : "FREAKY",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sYyA68IIlFTfDlHzDFlGT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 188607,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QZHCR2100256"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2mhD6IAZ7oGdRT8bzFI5tF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2mhD6IAZ7oGdRT8bzFI5tF",
+    "id" : "2mhD6IAZ7oGdRT8bzFI5tF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Backbreaker",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/994c8cabea9855046099b7f2918661a6cec00e40?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2mhD6IAZ7oGdRT8bzFI5tF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05BMTFbYu3UZ61SYiu7mTg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05BMTFbYu3UZ61SYiu7mTg",
+        "id" : "05BMTFbYu3UZ61SYiu7mTg",
+        "name" : "BLVD.",
+        "type" : "artist",
+        "uri" : "spotify:artist:05BMTFbYu3UZ61SYiu7mTg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7hxnQqs6G0wr5ZjXlYePLz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7hxnQqs6G0wr5ZjXlYePLz",
+      "id" : "7hxnQqs6G0wr5ZjXlYePLz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27352729fbc689e8b3fbfdd90bd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0252729fbc689e8b3fbfdd90bd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485152729fbc689e8b3fbfdd90bd",
+        "width" : 64
+      } ],
+      "name" : "Area Code",
+      "release_date" : "2022-03-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:7hxnQqs6G0wr5ZjXlYePLz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05BMTFbYu3UZ61SYiu7mTg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05BMTFbYu3UZ61SYiu7mTg",
+      "id" : "05BMTFbYu3UZ61SYiu7mTg",
+      "name" : "BLVD.",
+      "type" : "artist",
+      "uri" : "spotify:artist:05BMTFbYu3UZ61SYiu7mTg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 173492,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6P42175551"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3xyOYstOQ0gbg3QYfTDux3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3xyOYstOQ0gbg3QYfTDux3",
+    "id" : "3xyOYstOQ0gbg3QYfTDux3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Posterize",
+    "popularity" : 7,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9c82104062b2ea7d2bd658d4c7821de2aa0830ba?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:3xyOYstOQ0gbg3QYfTDux3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+        "id" : "67RWyN1fDOu7WuSTIi5hE7",
+        "name" : "Shaquille O'Neal",
+        "type" : "artist",
+        "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2oPRn2Dp9Ytk3A4JCp5Gqw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2oPRn2Dp9Ytk3A4JCp5Gqw",
+      "id" : "2oPRn2Dp9Ytk3A4JCp5Gqw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738dd425b3facfa072423522f6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028dd425b3facfa072423522f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518dd425b3facfa072423522f6",
+        "width" : 64
+      } ],
+      "name" : "Shaq Diesel",
+      "release_date" : "1993-10-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:2oPRn2Dp9Ytk3A4JCp5Gqw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23haIv2PI4w3c3qX3Nx2A2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/23haIv2PI4w3c3qX3Nx2A2",
+      "id" : "23haIv2PI4w3c3qX3Nx2A2",
+      "name" : "Def Jef",
+      "type" : "artist",
+      "uri" : "spotify:artist:23haIv2PI4w3c3qX3Nx2A2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 263053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHK9300191"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0TEQ2QmFXnHCgQvYuvsbp2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0TEQ2QmFXnHCgQvYuvsbp2",
+    "id" : "0TEQ2QmFXnHCgQvYuvsbp2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "(I Know I Got) Skillz (feat. Def Jef)",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6a164d9db727f8583342cbd3d7b125b66e9e5332?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0TEQ2QmFXnHCgQvYuvsbp2"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6hBrJJrcYoNhvLC6KaFR4b",
+        "id" : "6hBrJJrcYoNhvLC6KaFR4b",
+        "name" : "Eliminate",
+        "type" : "artist",
+        "uri" : "spotify:artist:6hBrJJrcYoNhvLC6KaFR4b"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+        "id" : "67RWyN1fDOu7WuSTIi5hE7",
+        "name" : "Shaquille O'Neal",
+        "type" : "artist",
+        "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1j3YlwD993MMhJgmZfmzQ7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1j3YlwD993MMhJgmZfmzQ7",
+      "id" : "1j3YlwD993MMhJgmZfmzQ7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fec2bdfce09504100faed581",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fec2bdfce09504100faed581",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fec2bdfce09504100faed581",
+        "width" : 64
+      } ],
+      "name" : "Tear It Up",
+      "release_date" : "2020-07-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1j3YlwD993MMhJgmZfmzQ7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hBrJJrcYoNhvLC6KaFR4b",
+      "id" : "6hBrJJrcYoNhvLC6KaFR4b",
+      "name" : "Eliminate",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hBrJJrcYoNhvLC6KaFR4b"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218879,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2053606"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/08xW6It0k2mjTq5LvGeTGK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/08xW6It0k2mjTq5LvGeTGK",
+    "id" : "08xW6It0k2mjTq5LvGeTGK",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Tear It Up",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/87a51a3318d2a617988c9a042765edcf100e5af1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:08xW6It0k2mjTq5LvGeTGK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+        "id" : "67RWyN1fDOu7WuSTIi5hE7",
+        "name" : "Shaquille O'Neal",
+        "type" : "artist",
+        "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2oPRn2Dp9Ytk3A4JCp5Gqw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2oPRn2Dp9Ytk3A4JCp5Gqw",
+      "id" : "2oPRn2Dp9Ytk3A4JCp5Gqw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738dd425b3facfa072423522f6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028dd425b3facfa072423522f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518dd425b3facfa072423522f6",
+        "width" : 64
+      } ],
+      "name" : "Shaq Diesel",
+      "release_date" : "1993-10-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:2oPRn2Dp9Ytk3A4JCp5Gqw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2BnZSEAPhFsB1RIyeEgXmN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2BnZSEAPhFsB1RIyeEgXmN",
+      "id" : "2BnZSEAPhFsB1RIyeEgXmN",
+      "name" : "FU-Schnickens",
+      "type" : "artist",
+      "uri" : "spotify:artist:2BnZSEAPhFsB1RIyeEgXmN"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 232800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHK9300046"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jEpBCtZFu1Zum12SUwDii"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jEpBCtZFu1Zum12SUwDii",
+    "id" : "6jEpBCtZFu1Zum12SUwDii",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "What's Up Doc? (Can We Rock) (feat. Fu-Schnickens)",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1bf225dc0dd4c476b5b3e8189f4ef74928953dca?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:6jEpBCtZFu1Zum12SUwDii"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7lpD1kUQGoOaNw3KRt6snH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7lpD1kUQGoOaNw3KRt6snH",
+      "id" : "7lpD1kUQGoOaNw3KRt6snH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736a95d0e3b7a9da90a85b66f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026a95d0e3b7a9da90a85b66f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516a95d0e3b7a9da90a85b66f0",
+        "width" : 64
+      } ],
+      "name" : "Steel - Music Inspired By The Original Motion Picture Soundtrack",
+      "release_date" : "2005-12-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7lpD1kUQGoOaNw3KRt6snH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67RWyN1fDOu7WuSTIi5hE7",
+      "id" : "67RWyN1fDOu7WuSTIi5hE7",
+      "name" : "Shaquille O'Neal",
+      "type" : "artist",
+      "uri" : "spotify:artist:67RWyN1fDOu7WuSTIi5hE7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQW19700083"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ghwi1suqbAe35y7UPFVEI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ghwi1suqbAe35y7UPFVEI",
+    "id" : "4ghwi1suqbAe35y7UPFVEI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Strait Playin' - Superman Remix",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/67d053d8c9ece3e930de9f0a1b86c508cd684a0e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4ghwi1suqbAe35y7UPFVEI"
+  } ]
+}

@@ -1,0 +1,419 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=JUELZ&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 658190
+      },
+      "genres" : [ "gangster rap", "harlem hip hop", "hip hop", "nyc rap", "pop rap", "rap", "trap" ],
+      "href" : "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+      "id" : "6Uh8uJyN9g7oFjDK16nJgb",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/3181f9da53d969400dc55574f2b227dc461d2e12",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fd059014112ed144f16a8e3d03233b68bee5d0a1",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/f3d75c93cb230d4d5be42e5e647efcd37b96f202",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/f1b36faaea9dfea05612b309220f7f68526224a6",
+        "width" : 64
+      } ],
+      "name" : "Juelz Santana",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cg1B8WS1psVugo0XyY4Sz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2cg1B8WS1psVugo0XyY4Sz",
+      "id" : "2cg1B8WS1psVugo0XyY4Sz",
+      "images" : [ ],
+      "name" : "JUELZ",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2cg1B8WS1psVugo0XyY4Sz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17641
+      },
+      "genres" : [ "canadian electronic", "electronic trap", "traprun", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb958d0574bebb6b261a6eb3a7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174958d0574bebb6b261a6eb3a7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178958d0574bebb6b261a6eb3a7",
+        "width" : 160
+      } ],
+      "name" : "Juelz",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/30TrtVnoijTsN0T6GUqJPi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4812
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/30TrtVnoijTsN0T6GUqJPi",
+      "id" : "30TrtVnoijTsN0T6GUqJPi",
+      "images" : [ ],
+      "name" : "Juelz Santana, Cam'ron",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:30TrtVnoijTsN0T6GUqJPi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45qgAjF58xHtUhqxHx5FrI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1442
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/45qgAjF58xHtUhqxHx5FrI",
+      "id" : "45qgAjF58xHtUhqxHx5FrI",
+      "images" : [ ],
+      "name" : "Juelz",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:45qgAjF58xHtUhqxHx5FrI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3XDMzWsPQ7cUQTGFaJetuP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 957
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3XDMzWsPQ7cUQTGFaJetuP",
+      "id" : "3XDMzWsPQ7cUQTGFaJetuP",
+      "images" : [ ],
+      "name" : "Cam'ron, UGK, Juelz Santana, Ludacris, Trina",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:3XDMzWsPQ7cUQTGFaJetuP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3kAh1GMJbUBjmiORUpRSdH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 499
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3kAh1GMJbUBjmiORUpRSdH",
+      "id" : "3kAh1GMJbUBjmiORUpRSdH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebac08d14df4a281521adeb6fa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ac08d14df4a281521adeb6fa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ac08d14df4a281521adeb6fa",
+        "width" : 160
+      } ],
+      "name" : "Juelz Vice",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:3kAh1GMJbUBjmiORUpRSdH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69fbJyJ7iaEueSviOxwXPy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 310
+      },
+      "genres" : [ "boom bap" ],
+      "href" : "https://api.spotify.com/v1/artists/69fbJyJ7iaEueSviOxwXPy",
+      "id" : "69fbJyJ7iaEueSviOxwXPy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27354bd9c752621147e640bc166",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0254bd9c752621147e640bc166",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485154bd9c752621147e640bc166",
+        "width" : 64
+      } ],
+      "name" : "Juelz White",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:69fbJyJ7iaEueSviOxwXPy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4u34N39F4OWaIcwCqo1j10"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4u34N39F4OWaIcwCqo1j10",
+      "id" : "4u34N39F4OWaIcwCqo1j10",
+      "images" : [ ],
+      "name" : "Juelz B",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:4u34N39F4OWaIcwCqo1j10"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1sUzTNdyzSJUErUdvQQxO5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1sUzTNdyzSJUErUdvQQxO5",
+      "id" : "1sUzTNdyzSJUErUdvQQxO5",
+      "images" : [ ],
+      "name" : "Shmoney Juelz",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:1sUzTNdyzSJUErUdvQQxO5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dkYTEmUD4jDJLD16UQ4i8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3dkYTEmUD4jDJLD16UQ4i8",
+      "id" : "3dkYTEmUD4jDJLD16UQ4i8",
+      "images" : [ ],
+      "name" : "Juelz Santa",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:3dkYTEmUD4jDJLD16UQ4i8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0iqE3xxie6c2tjzS4XtmmK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0iqE3xxie6c2tjzS4XtmmK",
+      "id" : "0iqE3xxie6c2tjzS4XtmmK",
+      "images" : [ ],
+      "name" : "Juelz Santana, Chris Breezy",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:0iqE3xxie6c2tjzS4XtmmK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1zxqQUphtS7epbKyCc3X3j"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 977
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1zxqQUphtS7epbKyCc3X3j",
+      "id" : "1zxqQUphtS7epbKyCc3X3j",
+      "images" : [ ],
+      "name" : "Juelz Santana, JR Writer, Gravy",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:1zxqQUphtS7epbKyCc3X3j"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AXf3II9plbpCWJkIQK8J1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3AXf3II9plbpCWJkIQK8J1",
+      "id" : "3AXf3II9plbpCWJkIQK8J1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4ccbcda6e025ab2c5ae9bc0c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744ccbcda6e025ab2c5ae9bc0c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784ccbcda6e025ab2c5ae9bc0c",
+        "width" : 160
+      } ],
+      "name" : "Juelz",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:3AXf3II9plbpCWJkIQK8J1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7p0UG7e8hsJZPMrkxecpkG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7p0UG7e8hsJZPMrkxecpkG",
+      "id" : "7p0UG7e8hsJZPMrkxecpkG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb931571012d4e530992a1856b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174931571012d4e530992a1856b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178931571012d4e530992a1856b",
+        "width" : 160
+      } ],
+      "name" : "Jae Juelz",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:7p0UG7e8hsJZPMrkxecpkG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11QeLupuaNBNyQXYYvNdSy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 290
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/11QeLupuaNBNyQXYYvNdSy",
+      "id" : "11QeLupuaNBNyQXYYvNdSy",
+      "images" : [ ],
+      "name" : "Juelz Santana (of Dipset)",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:11QeLupuaNBNyQXYYvNdSy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6q8Jb9LmXFxZ3XTRndAG34"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 87
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6q8Jb9LmXFxZ3XTRndAG34",
+      "id" : "6q8Jb9LmXFxZ3XTRndAG34",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd6b0dd4e5c176ffae5bed179",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d6b0dd4e5c176ffae5bed179",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d6b0dd4e5c176ffae5bed179",
+        "width" : 160
+      } ],
+      "name" : "Gso King Juelz",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:6q8Jb9LmXFxZ3XTRndAG34"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1eiiK4o9pAzHwWrHO4N54J"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 719
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1eiiK4o9pAzHwWrHO4N54J",
+      "id" : "1eiiK4o9pAzHwWrHO4N54J",
+      "images" : [ ],
+      "name" : "Juelz Santana, Jae Millz",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:1eiiK4o9pAzHwWrHO4N54J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dZTRbHcFVRMbYajloQF9x"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 898
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1dZTRbHcFVRMbYajloQF9x",
+      "id" : "1dZTRbHcFVRMbYajloQF9x",
+      "images" : [ ],
+      "name" : "Hell Rell, Juelz Santana",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:1dZTRbHcFVRMbYajloQF9x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yixY0OvLKWdPsrltFNjKz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 18
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6yixY0OvLKWdPsrltFNjKz",
+      "id" : "6yixY0OvLKWdPsrltFNjKz",
+      "images" : [ ],
+      "name" : "Juelz Santana, Jim Jones, Hell Rell, Cam'ron",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6yixY0OvLKWdPsrltFNjKz"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=JUELZ&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 128
+  }
+}

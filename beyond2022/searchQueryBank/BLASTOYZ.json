@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BLASTOYZ&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 76832
+      },
+      "genres" : [ "psychedelic trance" ],
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe7316dc067612c9ad0a13596",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e7316dc067612c9ad0a13596",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e7316dc067612c9ad0a13596",
+        "width" : 160
+      } ],
+      "name" : "Blastoyz",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tEJddw17OgXzpXxogGP8y"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6tEJddw17OgXzpXxogGP8y",
+      "id" : "6tEJddw17OgXzpXxogGP8y",
+      "images" : [ ],
+      "name" : "Blastoyz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6tEJddw17OgXzpXxogGP8y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Q9o4FF8AToqPBQE6gQxc8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Q9o4FF8AToqPBQE6gQxc8",
+      "id" : "0Q9o4FF8AToqPBQE6gQxc8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d69e7e996683a4208d49b97",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d69e7e996683a4208d49b97",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d69e7e996683a4208d49b97",
+        "width" : 64
+      } ],
+      "name" : "Blastoyz, Bizzare contact",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Q9o4FF8AToqPBQE6gQxc8"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

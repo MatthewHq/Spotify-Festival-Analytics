@@ -1,0 +1,97 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21AUdblPrTRzkvJn8FGrlk",
+        "id" : "21AUdblPrTRzkvJn8FGrlk",
+        "name" : "Nitti Gritti",
+        "type" : "artist",
+        "uri" : "spotify:artist:21AUdblPrTRzkvJn8FGrlk"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UbGoX9NIkzDmvTCj1xioH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UbGoX9NIkzDmvTCj1xioH",
+        "id" : "2UbGoX9NIkzDmvTCj1xioH",
+        "name" : "Fixion",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UbGoX9NIkzDmvTCj1xioH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1RgVVJwjehEavgemzY3OdB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1RgVVJwjehEavgemzY3OdB",
+      "id" : "1RgVVJwjehEavgemzY3OdB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273082fdb18ae457589802101bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02082fdb18ae457589802101bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851082fdb18ae457589802101bf",
+        "width" : 64
+      } ],
+      "name" : "Matrix (VIP + Fixion Remix)",
+      "release_date" : "2021-06-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1RgVVJwjehEavgemzY3OdB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21AUdblPrTRzkvJn8FGrlk",
+      "id" : "21AUdblPrTRzkvJn8FGrlk",
+      "name" : "Nitti Gritti",
+      "type" : "artist",
+      "uri" : "spotify:artist:21AUdblPrTRzkvJn8FGrlk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IWWEdcjhQ3aU6WIk7XdgZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IWWEdcjhQ3aU6WIk7XdgZ",
+      "id" : "3IWWEdcjhQ3aU6WIk7XdgZ",
+      "name" : "Jimmy Levy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IWWEdcjhQ3aU6WIk7XdgZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UbGoX9NIkzDmvTCj1xioH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UbGoX9NIkzDmvTCj1xioH",
+      "id" : "2UbGoX9NIkzDmvTCj1xioH",
+      "name" : "Fixion",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UbGoX9NIkzDmvTCj1xioH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2119167"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6yx7Bd7Fo1rd9hndCsniYy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6yx7Bd7Fo1rd9hndCsniYy",
+    "id" : "6yx7Bd7Fo1rd9hndCsniYy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Matrix - Fixion Remix",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6119cfcfa205a082c42f7f1aa5dd5637dd2e6041?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6yx7Bd7Fo1rd9hndCsniYy"
+  } ]
+}

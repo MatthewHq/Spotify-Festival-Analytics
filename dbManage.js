@@ -302,6 +302,12 @@ function arrToCSV(data) {
 //aimed at differences in names based on spotify search results
 //ignores spaces
 export function comprStrs(str1, str2) {
+    let lineUpInCAPS = true //SWITCH THIS IF SO
+    if (lineUpInCAPS) {
+        str1 = str1.toLowerCase()
+        str2 = str2.toLowerCase()
+    }
+
     let strEnc1 = Buffer.from(str1, 'utf-8');
     let strEnc2 = Buffer.from(str2, 'utf-8');
     let val1 = cmprStrLoop(strEnc1)

@@ -1,0 +1,563 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=4B&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 70763
+      },
+      "genres" : [ "electro house", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/0LIl9fjMPEZp8UDiL8Yuo4",
+      "id" : "0LIl9fjMPEZp8UDiL8Yuo4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb29e2049c97108551b1b1afac",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517429e2049c97108551b1b1afac",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17829e2049c97108551b1b1afac",
+        "width" : 160
+      } ],
+      "name" : "4B",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:0LIl9fjMPEZp8UDiL8Yuo4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22131903
+      },
+      "genres" : [ "beatlesque", "british invasion", "classic rock", "merseybeat", "psychedelic rock", "rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+      "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e9348cc01ff5d55971b22433",
+        "width" : 160
+      } ],
+      "name" : "The Beatles",
+      "popularity" : 88,
+      "type" : "artist",
+      "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qz6a42erIvThkmWsO96UE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10328
+      },
+      "genres" : [ "high vibe", "spiritual hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/2qz6a42erIvThkmWsO96UE",
+      "id" : "2qz6a42erIvThkmWsO96UE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb597a1e21560ac2619e064b29",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174597a1e21560ac2619e064b29",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178597a1e21560ac2619e064b29",
+        "width" : 160
+      } ],
+      "name" : "4biddenknowledge",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:2qz6a42erIvThkmWsO96UE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 361363
+      },
+      "genres" : [ "new wave pop", "pop rock" ],
+      "href" : "https://api.spotify.com/v1/artists/0Je74SitssvJg1w4Ra2EK7",
+      "id" : "0Je74SitssvJg1w4Ra2EK7",
+      "images" : [ {
+        "height" : 775,
+        "url" : "https://i.scdn.co/image/3cd1494789e29fbc85793f633def0ff7915c5872",
+        "width" : 1000
+      }, {
+        "height" : 496,
+        "url" : "https://i.scdn.co/image/13e9c39d841e62fe0f5548ffb4ee1df78fc3e82e",
+        "width" : 640
+      }, {
+        "height" : 155,
+        "url" : "https://i.scdn.co/image/2584f5cd08b11891b929938939d5bc686f0d9aeb",
+        "width" : 200
+      }, {
+        "height" : 50,
+        "url" : "https://i.scdn.co/image/5466270611fa6d6e7301fee2921ea9f25e26f47a",
+        "width" : 64
+      } ],
+      "name" : "4 Non Blondes",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Je74SitssvJg1w4Ra2EK7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YSAXaX0ZKLu5YdzeIatEA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 49
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4YSAXaX0ZKLu5YdzeIatEA",
+      "id" : "4YSAXaX0ZKLu5YdzeIatEA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7930dc53e9ed6b3322855a28",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747930dc53e9ed6b3322855a28",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787930dc53e9ed6b3322855a28",
+        "width" : 160
+      } ],
+      "name" : "4BG TAY",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4YSAXaX0ZKLu5YdzeIatEA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AtK7vJSKBampKnY8OfFeF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7584
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3AtK7vJSKBampKnY8OfFeF",
+      "id" : "3AtK7vJSKBampKnY8OfFeF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5647b70accaf4330d1bce52f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745647b70accaf4330d1bce52f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785647b70accaf4330d1bce52f",
+        "width" : 160
+      } ],
+      "name" : "4bel",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:3AtK7vJSKBampKnY8OfFeF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1437355
+      },
+      "genres" : [ "k-pop" ],
+      "href" : "https://api.spotify.com/v1/artists/4k5fFEYgkWYrYvtOK3zVBl",
+      "id" : "4k5fFEYgkWYrYvtOK3zVBl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2907b9a0f175fa8a292f1f7c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742907b9a0f175fa8a292f1f7c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782907b9a0f175fa8a292f1f7c",
+        "width" : 160
+      } ],
+      "name" : "BOL4",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:4k5fFEYgkWYrYvtOK3zVBl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0koZIjqaELmMMOm9MPX84L"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 18
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0koZIjqaELmMMOm9MPX84L",
+      "id" : "0koZIjqaELmMMOm9MPX84L",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9a6a2c357cc82f5cdf68cdcf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749a6a2c357cc82f5cdf68cdcf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789a6a2c357cc82f5cdf68cdcf",
+        "width" : 160
+      } ],
+      "name" : "4BGMRichie",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:0koZIjqaELmMMOm9MPX84L"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tfblCXj7EXPNR0oOJoImb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5tfblCXj7EXPNR0oOJoImb",
+      "id" : "5tfblCXj7EXPNR0oOJoImb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7bd9cea2b834c519095872e7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747bd9cea2b834c519095872e7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787bd9cea2b834c519095872e7",
+        "width" : 160
+      } ],
+      "name" : "4BG Ko",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:5tfblCXj7EXPNR0oOJoImb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zC79jwQte4ZTG1pKtowa4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2zC79jwQte4ZTG1pKtowa4",
+      "id" : "2zC79jwQte4ZTG1pKtowa4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fe018c7f9923670053e84d15",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fe018c7f9923670053e84d15",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fe018c7f9923670053e84d15",
+        "width" : 64
+      } ],
+      "name" : "41B Hailey",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:2zC79jwQte4ZTG1pKtowa4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7EbZYPhEv7GU0pPQMZMQsa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7EbZYPhEv7GU0pPQMZMQsa",
+      "id" : "7EbZYPhEv7GU0pPQMZMQsa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735790b497561423ed5c02addf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025790b497561423ed5c02addf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515790b497561423ed5c02addf",
+        "width" : 64
+      } ],
+      "name" : "4B",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7EbZYPhEv7GU0pPQMZMQsa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/17XhFos7kAX8vPPaifncRj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/17XhFos7kAX8vPPaifncRj",
+      "id" : "17XhFos7kAX8vPPaifncRj",
+      "images" : [ ],
+      "name" : "4Bleezy",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:17XhFos7kAX8vPPaifncRj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 311673
+      },
+      "genres" : [ "ccm", "christian alternative rock", "christian music", "christian pop", "christian rock", "worship" ],
+      "href" : "https://api.spotify.com/v1/artists/6Le23Aqwqi28fQUzfv4dHY",
+      "id" : "6Le23Aqwqi28fQUzfv4dHY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1ee81812d32e867e9bf5374b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741ee81812d32e867e9bf5374b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781ee81812d32e867e9bf5374b",
+        "width" : 160
+      } ],
+      "name" : "Building 429",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Le23Aqwqi28fQUzfv4dHY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/70cw8avnB5k0irftMjmCr1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 88
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/70cw8avnB5k0irftMjmCr1",
+      "id" : "70cw8avnB5k0irftMjmCr1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2599046a96864bcebedcf3af",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742599046a96864bcebedcf3af",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782599046a96864bcebedcf3af",
+        "width" : 160
+      } ],
+      "name" : "4B",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:70cw8avnB5k0irftMjmCr1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7glYLhHslalYBPeYuEGc2W"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 250
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7glYLhHslalYBPeYuEGc2W",
+      "id" : "7glYLhHslalYBPeYuEGc2W",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27344298993587f7157ce3e3057",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0244298993587f7157ce3e3057",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485144298993587f7157ce3e3057",
+        "width" : 64
+      } ],
+      "name" : "4Bars",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:7glYLhHslalYBPeYuEGc2W"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 230928
+      },
+      "genres" : [ "dembow", "dominican pop", "rap dominicano", "trap latino" ],
+      "href" : "https://api.spotify.com/v1/artists/4J0m1OquRGY8HYHxMocXfy",
+      "id" : "4J0m1OquRGY8HYHxMocXfy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5c86b4939130923027399156",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745c86b4939130923027399156",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785c86b4939130923027399156",
+        "width" : 160
+      } ],
+      "name" : "Bulin 47",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:4J0m1OquRGY8HYHxMocXfy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ReR3Kn56gv2F5eI1NioQv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ReR3Kn56gv2F5eI1NioQv",
+      "id" : "1ReR3Kn56gv2F5eI1NioQv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27335b925a957288ca4d5c69628",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0235b925a957288ca4d5c69628",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485135b925a957288ca4d5c69628",
+        "width" : 64
+      } ],
+      "name" : "4B",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ReR3Kn56gv2F5eI1NioQv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Evnxf4Als5zI3yYgtnoBV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1253
+      },
+      "genres" : [ "dutch indie", "dutch rock" ],
+      "href" : "https://api.spotify.com/v1/artists/6Evnxf4Als5zI3yYgtnoBV",
+      "id" : "6Evnxf4Als5zI3yYgtnoBV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfa18f4c5f488499e3f2cdc63",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fa18f4c5f488499e3f2cdc63",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fa18f4c5f488499e3f2cdc63",
+        "width" : 160
+      } ],
+      "name" : "4B2M",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Evnxf4Als5zI3yYgtnoBV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FFSOnS2tVk3cvtIK5Agfr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2FFSOnS2tVk3cvtIK5Agfr",
+      "id" : "2FFSOnS2tVk3cvtIK5Agfr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27344a415159739e2d172d9b6dd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0244a415159739e2d172d9b6dd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485144a415159739e2d172d9b6dd",
+        "width" : 64
+      } ],
+      "name" : "41B Dutchie",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:2FFSOnS2tVk3cvtIK5Agfr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19xrjdWF8SXR0WAAocvKTY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/19xrjdWF8SXR0WAAocvKTY",
+      "id" : "19xrjdWF8SXR0WAAocvKTY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b617d0c6b4ed302d8cbd5b6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b617d0c6b4ed302d8cbd5b6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b617d0c6b4ed302d8cbd5b6",
+        "width" : 64
+      } ],
+      "name" : "4B",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:19xrjdWF8SXR0WAAocvKTY"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=4B&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4985
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=JOYRYDE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 185019
+      },
+      "genres" : [ "bass house", "edm", "electro house", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/24neLwyYRyj4ItaGnFeIT0",
+      "id" : "24neLwyYRyj4ItaGnFeIT0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf14cf3e823e826e73f877667",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f14cf3e823e826e73f877667",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f14cf3e823e826e73f877667",
+        "width" : 160
+      } ],
+      "name" : "JOYRYDE",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:24neLwyYRyj4ItaGnFeIT0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CYLttzw6Qa9MyCZ5OiItf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 477
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6CYLttzw6Qa9MyCZ5OiItf",
+      "id" : "6CYLttzw6Qa9MyCZ5OiItf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735e53a82efad59d4a14eb6818",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025e53a82efad59d4a14eb6818",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515e53a82efad59d4a14eb6818",
+        "width" : 64
+      } ],
+      "name" : "Joyryde",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6CYLttzw6Qa9MyCZ5OiItf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sP3HA3vJ8rZ3wWyVUcoLr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ "neo-proto" ],
+      "href" : "https://api.spotify.com/v1/artists/5sP3HA3vJ8rZ3wWyVUcoLr",
+      "id" : "5sP3HA3vJ8rZ3wWyVUcoLr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273230d0596407600ec7f0d9ef2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02230d0596407600ec7f0d9ef2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851230d0596407600ec7f0d9ef2",
+        "width" : 64
+      } ],
+      "name" : "The JoyRyders",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5sP3HA3vJ8rZ3wWyVUcoLr"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

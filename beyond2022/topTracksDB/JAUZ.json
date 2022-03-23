@@ -1,0 +1,790 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3KwmxIhSe9UTSEF37kwngR",
+        "id" : "3KwmxIhSe9UTSEF37kwngR",
+        "name" : "SHAED",
+        "type" : "artist",
+        "uri" : "spotify:artist:3KwmxIhSe9UTSEF37kwngR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5wg6T8bCVnRk3ToKy0yXG5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5wg6T8bCVnRk3ToKy0yXG5",
+      "id" : "5wg6T8bCVnRk3ToKy0yXG5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732752c64f94f9b37ba08f0f22",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022752c64f94f9b37ba08f0f22",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512752c64f94f9b37ba08f0f22",
+        "width" : 64
+      } ],
+      "name" : "Melt (Deluxe)",
+      "release_date" : "2019-12-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:5wg6T8bCVnRk3ToKy0yXG5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3KwmxIhSe9UTSEF37kwngR",
+      "id" : "3KwmxIhSe9UTSEF37kwngR",
+      "name" : "SHAED",
+      "type" : "artist",
+      "uri" : "spotify:artist:3KwmxIhSe9UTSEF37kwngR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236170,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZ47A1900201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5DMrREzztuMUkLMDjMpJNY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5DMrREzztuMUkLMDjMpJNY",
+    "id" : "5DMrREzztuMUkLMDjMpJNY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Trampoline - Jauz Remix",
+    "popularity" : 60,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5DMrREzztuMUkLMDjMpJNY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+        "id" : "5ttgIeUVka6FLyi00Uu5h8",
+        "name" : "Jauz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1sKIizVYeHkGy7Tjmn9QRj",
+        "id" : "1sKIizVYeHkGy7Tjmn9QRj",
+        "name" : "HALIENE",
+        "type" : "artist",
+        "uri" : "spotify:artist:1sKIizVYeHkGy7Tjmn9QRj"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/68ktA77AGDVlrifYU53GzL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/68ktA77AGDVlrifYU53GzL",
+      "id" : "68ktA77AGDVlrifYU53GzL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27364ee979c9dfb47edef42f07f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0264ee979c9dfb47edef42f07f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485164ee979c9dfb47edef42f07f",
+        "width" : 64
+      } ],
+      "name" : "Oceans & Galaxies",
+      "release_date" : "2021-04-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:68ktA77AGDVlrifYU53GzL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1sKIizVYeHkGy7Tjmn9QRj",
+      "id" : "1sKIizVYeHkGy7Tjmn9QRj",
+      "name" : "HALIENE",
+      "type" : "artist",
+      "uri" : "spotify:artist:1sKIizVYeHkGy7Tjmn9QRj"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200547,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA6D22100305"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5NQKpa6uCqZcaFkAbUK4XB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5NQKpa6uCqZcaFkAbUK4XB",
+    "id" : "5NQKpa6uCqZcaFkAbUK4XB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Oceans & Galaxies",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1b664e7d1eb0914703bdd9a5ac5407cbf1e557a0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5NQKpa6uCqZcaFkAbUK4XB"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+        "id" : "5ttgIeUVka6FLyi00Uu5h8",
+        "name" : "Jauz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3AjMLvMHcgrXICSYHepcy6",
+      "id" : "3AjMLvMHcgrXICSYHepcy6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb280229cf8324328b01c36a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb280229cf8324328b01c36a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb280229cf8324328b01c36a",
+        "width" : 64
+      } ],
+      "name" : "Make It Good",
+      "release_date" : "2021-10-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3AjMLvMHcgrXICSYHepcy6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159344,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2199525"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1jfd5UYYNB8LEYGtHkP1tM",
+    "id" : "1jfd5UYYNB8LEYGtHkP1tM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Make It Good",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/990306a3ab82b4a66b383789591c61dd499beb67?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1jfd5UYYNB8LEYGtHkP1tM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+        "id" : "5ttgIeUVka6FLyi00Uu5h8",
+        "name" : "Jauz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4i8u1FZVapjZBcCyyrAnU3",
+        "id" : "4i8u1FZVapjZBcCyyrAnU3",
+        "name" : "Micah Martin",
+        "type" : "artist",
+        "uri" : "spotify:artist:4i8u1FZVapjZBcCyyrAnU3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3NkRNGqhU0WONr1ob77DKD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3NkRNGqhU0WONr1ob77DKD",
+      "id" : "3NkRNGqhU0WONr1ob77DKD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d9d63f5a6b5c1c704070b32e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d9d63f5a6b5c1c704070b32e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d9d63f5a6b5c1c704070b32e",
+        "width" : 64
+      } ],
+      "name" : "Forever",
+      "release_date" : "2021-07-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3NkRNGqhU0WONr1ob77DKD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4i8u1FZVapjZBcCyyrAnU3",
+      "id" : "4i8u1FZVapjZBcCyyrAnU3",
+      "name" : "Micah Martin",
+      "type" : "artist",
+      "uri" : "spotify:artist:4i8u1FZVapjZBcCyyrAnU3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205241,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2180442"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0gWQBwxwQRum86Rx4DaDHL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0gWQBwxwQRum86Rx4DaDHL",
+    "id" : "0gWQBwxwQRum86Rx4DaDHL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Forever",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/37da60224038eb1779a0c93d6086da6a6da626b2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0gWQBwxwQRum86Rx4DaDHL"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bdfiayQAKewqEvaU6rXCv",
+        "id" : "0bdfiayQAKewqEvaU6rXCv",
+        "name" : "MØ",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bdfiayQAKewqEvaU6rXCv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Pu2TfRdLnYUvY16n7c4fK",
+      "id" : "0Pu2TfRdLnYUvY16n7c4fK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273883e7701855ec32c34011773",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02883e7701855ec32c34011773",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851883e7701855ec32c34011773",
+        "width" : 64
+      } ],
+      "name" : "Final Song (Diplo & Jauz Remix)",
+      "release_date" : "2016-12-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0Pu2TfRdLnYUvY16n7c4fK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0bdfiayQAKewqEvaU6rXCv",
+      "id" : "0bdfiayQAKewqEvaU6rXCv",
+      "name" : "MØ",
+      "type" : "artist",
+      "uri" : "spotify:artist:0bdfiayQAKewqEvaU6rXCv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+      "id" : "5fMUXHkw8R8eOP2RNVYEZX",
+      "name" : "Diplo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190480,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1601913"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0gahmokctHhYjyR3ZUGr7L",
+    "id" : "0gahmokctHhYjyR3ZUGr7L",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Final Song - Diplo & Jauz Remix",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c93f7865c755c93248e00b27b85f630ba301a6b8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0gahmokctHhYjyR3ZUGr7L"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+        "id" : "5ttgIeUVka6FLyi00Uu5h8",
+        "name" : "Jauz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IHvGKgpzLkRtErVAxD6hk",
+      "id" : "3IHvGKgpzLkRtErVAxD6hk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e9a76028bec9fb1c171a6fa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e9a76028bec9fb1c171a6fa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e9a76028bec9fb1c171a6fa",
+        "width" : 64
+      } ],
+      "name" : "Bring Et",
+      "release_date" : "2022-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3IHvGKgpzLkRtErVAxD6hk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 142857,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0040506"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Vh2puNQGk1IpIjZoxoOYz",
+    "id" : "1Vh2puNQGk1IpIjZoxoOYz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bring Et",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/98c4593079b8eaf421fe6a466cc9a94a8b7f8e32?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1Vh2puNQGk1IpIjZoxoOYz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+        "id" : "5ttgIeUVka6FLyi00Uu5h8",
+        "name" : "Jauz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ZHnlA5lXphSHoYLsQSYTd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ZHnlA5lXphSHoYLsQSYTd",
+      "id" : "6ZHnlA5lXphSHoYLsQSYTd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739d25f1951de3174bd0e67e9b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029d25f1951de3174bd0e67e9b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519d25f1951de3174bd0e67e9b",
+        "width" : 64
+      } ],
+      "name" : "Feel The Volume",
+      "release_date" : "2014-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6ZHnlA5lXphSHoYLsQSYTd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V1400159"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/03IxJiB8ZOH9hEQZF5mCNY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/03IxJiB8ZOH9hEQZF5mCNY",
+    "id" : "03IxJiB8ZOH9hEQZF5mCNY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feel The Volume",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ccaca21d1e3e359933d675067ab9ff706c4ae54d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:03IxJiB8ZOH9hEQZF5mCNY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7pwufEBGfggjoI8twqlsmQ",
+        "id" : "7pwufEBGfggjoI8twqlsmQ",
+        "name" : "Nessa Barrett",
+        "type" : "artist",
+        "uri" : "spotify:artist:7pwufEBGfggjoI8twqlsmQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+        "id" : "5ttgIeUVka6FLyi00Uu5h8",
+        "name" : "Jauz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0hy69B5DiAkwSeQGhVhWrG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0hy69B5DiAkwSeQGhVhWrG",
+      "id" : "0hy69B5DiAkwSeQGhVhWrG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e5a5be6673fb3cf597e824d4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e5a5be6673fb3cf597e824d4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e5a5be6673fb3cf597e824d4",
+        "width" : 64
+      } ],
+      "name" : "i hope ur miserable until ur dead (Jauz Remix)",
+      "release_date" : "2021-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0hy69B5DiAkwSeQGhVhWrG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7pwufEBGfggjoI8twqlsmQ",
+      "id" : "7pwufEBGfggjoI8twqlsmQ",
+      "name" : "Nessa Barrett",
+      "type" : "artist",
+      "uri" : "spotify:artist:7pwufEBGfggjoI8twqlsmQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181875,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USWB12104552"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3EthUkTHbAoZn5wxuoSfnL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3EthUkTHbAoZn5wxuoSfnL",
+    "id" : "3EthUkTHbAoZn5wxuoSfnL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "i hope ur miserable until ur dead - Jauz Remix",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b4cd8fa6ce1d433aa37e6f9c62c96d5a3ac61690?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3EthUkTHbAoZn5wxuoSfnL"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+        "id" : "5ttgIeUVka6FLyi00Uu5h8",
+        "name" : "Jauz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/548YUkLaLzti0BLqaWpn1W"
+        },
+        "href" : "https://api.spotify.com/v1/artists/548YUkLaLzti0BLqaWpn1W",
+        "id" : "548YUkLaLzti0BLqaWpn1W",
+        "name" : "Ephwurd",
+        "type" : "artist",
+        "uri" : "spotify:artist:548YUkLaLzti0BLqaWpn1W"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1g7r2uu7OHRGCqTC35Xlxd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1g7r2uu7OHRGCqTC35Xlxd",
+      "id" : "1g7r2uu7OHRGCqTC35Xlxd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273db8ea20222675877021f164d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02db8ea20222675877021f164d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851db8ea20222675877021f164d",
+        "width" : 64
+      } ],
+      "name" : "Rock The Party",
+      "release_date" : "2015-07-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1g7r2uu7OHRGCqTC35Xlxd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/548YUkLaLzti0BLqaWpn1W"
+      },
+      "href" : "https://api.spotify.com/v1/artists/548YUkLaLzti0BLqaWpn1W",
+      "id" : "548YUkLaLzti0BLqaWpn1W",
+      "name" : "Ephwurd",
+      "type" : "artist",
+      "uri" : "spotify:artist:548YUkLaLzti0BLqaWpn1W"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190784,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ541500432"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3G0awBmyUu0eLh30XTthBk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3G0awBmyUu0eLh30XTthBk",
+    "id" : "3G0awBmyUu0eLh30XTthBk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rock The Party - Radio Edit",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e15f119092961709d6629e9e5f20d69aac1131ac?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3G0awBmyUu0eLh30XTthBk"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+        "id" : "5ttgIeUVka6FLyi00Uu5h8",
+        "name" : "Jauz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/24CzPFC4y3bM4AkUnZfuAU",
+        "id" : "24CzPFC4y3bM4AkUnZfuAU",
+        "name" : "Karra",
+        "type" : "artist",
+        "uri" : "spotify:artist:24CzPFC4y3bM4AkUnZfuAU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1FMtS5SQCev9DeUjn1ZE8f"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1FMtS5SQCev9DeUjn1ZE8f",
+      "id" : "1FMtS5SQCev9DeUjn1ZE8f",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731b476e4bce15fca0d2e23543",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021b476e4bce15fca0d2e23543",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511b476e4bce15fca0d2e23543",
+        "width" : 64
+      } ],
+      "name" : "Wildlife",
+      "release_date" : "2020-06-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1FMtS5SQCev9DeUjn1ZE8f"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ttgIeUVka6FLyi00Uu5h8",
+      "id" : "5ttgIeUVka6FLyi00Uu5h8",
+      "name" : "Jauz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ttgIeUVka6FLyi00Uu5h8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/24CzPFC4y3bM4AkUnZfuAU",
+      "id" : "24CzPFC4y3bM4AkUnZfuAU",
+      "name" : "Karra",
+      "type" : "artist",
+      "uri" : "spotify:artist:24CzPFC4y3bM4AkUnZfuAU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212571,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT22003787"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6PjR4ysxOPzqAMpR4vphjK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6PjR4ysxOPzqAMpR4vphjK",
+    "id" : "6PjR4ysxOPzqAMpR4vphjK",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wildlife",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cd1944aeede1c343ebd0d6cb93304451700ff9e5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6PjR4ysxOPzqAMpR4vphjK"
+  } ]
+}

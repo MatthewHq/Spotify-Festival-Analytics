@@ -1,0 +1,1006 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ukgrNYk51TkMQr0f2Br4Q",
+        "id" : "0ukgrNYk51TkMQr0f2Br4Q",
+        "name" : "Maverick Sabre",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ukgrNYk51TkMQr0f2Br4Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+        "id" : "1CoZyIx7UvdxT5c8UkMzHd",
+        "name" : "Jorja Smith",
+        "type" : "artist",
+        "uri" : "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3AvjrWwSEgfZs0Ic7Srt8b",
+      "id" : "3AvjrWwSEgfZs0Ic7Srt8b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fb6906ff39ee5ec9f230e05d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fb6906ff39ee5ec9f230e05d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fb6906ff39ee5ec9f230e05d",
+        "width" : 64
+      } ],
+      "name" : "Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix]",
+      "release_date" : "2020-04-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3AvjrWwSEgfZs0Ic7Srt8b"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ukgrNYk51TkMQr0f2Br4Q",
+      "id" : "0ukgrNYk51TkMQr0f2Br4Q",
+      "name" : "Maverick Sabre",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ukgrNYk51TkMQr0f2Br4Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+      "id" : "1CoZyIx7UvdxT5c8UkMzHd",
+      "name" : "Jorja Smith",
+      "type" : "artist",
+      "uri" : "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6jmHuLfbWlq34KedQ7mA5I",
+      "id" : "6jmHuLfbWlq34KedQ7mA5I",
+      "name" : "Slow Motion",
+      "type" : "artist",
+      "uri" : "spotify:artist:6jmHuLfbWlq34KedQ7mA5I"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ542000356"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5PNvgiKSwMdjBsDsgFCFLX",
+    "id" : "5PNvgiKSwMdjBsDsgFCFLX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
+    "popularity" : 76,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5d009955039a908ca5738ed7c40f187a65281282?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5PNvgiKSwMdjBsDsgFCFLX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+        "id" : "5YFS41yoX0YuFY39fq21oN",
+        "name" : "Bob Sinclar",
+        "type" : "artist",
+        "uri" : "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4cdyqaBREB68H77QKCrKP1",
+        "id" : "4cdyqaBREB68H77QKCrKP1",
+        "name" : "Dubdogz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4cdyqaBREB68H77QKCrKP1"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0wohygLfvrO6whUKOINTqm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0wohygLfvrO6whUKOINTqm",
+      "id" : "0wohygLfvrO6whUKOINTqm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894842f6e437f87263785977",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894842f6e437f87263785977",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894842f6e437f87263785977",
+        "width" : 64
+      } ],
+      "name" : "World Hold On (Radio Edit) [Vintage Culture & Dubdogz Remix]",
+      "release_date" : "2018-05-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0wohygLfvrO6whUKOINTqm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5YFS41yoX0YuFY39fq21oN",
+      "id" : "5YFS41yoX0YuFY39fq21oN",
+      "name" : "Bob Sinclar",
+      "type" : "artist",
+      "uri" : "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4cdyqaBREB68H77QKCrKP1",
+      "id" : "4cdyqaBREB68H77QKCrKP1",
+      "name" : "Dubdogz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4cdyqaBREB68H77QKCrKP1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2SwhNukah1MYpLR594PnuC",
+      "id" : "2SwhNukah1MYpLR594PnuC",
+      "name" : "Steve Edwards",
+      "type" : "artist",
+      "uri" : "spotify:artist:2SwhNukah1MYpLR594PnuC"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 172073,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR4E41811550"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0VdwHBLCTSdrTJFIjWOsEC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0VdwHBLCTSdrTJFIjWOsEC",
+    "id" : "0VdwHBLCTSdrTJFIjWOsEC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "World Hold On (Radio Edit) [Vintage Culture & Dubdogz Remix]",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/799ab12e951114709a57cdb8831db2cd68c7c2cd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0VdwHBLCTSdrTJFIjWOsEC"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43BxCL6t4c73BQnIJtry5v",
+        "id" : "43BxCL6t4c73BQnIJtry5v",
+        "name" : "James Hype",
+        "type" : "artist",
+        "uri" : "spotify:artist:43BxCL6t4c73BQnIJtry5v"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4N1rhGq5PivmmavHBBDz12",
+      "id" : "4N1rhGq5PivmmavHBBDz12",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730dc520e09dbd8fd12fab4f6f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020dc520e09dbd8fd12fab4f6f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510dc520e09dbd8fd12fab4f6f",
+        "width" : 64
+      } ],
+      "name" : "You Give Me A Feeling",
+      "release_date" : "2021-11-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4N1rhGq5PivmmavHBBDz12"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43BxCL6t4c73BQnIJtry5v",
+      "id" : "43BxCL6t4c73BQnIJtry5v",
+      "name" : "James Hype",
+      "type" : "artist",
+      "uri" : "spotify:artist:43BxCL6t4c73BQnIJtry5v"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 185896,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0010802"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1YKp8PG1DEQJ0hLc2CJGO8",
+    "id" : "1YKp8PG1DEQJ0hLc2CJGO8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "You Give Me A Feeling",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f4be42474cbd912e0be77803e4f0b98f2732b9fd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1YKp8PG1DEQJ0hLc2CJGO8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4QZjx3AfLqJhGYkmWAEUm7",
+        "id" : "4QZjx3AfLqJhGYkmWAEUm7",
+        "name" : "Rooftime",
+        "type" : "artist",
+        "uri" : "spotify:artist:4QZjx3AfLqJhGYkmWAEUm7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Lb2OTMflllFCVVSBH9G9O"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Lb2OTMflllFCVVSBH9G9O",
+      "id" : "1Lb2OTMflllFCVVSBH9G9O",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732ca8af29fe8b94af84957154",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022ca8af29fe8b94af84957154",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512ca8af29fe8b94af84957154",
+        "width" : 64
+      } ],
+      "name" : "I Will Find",
+      "release_date" : "2018-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1Lb2OTMflllFCVVSBH9G9O"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4QZjx3AfLqJhGYkmWAEUm7",
+      "id" : "4QZjx3AfLqJhGYkmWAEUm7",
+      "name" : "Rooftime",
+      "type" : "artist",
+      "uri" : "spotify:artist:4QZjx3AfLqJhGYkmWAEUm7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224733,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ541801201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2bbfiUnH4CATlekDS1dxNr",
+    "id" : "2bbfiUnH4CATlekDS1dxNr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Will Find",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d02998733d7fe3c9e1d8943e4843a7e77eed911d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2bbfiUnH4CATlekDS1dxNr"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2TcGJdSOiOvITBzhvfX8XB",
+        "id" : "2TcGJdSOiOvITBzhvfX8XB",
+        "name" : "Shouse",
+        "type" : "artist",
+        "uri" : "spotify:artist:2TcGJdSOiOvITBzhvfX8XB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3SNKZ8uTQoSyMsUNqNBOD2",
+        "id" : "3SNKZ8uTQoSyMsUNqNBOD2",
+        "name" : "Kiko Franco",
+        "type" : "artist",
+        "uri" : "spotify:artist:3SNKZ8uTQoSyMsUNqNBOD2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1X71912aX0L37dW0eW3QgE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1X71912aX0L37dW0eW3QgE",
+      "id" : "1X71912aX0L37dW0eW3QgE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273be57a19f9e3e37235c94b25d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02be57a19f9e3e37235c94b25d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851be57a19f9e3e37235c94b25d",
+        "width" : 64
+      } ],
+      "name" : "Love Tonight (Vintage Culture & Kiko Franco Remix)",
+      "release_date" : "2021-03-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1X71912aX0L37dW0eW3QgE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2TcGJdSOiOvITBzhvfX8XB",
+      "id" : "2TcGJdSOiOvITBzhvfX8XB",
+      "name" : "Shouse",
+      "type" : "artist",
+      "uri" : "spotify:artist:2TcGJdSOiOvITBzhvfX8XB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3SNKZ8uTQoSyMsUNqNBOD2",
+      "id" : "3SNKZ8uTQoSyMsUNqNBOD2",
+      "name" : "Kiko Franco",
+      "type" : "artist",
+      "uri" : "spotify:artist:3SNKZ8uTQoSyMsUNqNBOD2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 208536,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2107934"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/53ICqRSyTfhrrvNwVSP6am"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/53ICqRSyTfhrrvNwVSP6am",
+    "id" : "53ICqRSyTfhrrvNwVSP6am",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love Tonight - Vintage Culture & Kiko Franco Remix Edit",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/746240fb546b4963145bd365ed2b66ada742f828?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:53ICqRSyTfhrrvNwVSP6am"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwuShKjJItDJez0aDCsxN",
+        "id" : "1ZwuShKjJItDJez0aDCsxN",
+        "name" : "SHELLS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwuShKjJItDJez0aDCsxN"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/217RKKVaQMcI0f8iOgnjFC",
+      "id" : "217RKKVaQMcI0f8iOgnjFC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d1cb54081e958a172f3d87bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d1cb54081e958a172f3d87bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d1cb54081e958a172f3d87bb",
+        "width" : 64
+      } ],
+      "name" : "Nightjar (feat. SHELLS)",
+      "release_date" : "2022-01-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:217RKKVaQMcI0f8iOgnjFC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwuShKjJItDJez0aDCsxN",
+      "id" : "1ZwuShKjJItDJez0aDCsxN",
+      "name" : "SHELLS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwuShKjJItDJez0aDCsxN"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 149455,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2120440"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2rNy5Ils7RO6m2E2W83CR5",
+    "id" : "2rNy5Ils7RO6m2E2W83CR5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nightjar (feat. SHELLS)",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/230a12deb8f0ccd1558b705d507dce0149101f7a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2rNy5Ils7RO6m2E2W83CR5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4m5LghDfOKFZNEBZ0GO1OQ",
+        "id" : "4m5LghDfOKFZNEBZ0GO1OQ",
+        "name" : "Jovem Dionisio",
+        "type" : "artist",
+        "uri" : "spotify:artist:4m5LghDfOKFZNEBZ0GO1OQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2jFK9ZXWDd7auJvfNfBcuC",
+        "id" : "2jFK9ZXWDd7auJvfNfBcuC",
+        "name" : "Future Class",
+        "type" : "artist",
+        "uri" : "spotify:artist:2jFK9ZXWDd7auJvfNfBcuC"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ybOW9Fx8sYsrPMBRlQYbY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ybOW9Fx8sYsrPMBRlQYbY",
+      "id" : "1ybOW9Fx8sYsrPMBRlQYbY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27392b4ad028daf51730e301761",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0292b4ad028daf51730e301761",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485192b4ad028daf51730e301761",
+        "width" : 64
+      } ],
+      "name" : "Pontos de Exclamação (Vintage Culture & Future Class Remix)",
+      "release_date" : "2020-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1ybOW9Fx8sYsrPMBRlQYbY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4m5LghDfOKFZNEBZ0GO1OQ",
+      "id" : "4m5LghDfOKFZNEBZ0GO1OQ",
+      "name" : "Jovem Dionisio",
+      "type" : "artist",
+      "uri" : "spotify:artist:4m5LghDfOKFZNEBZ0GO1OQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2jFK9ZXWDd7auJvfNfBcuC",
+      "id" : "2jFK9ZXWDd7auJvfNfBcuC",
+      "name" : "Future Class",
+      "type" : "artist",
+      "uri" : "spotify:artist:2jFK9ZXWDd7auJvfNfBcuC"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218770,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BXHBP1900505"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/25usEf5iGk9HL0LM9VTxue",
+    "id" : "25usEf5iGk9HL0LM9VTxue",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pontos de Exclamação - Vintage Culture & Future Class Remix",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e7424d8a97fe7c0573196725eeff34fea7cec616?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:25usEf5iGk9HL0LM9VTxue"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7tm9Tuc70geXOOyKhtZHIj",
+        "id" : "7tm9Tuc70geXOOyKhtZHIj",
+        "name" : "Chris Lorenzo",
+        "type" : "artist",
+        "uri" : "spotify:artist:7tm9Tuc70geXOOyKhtZHIj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ZcIGPPSC7LELS7zJ3JVSK",
+      "id" : "2ZcIGPPSC7LELS7zJ3JVSK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b8e101c3eff2fce654bda5bd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b8e101c3eff2fce654bda5bd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b8e101c3eff2fce654bda5bd",
+        "width" : 64
+      } ],
+      "name" : "California Dreamin’ (feat. High Jinx) (Vintage Culture Remix)",
+      "release_date" : "2021-11-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2ZcIGPPSC7LELS7zJ3JVSK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7tm9Tuc70geXOOyKhtZHIj",
+      "id" : "7tm9Tuc70geXOOyKhtZHIj",
+      "name" : "Chris Lorenzo",
+      "type" : "artist",
+      "uri" : "spotify:artist:7tm9Tuc70geXOOyKhtZHIj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XFmkmsCbCoR7wlqaZdt64",
+      "id" : "0XFmkmsCbCoR7wlqaZdt64",
+      "name" : "High Jinx",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XFmkmsCbCoR7wlqaZdt64"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 183750,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG12106040"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/19lT0l1OBkLtWI5iE5zORl",
+    "id" : "19lT0l1OBkLtWI5iE5zORl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "California Dreamin’ (feat. High Jinx) (Vintage Culture Remix)",
+    "popularity" : 68,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:19lT0l1OBkLtWI5iE5zORl"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+        "id" : "586uxXMyD5ObPuzjtrzO1Q",
+        "name" : "Sofi Tukker",
+        "type" : "artist",
+        "uri" : "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3SJnS1rKgzb1tgi7oCkf5F",
+      "id" : "3SJnS1rKgzb1tgi7oCkf5F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d8e28a912c6a071cd4c6bcf1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d8e28a912c6a071cd4c6bcf1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d8e28a912c6a071cd4c6bcf1",
+        "width" : 64
+      } ],
+      "name" : "Drinkee (Vintage Culture & John Summit Remix)",
+      "release_date" : "2021-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3SJnS1rKgzb1tgi7oCkf5F"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+      "id" : "586uxXMyD5ObPuzjtrzO1Q",
+      "name" : "Sofi Tukker",
+      "type" : "artist",
+      "uri" : "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205161,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM37X2100001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/68raS6F0ad2Iilql3yYeCt",
+    "id" : "68raS6F0ad2Iilql3yYeCt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Drinkee - Vintage Culture & John Summit Remix",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/58c5a617b701b0f8101a84bee2f042464f5f19ed?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:68raS6F0ad2Iilql3yYeCt"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+        "id" : "0NGAZxHanS9e0iNHpR8f2W",
+        "name" : "Alok",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49T8i1paijMAK9rYtjO4lu",
+        "id" : "49T8i1paijMAK9rYtjO4lu",
+        "name" : "FAULHABER",
+        "type" : "artist",
+        "uri" : "spotify:artist:49T8i1paijMAK9rYtjO4lu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0KyVN9LjYo0ASG1ibiShht",
+      "id" : "0KyVN9LjYo0ASG1ibiShht",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377763f2e065b0a4ddb2fe098",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277763f2e065b0a4ddb2fe098",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177763f2e065b0a4ddb2fe098",
+        "width" : 64
+      } ],
+      "name" : "Party On My Own (feat. FAULHABER)",
+      "release_date" : "2020-08-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0KyVN9LjYo0ASG1ibiShht"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W",
+      "id" : "0NGAZxHanS9e0iNHpR8f2W",
+      "name" : "Alok",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49T8i1paijMAK9rYtjO4lu",
+      "id" : "49T8i1paijMAK9rYtjO4lu",
+      "name" : "FAULHABER",
+      "type" : "artist",
+      "uri" : "spotify:artist:49T8i1paijMAK9rYtjO4lu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 146500,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ542001264"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4c9Py6O1NeuYKbJ8Ok7mTl",
+    "id" : "4c9Py6O1NeuYKbJ8Ok7mTl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Party On My Own (feat. FAULHABER)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/be1f58f475c90cfa57c5c444022bfc4a73ba2b63?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4c9Py6O1NeuYKbJ8Ok7mTl"
+  } ]
+}
