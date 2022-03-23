@@ -85,6 +85,8 @@ await dbManage.allTracksToCSVcustom(festivalTitle)
  
  * NO HELPER LIBRARIES USED, only native node.
   * Decided to go a little purist on this one with the libraries after trying out spotify's own recommended starting guide and realizing that it was using a recently deprecated    module: "request" 
+  * REVISION: Actually started implementing user auth with 'express' after coming back to potentially add some features. The original non user-specific code is still true to only native node
+  * Reason for using express is to listen in on a spotify authorization callback
  
 
 
