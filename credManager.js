@@ -6,7 +6,7 @@ import * as https from 'https'
 export async function supplyTokenData() {
     return new Promise((resolve, reject) => {
         console.log("ASYNC CHECKPOINT supplyTokenData")
-        let tokenData = readDat("token",null)
+        let tokenData = readDat("token", null)
         // console.log(tokenData.expires_at + " vs \n" + (Math.floor(Date.now() / 1000)))
         // console.log('expires in ' + (tokenData.expires_at - Math.floor(Date.now() / 1000)))
         if (tokenData.expires_at < Math.floor(Date.now() / 1000)) {
@@ -22,7 +22,7 @@ export async function supplyTokenData() {
 }
 
 
-export async function getCredToken() {
+export function getCredToken() {
 
     var creds = readDat("creds")
     var client_id = creds.client_id; // Your client id
@@ -50,9 +50,16 @@ export async function getCredToken() {
 
     // request object
 
+    return generalTokenRequest('./mainDB/tempToken.json', options, qString)
+
+
+};
+
+export async function generalTokenRequest(tokenPath, options, qString) {
+
     return new Promise((resolve, reject) => {
         var req = https.request(options, function (res) {
-            var tokenPath = './mainDB/tempToken.json'
+
             var result = '';
             res.on('data', function (chunk) {
                 result += chunk;
@@ -93,9 +100,8 @@ export async function getCredToken() {
         req.write(qString);
         req.end();
     })
+}
 
-
-};
 
 
 
@@ -114,7 +120,7 @@ export function readDat(type, optionalPath) {
             path = credPath
         }
     } else[
-        path =optionalPath
+        path = optionalPath
     ]
     //check for token file existence
     var exists = false

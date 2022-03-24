@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import express from "express";
 import * as dbManage from '../dbManage.js'
+import * as credManager from '../credManager.js'
 // import URLSearchParams from 'URLSearchParams'
 
 //https://www.kindacode.com/article/how-to-easily-generate-a-random-string-in-node-js/
@@ -105,7 +106,36 @@ function userAuth() {
 
     app.get('/callback', function (req, res) {
         dbManage.promiseWriteFile("../mainDB/authCodes/currAuthCode.json", JSON.stringify(res.req.query))
+        credManager.readDat("token",'../mainDB/tempToken.json')
+
+        var creds = readDat("creds")
+        var client_id = creds.client_id; // Your client id
+        var client_secret = creds.client_secret; // Your secret
+        var body = {
+            grant_type: 'authorization_code',
+            code: res.req.query.code,
+            redirect_uri: 'http://localhost:8888/callback'
+
+        }
+
+        var options = {
+            host: 'accounts.spotify.com',
+            port: 443,
+            method: 'POST',
+            path: '/api/token',
+            headers: {
+                'Authorization': 'Basic ' + Buffer.from(client_id + ':' + client_secret).toString('base64'), //Fixing Deprication,
+                'Content-Type': 'application/x-www-form-urlencoded',
+                // 'Content-Length': qString.length
+            }
+        };
+
+        var qString = Object.keys(body).map(key => key + '=' + body[key]).join('&');
+
+        credManager.generalTokenRequest('../mainDB/tempToken.json', options, qString)
+
         console.log(res.req.query)
+        console.log(res.req.query.code)
     });
 
     app.listen(8888)
