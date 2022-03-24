@@ -8,23 +8,23 @@ async function main() {
 
     let festivalTitle = "beyond2022"
 
-    credManager.readDat("token")
+    credManager.readDat("token", null)
     setTimeout(() => {
         credManager.supplyTokenData()
     }, 1000);
 
-    setTimeout(async () => {
-        // dbManage.iniFestival(festivalTitle)
-        // await spotifyRequests.bulkArtistCache(festivalTitle)
-        // await dbManage.artistCollect(festivalTitle)
-        // await spotifyRequests.overWriteArtists(festivalTitle)
-        // await spotifyRequests.bulkArtistTopTrack(festivalTitle)
-        // await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
-        await dbManage.consolidateTopTracks(festivalTitle)
-        await dbManage.consolidateArtists(festivalTitle)
-        await dbManage.allArtistsToCSVcustom(festivalTitle)
-        await dbManage.allTracksToCSVcustom(festivalTitle)
-    }, 2000);
+    // setTimeout(async () => {
+    //     dbManage.iniFestival(festivalTitle)
+    //     await spotifyRequests.bulkArtistCache(festivalTitle)
+    //     await dbManage.artistCollect(festivalTitle)
+    //     await spotifyRequests.overWriteArtists(festivalTitle)
+    //     await spotifyRequests.bulkArtistTopTrack(festivalTitle)
+    //     await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
+    //     await dbManage.consolidateTopTracks(festivalTitle)
+    //     await dbManage.consolidateArtists(festivalTitle)
+    //     await dbManage.allArtistsToCSVcustom(festivalTitle)
+    //     await dbManage.allTracksToCSVcustom(festivalTitle)
+    // }, 2000);
 
     //MAIN PROCEDURE HERE ++++++++++++++++++
 

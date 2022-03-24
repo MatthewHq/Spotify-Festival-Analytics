@@ -6,7 +6,7 @@ import * as https from 'https'
 export async function supplyTokenData() {
     return new Promise((resolve, reject) => {
         console.log("ASYNC CHECKPOINT supplyTokenData")
-        let tokenData = readDat("token")
+        let tokenData = readDat("token",null)
         // console.log(tokenData.expires_at + " vs \n" + (Math.floor(Date.now() / 1000)))
         // console.log('expires in ' + (tokenData.expires_at - Math.floor(Date.now() / 1000)))
         if (tokenData.expires_at < Math.floor(Date.now() / 1000)) {
@@ -31,7 +31,7 @@ export async function getCredToken() {
         grant_type: 'client_credentials'
     }
 
-    var qString = Object.keys(body).map(key => key + '=' + body[key]).join('&');
+    // var qString = Object.keys(body).map(key => key + '=' + body[key]).join('&');
 
     // request option
     var options = {
@@ -42,7 +42,7 @@ export async function getCredToken() {
         headers: {
             'Authorization': 'Basic ' + Buffer.from(client_id + ':' + client_secret).toString('base64'), //Fixing Deprication,
             'Content-Type': 'application/x-www-form-urlencoded',
-            'Content-Length': qString.length
+            // 'Content-Length': qString.length
         }
     };
 
@@ -100,16 +100,22 @@ export async function getCredToken() {
 
 
 
-export function readDat(type) {
-    const tempTokenPath = 'mainDB/tempToken.json'
-    const credPath = 'mainDB/credentials.json'
+export function readDat(type, optionalPath) {
     var path
-    if (type == "token") {
-        path = tempTokenPath
-    } else if (type == "creds") {
-        path = credPath
-    }
+    if (optionalPath == null) {
 
+
+        const tempTokenPath = 'mainDB/tempToken.json'
+        const credPath = 'mainDB/credentials.json'
+
+        if (type == "token") {
+            path = tempTokenPath
+        } else if (type == "creds") {
+            path = credPath
+        }
+    } else[
+        path =optionalPath
+    ]
     //check for token file existence
     var exists = false
     try {
@@ -124,7 +130,7 @@ export function readDat(type) {
     if (exists) {
         try {
             const data = fs.readFileSync(path, 'utf8')
-                return JSON.parse(data)
+            return JSON.parse(data)
 
         } catch (err) {
             console.error(err)

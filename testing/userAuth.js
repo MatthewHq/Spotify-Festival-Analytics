@@ -1,8 +1,10 @@
 import * as fs from 'fs';
 import express from "express";
+import * as dbManage from '../dbManage.js'
 // import URLSearchParams from 'URLSearchParams'
 
-// Create a function for reusable perpose
+//https://www.kindacode.com/article/how-to-easily-generate-a-random-string-in-node-js/
+//from online resource, generate string of x length
 const generateRandomString = (myLength) => {
     const chars =
         "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890";
@@ -102,36 +104,11 @@ function userAuth() {
     });
 
     app.get('/callback', function (req, res) {
-
-        console.log(res.req.query.code)
+        dbManage.promiseWriteFile("../mainDB/authCodes/currAuthCode.json", JSON.stringify(res.req.query))
+        console.log(res.req.query)
     });
 
     app.listen(8888)
-
-    // var body = {
-    //     client_id: client_id,
-    //     response_type: 'code',
-    //     // market: 'US',
-    //     // limit: 20,
-    //     // offset: 0
-    //     // include_external: 'true',
-    // }
-    // var qString = "?" + Object.keys(body).map(key => key + '=' + body[key]).join('&');
-    // qString = qString.split(' ').join('%20');
-    // // console.log(qString)
-
-    // const options = {
-    //     hostname: 'api.spotify.com',
-    //     port: 443,
-    //     path: '/authorize' + qString,
-    //     method: 'GET',
-    //     headers: {
-    //         'Authorization': 'Bearer ' + tkd.access_token,
-    //         'Content-Type': 'application/json',
-    //     }
-    // }
-    // resolve(await generalGet(options))
-    // })
 }
 
 userAuth()
