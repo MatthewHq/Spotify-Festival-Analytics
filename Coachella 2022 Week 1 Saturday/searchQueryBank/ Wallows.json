@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Wallows&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2240577
+      },
+      "genres" : [ "indie pop", "modern rock", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0NIPkIjTV8mB795yEIiPYL",
+      "id" : "0NIPkIjTV8mB795yEIiPYL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb31e2c447cae669973be25b1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b31e2c447cae669973be25b1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b31e2c447cae669973be25b1",
+        "width" : 160
+      } ],
+      "name" : "Wallows",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4L2JIOPJwCA6d1VZs4jTxS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4L2JIOPJwCA6d1VZs4jTxS",
+      "id" : "4L2JIOPJwCA6d1VZs4jTxS",
+      "images" : [ ],
+      "name" : "David Foster Wallows",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4L2JIOPJwCA6d1VZs4jTxS"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

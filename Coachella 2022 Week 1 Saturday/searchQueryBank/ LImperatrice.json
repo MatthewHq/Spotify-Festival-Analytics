@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+LImperatrice&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 338689
+      },
+      "genres" : [ "french indie pop", "french indietronica", "french synthpop", "indie soul", "new french touch" ],
+      "href" : "https://api.spotify.com/v1/artists/4PwlsrN0t5mLN0C827cbEU",
+      "id" : "4PwlsrN0t5mLN0C827cbEU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb60dd5e2c9859aba67824fc05",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517460dd5e2c9859aba67824fc05",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17860dd5e2c9859aba67824fc05",
+        "width" : 160
+      } ],
+      "name" : "L'Impératrice",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:4PwlsrN0t5mLN0C827cbEU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dFSooV44ddBp3SJ9yVFy4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 87
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5dFSooV44ddBp3SJ9yVFy4",
+      "id" : "5dFSooV44ddBp3SJ9yVFy4",
+      "images" : [ ],
+      "name" : "L’Impératrice",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:5dFSooV44ddBp3SJ9yVFy4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ORKfLsG4xhDBgTAQRRVKF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3ORKfLsG4xhDBgTAQRRVKF",
+      "id" : "3ORKfLsG4xhDBgTAQRRVKF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a6909f16b0241d5af4565f2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a6909f16b0241d5af4565f2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a6909f16b0241d5af4565f2",
+        "width" : 64
+      } ],
+      "name" : "L'impératrice Anna Maliya",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3ORKfLsG4xhDBgTAQRRVKF"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Joji&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5567999
+      },
+      "genres" : [ "alternative r&b", "viral pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3MZsBdqDrRTJihTHQrO6Dq",
+      "id" : "3MZsBdqDrRTJihTHQrO6Dq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb28f8b68ea703b22fc0c8be11",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517428f8b68ea703b22fc0c8be11",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17828f8b68ea703b22fc0c8be11",
+        "width" : 160
+      } ],
+      "name" : "Joji",
+      "popularity" : 84,
+      "type" : "artist",
+      "uri" : "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jzDTc72KLQc1axn0I56iH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1775
+      },
+      "genres" : [ "japanese traditional" ],
+      "href" : "https://api.spotify.com/v1/artists/4jzDTc72KLQc1axn0I56iH",
+      "id" : "4jzDTc72KLQc1axn0I56iH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ced04906a90f13f9153898c5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ced04906a90f13f9153898c5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ced04906a90f13f9153898c5",
+        "width" : 64
+      } ],
+      "name" : "Joji Hirota",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:4jzDTc72KLQc1axn0I56iH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7EzRoc3LJEwVuJmuBOeecj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1628
+      },
+      "genres" : [ "taiko" ],
+      "href" : "https://api.spotify.com/v1/artists/7EzRoc3LJEwVuJmuBOeecj",
+      "id" : "7EzRoc3LJEwVuJmuBOeecj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273568e995a440d0e2657fce1b5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02568e995a440d0e2657fce1b5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851568e995a440d0e2657fce1b5",
+        "width" : 64
+      } ],
+      "name" : "Joji Hirota Taiko Drummers",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:7EzRoc3LJEwVuJmuBOeecj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37eA5gzWdvVj1UtR4L1U4B"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 62
+      },
+      "genres" : [ "japanese classical performance" ],
+      "href" : "https://api.spotify.com/v1/artists/37eA5gzWdvVj1UtR4L1U4B",
+      "id" : "37eA5gzWdvVj1UtR4L1U4B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ccd55495e885a985fa3abf5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ccd55495e885a985fa3abf5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ccd55495e885a985fa3abf5",
+        "width" : 64
+      } ],
+      "name" : "Joji Hattori",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:37eA5gzWdvVj1UtR4L1U4B"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6q4cpsBAxbA4tOxjBw0Q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1a6q4cpsBAxbA4tOxjBw0Q",
+      "id" : "1a6q4cpsBAxbA4tOxjBw0Q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273feca215d2354e19ac296bc6f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02feca215d2354e19ac296bc6f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851feca215d2354e19ac296bc6f",
+        "width" : 64
+      } ],
+      "name" : "Joji",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6q4cpsBAxbA4tOxjBw0Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2AFmoBreHrC9muL2PL27Y5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 188
+      },
+      "genres" : [ "taiko" ],
+      "href" : "https://api.spotify.com/v1/artists/2AFmoBreHrC9muL2PL27Y5",
+      "id" : "2AFmoBreHrC9muL2PL27Y5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273091a925fa25036b10fe6c301",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02091a925fa25036b10fe6c301",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851091a925fa25036b10fe6c301",
+        "width" : 64
+      } ],
+      "name" : "Joji Hirota & London Taiko Drummers",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:2AFmoBreHrC9muL2PL27Y5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aHsW90DZfcV1yCsZQoGYs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 28
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5aHsW90DZfcV1yCsZQoGYs",
+      "id" : "5aHsW90DZfcV1yCsZQoGYs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ba431b2ebd096cf7ec448095",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d991c2ce6241c8a945eabc2b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d991c2ce6241c8a945eabc2b",
+        "width" : 64
+      } ],
+      "name" : "JojiVibes",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:5aHsW90DZfcV1yCsZQoGYs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1LHWbJTGf2FTb1r65TPo3r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1LHWbJTGf2FTb1r65TPo3r",
+      "id" : "1LHWbJTGf2FTb1r65TPo3r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739df420b64cf5270fe72232f1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029df420b64cf5270fe72232f1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519df420b64cf5270fe72232f1",
+        "width" : 64
+      } ],
+      "name" : "Jojinooo",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:1LHWbJTGf2FTb1r65TPo3r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36ho5Eu7euWWo9Ny99fSLh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 575
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/36ho5Eu7euWWo9Ny99fSLh",
+      "id" : "36ho5Eu7euWWo9Ny99fSLh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273578cd8ed91b5421f16798837",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02578cd8ed91b5421f16798837",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851578cd8ed91b5421f16798837",
+        "width" : 64
+      } ],
+      "name" : "Joji",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:36ho5Eu7euWWo9Ny99fSLh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0AqlGE7w08qVq4WFFSYVU0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0AqlGE7w08qVq4WFFSYVU0",
+      "id" : "0AqlGE7w08qVq4WFFSYVU0",
+      "images" : [ ],
+      "name" : "Joji",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0AqlGE7w08qVq4WFFSYVU0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sFSSoORV5c2essslZ7nKB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 47
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0sFSSoORV5c2essslZ7nKB",
+      "id" : "0sFSSoORV5c2essslZ7nKB",
+      "images" : [ ],
+      "name" : "Joji Koyama",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:0sFSSoORV5c2essslZ7nKB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67X68fCjOennygUMhyeTcg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/67X68fCjOennygUMhyeTcg",
+      "id" : "67X68fCjOennygUMhyeTcg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738d944cef4a24cfb96bc60f5e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028d944cef4a24cfb96bc60f5e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518d944cef4a24cfb96bc60f5e",
+        "width" : 64
+      } ],
+      "name" : "Jojikobi",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:67X68fCjOennygUMhyeTcg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44rxgb7APIBDVUnuA2dort"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 45
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/44rxgb7APIBDVUnuA2dort",
+      "id" : "44rxgb7APIBDVUnuA2dort",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c39864fdb23fa533ba0ac56c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c39864fdb23fa533ba0ac56c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c39864fdb23fa533ba0ac56c",
+        "width" : 64
+      } ],
+      "name" : "JoJizzle",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:44rxgb7APIBDVUnuA2dort"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68HbGdZvrzb5isZAQH0Qq1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/68HbGdZvrzb5isZAQH0Qq1",
+      "id" : "68HbGdZvrzb5isZAQH0Qq1",
+      "images" : [ ],
+      "name" : "Jojinooo",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:68HbGdZvrzb5isZAQH0Qq1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5z715jgZ8PJ0zKJE0zTcNm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5z715jgZ8PJ0zKJE0zTcNm",
+      "id" : "5z715jgZ8PJ0zKJE0zTcNm",
+      "images" : [ ],
+      "name" : "JOJI",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:5z715jgZ8PJ0zKJE0zTcNm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0lf1po2qgKRydX8fYQbrak"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0lf1po2qgKRydX8fYQbrak",
+      "id" : "0lf1po2qgKRydX8fYQbrak",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9a35e11c9fd9f5822efb142b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749a35e11c9fd9f5822efb142b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789a35e11c9fd9f5822efb142b",
+        "width" : 160
+      } ],
+      "name" : "Jojinobeat",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0lf1po2qgKRydX8fYQbrak"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UIyagxqrdDPpmMxGH56YK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 435
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5UIyagxqrdDPpmMxGH56YK",
+      "id" : "5UIyagxqrdDPpmMxGH56YK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebca72c7804af8005497f8793a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ca72c7804af8005497f8793a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ca72c7804af8005497f8793a",
+        "width" : 160
+      } ],
+      "name" : "Joji Redback",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:5UIyagxqrdDPpmMxGH56YK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ufkO1sW8EtJdyuwasU0zS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7ufkO1sW8EtJdyuwasU0zS",
+      "id" : "7ufkO1sW8EtJdyuwasU0zS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273591c120687356c11c3936e08",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02591c120687356c11c3936e08",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851591c120687356c11c3936e08",
+        "width" : 64
+      } ],
+      "name" : "Jojito",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7ufkO1sW8EtJdyuwasU0zS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7AMloejMkndfcFM8oEvjCY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 195
+      },
+      "genres" : [ "taiko" ],
+      "href" : "https://api.spotify.com/v1/artists/7AMloejMkndfcFM8oEvjCY",
+      "id" : "7AMloejMkndfcFM8oEvjCY",
+      "images" : [ ],
+      "name" : "Joji Hirota & The Taiko Drummers",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:7AMloejMkndfcFM8oEvjCY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KNG3TjloEk7uDpmFUBW5T"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3KNG3TjloEk7uDpmFUBW5T",
+      "id" : "3KNG3TjloEk7uDpmFUBW5T",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb20b1b390d6377b1405f6f1ab",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517420b1b390d6377b1405f6f1ab",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17820b1b390d6377b1405f6f1ab",
+        "width" : 160
+      } ],
+      "name" : "jojio",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3KNG3TjloEk7uDpmFUBW5T"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=+Joji&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 113
+  }
+}

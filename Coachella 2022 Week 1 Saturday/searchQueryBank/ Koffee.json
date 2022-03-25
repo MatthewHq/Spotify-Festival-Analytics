@@ -1,0 +1,511 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Koffee&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 538188
+      },
+      "genres" : [ "dancehall", "modern reggae" ],
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcd0a7077824ca67fe4ce2850",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cd0a7077824ca67fe4ce2850",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cd0a7077824ca67fe4ce2850",
+        "width" : 160
+      } ],
+      "name" : "Koffee",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HEyD6mSqQQKMVilyU31ZY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 66755
+      },
+      "genres" : [ "contemporary r&b", "neo soul", "r&b", "urban contemporary" ],
+      "href" : "https://api.spotify.com/v1/artists/6HEyD6mSqQQKMVilyU31ZY",
+      "id" : "6HEyD6mSqQQKMVilyU31ZY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732cdd76d4f79c1d7f07a4386e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022cdd76d4f79c1d7f07a4386e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512cdd76d4f79c1d7f07a4386e",
+        "width" : 64
+      } ],
+      "name" : "Koffee Brown",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:6HEyD6mSqQQKMVilyU31ZY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dw6fNjt8patrkosLcAoKj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3892
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1dw6fNjt8patrkosLcAoKj",
+      "id" : "1dw6fNjt8patrkosLcAoKj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb75ceecb7a43336b7f2ee17fa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517475ceecb7a43336b7f2ee17fa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17875ceecb7a43336b7f2ee17fa",
+        "width" : 160
+      } ],
+      "name" : "Koffee K",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:1dw6fNjt8patrkosLcAoKj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 55427
+      },
+      "genres" : [ "champeta" ],
+      "href" : "https://api.spotify.com/v1/artists/3O5Pcxr21PC5RMi3wU1Dkm",
+      "id" : "3O5Pcxr21PC5RMi3wU1Dkm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba3344fdb87714067f30ec07d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a3344fdb87714067f30ec07d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a3344fdb87714067f30ec07d",
+        "width" : 160
+      } ],
+      "name" : "Koffee el Kafetero",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:3O5Pcxr21PC5RMi3wU1Dkm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23VkWUeWQLiQtMzPquHcBN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 136
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/23VkWUeWQLiQtMzPquHcBN",
+      "id" : "23VkWUeWQLiQtMzPquHcBN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27320cefa07f84eab1eca7ae714",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0220cefa07f84eab1eca7ae714",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485120cefa07f84eab1eca7ae714",
+        "width" : 64
+      } ],
+      "name" : "Koffee",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:23VkWUeWQLiQtMzPquHcBN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bM7s5dfVhJLLyCzKIQR6t"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 734
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7bM7s5dfVhJLLyCzKIQR6t",
+      "id" : "7bM7s5dfVhJLLyCzKIQR6t",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9f922ec218f397374c1b6e24",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749f922ec218f397374c1b6e24",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789f922ec218f397374c1b6e24",
+        "width" : 160
+      } ],
+      "name" : "Kupz of Koffee",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:7bM7s5dfVhJLLyCzKIQR6t"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4lqvunRc4ukEEeOKFnTsf8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4lqvunRc4ukEEeOKFnTsf8",
+      "id" : "4lqvunRc4ukEEeOKFnTsf8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27369d8a85a3a39b538e9b72fd7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0269d8a85a3a39b538e9b72fd7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485169d8a85a3a39b538e9b72fd7",
+        "width" : 64
+      } ],
+      "name" : "Koffee Paige",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4lqvunRc4ukEEeOKFnTsf8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34Qzyh8Fj4v5oyHbUVG2VM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/34Qzyh8Fj4v5oyHbUVG2VM",
+      "id" : "34Qzyh8Fj4v5oyHbUVG2VM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27387f3ce48e4ac2bcfb2a0a089",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0287f3ce48e4ac2bcfb2a0a089",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485187f3ce48e4ac2bcfb2a0a089",
+        "width" : 64
+      } ],
+      "name" : "Black Koffee",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:34Qzyh8Fj4v5oyHbUVG2VM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TrZ81JHZ0Yl7sxvsKFLfp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0TrZ81JHZ0Yl7sxvsKFLfp",
+      "id" : "0TrZ81JHZ0Yl7sxvsKFLfp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b4898b9b1ef3c07249bcb3a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b4898b9b1ef3c07249bcb3a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b4898b9b1ef3c07249bcb3a2",
+        "width" : 64
+      } ],
+      "name" : "Koffeeplease",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0TrZ81JHZ0Yl7sxvsKFLfp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yW2hBKFjwwG4ulGXDKi5r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 233
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6yW2hBKFjwwG4ulGXDKi5r",
+      "id" : "6yW2hBKFjwwG4ulGXDKi5r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b0e52be3254ca8f96b4b34f2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b0e52be3254ca8f96b4b34f2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b0e52be3254ca8f96b4b34f2",
+        "width" : 64
+      } ],
+      "name" : "UGK, Layzie Bone, Koffee & Various Others",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:6yW2hBKFjwwG4ulGXDKi5r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6AascVEHbfHTRdbxKOze5p"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6AascVEHbfHTRdbxKOze5p",
+      "id" : "6AascVEHbfHTRdbxKOze5p",
+      "images" : [ ],
+      "name" : "Koffee",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6AascVEHbfHTRdbxKOze5p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qgGLFEHsESraUBH7ZNWII"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 28
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6qgGLFEHsESraUBH7ZNWII",
+      "id" : "6qgGLFEHsESraUBH7ZNWII",
+      "images" : [ ],
+      "name" : "Koffee",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6qgGLFEHsESraUBH7ZNWII"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1X6bJteqp9HGU7R3F4PlJL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1X6bJteqp9HGU7R3F4PlJL",
+      "id" : "1X6bJteqp9HGU7R3F4PlJL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e7a40a43560008c2290fa85e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e7a40a43560008c2290fa85e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e7a40a43560008c2290fa85e",
+        "width" : 64
+      } ],
+      "name" : "Koffee Black",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1X6bJteqp9HGU7R3F4PlJL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LcWozLEyojNiP7U1SejaB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2LcWozLEyojNiP7U1SejaB",
+      "id" : "2LcWozLEyojNiP7U1SejaB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a86ba4c1d76b512bb580042f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a86ba4c1d76b512bb580042f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a86ba4c1d76b512bb580042f",
+        "width" : 64
+      } ],
+      "name" : "KoffeeError",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2LcWozLEyojNiP7U1SejaB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zlgIirXGdWQChA01xl5se"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2zlgIirXGdWQChA01xl5se",
+      "id" : "2zlgIirXGdWQChA01xl5se",
+      "images" : [ ],
+      "name" : "Koffee TheFirstFloetress",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2zlgIirXGdWQChA01xl5se"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/17x4x3Anp5trLjjqDt12Dm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/17x4x3Anp5trLjjqDt12Dm",
+      "id" : "17x4x3Anp5trLjjqDt12Dm",
+      "images" : [ ],
+      "name" : "KoffeeCee",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:17x4x3Anp5trLjjqDt12Dm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4c7GuKFDANl5jWr3CSiOPV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4c7GuKFDANl5jWr3CSiOPV",
+      "id" : "4c7GuKFDANl5jWr3CSiOPV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737f23c282ff025773ddd522f6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027f23c282ff025773ddd522f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517f23c282ff025773ddd522f6",
+        "width" : 64
+      } ],
+      "name" : "Koffee",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4c7GuKFDANl5jWr3CSiOPV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rQHGBuSHLXpDHubvR2jnH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5rQHGBuSHLXpDHubvR2jnH",
+      "id" : "5rQHGBuSHLXpDHubvR2jnH",
+      "images" : [ ],
+      "name" : "koffee",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:5rQHGBuSHLXpDHubvR2jnH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0igOq20SasCo2BYLX2zvz0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 349
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0igOq20SasCo2BYLX2zvz0",
+      "id" : "0igOq20SasCo2BYLX2zvz0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb74fc64cd6d6ee9e76d7af642",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517474fc64cd6d6ee9e76d7af642",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17874fc64cd6d6ee9e76d7af642",
+        "width" : 160
+      } ],
+      "name" : "Young Koffee",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:0igOq20SasCo2BYLX2zvz0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/14SaaT94RgzCa3hVHeJxzA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/14SaaT94RgzCa3hVHeJxzA",
+      "id" : "14SaaT94RgzCa3hVHeJxzA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eb98e57294bad444dec2df48",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eb98e57294bad444dec2df48",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eb98e57294bad444dec2df48",
+        "width" : 64
+      } ],
+      "name" : "Koffee",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:14SaaT94RgzCa3hVHeJxzA"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=+Koffee&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 53
+  }
+}

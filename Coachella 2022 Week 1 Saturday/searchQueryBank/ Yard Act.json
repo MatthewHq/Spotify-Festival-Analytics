@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Yard+Act&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 39436
+      },
+      "genres" : [ "chamber psych", "indie rock", "modern alternative rock", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/2h3ooJn8m8X8cL2g1BZ1Rd",
+      "id" : "2h3ooJn8m8X8cL2g1BZ1Rd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb01c3e188fffb5a92553ee7b5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517401c3e188fffb5a92553ee7b5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17801c3e188fffb5a92553ee7b5",
+        "width" : 160
+      } ],
+      "name" : "Yard Act",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:2h3ooJn8m8X8cL2g1BZ1Rd"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

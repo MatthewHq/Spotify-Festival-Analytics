@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Daniel+Caesar&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3161484
+      },
+      "genres" : [ "canadian contemporary r&b", "pop", "r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb718d4447dae6ba98072371f2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174718d4447dae6ba98072371f2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178718d4447dae6ba98072371f2",
+        "width" : 160
+      } ],
+      "name" : "Daniel Caesar",
+      "popularity" : 82,
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

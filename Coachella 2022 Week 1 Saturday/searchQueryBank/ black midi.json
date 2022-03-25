@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+black+midi&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 136853
+      },
+      "genres" : [ "art pop", "noise rock", "uk noise rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/7Hvq85OU8T7Hsd63zNBwaL",
+      "id" : "7Hvq85OU8T7Hsd63zNBwaL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb069ff978752054a7e015daab",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174069ff978752054a7e015daab",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178069ff978752054a7e015daab",
+        "width" : 160
+      } ],
+      "name" : "black midi",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:7Hvq85OU8T7Hsd63zNBwaL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zpLfNK6OMkvSPtpKGVMOI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0zpLfNK6OMkvSPtpKGVMOI",
+      "id" : "0zpLfNK6OMkvSPtpKGVMOI",
+      "images" : [ ],
+      "name" : "Black Midi",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0zpLfNK6OMkvSPtpKGVMOI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 115385
+      },
+      "genres" : [ "art pop", "indie rock", "london indie", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+      "id" : "3PP6ghmOlDl2jaKaH0avUN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaebcf58177b9739feadb00b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aebcf58177b9739feadb00b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aebcf58177b9739feadb00b9",
+        "width" : 160
+      } ],
+      "name" : "Black Country, New Road",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4mfAWSGcVG413WuiT7M8wV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 18
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4mfAWSGcVG413WuiT7M8wV",
+      "id" : "4mfAWSGcVG413WuiT7M8wV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273376d71afc6801920b2e5e648",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02376d71afc6801920b2e5e648",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851376d71afc6801920b2e5e648",
+        "width" : 64
+      } ],
+      "name" : "Black Midi",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4mfAWSGcVG413WuiT7M8wV"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

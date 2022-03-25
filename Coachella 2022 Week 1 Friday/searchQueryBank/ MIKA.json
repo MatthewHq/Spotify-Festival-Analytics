@@ -1,0 +1,559 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+MIKA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1207443
+      },
+      "genres" : [ "europop", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8308fa9036c78bb99bd53a4f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748308fa9036c78bb99bd53a4f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788308fa9036c78bb99bd53a4f",
+        "width" : 160
+      } ],
+      "name" : "MIKA",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 168389
+      },
+      "genres" : [ "chill r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/3JDG63cSaK3xgDnB2H55Xp",
+      "id" : "3JDG63cSaK3xgDnB2H55Xp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb674297ead0f5afa626bfc84f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174674297ead0f5afa626bfc84f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178674297ead0f5afa626bfc84f",
+        "width" : 160
+      } ],
+      "name" : "Audrey Mika",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:3JDG63cSaK3xgDnB2H55Xp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5858882
+      },
+      "genres" : [ "desi hip hop", "desi pop", "filmi", "modern bollywood" ],
+      "href" : "https://api.spotify.com/v1/artists/5T2I75UlGBcWd5nVyfmL13",
+      "id" : "5T2I75UlGBcWd5nVyfmL13",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf5444ca7d8968e8798a2f4bb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f5444ca7d8968e8798a2f4bb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f5444ca7d8968e8798a2f4bb",
+        "width" : 160
+      } ],
+      "name" : "Mika Singh",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:5T2I75UlGBcWd5nVyfmL13"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4XRSNOy4w4E4euNeu3aIfr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5147
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4XRSNOy4w4E4euNeu3aIfr",
+      "id" : "4XRSNOy4w4E4euNeu3aIfr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5e7e4a74e0aa9e8b4a7895e8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745e7e4a74e0aa9e8b4a7895e8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785e7e4a74e0aa9e8b4a7895e8",
+        "width" : 160
+      } ],
+      "name" : "Mikayla Sippel",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:4XRSNOy4w4E4euNeu3aIfr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dqKRXUJvcgQbg6jq06uFW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 51618
+      },
+      "genres" : [ "future funk" ],
+      "href" : "https://api.spotify.com/v1/artists/7dqKRXUJvcgQbg6jq06uFW",
+      "id" : "7dqKRXUJvcgQbg6jq06uFW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6bedce2c2b8cd0fd56ca06ef",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746bedce2c2b8cd0fd56ca06ef",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786bedce2c2b8cd0fd56ca06ef",
+        "width" : 160
+      } ],
+      "name" : "Mikazuki BIGWAVE",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:7dqKRXUJvcgQbg6jq06uFW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jevv48EcVJUGtBQCvr7LY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 74
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7jevv48EcVJUGtBQCvr7LY",
+      "id" : "7jevv48EcVJUGtBQCvr7LY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ff17ef2fbebdc00431a4c44d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ff17ef2fbebdc00431a4c44d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ff17ef2fbebdc00431a4c44d",
+        "width" : 64
+      } ],
+      "name" : "Mikaeli",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:7jevv48EcVJUGtBQCvr7LY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 124424
+      },
+      "genres" : [ "alternative r&b", "indie r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/4hknFHNFp3UMm2Rbc6Ansf",
+      "id" : "4hknFHNFp3UMm2Rbc6Ansf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc26e1e164abdf72a294ec6d6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c26e1e164abdf72a294ec6d6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c26e1e164abdf72a294ec6d6",
+        "width" : 160
+      } ],
+      "name" : "Sebastian Mikael",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:4hknFHNFp3UMm2Rbc6Ansf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 576
+      },
+      "genres" : [ "caucasian classical piano" ],
+      "href" : "https://api.spotify.com/v1/artists/6MbLMjlPQHSO9u4gKzys4w",
+      "id" : "6MbLMjlPQHSO9u4gKzys4w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6995a34c34502eff3af9d100",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746995a34c34502eff3af9d100",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786995a34c34502eff3af9d100",
+        "width" : 160
+      } ],
+      "name" : "Mikael Ayrapetyan",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:6MbLMjlPQHSO9u4gKzys4w"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 609181
+      },
+      "genres" : [ "j-pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3D73KNJRMbV45N59E8IN0F",
+      "id" : "3D73KNJRMbV45N59E8IN0F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb281b23879fec6175c1998242",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174281b23879fec6175c1998242",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178281b23879fec6175c1998242",
+        "width" : 160
+      } ],
+      "name" : "Mika Nakashima",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:3D73KNJRMbV45N59E8IN0F"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 202
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2RlRTTL9u7o7tf8dGgb78C",
+      "id" : "2RlRTTL9u7o7tf8dGgb78C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27302b2ffc3d7927e74b224186c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0202b2ffc3d7927e74b224186c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485102b2ffc3d7927e74b224186c",
+        "width" : 64
+      } ],
+      "name" : "Mikael Arvo",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:2RlRTTL9u7o7tf8dGgb78C"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 455
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1WhZafhbkuYM3mJTIMEbAo",
+      "id" : "1WhZafhbkuYM3mJTIMEbAo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf02b1a06363273948403ad35",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f02b1a06363273948403ad35",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f02b1a06363273948403ad35",
+        "width" : 160
+      } ],
+      "name" : "Mikael Sapin",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:1WhZafhbkuYM3mJTIMEbAo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 34012
+      },
+      "genres" : [ "anime", "genshin" ],
+      "href" : "https://api.spotify.com/v1/artists/2PszAsvg6kdXh0D2bMC8Yz",
+      "id" : "2PszAsvg6kdXh0D2bMC8Yz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb867f1bf54129f00b412bc510",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174867f1bf54129f00b412bc510",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178867f1bf54129f00b412bc510",
+        "width" : 160
+      } ],
+      "name" : "Mika Kobayashi",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:2PszAsvg6kdXh0D2bMC8Yz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9565
+      },
+      "genres" : [ "rochester ny indie" ],
+      "href" : "https://api.spotify.com/v1/artists/6CbL78A3tB1CPFoduF7UM5",
+      "id" : "6CbL78A3tB1CPFoduF7UM5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb323dd0abf0848220a5bb01e9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174323dd0abf0848220a5bb01e9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178323dd0abf0848220a5bb01e9",
+        "width" : 160
+      } ],
+      "name" : "Mikaela Davis",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:6CbL78A3tB1CPFoduF7UM5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hnc50bJnPjV4YHbpz4ooq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 54
+      },
+      "genres" : [ "music box" ],
+      "href" : "https://api.spotify.com/v1/artists/6hnc50bJnPjV4YHbpz4ooq",
+      "id" : "6hnc50bJnPjV4YHbpz4ooq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735de4f43ad9511dbc1d8ba9c1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025de4f43ad9511dbc1d8ba9c1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515de4f43ad9511dbc1d8ba9c1",
+        "width" : 64
+      } ],
+      "name" : "Mika Nordlind",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:6hnc50bJnPjV4YHbpz4ooq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uCIhxOdx0FN5MeGrcipBF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2801
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3uCIhxOdx0FN5MeGrcipBF",
+      "id" : "3uCIhxOdx0FN5MeGrcipBF",
+      "images" : [ ],
+      "name" : "Mika Ogawa",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:3uCIhxOdx0FN5MeGrcipBF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xjlliSqxyIZ03tKzaiuvC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3614
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3xjlliSqxyIZ03tKzaiuvC",
+      "id" : "3xjlliSqxyIZ03tKzaiuvC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf4e9f7d0f808c578516fa622",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f4e9f7d0f808c578516fa622",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f4e9f7d0f808c578516fa622",
+        "width" : 160
+      } ],
+      "name" : "Mika Filborne",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:3xjlliSqxyIZ03tKzaiuvC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0BHhjeiAVrfr93t8wNiZ7q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 994
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0BHhjeiAVrfr93t8wNiZ7q",
+      "id" : "0BHhjeiAVrfr93t8wNiZ7q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3b9bd6f70188332a10802f55",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743b9bd6f70188332a10802f55",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783b9bd6f70188332a10802f55",
+        "width" : 160
+      } ],
+      "name" : "Mikael Mutti",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:0BHhjeiAVrfr93t8wNiZ7q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6QobJ3vnalBTlsdOrvQTIt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 31735
+      },
+      "genres" : [ "garage pop", "modern power pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6QobJ3vnalBTlsdOrvQTIt",
+      "id" : "6QobJ3vnalBTlsdOrvQTIt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf1416aa23dbac88bbea468c3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f1416aa23dbac88bbea468c3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f1416aa23dbac88bbea468c3",
+        "width" : 160
+      } ],
+      "name" : "Mikal Cronin",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:6QobJ3vnalBTlsdOrvQTIt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FPmlPzy5vQaxruDv2QzFD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 68
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5FPmlPzy5vQaxruDv2QzFD",
+      "id" : "5FPmlPzy5vQaxruDv2QzFD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcf63aa9dcb2e70bfbc708f72",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cf63aa9dcb2e70bfbc708f72",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cf63aa9dcb2e70bfbc708f72",
+        "width" : 160
+      } ],
+      "name" : "Mikael Oterhals",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:5FPmlPzy5vQaxruDv2QzFD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lG3lwW6606R3gvvmrf05H"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5806
+      },
+      "genres" : [ "kawaii edm" ],
+      "href" : "https://api.spotify.com/v1/artists/1lG3lwW6606R3gvvmrf05H",
+      "id" : "1lG3lwW6606R3gvvmrf05H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ecbf4a16f65922de95d207ef",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ecbf4a16f65922de95d207ef",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ecbf4a16f65922de95d207ef",
+        "width" : 64
+      } ],
+      "name" : "mikanzil",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:1lG3lwW6606R3gvvmrf05H"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=+MIKA&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2631
+  }
+}

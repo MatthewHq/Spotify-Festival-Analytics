@@ -1,0 +1,880 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5tceE0eTO2p70lG8DTvehw",
+        "id" : "5tceE0eTO2p70lG8DTvehw",
+        "name" : "Dave Giles II",
+        "type" : "artist",
+        "uri" : "spotify:artist:5tceE0eTO2p70lG8DTvehw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kBeFHrKwVJsFTP5wpRYEv",
+        "id" : "7kBeFHrKwVJsFTP5wpRYEv",
+        "name" : "Cor.Ece",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kBeFHrKwVJsFTP5wpRYEv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gv2eRP8iQYnhQo7YaFUMn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gv2eRP8iQYnhQo7YaFUMn",
+      "id" : "5gv2eRP8iQYnhQo7YaFUMn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b89d4c13a6a9b93340f60f32",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b89d4c13a6a9b93340f60f32",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b89d4c13a6a9b93340f60f32",
+        "width" : 64
+      } ],
+      "name" : "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
+      "release_date" : "2022-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:5gv2eRP8iQYnhQo7YaFUMn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5tceE0eTO2p70lG8DTvehw",
+      "id" : "5tceE0eTO2p70lG8DTvehw",
+      "name" : "Dave Giles II",
+      "type" : "artist",
+      "uri" : "spotify:artist:5tceE0eTO2p70lG8DTvehw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kBeFHrKwVJsFTP5wpRYEv",
+      "id" : "7kBeFHrKwVJsFTP5wpRYEv",
+      "name" : "Cor.Ece",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kBeFHrKwVJsFTP5wpRYEv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55UOywvWbUD9c6C3NSGdft",
+      "id" : "55UOywvWbUD9c6C3NSGdft",
+      "name" : "Mike Dunn",
+      "type" : "artist",
+      "uri" : "spotify:artist:55UOywvWbUD9c6C3NSGdft"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181801,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBCPZ2120272"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3OZUrZBtQCiMmpoZquu0BS",
+    "id" : "3OZUrZBtQCiMmpoZquu0BS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4aa98ed47ab4c358f8347c56ffcd03b42e6343aa?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3OZUrZBtQCiMmpoZquu0BS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2agSsSBnKnby355ncQpQGu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2agSsSBnKnby355ncQpQGu",
+      "id" : "2agSsSBnKnby355ncQpQGu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4baaf02135f88ea26be739f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4baaf02135f88ea26be739f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4baaf02135f88ea26be739f",
+        "width" : 64
+      } ],
+      "name" : "The Best Of Both Worlds",
+      "release_date" : "2017-10-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:2agSsSBnKnby355ncQpQGu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4d3uomgSkoaZSgZU7D67jE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4d3uomgSkoaZSgZU7D67jE",
+      "id" : "4d3uomgSkoaZSgZU7D67jE",
+      "name" : "Tim K",
+      "type" : "artist",
+      "uri" : "spotify:artist:4d3uomgSkoaZSgZU7D67jE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5VNCplADfySxatpXe5jjDM",
+      "id" : "5VNCplADfySxatpXe5jjDM",
+      "name" : "Nomi Ruiz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5VNCplADfySxatpXe5jjDM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 304259,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ1712024"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4B5lkO1AHKmFHX5GpaKq9d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4B5lkO1AHKmFHX5GpaKq9d",
+    "id" : "4B5lkO1AHKmFHX5GpaKq9d",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Why (feat. Nomi Ruiz)",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb38d7c0036e5f39155fc56542cef43d0022ab77?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:4B5lkO1AHKmFHX5GpaKq9d"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4PTQtiKISN5iGNpbRVv02B",
+        "id" : "4PTQtiKISN5iGNpbRVv02B",
+        "name" : "DJ Minx",
+        "type" : "artist",
+        "uri" : "spotify:artist:4PTQtiKISN5iGNpbRVv02B"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Opkh7SR0vMoTDEfalZxc8",
+      "id" : "6Opkh7SR0vMoTDEfalZxc8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ac2a5927f4bdd00734017926",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ac2a5927f4bdd00734017926",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ac2a5927f4bdd00734017926",
+        "width" : 64
+      } ],
+      "name" : "Do It All Night (Honey Dijon Remix [Radio Edit])",
+      "release_date" : "2022-01-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6Opkh7SR0vMoTDEfalZxc8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4PTQtiKISN5iGNpbRVv02B",
+      "id" : "4PTQtiKISN5iGNpbRVv02B",
+      "name" : "DJ Minx",
+      "type" : "artist",
+      "uri" : "spotify:artist:4PTQtiKISN5iGNpbRVv02B"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 252720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEG932104283"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2H39iFssrfIvFm66Bm43AR",
+    "id" : "2H39iFssrfIvFm66Bm43AR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Do It All Night - Honey Dijon Remix [Radio Edit]",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/802bc711118208fc861925147094764a5dd163ee?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2H39iFssrfIvFm66Bm43AR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4gxf9I5X6rUywK85hFwvrZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4gxf9I5X6rUywK85hFwvrZ",
+      "id" : "4gxf9I5X6rUywK85hFwvrZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c47c9281bfced99d2f4d5ab7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c47c9281bfced99d2f4d5ab7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c47c9281bfced99d2f4d5ab7",
+        "width" : 64
+      } ],
+      "name" : "Downtown (feat. Annette Bowen & Nikki-O)",
+      "release_date" : "2021-04-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4gxf9I5X6rUywK85hFwvrZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2aUKSEUEhrKaW6vkQnrXq6",
+      "id" : "2aUKSEUEhrKaW6vkQnrXq6",
+      "name" : "Annette Bowen",
+      "type" : "artist",
+      "uri" : "spotify:artist:2aUKSEUEhrKaW6vkQnrXq6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cVdPPKt04x4LIFGW4rUnL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cVdPPKt04x4LIFGW4rUnL",
+      "id" : "1cVdPPKt04x4LIFGW4rUnL",
+      "name" : "Nikki-O",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cVdPPKt04x4LIFGW4rUnL"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235067,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2018717"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7JN4rYLphO4zyPP04Ibftj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7JN4rYLphO4zyPP04Ibftj",
+    "id" : "7JN4rYLphO4zyPP04Ibftj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Downtown (feat. Annette Bowen & Nikki-O)",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/63c4e7f07609f4a4ce6841ba9650d1b605913773?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7JN4rYLphO4zyPP04Ibftj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2S8UlyXW4JjjHcbeg8ddIo",
+        "id" : "2S8UlyXW4JjjHcbeg8ddIo",
+        "name" : "702",
+        "type" : "artist",
+        "uri" : "spotify:artist:2S8UlyXW4JjjHcbeg8ddIo"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0V0bId2iw1NFnURJ4PfUik"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0V0bId2iw1NFnURJ4PfUik",
+      "id" : "0V0bId2iw1NFnURJ4PfUik",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d5a3dab2168094e8d3f7528a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d5a3dab2168094e8d3f7528a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d5a3dab2168094e8d3f7528a",
+        "width" : 64
+      } ],
+      "name" : "Where My Girls At? (Honey Dijon Remix)",
+      "release_date" : "2021-06-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0V0bId2iw1NFnURJ4PfUik"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2S8UlyXW4JjjHcbeg8ddIo",
+      "id" : "2S8UlyXW4JjjHcbeg8ddIo",
+      "name" : "702",
+      "type" : "artist",
+      "uri" : "spotify:artist:2S8UlyXW4JjjHcbeg8ddIo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 323262,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM72107912"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1vD5PRxLD2XYxOLLTQWFOi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1vD5PRxLD2XYxOLLTQWFOi",
+    "id" : "1vD5PRxLD2XYxOLLTQWFOi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Where My Girls At? - Honey Dijon Remix",
+    "popularity" : 42,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1vD5PRxLD2XYxOLLTQWFOi"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id" : "1HY2Jd0NmPuamShAr6KMms",
+        "name" : "Lady Gaga",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6y1MSmjTqlF2ZTH6O2WLCn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6y1MSmjTqlF2ZTH6O2WLCn",
+      "id" : "6y1MSmjTqlF2ZTH6O2WLCn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c668cf416f00d255faeac5a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c668cf416f00d255faeac5a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c668cf416f00d255faeac5a",
+        "width" : 64
+      } ],
+      "name" : "Free Woman (Honey Dijon Realness Remix)",
+      "release_date" : "2020-08-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6y1MSmjTqlF2ZTH6O2WLCn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+      "id" : "1HY2Jd0NmPuamShAr6KMms",
+      "name" : "Lady Gaga",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210585,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM72013248"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2mAec4UYo59CdSnGETcUHP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2mAec4UYo59CdSnGETcUHP",
+    "id" : "2mAec4UYo59CdSnGETcUHP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Free Woman - Honey Dijon Realness Remix Edit",
+    "popularity" : 41,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2mAec4UYo59CdSnGETcUHP"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0RwIBvz1UR0UJlmKjkSZpr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0RwIBvz1UR0UJlmKjkSZpr",
+      "id" : "0RwIBvz1UR0UJlmKjkSZpr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731dfb183963b87e2d7ed4382a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021dfb183963b87e2d7ed4382a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511dfb183963b87e2d7ed4382a",
+        "width" : 64
+      } ],
+      "name" : "Not About You (feat. Hadiya George)",
+      "release_date" : "2020-07-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0RwIBvz1UR0UJlmKjkSZpr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KbGFGECxJ5p23kuYlJ6l9",
+      "id" : "1KbGFGECxJ5p23kuYlJ6l9",
+      "name" : "Hadiya George",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KbGFGECxJ5p23kuYlJ6l9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210473,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2017928"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6E9Y3681ntRrdMG2OAEQ56"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6E9Y3681ntRrdMG2OAEQ56",
+    "id" : "6E9Y3681ntRrdMG2OAEQ56",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Not About You (feat. Hadiya George)",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/55e75d82bd32b2f6fb5d4a6b49a7cb3df0f9e4b0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6E9Y3681ntRrdMG2OAEQ56"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5gsnMTU0mLcD7EdBpS2Ffe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5gsnMTU0mLcD7EdBpS2Ffe",
+        "id" : "5gsnMTU0mLcD7EdBpS2Ffe",
+        "name" : "Sebastian Manuel",
+        "type" : "artist",
+        "uri" : "spotify:artist:5gsnMTU0mLcD7EdBpS2Ffe"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0O86nnnZgxkPqDzeDCSKq7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0O86nnnZgxkPqDzeDCSKq7",
+      "id" : "0O86nnnZgxkPqDzeDCSKq7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27339f2257ad828ee8432641178",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0239f2257ad828ee8432641178",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485139f2257ad828ee8432641178",
+        "width" : 64
+      } ],
+      "name" : "The Mixologist EP",
+      "release_date" : "2013",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:0O86nnnZgxkPqDzeDCSKq7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5gsnMTU0mLcD7EdBpS2Ffe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5gsnMTU0mLcD7EdBpS2Ffe",
+      "id" : "5gsnMTU0mLcD7EdBpS2Ffe",
+      "name" : "Sebastian Manuel",
+      "type" : "artist",
+      "uri" : "spotify:artist:5gsnMTU0mLcD7EdBpS2Ffe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 480000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ES7841324604"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4oCshsdBVdcKQi6GTZHPKr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4oCshsdBVdcKQi6GTZHPKr",
+    "id" : "4oCshsdBVdcKQi6GTZHPKr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Mixologist - Rafa Barrios Remix",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fbfb13740258bd8cfb07277907b51870d77bbeb7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4oCshsdBVdcKQi6GTZHPKr"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4d3uomgSkoaZSgZU7D67jE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4d3uomgSkoaZSgZU7D67jE",
+        "id" : "4d3uomgSkoaZSgZU7D67jE",
+        "name" : "Tim K",
+        "type" : "artist",
+        "uri" : "spotify:artist:4d3uomgSkoaZSgZU7D67jE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2qvSsqazvZPxxBF3aiunlM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2qvSsqazvZPxxBF3aiunlM",
+      "id" : "2qvSsqazvZPxxBF3aiunlM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27332165e442a03f622125e26d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0232165e442a03f622125e26d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485132165e442a03f622125e26d1",
+        "width" : 64
+      } ],
+      "name" : "Thunda (feat. John Mendelsohn)",
+      "release_date" : "2015-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:2qvSsqazvZPxxBF3aiunlM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4d3uomgSkoaZSgZU7D67jE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4d3uomgSkoaZSgZU7D67jE",
+      "id" : "4d3uomgSkoaZSgZU7D67jE",
+      "name" : "Tim K",
+      "type" : "artist",
+      "uri" : "spotify:artist:4d3uomgSkoaZSgZU7D67jE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ex7EZNGzENqaqUoPO6HQi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7ex7EZNGzENqaqUoPO6HQi",
+      "id" : "7ex7EZNGzENqaqUoPO6HQi",
+      "name" : "John Mendelsohn",
+      "type" : "artist",
+      "uri" : "spotify:artist:7ex7EZNGzENqaqUoPO6HQi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 422188,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ1508432"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7FcN74qp11KkNO0Xd7WMxU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7FcN74qp11KkNO0Xd7WMxU",
+    "id" : "7FcN74qp11KkNO0Xd7WMxU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Thunda (feat. John Mendelsohn) - HNNY Remix",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/19d59e88d228731fc23bc949f1fb44cc3bba9248?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7FcN74qp11KkNO0Xd7WMxU"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+        "id" : "0XfQBWgzisaS9ltDV9bXAS",
+        "name" : "Honey Dijon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18JBpOIceZJGCryQXiv98d"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18JBpOIceZJGCryQXiv98d",
+      "id" : "18JBpOIceZJGCryQXiv98d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa0171066e84a8ba870136e1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa0171066e84a8ba870136e1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa0171066e84a8ba870136e1",
+        "width" : 64
+      } ],
+      "name" : "Beyond",
+      "release_date" : "2020-09-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:18JBpOIceZJGCryQXiv98d"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "name" : "Honey Dijon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KbGFGECxJ5p23kuYlJ6l9",
+      "id" : "1KbGFGECxJ5p23kuYlJ6l9",
+      "name" : "Hadiya George",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KbGFGECxJ5p23kuYlJ6l9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3EK3opK9Hp93HJjBPupzfg",
+      "id" : "3EK3opK9Hp93HJjBPupzfg",
+      "name" : "KDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3EK3opK9Hp93HJjBPupzfg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 374308,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2018036"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3E3i9HPozXn5JS0yw6AJJR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3E3i9HPozXn5JS0yw6AJJR",
+    "id" : "3E3i9HPozXn5JS0yw6AJJR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Not About You (feat. Hadiya George) - KDA 'Legacy' Extended Remix",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9705e614eafaef1e13473723b9f8236a6ebfc0b0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3E3i9HPozXn5JS0yw6AJJR"
+  } ]
+}

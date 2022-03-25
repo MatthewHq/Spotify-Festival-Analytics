@@ -1,0 +1,682 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+        "id" : "57vWImR43h4CaDao012Ofp",
+        "name" : "Steve Lacy",
+        "type" : "artist",
+        "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5fvUFzgVEni3L7769OabqQ",
+      "id" : "5fvUFzgVEni3L7769OabqQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273263886a4992c39704c601409",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02263886a4992c39704c601409",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851263886a4992c39704c601409",
+        "width" : 64
+      } ],
+      "name" : "Dark Red",
+      "release_date" : "2017-02-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5fvUFzgVEni3L7769OabqQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 173104,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL1778015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/37y7iDayfwm3WXn5BiAoRk",
+    "id" : "37y7iDayfwm3WXn5BiAoRk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dark Red",
+    "popularity" : 91,
+    "preview_url" : "https://p.scdn.co/mp3-preview/66a01277552edc4fee487e95c3a93d46641d8945?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:37y7iDayfwm3WXn5BiAoRk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+        "id" : "57vWImR43h4CaDao012Ofp",
+        "name" : "Steve Lacy",
+        "type" : "artist",
+        "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6m5qlaMzLtNsQDj3DQY5ji",
+      "id" : "6m5qlaMzLtNsQDj3DQY5ji",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c3545bbe806b845c2b52bc20",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c3545bbe806b845c2b52bc20",
+        "width" : 64
+      } ],
+      "name" : "The Lo-Fis",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:6m5qlaMzLtNsQDj3DQY5ji"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178328,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAFF2074404"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0f8eRy9A0n6zXpKSHSCAEp",
+    "id" : "0f8eRy9A0n6zXpKSHSCAEp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Infrunami",
+    "popularity" : 80,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b7d9480e97ddf256d2f769e6fad56e836e9b66bc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:0f8eRy9A0n6zXpKSHSCAEp"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+        "id" : "57vWImR43h4CaDao012Ofp",
+        "name" : "Steve Lacy",
+        "type" : "artist",
+        "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33jE0rzk63VdTJcDukmjRa",
+      "id" : "33jE0rzk63VdTJcDukmjRa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273447d52024a6ac588ad418ae5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02447d52024a6ac588ad418ae5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851447d52024a6ac588ad418ae5",
+        "width" : 64
+      } ],
+      "name" : "C U Girl",
+      "release_date" : "2015-02-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:33jE0rzk63VdTJcDukmjRa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 129697,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCACH1579144"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6FBzhcfgGacfXF3AmtfEaX",
+    "id" : "6FBzhcfgGacfXF3AmtfEaX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "C U Girl",
+    "popularity" : 80,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2cb7866771aa859a34c76845ba99df1868ee019e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6FBzhcfgGacfXF3AmtfEaX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+        "id" : "57vWImR43h4CaDao012Ofp",
+        "name" : "Steve Lacy",
+        "type" : "artist",
+        "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4POiurFeB5bDsF9yBwOxbh",
+      "id" : "4POiurFeB5bDsF9yBwOxbh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737c0c6c1cfac7464b6211587d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027c0c6c1cfac7464b6211587d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517c0c6c1cfac7464b6211587d",
+        "width" : 64
+      } ],
+      "name" : "Some",
+      "release_date" : "2016-10-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4POiurFeB5bDsF9yBwOxbh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 118393,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "TCACT1617859"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4riDfclV7kPDT9D58FpmHd",
+    "id" : "4riDfclV7kPDT9D58FpmHd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Some",
+    "popularity" : 78,
+    "preview_url" : "https://p.scdn.co/mp3-preview/28df1a274b38f06d90d2ab13bc64d8fc2b1bad5f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4riDfclV7kPDT9D58FpmHd"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+        "id" : "57vWImR43h4CaDao012Ofp",
+        "name" : "Steve Lacy",
+        "type" : "artist",
+        "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47DbvIExnHbqAhIuzBAO9W"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47DbvIExnHbqAhIuzBAO9W",
+      "id" : "47DbvIExnHbqAhIuzBAO9W",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a31dd5d96b9df819e331fdcb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a31dd5d96b9df819e331fdcb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a31dd5d96b9df819e331fdcb",
+        "width" : 64
+      } ],
+      "name" : "Steve Lacy's Demo",
+      "release_date" : "2017-02-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:47DbvIExnHbqAhIuzBAO9W"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 140182,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL1778014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3I8yVFjvJoOBM9tX4ZpxEL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3I8yVFjvJoOBM9tX4ZpxEL",
+    "id" : "3I8yVFjvJoOBM9tX4ZpxEL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ryd",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f79d9cfd1db8c17c866876d952e343bc30de6ff6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3I8yVFjvJoOBM9tX4ZpxEL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+        "id" : "57vWImR43h4CaDao012Ofp",
+        "name" : "Steve Lacy",
+        "type" : "artist",
+        "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IhDL1HDvlujs6ZcIfL9gE",
+      "id" : "3IhDL1HDvlujs6ZcIfL9gE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b791593e61e77e9a1c092fa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b791593e61e77e9a1c092fa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b791593e61e77e9a1c092fa",
+        "width" : 64
+      } ],
+      "name" : "Apollo XXI",
+      "release_date" : "2019-05-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3IhDL1HDvlujs6ZcIfL9gE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224444,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBWWP1904872"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/24G1PXBWoRgV0wDXZKwxzz",
+    "id" : "24G1PXBWoRgV0wDXZKwxzz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "N Side",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/82c3c6eb912da0000daeee4601de33c374021118?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:24G1PXBWoRgV0wDXZKwxzz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+        "id" : "57vWImR43h4CaDao012Ofp",
+        "name" : "Steve Lacy",
+        "type" : "artist",
+        "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6m5qlaMzLtNsQDj3DQY5ji",
+      "id" : "6m5qlaMzLtNsQDj3DQY5ji",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c3545bbe806b845c2b52bc20",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c3545bbe806b845c2b52bc20",
+        "width" : 64
+      } ],
+      "name" : "The Lo-Fis",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:6m5qlaMzLtNsQDj3DQY5ji"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 90708,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAFF2074369"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6M0EP76qW9TG4SNU0agu94",
+    "id" : "6M0EP76qW9TG4SNU0agu94",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Uuuu",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/03fc913c95cde1b7fd85ff64aa6652c1113d4c34?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6M0EP76qW9TG4SNU0agu94"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+        "id" : "57vWImR43h4CaDao012Ofp",
+        "name" : "Steve Lacy",
+        "type" : "artist",
+        "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IhDL1HDvlujs6ZcIfL9gE",
+      "id" : "3IhDL1HDvlujs6ZcIfL9gE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b791593e61e77e9a1c092fa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b791593e61e77e9a1c092fa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b791593e61e77e9a1c092fa",
+        "width" : 64
+      } ],
+      "name" : "Apollo XXI",
+      "release_date" : "2019-05-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3IhDL1HDvlujs6ZcIfL9gE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 109818,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBWWP1904865"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/30o8E8pmxyWDVvjud2WE5i"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/30o8E8pmxyWDVvjud2WE5i",
+    "id" : "30o8E8pmxyWDVvjud2WE5i",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Basement Jack",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/199aa6ff03a1a2cdad635d479d918afc99a52056?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:30o8E8pmxyWDVvjud2WE5i"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+        "id" : "57vWImR43h4CaDao012Ofp",
+        "name" : "Steve Lacy",
+        "type" : "artist",
+        "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6m5qlaMzLtNsQDj3DQY5ji",
+      "id" : "6m5qlaMzLtNsQDj3DQY5ji",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c3545bbe806b845c2b52bc20",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c3545bbe806b845c2b52bc20",
+        "width" : 64
+      } ],
+      "name" : "The Lo-Fis",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:6m5qlaMzLtNsQDj3DQY5ji"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 161900,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "TCAFF2074345"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0SkgmGr08TvWQciNRgRtmc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0SkgmGr08TvWQciNRgRtmc",
+    "id" : "0SkgmGr08TvWQciNRgRtmc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Thats No Fun",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bb15b45bae0c4332f25d5ea3889dbfb38663a9c2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0SkgmGr08TvWQciNRgRtmc"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5RTLRtXjbXI2lSXc6jxlAz",
+        "id" : "5RTLRtXjbXI2lSXc6jxlAz",
+        "name" : "Ravyn Lenae",
+        "type" : "artist",
+        "uri" : "spotify:artist:5RTLRtXjbXI2lSXc6jxlAz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/26eVDoCWYUMJ42dEAlsgDe",
+      "id" : "26eVDoCWYUMJ42dEAlsgDe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b8469c6fb6bb4e50ee34fab2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b8469c6fb6bb4e50ee34fab2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b8469c6fb6bb4e50ee34fab2",
+        "width" : 64
+      } ],
+      "name" : "Skin Tight (feat. Steve Lacy)",
+      "release_date" : "2022-02-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:26eVDoCWYUMJ42dEAlsgDe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5RTLRtXjbXI2lSXc6jxlAz",
+      "id" : "5RTLRtXjbXI2lSXc6jxlAz",
+      "name" : "Ravyn Lenae",
+      "type" : "artist",
+      "uri" : "spotify:artist:5RTLRtXjbXI2lSXc6jxlAz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id" : "57vWImR43h4CaDao012Ofp",
+      "name" : "Steve Lacy",
+      "type" : "artist",
+      "uri" : "spotify:artist:57vWImR43h4CaDao012Ofp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 227001,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT22200225"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5qrPtPZ0o6pXIwdJrzASTs",
+    "id" : "5qrPtPZ0o6pXIwdJrzASTs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Skin Tight (feat. Steve Lacy)",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/520ac0e18011bc68d1262711944f4d6931690fe6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5qrPtPZ0o6pXIwdJrzASTs"
+  } ]
+}

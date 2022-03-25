@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Duke+Dumont&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 655437
+      },
+      "genres" : [ "destroy techno", "edm", "electro house", "house", "pop dance", "progressive house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/61lyPtntblHJvA7FMMhi7E",
+      "id" : "61lyPtntblHJvA7FMMhi7E",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb208e2d15d19c97801c0bd5fc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174208e2d15d19c97801c0bd5fc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178208e2d15d19c97801c0bd5fc",
+        "width" : 160
+      } ],
+      "name" : "Duke Dumont",
+      "popularity" : 69,
+      "type" : "artist",
+      "uri" : "spotify:artist:61lyPtntblHJvA7FMMhi7E"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

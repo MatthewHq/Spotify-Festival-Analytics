@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Emotional+Oranges&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 218043
+      },
+      "genres" : [ "alternative r&b", "chill r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/12trz2INGglrKMzLmg0y2C",
+      "id" : "12trz2INGglrKMzLmg0y2C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb846d942e38aa534f7d9f789a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174846d942e38aa534f7d9f789a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178846d942e38aa534f7d9f789a",
+        "width" : 160
+      } ],
+      "name" : "Emotional Oranges",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:12trz2INGglrKMzLmg0y2C"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

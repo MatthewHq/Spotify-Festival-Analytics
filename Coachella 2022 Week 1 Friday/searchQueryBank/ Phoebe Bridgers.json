@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Phoebe+Bridgers&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1097119
+      },
+      "genres" : [ "indie pop", "la indie" ],
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb626686e362d30246e816cc5b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174626686e362d30246e816cc5b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b",
+        "width" : 160
+      } ],
+      "name" : "Phoebe Bridgers",
+      "popularity" : 79,
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0eJNks4i5IP9whOTSQf4jM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 41
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0eJNks4i5IP9whOTSQf4jM",
+      "id" : "0eJNks4i5IP9whOTSQf4jM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27393400b373489b73f79a8cbc9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0293400b373489b73f79a8cbc9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485193400b373489b73f79a8cbc9",
+        "width" : 64
+      } ],
+      "name" : "Phoebe Bridgers",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:0eJNks4i5IP9whOTSQf4jM"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

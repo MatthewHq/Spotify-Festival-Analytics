@@ -1,0 +1,952 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Y3MV9DZ0d87NnVm56qSY1",
+        "id" : "5Y3MV9DZ0d87NnVm56qSY1",
+        "name" : "Tiago PZK",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Y3MV9DZ0d87NnVm56qSY1"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vqR17Iv8VFdzure1TAXEq",
+        "id" : "1vqR17Iv8VFdzure1TAXEq",
+        "name" : "LIT killah",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vqR17Iv8VFdzure1TAXEq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1DxLCyH42yaHKGK3cl5bvG",
+        "id" : "1DxLCyH42yaHKGK3cl5bvG",
+        "name" : "Maria Becerra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1DxLCyH42yaHKGK3cl5bvG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1RXzQq8DhpkYvvbXE9CqLm",
+      "id" : "1RXzQq8DhpkYvvbXE9CqLm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325e5f441cd1021223ca87c1c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225e5f441cd1021223ca87c1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125e5f441cd1021223ca87c1c",
+        "width" : 64
+      } ],
+      "name" : "Entre Nosotros (Remix) [con Nicki Nicole]",
+      "release_date" : "2022-01-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1RXzQq8DhpkYvvbXE9CqLm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Y3MV9DZ0d87NnVm56qSY1",
+      "id" : "5Y3MV9DZ0d87NnVm56qSY1",
+      "name" : "Tiago PZK",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Y3MV9DZ0d87NnVm56qSY1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vqR17Iv8VFdzure1TAXEq",
+      "id" : "1vqR17Iv8VFdzure1TAXEq",
+      "name" : "LIT killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vqR17Iv8VFdzure1TAXEq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DxLCyH42yaHKGK3cl5bvG",
+      "id" : "1DxLCyH42yaHKGK3cl5bvG",
+      "name" : "Maria Becerra",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DxLCyH42yaHKGK3cl5bvG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 260000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AR3N42100008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4TGwERXRlyQtBdggYTHo6j",
+    "id" : "4TGwERXRlyQtBdggYTHo6j",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Entre Nosotros (Remix) [con Nicki Nicole]",
+    "popularity" : 89,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eee460848ceb1fceae0a1184f39d5316943ddaa3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4TGwERXRlyQtBdggYTHo6j"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ZCO8oVkMj897cKgFH7fRW",
+        "id" : "0ZCO8oVkMj897cKgFH7fRW",
+        "name" : "Los Ángeles Azules",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ZCO8oVkMj897cKgFH7fRW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+        "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+        "name" : "Nicki Nicole",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
+      },
+      "href" : "https://api.spotify.com/v1/albums/202ZNK1Xpb0r72VyHsz23L",
+      "id" : "202ZNK1Xpb0r72VyHsz23L",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27385185f9b1a5979286183edde",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0285185f9b1a5979286183edde",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485185185f9b1a5979286183edde",
+        "width" : 64
+      } ],
+      "name" : "Otra Noche",
+      "release_date" : "2021-11-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:202ZNK1Xpb0r72VyHsz23L"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ZCO8oVkMj897cKgFH7fRW",
+      "id" : "0ZCO8oVkMj897cKgFH7fRW",
+      "name" : "Los Ángeles Azules",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ZCO8oVkMj897cKgFH7fRW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 199120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "MX1722101437"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5i82o3878xCPNCUK8VIeqX",
+    "id" : "5i82o3878xCPNCUK8VIeqX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Otra Noche",
+    "popularity" : 63,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5i82o3878xCPNCUK8VIeqX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7eLcDZDYHXZCebtQmVFL25",
+        "id" : "7eLcDZDYHXZCebtQmVFL25",
+        "name" : "Aitana",
+        "type" : "artist",
+        "uri" : "spotify:artist:7eLcDZDYHXZCebtQmVFL25"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+        "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+        "name" : "Nicki Nicole",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1xWOSgEAm6gO2A6zdlrPqH",
+      "id" : "1xWOSgEAm6gO2A6zdlrPqH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dfaf531c134da0024b7d1924",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dfaf531c134da0024b7d1924",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dfaf531c134da0024b7d1924",
+        "width" : 64
+      } ],
+      "name" : "Formentera",
+      "release_date" : "2021-12-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1xWOSgEAm6gO2A6zdlrPqH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7eLcDZDYHXZCebtQmVFL25",
+      "id" : "7eLcDZDYHXZCebtQmVFL25",
+      "name" : "Aitana",
+      "type" : "artist",
+      "uri" : "spotify:artist:7eLcDZDYHXZCebtQmVFL25"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 207333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ES5702102102"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3nfICwo20uiFdEGzgNUSrG",
+    "id" : "3nfICwo20uiFdEGzgNUSrG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Formentera",
+    "popularity" : 82,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3nfICwo20uiFdEGzgNUSrG"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4riOEaOW5hCeqomFDBk0aP",
+        "id" : "4riOEaOW5hCeqomFDBk0aP",
+        "name" : "Rochy RD",
+        "type" : "artist",
+        "uri" : "spotify:artist:4riOEaOW5hCeqomFDBk0aP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+        "id" : "7iK8PXO48WeuP03g8YR51W",
+        "name" : "Myke Towers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+        "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+        "name" : "Nicki Nicole",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5Jk2ROWL8a4RxmFNiT8pvA",
+      "id" : "5Jk2ROWL8a4RxmFNiT8pvA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e4b101046479cd4568a3cbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e4b101046479cd4568a3cbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e4b101046479cd4568a3cbc",
+        "width" : 64
+      } ],
+      "name" : "Ella No Es Tuya (Remix)",
+      "release_date" : "2021-02-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5Jk2ROWL8a4RxmFNiT8pvA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4riOEaOW5hCeqomFDBk0aP",
+      "id" : "4riOEaOW5hCeqomFDBk0aP",
+      "name" : "Rochy RD",
+      "type" : "artist",
+      "uri" : "spotify:artist:4riOEaOW5hCeqomFDBk0aP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+      "id" : "7iK8PXO48WeuP03g8YR51W",
+      "name" : "Myke Towers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSD12100003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5YYW3yRktprLRr47WK219Y",
+    "id" : "5YYW3yRktprLRr47WK219Y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ella No Es Tuya - Remix",
+    "popularity" : 79,
+    "preview_url" : "https://p.scdn.co/mp3-preview/30047a766870f5ced11cafe61d76dd9c65091978?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5YYW3yRktprLRr47WK219Y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2x7PC78TmgqpEIjaGAZ0Oz",
+        "id" : "2x7PC78TmgqpEIjaGAZ0Oz",
+        "name" : "Trueno",
+        "type" : "artist",
+        "uri" : "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1xBoZOfcOsqd77V6AENKYC",
+      "id" : "1xBoZOfcOsqd77V6AENKYC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f4483d4440a89a2cab3b5141",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f4483d4440a89a2cab3b5141",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f4483d4440a89a2cab3b5141",
+        "width" : 64
+      } ],
+      "name" : "Atrevido",
+      "release_date" : "2020-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1xBoZOfcOsqd77V6AENKYC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2x7PC78TmgqpEIjaGAZ0Oz",
+      "id" : "2x7PC78TmgqpEIjaGAZ0Oz",
+      "name" : "Trueno",
+      "type" : "artist",
+      "uri" : "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "href" : "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id" : "716NhGYqD1jl2wI1Qkgq36",
+      "name" : "Bizarrap",
+      "type" : "artist",
+      "uri" : "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5szJHKg5xeUlQ9pTqzdpic",
+      "id" : "5szJHKg5xeUlQ9pTqzdpic",
+      "name" : "Taiu",
+      "type" : "artist",
+      "uri" : "spotify:artist:5szJHKg5xeUlQ9pTqzdpic"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0shHIQr8VamXbzM66kwGQo",
+      "id" : "0shHIQr8VamXbzM66kwGQo",
+      "name" : "TATOOL",
+      "type" : "artist",
+      "uri" : "spotify:artist:0shHIQr8VamXbzM66kwGQo"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219201,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ARRWN2000010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0TUW9faHNaBmi89wsYGp9y",
+    "id" : "0TUW9faHNaBmi89wsYGp9y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mamichula - con Nicki Nicole",
+    "popularity" : 78,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1971fd3114d9bb5da6d5f50b47976c5e11de755d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0TUW9faHNaBmi89wsYGp9y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+        "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+        "name" : "Nicki Nicole",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3ma7if5xuOYxZouDsuCsdP",
+      "id" : "3ma7if5xuOYxZouDsuCsdP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27319f7055ea11fba4868f7794a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0219f7055ea11fba4868f7794a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485119f7055ea11fba4868f7794a",
+        "width" : 64
+      } ],
+      "name" : "Parte de Mí",
+      "release_date" : "2021-10-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3ma7if5xuOYxZouDsuCsdP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+      "id" : "1mcTU81TzQhprhouKaTkpq",
+      "name" : "Rauw Alejandro",
+      "type" : "artist",
+      "uri" : "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 177655,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UYB282100015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0XYZhJIcwKNjd0tjbSXwaQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0XYZhJIcwKNjd0tjbSXwaQ",
+    "id" : "0XYZhJIcwKNjd0tjbSXwaQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sabe",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/87d78407ee48bddad433f9977174faa0153a8cd6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0XYZhJIcwKNjd0tjbSXwaQ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        "href" : "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+        "id" : "716NhGYqD1jl2wI1Qkgq36",
+        "name" : "Bizarrap",
+        "type" : "artist",
+        "uri" : "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bAftSH8umNcGZ0uyV7LMg",
+        "id" : "1bAftSH8umNcGZ0uyV7LMg",
+        "name" : "Duki",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bAftSH8umNcGZ0uyV7LMg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+        "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+        "name" : "Nicki Nicole",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1leCmYLFE8LDdd8uCK16U2",
+      "id" : "1leCmYLFE8LDdd8uCK16U2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa89966e4d984b3b4c4f3fb9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa89966e4d984b3b4c4f3fb9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa89966e4d984b3b4c4f3fb9",
+        "width" : 64
+      } ],
+      "name" : "YaMeFui",
+      "release_date" : "2021-07-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1leCmYLFE8LDdd8uCK16U2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "href" : "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id" : "716NhGYqD1jl2wI1Qkgq36",
+      "name" : "Bizarrap",
+      "type" : "artist",
+      "uri" : "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1bAftSH8umNcGZ0uyV7LMg",
+      "id" : "1bAftSH8umNcGZ0uyV7LMg",
+      "name" : "Duki",
+      "type" : "artist",
+      "uri" : "spotify:artist:1bAftSH8umNcGZ0uyV7LMg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 182594,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UYB282101018"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/42ahuAFlYGjIGBpVdHcLij",
+    "id" : "42ahuAFlYGjIGBpVdHcLij",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "YaMeFui",
+    "popularity" : 76,
+    "preview_url" : "https://p.scdn.co/mp3-preview/77e20e17594ccb027ab10518580a73c9ba2adb55?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:42ahuAFlYGjIGBpVdHcLij"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        "href" : "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+        "id" : "716NhGYqD1jl2wI1Qkgq36",
+        "name" : "Bizarrap",
+        "type" : "artist",
+        "uri" : "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+        "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+        "name" : "Nicki Nicole",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/11kIpu7f0W1xLshyUW1z7n",
+      "id" : "11kIpu7f0W1xLshyUW1z7n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d60b0794d66fb14b2974d92e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d60b0794d66fb14b2974d92e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d60b0794d66fb14b2974d92e",
+        "width" : 64
+      } ],
+      "name" : "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+      "release_date" : "2019-08-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:11kIpu7f0W1xLshyUW1z7n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "href" : "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id" : "716NhGYqD1jl2wI1Qkgq36",
+      "name" : "Bizarrap",
+      "type" : "artist",
+      "uri" : "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 143291,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ARBEC1900005"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2S93hylQBYLndMnaJuso8S",
+    "id" : "2S93hylQBYLndMnaJuso8S",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+    "popularity" : 74,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b5937125acda05f6d924c4b58b54979752d5efa5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2S93hylQBYLndMnaJuso8S"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+        "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+        "name" : "Nicki Nicole",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3ma7if5xuOYxZouDsuCsdP",
+      "id" : "3ma7if5xuOYxZouDsuCsdP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27319f7055ea11fba4868f7794a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0219f7055ea11fba4868f7794a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485119f7055ea11fba4868f7794a",
+        "width" : 64
+      } ],
+      "name" : "Parte de Mí",
+      "release_date" : "2021-10-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3ma7if5xuOYxZouDsuCsdP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2x7PC78TmgqpEIjaGAZ0Oz",
+      "id" : "2x7PC78TmgqpEIjaGAZ0Oz",
+      "name" : "Trueno",
+      "type" : "artist",
+      "uri" : "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "href" : "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id" : "716NhGYqD1jl2wI1Qkgq36",
+      "name" : "Bizarrap",
+      "type" : "artist",
+      "uri" : "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159967,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UYB282100023"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1B7Wxx58QV4xrCjxI4Uu3i",
+    "id" : "1B7Wxx58QV4xrCjxI4Uu3i",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dangerous",
+    "popularity" : 74,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4bd6bae8291ebb37f9598a596a0f29e9dbfcbe83?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:1B7Wxx58QV4xrCjxI4Uu3i"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1l7ZsJRRS8wlW3WfJfPfNS",
+        "id" : "1l7ZsJRRS8wlW3WfJfPfNS",
+        "name" : "Christina Aguilera",
+        "type" : "artist",
+        "uri" : "spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4obzFoKoKRHIphyHzJ35G3",
+        "id" : "4obzFoKoKRHIphyHzJ35G3",
+        "name" : "Becky G",
+        "type" : "artist",
+        "uri" : "spotify:artist:4obzFoKoKRHIphyHzJ35G3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+        "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+        "name" : "Nicki Nicole",
+        "type" : "artist",
+        "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0WtOyuBYge9gx7X8MpCeeW",
+      "id" : "0WtOyuBYge9gx7X8MpCeeW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737699b7a2ed0c80811937ba5d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027699b7a2ed0c80811937ba5d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517699b7a2ed0c80811937ba5d",
+        "width" : 64
+      } ],
+      "name" : "Pa Mis Muchachas (feat. Nathy Peluso)",
+      "release_date" : "2021-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0WtOyuBYge9gx7X8MpCeeW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1l7ZsJRRS8wlW3WfJfPfNS",
+      "id" : "1l7ZsJRRS8wlW3WfJfPfNS",
+      "name" : "Christina Aguilera",
+      "type" : "artist",
+      "uri" : "spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4obzFoKoKRHIphyHzJ35G3",
+      "id" : "4obzFoKoKRHIphyHzJ35G3",
+      "name" : "Becky G",
+      "type" : "artist",
+      "uri" : "spotify:artist:4obzFoKoKRHIphyHzJ35G3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "name" : "Nicki Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3VHAySZQPlfGlNLslzXYpN",
+      "id" : "3VHAySZQPlfGlNLslzXYpN",
+      "name" : "Nathy Peluso",
+      "type" : "artist",
+      "uri" : "spotify:artist:3VHAySZQPlfGlNLslzXYpN"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216737,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSD12100762"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1kGhjFgl6A68ZAYvtw2UDK",
+    "id" : "1kGhjFgl6A68ZAYvtw2UDK",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pa Mis Muchachas (feat. Nathy Peluso)",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/71583bde05147686ab563031b5be6c2d852a0774?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1kGhjFgl6A68ZAYvtw2UDK"
+  } ]
+}

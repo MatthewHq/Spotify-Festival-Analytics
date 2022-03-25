@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+AMEME&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2141
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1txb9Qg5lJ3KATxPcIYyvO",
+      "id" : "1txb9Qg5lJ3KATxPcIYyvO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb26431df71e9d2718c646870d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517426431df71e9d2718c646870d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17826431df71e9d2718c646870d",
+        "width" : 160
+      } ],
+      "name" : "AMÉMÉ",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:1txb9Qg5lJ3KATxPcIYyvO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2WVqhpDo7ecIykPDPLkyt2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2WVqhpDo7ecIykPDPLkyt2",
+      "id" : "2WVqhpDo7ecIykPDPLkyt2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebdf9ed561a269ef19dadf286e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174df9ed561a269ef19dadf286e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178df9ed561a269ef19dadf286e",
+        "width" : 160
+      } ],
+      "name" : "ÂMEMET",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2WVqhpDo7ecIykPDPLkyt2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KMEPdUepOZim9Un8lmkIP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1KMEPdUepOZim9Un8lmkIP",
+      "id" : "1KMEPdUepOZim9Un8lmkIP",
+      "images" : [ ],
+      "name" : "Mesa Ameme",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:1KMEPdUepOZim9Un8lmkIP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ifNC61gtSQPrQBiXXk1T1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5ifNC61gtSQPrQBiXXk1T1",
+      "id" : "5ifNC61gtSQPrQBiXXk1T1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fe290397a4879c096d2b62a4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fe290397a4879c096d2b62a4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fe290397a4879c096d2b62a4",
+        "width" : 64
+      } ],
+      "name" : "aMEME",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ifNC61gtSQPrQBiXXk1T1"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

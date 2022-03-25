@@ -1,0 +1,70 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1RB4TQFdo8hijQ1bSuXl3j"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1RB4TQFdo8hijQ1bSuXl3j",
+      "id" : "1RB4TQFdo8hijQ1bSuXl3j",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273673c5b0f325c4b79d76f20b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02673c5b0f325c4b79d76f20b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851673c5b0f325c4b79d76f20b7",
+        "width" : 64
+      } ],
+      "name" : "Monday Dreamin'",
+      "release_date" : "2021-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:1RB4TQFdo8hijQ1bSuXl3j"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6aDuXoEw6Kn8QIjFZafAmm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6aDuXoEw6Kn8QIjFZafAmm",
+      "id" : "6aDuXoEw6Kn8QIjFZafAmm",
+      "name" : "Sama' Abdulhadi",
+      "type" : "artist",
+      "uri" : "spotify:artist:6aDuXoEw6Kn8QIjFZafAmm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 397500,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJX32157003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7BTZ3QfOP7ZXcj1Tn9Y5Dx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7BTZ3QfOP7ZXcj1Tn9Y5Dx",
+    "id" : "7BTZ3QfOP7ZXcj1Tn9Y5Dx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Reverie",
+    "popularity" : 8,
+    "preview_url" : "https://p.scdn.co/mp3-preview/be14217a64b762204fdfe7de4acbfd40a52cc888?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:7BTZ3QfOP7ZXcj1Tn9Y5Dx"
+  } ]
+}

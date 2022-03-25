@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Nicki+Nicole&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2591137
+      },
+      "genres" : [ "argentine hip hop", "r&b argentino", "trap argentino", "trap latino" ],
+      "href" : "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+      "id" : "2UZIAOlrnyZmyzt1nuXr9y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc4339841ed995cedbc0cff4e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c4339841ed995cedbc0cff4e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c4339841ed995cedbc0cff4e",
+        "width" : 160
+      } ],
+      "name" : "Nicki Nicole",
+      "popularity" : 83,
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66dsqsCmQvGj87x723otNx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/66dsqsCmQvGj87x723otNx",
+      "id" : "66dsqsCmQvGj87x723otNx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e5bba34981a87d1e30071473",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e5bba34981a87d1e30071473",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e5bba34981a87d1e30071473",
+        "width" : 64
+      } ],
+      "name" : "Nicki nicole",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:66dsqsCmQvGj87x723otNx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5x4jOylMEze2cGF3A9NW4e"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5x4jOylMEze2cGF3A9NW4e",
+      "id" : "5x4jOylMEze2cGF3A9NW4e",
+      "images" : [ ],
+      "name" : "Nicole NICKI David",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5x4jOylMEze2cGF3A9NW4e"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

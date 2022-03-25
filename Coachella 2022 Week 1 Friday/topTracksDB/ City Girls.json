@@ -1,0 +1,790 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57LYzLEk2LcFghVwuWbcuS",
+        "id" : "57LYzLEk2LcFghVwuWbcuS",
+        "name" : "Summer Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:57LYzLEk2LcFghVwuWbcuS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4lPqFAvgmG97pxyxQsyCQx",
+      "id" : "4lPqFAvgmG97pxyxQsyCQx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cd4fbef085542cb698fd598c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cd4fbef085542cb698fd598c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cd4fbef085542cb698fd598c",
+        "width" : 64
+      } ],
+      "name" : "Still Over It",
+      "release_date" : "2021-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4lPqFAvgmG97pxyxQsyCQx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57LYzLEk2LcFghVwuWbcuS",
+      "id" : "57LYzLEk2LcFghVwuWbcuS",
+      "name" : "Summer Walker",
+      "type" : "artist",
+      "uri" : "spotify:artist:57LYzLEk2LcFghVwuWbcuS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39af15p0feaAOdL9DTRj3m",
+      "id" : "39af15p0feaAOdL9DTRj3m",
+      "name" : "JT",
+      "type" : "artist",
+      "uri" : "spotify:artist:39af15p0feaAOdL9DTRj3m"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 225502,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72118243"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1De7cOMrdUnVpjWBaowMg4",
+    "id" : "1De7cOMrdUnVpjWBaowMg4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ex For A Reason (with JT from City Girls)",
+    "popularity" : 75,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1De7cOMrdUnVpjWBaowMg4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+        "id" : "37hAfseJWi0G3Scife12Il",
+        "name" : "City Girls",
+        "type" : "artist",
+        "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6zzs0HMzEPRotJaEJe8uwJ",
+      "id" : "6zzs0HMzEPRotJaEJe8uwJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355eacf604f263cc9347e03e7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255eacf604f263cc9347e03e7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155eacf604f263cc9347e03e7",
+        "width" : 64
+      } ],
+      "name" : "Girl Code",
+      "release_date" : "2018-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6zzs0HMzEPRotJaEJe8uwJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 158332,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG11802247"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3A2yGHWIzmGEIolwonU69h",
+    "id" : "3A2yGHWIzmGEIolwonU69h",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Act Up",
+    "popularity" : 73,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3A2yGHWIzmGEIolwonU69h"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+        "id" : "37hAfseJWi0G3Scife12Il",
+        "name" : "City Girls",
+        "type" : "artist",
+        "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4VzVHSPoh9MP85THaTfYpN",
+      "id" : "4VzVHSPoh9MP85THaTfYpN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c2db305f095cf12d55d55df3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c2db305f095cf12d55d55df3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c2db305f095cf12d55d55df3",
+        "width" : 64
+      } ],
+      "name" : "City On Lock",
+      "release_date" : "2020-06-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:4VzVHSPoh9MP85THaTfYpN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
+      "id" : "5cj0lLjcoR7YOSnhnX0Po5",
+      "name" : "Doja Cat",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218332,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG12000075"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5EzL7hGT9g2Tvqsy158Lu9",
+    "id" : "5EzL7hGT9g2Tvqsy158Lu9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pussy Talk",
+    "popularity" : 71,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5EzL7hGT9g2Tvqsy158Lu9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+        "id" : "37hAfseJWi0G3Scife12Il",
+        "name" : "City Girls",
+        "type" : "artist",
+        "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0UMsQl5qJZAjhcj2985joB",
+      "id" : "0UMsQl5qJZAjhcj2985joB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736de4e4aeed026242fae9e56a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026de4e4aeed026242fae9e56a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516de4e4aeed026242fae9e56a",
+        "width" : 64
+      } ],
+      "name" : "Twerkulator",
+      "release_date" : "2021-05-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0UMsQl5qJZAjhcj2985joB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 138541,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG12000079"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Ty7EDf9XLYzEUqEIwJfDC",
+    "id" : "2Ty7EDf9XLYzEUqEIwJfDC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Twerkulator",
+    "popularity" : 70,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2Ty7EDf9XLYzEUqEIwJfDC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+        "id" : "37hAfseJWi0G3Scife12Il",
+        "name" : "City Girls",
+        "type" : "artist",
+        "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6zzs0HMzEPRotJaEJe8uwJ",
+      "id" : "6zzs0HMzEPRotJaEJe8uwJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355eacf604f263cc9347e03e7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255eacf604f263cc9347e03e7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155eacf604f263cc9347e03e7",
+        "width" : 64
+      } ],
+      "name" : "Girl Code",
+      "release_date" : "2018-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6zzs0HMzEPRotJaEJe8uwJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+      "id" : "4kYSro6naA4h99UJvo89HB",
+      "name" : "Cardi B",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kYSro6naA4h99UJvo89HB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 166476,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG11802299"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0RRm4OS5ymfZryXBuj0G2m",
+    "id" : "0RRm4OS5ymfZryXBuj0G2m",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Twerk (feat. Cardi B)",
+    "popularity" : 70,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0RRm4OS5ymfZryXBuj0G2m"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+        "id" : "37hAfseJWi0G3Scife12Il",
+        "name" : "City Girls",
+        "type" : "artist",
+        "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4VzVHSPoh9MP85THaTfYpN",
+      "id" : "4VzVHSPoh9MP85THaTfYpN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c2db305f095cf12d55d55df3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c2db305f095cf12d55d55df3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c2db305f095cf12d55d55df3",
+        "width" : 64
+      } ],
+      "name" : "City On Lock",
+      "release_date" : "2020-06-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:4VzVHSPoh9MP85THaTfYpN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 177370,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG12000076"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2I8OJsxoaUByoURNACArMC",
+    "id" : "2I8OJsxoaUByoURNACArMC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rodeo",
+    "popularity" : 69,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2I8OJsxoaUByoURNACArMC"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0AsThoR4KZSVktALiNcQwW",
+        "id" : "0AsThoR4KZSVktALiNcQwW",
+        "name" : "Chloe x Halle",
+        "type" : "artist",
+        "uri" : "spotify:artist:0AsThoR4KZSVktALiNcQwW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
+        "id" : "5cj0lLjcoR7YOSnhnX0Po5",
+        "name" : "Doja Cat",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Rd37EUs0P8KzpPPkKPbKa",
+      "id" : "1Rd37EUs0P8KzpPPkKPbKa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273178640d450778d3f63dba8b4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02178640d450778d3f63dba8b4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851178640d450778d3f63dba8b4",
+        "width" : 64
+      } ],
+      "name" : "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
+      "release_date" : "2020-09-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1Rd37EUs0P8KzpPPkKPbKa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0AsThoR4KZSVktALiNcQwW",
+      "id" : "0AsThoR4KZSVktALiNcQwW",
+      "name" : "Chloe x Halle",
+      "type" : "artist",
+      "uri" : "spotify:artist:0AsThoR4KZSVktALiNcQwW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
+      "id" : "5cj0lLjcoR7YOSnhnX0Po5",
+      "name" : "Doja Cat",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3MdXrJWsbVzdn6fe5JYkSQ",
+      "id" : "3MdXrJWsbVzdn6fe5JYkSQ",
+      "name" : "Latto",
+      "type" : "artist",
+      "uri" : "spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 255180,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM12005276"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2WKJcMeqmjkL4FzFoJszR7",
+    "id" : "2WKJcMeqmjkL4FzFoJszR7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/55a9240435788a8eab41361ac40ee36d5087154c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2WKJcMeqmjkL4FzFoJszR7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3tJoFztHeIJkJWMrx0td2f",
+        "id" : "3tJoFztHeIJkJWMrx0td2f",
+        "name" : "Moneybagg Yo",
+        "type" : "artist",
+        "uri" : "spotify:artist:3tJoFztHeIJkJWMrx0td2f"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/41klVmDluQZmGGqoidNfbe",
+        "id" : "41klVmDluQZmGGqoidNfbe",
+        "name" : "Blac Youngsta",
+        "type" : "artist",
+        "uri" : "spotify:artist:41klVmDluQZmGGqoidNfbe"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4faPRidDvKRvHnWdvmvVHv",
+      "id" : "4faPRidDvKRvHnWdvmvVHv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b0c27c2c071c9dbef50ee8d9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b0c27c2c071c9dbef50ee8d9",
+        "width" : 64
+      } ],
+      "name" : "Code Red",
+      "release_date" : "2020-09-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4faPRidDvKRvHnWdvmvVHv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tJoFztHeIJkJWMrx0td2f",
+      "id" : "3tJoFztHeIJkJWMrx0td2f",
+      "name" : "Moneybagg Yo",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tJoFztHeIJkJWMrx0td2f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+      "id" : "4r63FhuTkUYltbVAg5TQnk",
+      "name" : "DaBaby",
+      "type" : "artist",
+      "uri" : "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 177704,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72017281"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/13VXVxePp4NUiXwtmQ0viz",
+    "id" : "13VXVxePp4NUiXwtmQ0viz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Said Sum (feat. City Girls & DaBaby) - Remix",
+    "popularity" : 67,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:13VXVxePp4NUiXwtmQ0viz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+        "id" : "37hAfseJWi0G3Scife12Il",
+        "name" : "City Girls",
+        "type" : "artist",
+        "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Lj2lKxrwpvuZkKjZAgrKl",
+      "id" : "1Lj2lKxrwpvuZkKjZAgrKl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e219b58eb8863c84656cf27e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e219b58eb8863c84656cf27e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e219b58eb8863c84656cf27e",
+        "width" : 64
+      } ],
+      "name" : "PERIOD",
+      "release_date" : "2018-05-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1Lj2lKxrwpvuZkKjZAgrKl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 170413,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QZ4JX1760940"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/36B9SXT9Pf8mL3F5RyqSAX",
+    "id" : "36B9SXT9Pf8mL3F5RyqSAX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "How To Pimp A N**ga",
+    "popularity" : 65,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:36B9SXT9Pf8mL3F5RyqSAX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jJjvmEwRr8epuGZq4eUUa",
+        "id" : "5jJjvmEwRr8epuGZq4eUUa",
+        "name" : "BRS Kash",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jJjvmEwRr8epuGZq4eUUa"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1c3r8BaN2TcWKdFw3va4dX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1c3r8BaN2TcWKdFw3va4dX",
+      "id" : "1c3r8BaN2TcWKdFw3va4dX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733b2fed946d9109ceea8a6ae1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023b2fed946d9109ceea8a6ae1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513b2fed946d9109ceea8a6ae1",
+        "width" : 64
+      } ],
+      "name" : "Kash Only",
+      "release_date" : "2021-01-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1c3r8BaN2TcWKdFw3va4dX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jJjvmEwRr8epuGZq4eUUa",
+      "id" : "5jJjvmEwRr8epuGZq4eUUa",
+      "name" : "BRS Kash",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jJjvmEwRr8epuGZq4eUUa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4r63FhuTkUYltbVAg5TQnk",
+      "id" : "4r63FhuTkUYltbVAg5TQnk",
+      "name" : "DaBaby",
+      "type" : "artist",
+      "uri" : "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37hAfseJWi0G3Scife12Il",
+      "id" : "37hAfseJWi0G3Scife12Il",
+      "name" : "City Girls",
+      "type" : "artist",
+      "uri" : "spotify:artist:37hAfseJWi0G3Scife12Il"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211609,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72100076"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1qzckO538IWjqa7eCQdSJ4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1qzckO538IWjqa7eCQdSJ4",
+    "id" : "1qzckO538IWjqa7eCQdSJ4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Throat Baby (Go Baby) (with DaBaby & City Girls) - Remix",
+    "popularity" : 59,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1qzckO538IWjqa7eCQdSJ4"
+  } ]
+}

@@ -1,0 +1,754 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3pZyDeGMNPAWHdFe2K4ud1",
+        "id" : "3pZyDeGMNPAWHdFe2K4ud1",
+        "name" : "The FaNaTiX",
+        "type" : "artist",
+        "uri" : "spotify:artist:3pZyDeGMNPAWHdFe2K4ud1"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Dc2rdPzleezxhvQhQbXuS",
+        "id" : "0Dc2rdPzleezxhvQhQbXuS",
+        "name" : "Idris Elba",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Dc2rdPzleezxhvQhQbXuS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+        "id" : "6jGMq4yGs7aQzuGsMgVgZR",
+        "name" : "Lil Tjay",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0MuIe5cdJen7HHgfcYHeay",
+      "id" : "0MuIe5cdJen7HHgfcYHeay",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a863a7610ffa6c74ff58b407",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a863a7610ffa6c74ff58b407",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a863a7610ffa6c74ff58b407",
+        "width" : 64
+      } ],
+      "name" : "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
+      "release_date" : "2022-03-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0MuIe5cdJen7HHgfcYHeay"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3pZyDeGMNPAWHdFe2K4ud1",
+      "id" : "3pZyDeGMNPAWHdFe2K4ud1",
+      "name" : "The FaNaTiX",
+      "type" : "artist",
+      "uri" : "spotify:artist:3pZyDeGMNPAWHdFe2K4ud1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Dc2rdPzleezxhvQhQbXuS",
+      "id" : "0Dc2rdPzleezxhvQhQbXuS",
+      "name" : "Idris Elba",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Dc2rdPzleezxhvQhQbXuS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+      "id" : "6jGMq4yGs7aQzuGsMgVgZR",
+      "name" : "Lil Tjay",
+      "type" : "artist",
+      "uri" : "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Y3agQaa6g2r0YmHPOO9rh",
+      "id" : "0Y3agQaa6g2r0YmHPOO9rh",
+      "name" : "DaVido",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Y3agQaa6g2r0YmHPOO9rh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6mctsJBrfcWvWH7S8h716D",
+      "id" : "6mctsJBrfcWvWH7S8h716D",
+      "name" : "Moelogo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6mctsJBrfcWvWH7S8h716D"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 237983,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL2200182"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ApEaAL5iuN3cOwSoAbY1d",
+    "id" : "6ApEaAL5iuN3cOwSoAbY1d",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/40a270cd536cd4daf44af0a6360fe37b318a9979?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6ApEaAL5iuN3cOwSoAbY1d"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+        "id" : "1gWjcmBsveEYMxOZ0VRi32",
+        "name" : "Koffee",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0v1VLjgwVun46wA13DWUJI",
+      "id" : "0v1VLjgwVun46wA13DWUJI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dca1f17bc5ae38d946571386",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dca1f17bc5ae38d946571386",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dca1f17bc5ae38d946571386",
+        "width" : 64
+      } ],
+      "name" : "Rapture EP",
+      "release_date" : "2019-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:0v1VLjgwVun46wA13DWUJI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 191502,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1801611"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7sd72KZS8D59g5NmhxyHpJ",
+    "id" : "7sd72KZS8D59g5NmhxyHpJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Toast",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f95404562754ed68e4ecb1162be9fa759f23d99e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7sd72KZS8D59g5NmhxyHpJ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+        "id" : "1gWjcmBsveEYMxOZ0VRi32",
+        "name" : "Koffee",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4VJW8nI0MAKqIGq4DGN1vq",
+      "id" : "4VJW8nI0MAKqIGq4DGN1vq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f173c204a0fb037abca5218c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f173c204a0fb037abca5218c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f173c204a0fb037abca5218c",
+        "width" : 64
+      } ],
+      "name" : "Pull Up",
+      "release_date" : "2022-02-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4VJW8nI0MAKqIGq4DGN1vq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 171092,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL2101934"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7aBRoWtp9jsZFxwml1LfeG",
+    "id" : "7aBRoWtp9jsZFxwml1LfeG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pull Up",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f8be7fb89af8ac3f98ab5cdda3ffa64051035ab1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7aBRoWtp9jsZFxwml1LfeG"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+        "id" : "1gWjcmBsveEYMxOZ0VRi32",
+        "name" : "Koffee",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+        "id" : "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name" : "Gunna",
+        "type" : "artist",
+        "uri" : "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CGh0wfCdEh3xZVHx8uJK5",
+      "id" : "4CGh0wfCdEh3xZVHx8uJK5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27381459ae332fe629e46a4f182",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0281459ae332fe629e46a4f182",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485181459ae332fe629e46a4f182",
+        "width" : 64
+      } ],
+      "name" : "W (feat. Gunna)",
+      "release_date" : "2019-11-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4CGh0wfCdEh3xZVHx8uJK5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+      "id" : "2hlmm7s2ICUX0LVIhVFlZQ",
+      "name" : "Gunna",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230151,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1901308"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6xW2g0c5uSoa3S6xk9eI4j",
+    "id" : "6xW2g0c5uSoa3S6xk9eI4j",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "W (feat. Gunna)",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cc9c72e9d93ec4448a1e4896fa8ab624fd8d84fc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6xW2g0c5uSoa3S6xk9eI4j"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+        "id" : "1gWjcmBsveEYMxOZ0VRi32",
+        "name" : "Koffee",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JQXq0ZM0Nugq7QISjEDAq",
+      "id" : "0JQXq0ZM0Nugq7QISjEDAq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27369c5d93128e30dc5a4f6f712",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0269c5d93128e30dc5a4f6f712",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485169c5d93128e30dc5a4f6f712",
+        "width" : 64
+      } ],
+      "name" : "West Indies",
+      "release_date" : "2021-10-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0JQXq0ZM0Nugq7QISjEDAq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 237458,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL2100614"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6GbvWYsT5sWXYgo8Bw6HPE",
+    "id" : "6GbvWYsT5sWXYgo8Bw6HPE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "West Indies",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ab2aed783d9013d1183d4e3b1262b2edb7495264?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6GbvWYsT5sWXYgo8Bw6HPE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+        "id" : "1gWjcmBsveEYMxOZ0VRi32",
+        "name" : "Koffee",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0tJs3Wig9YBdDG8jGKeLq6",
+      "id" : "0tJs3Wig9YBdDG8jGKeLq6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cdbcabc170ce557ae4919753",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cdbcabc170ce557ae4919753",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cdbcabc170ce557ae4919753",
+        "width" : 64
+      } ],
+      "name" : "Lockdown",
+      "release_date" : "2020-07-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0tJs3Wig9YBdDG8jGKeLq6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 179737,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL2000776"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0izUjTuDrUy2FgQOSRALSU",
+    "id" : "0izUjTuDrUy2FgQOSRALSU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lockdown",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6f9cb44870cbb205a62917dc8a2cd9459b9b7e63?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0izUjTuDrUy2FgQOSRALSU"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+        "id" : "1gWjcmBsveEYMxOZ0VRi32",
+        "name" : "Koffee",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0v1VLjgwVun46wA13DWUJI",
+      "id" : "0v1VLjgwVun46wA13DWUJI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dca1f17bc5ae38d946571386",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dca1f17bc5ae38d946571386",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dca1f17bc5ae38d946571386",
+        "width" : 64
+      } ],
+      "name" : "Rapture EP",
+      "release_date" : "2019-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:0v1VLjgwVun46wA13DWUJI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181816,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1801610"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0PtDNK2Q49fAM4ZbKtN0mz",
+    "id" : "0PtDNK2Q49fAM4ZbKtN0mz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rapture",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f70cc91bfcd855f216e17d408aa551b144fd845a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0PtDNK2Q49fAM4ZbKtN0mz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1CYxlz7Ub62xALWDBmLWOp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1CYxlz7Ub62xALWDBmLWOp",
+        "id" : "1CYxlz7Ub62xALWDBmLWOp",
+        "name" : "The Harder They Fall",
+        "type" : "artist",
+        "uri" : "spotify:artist:1CYxlz7Ub62xALWDBmLWOp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3whjvbBxG7j2FfTImRdqBw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3whjvbBxG7j2FfTImRdqBw",
+      "id" : "3whjvbBxG7j2FfTImRdqBw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338627b36aa5a16af18f47a58",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238627b36aa5a16af18f47a58",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138627b36aa5a16af18f47a58",
+        "width" : 64
+      } ],
+      "name" : "The Harder They Fall (The Motion Picture Soundtrack)",
+      "release_date" : "2021-10-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:3whjvbBxG7j2FfTImRdqBw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 168704,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMJMT2103892"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6AxSYAHq0U6fKykB7uScPl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6AxSYAHq0U6fKykB7uScPl",
+    "id" : "6AxSYAHq0U6fKykB7uScPl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Harder They Fall",
+    "popularity" : 56,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6AxSYAHq0U6fKykB7uScPl"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+        "id" : "1gWjcmBsveEYMxOZ0VRi32",
+        "name" : "Koffee",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UpeLqJhQZJwiNWBvwpdAf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UpeLqJhQZJwiNWBvwpdAf",
+      "id" : "4UpeLqJhQZJwiNWBvwpdAf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27328ff6b4cbe32840156ee9552",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0228ff6b4cbe32840156ee9552",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485128ff6b4cbe32840156ee9552",
+        "width" : 64
+      } ],
+      "name" : "Pressure",
+      "release_date" : "2020-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4UpeLqJhQZJwiNWBvwpdAf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212304,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL2000790"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3b2IVvQUr7cIBGReeV9MYW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3b2IVvQUr7cIBGReeV9MYW",
+    "id" : "3b2IVvQUr7cIBGReeV9MYW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pressure",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/32cbf9143869770d287c1ff319eeaba4df04664c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3b2IVvQUr7cIBGReeV9MYW"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+        "id" : "1gWjcmBsveEYMxOZ0VRi32",
+        "name" : "Koffee",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1gCBAfrnTTAFRthxRqp0Rj",
+      "id" : "1gCBAfrnTTAFRthxRqp0Rj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27311c08453ec277081c97777a8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0211c08453ec277081c97777a8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485111c08453ec277081c97777a8",
+        "width" : 64
+      } ],
+      "name" : "Burning",
+      "release_date" : "2018-11-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1gCBAfrnTTAFRthxRqp0Rj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+      "id" : "1gWjcmBsveEYMxOZ0VRi32",
+      "name" : "Koffee",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181434,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1801679"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ur8F1rb1lsxpZA9UJEDfl",
+    "id" : "2ur8F1rb1lsxpZA9UJEDfl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Burning",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d454f8471766dd9eab085a9750ffcb2faa2848e5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2ur8F1rb1lsxpZA9UJEDfl"
+  } ]
+}

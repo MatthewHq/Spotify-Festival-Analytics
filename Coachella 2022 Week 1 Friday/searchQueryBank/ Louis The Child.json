@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Louis+The+Child&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 434459
+      },
+      "genres" : [ "edm", "electropop", "pop", "pop dance", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+      "id" : "7wg1qvie3KqDNQbAkTdbX0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcb616aef5f625486a7cdc987",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cb616aef5f625486a7cdc987",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cb616aef5f625486a7cdc987",
+        "width" : 160
+      } ],
+      "name" : "Louis The Child",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2pcKUB2Zq3Qal6cdSwLiz6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2pcKUB2Zq3Qal6cdSwLiz6",
+      "id" : "2pcKUB2Zq3Qal6cdSwLiz6",
+      "images" : [ ],
+      "name" : "The Child of Louis",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2pcKUB2Zq3Qal6cdSwLiz6"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

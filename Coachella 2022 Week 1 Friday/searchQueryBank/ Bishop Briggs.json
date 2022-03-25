@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Bishop+Briggs&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 741837
+      },
+      "genres" : [ "modern alternative rock", "modern rock", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0yb46jwm7gqbZXVXZQ8Z1e",
+      "id" : "0yb46jwm7gqbZXVXZQ8Z1e",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd45495ba2518d4e43fb62633",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d45495ba2518d4e43fb62633",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d45495ba2518d4e43fb62633",
+        "width" : 160
+      } ],
+      "name" : "Bishop Briggs",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:0yb46jwm7gqbZXVXZQ8Z1e"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

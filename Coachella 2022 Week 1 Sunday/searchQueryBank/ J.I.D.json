@@ -1,0 +1,591 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+J.I.D&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 832503
+      },
+      "genres" : [ "hip hop", "rap" ],
+      "href" : "https://api.spotify.com/v1/artists/6U3ybJ9UHNKEdsH7ktGBZ7",
+      "id" : "6U3ybJ9UHNKEdsH7ktGBZ7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb52a6fa5f05c26ac257c6feda",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517452a6fa5f05c26ac257c6feda",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17852a6fa5f05c26ac257c6feda",
+        "width" : 160
+      } ],
+      "name" : "JID",
+      "popularity" : 85,
+      "type" : "artist",
+      "uri" : "spotify:artist:6U3ybJ9UHNKEdsH7ktGBZ7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bTn84XuezOf5kzCED8UCK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1614
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7bTn84XuezOf5kzCED8UCK",
+      "id" : "7bTn84XuezOf5kzCED8UCK",
+      "images" : [ ],
+      "name" : "J.I.D",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:7bTn84XuezOf5kzCED8UCK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 214853
+      },
+      "genres" : [ "funk", "indie soul", "soul" ],
+      "href" : "https://api.spotify.com/v1/artists/6TVVIyd0fsRDGg6WzHKyTP",
+      "id" : "6TVVIyd0fsRDGg6WzHKyTP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe8611a96977e7c7a04a1fbdf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e8611a96977e7c7a04a1fbdf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e8611a96977e7c7a04a1fbdf",
+        "width" : 160
+      } ],
+      "name" : "Durand Jones & The Indications",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:6TVVIyd0fsRDGg6WzHKyTP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 26707
+      },
+      "genres" : [ "classical performance", "orchestral performance" ],
+      "href" : "https://api.spotify.com/v1/artists/6NUhQz7eAEsZvjEHTKHux9",
+      "id" : "6NUhQz7eAEsZvjEHTKHux9",
+      "images" : [ {
+        "height" : 1180,
+        "url" : "https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae",
+        "width" : 1000
+      }, {
+        "height" : 755,
+        "url" : "https://i.scdn.co/image/9b95c304da6310eb36b7451ad97fa76f2b53496b",
+        "width" : 640
+      }, {
+        "height" : 236,
+        "url" : "https://i.scdn.co/image/169bdd494b264d41f94f39e88b3c5932f97d001c",
+        "width" : 200
+      }, {
+        "height" : 76,
+        "url" : "https://i.scdn.co/image/7fe8de28995cc268fdc9d74bc263ffc8def94bf7",
+        "width" : 64
+      } ],
+      "name" : "Sir Neville Marriner",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:6NUhQz7eAEsZvjEHTKHux9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 119962
+      },
+      "genres" : [ "classical performance", "violin" ],
+      "href" : "https://api.spotify.com/v1/artists/0hIG9FXgjQxT8fKaYceFbA",
+      "id" : "0hIG9FXgjQxT8fKaYceFbA",
+      "images" : [ {
+        "height" : 778,
+        "url" : "https://i.scdn.co/image/f1658bc66d1f99ab6d118f26a2abaf7dc33a272f",
+        "width" : 1000
+      }, {
+        "height" : 498,
+        "url" : "https://i.scdn.co/image/341886e46580d1c306ea0c3d7ffd42b9dd020966",
+        "width" : 640
+      }, {
+        "height" : 156,
+        "url" : "https://i.scdn.co/image/0fea673bbca479c27d1cd94c382588df200ca86e",
+        "width" : 200
+      }, {
+        "height" : 50,
+        "url" : "https://i.scdn.co/image/b77cff56418d1c305a6d0b577940045b61329fac",
+        "width" : 64
+      } ],
+      "name" : "Itzhak Perlman",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:0hIG9FXgjQxT8fKaYceFbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2051622
+      },
+      "genres" : [ "latin", "latin pop" ],
+      "href" : "https://api.spotify.com/v1/artists/4etuCZVdP8yiNPn4xf0ie5",
+      "id" : "4etuCZVdP8yiNPn4xf0ie5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebeb26b397cfc1d5b785296cdd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174eb26b397cfc1d5b785296cdd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178eb26b397cfc1d5b785296cdd",
+        "width" : 160
+      } ],
+      "name" : "Julio Iglesias",
+      "popularity" : 71,
+      "type" : "artist",
+      "uri" : "spotify:artist:4etuCZVdP8yiNPn4xf0ie5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 130972
+      },
+      "genres" : [ "baroque", "classical", "german baroque" ],
+      "href" : "https://api.spotify.com/v1/artists/62TD7509VQIxUe4WpwO0s3",
+      "id" : "62TD7509VQIxUe4WpwO0s3",
+      "images" : [ {
+        "height" : 296,
+        "url" : "https://i.scdn.co/image/4c8a440d9c6b4429feb7df77b4fdad86bcabe66f",
+        "width" : 260
+      }, {
+        "height" : 228,
+        "url" : "https://i.scdn.co/image/f100834e66813638e7e8f547def87c32846270d0",
+        "width" : 200
+      }, {
+        "height" : 73,
+        "url" : "https://i.scdn.co/image/d9f5b85e817b252db68185cf0825c6aa27f3d84b",
+        "width" : 64
+      } ],
+      "name" : "Johann Pachelbel",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:62TD7509VQIxUe4WpwO0s3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 478368
+      },
+      "genres" : [ "k-pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6Xg22wJOAcnvPUfk5WvODH",
+      "id" : "6Xg22wJOAcnvPUfk5WvODH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb85785f2a5b13966ab3f35cd6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517485785f2a5b13966ab3f35cd6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17885785f2a5b13966ab3f35cd6",
+        "width" : 160
+      } ],
+      "name" : "JEON SOYEON",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Xg22wJOAcnvPUfk5WvODH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 169249
+      },
+      "genres" : [ "american modern classical", "classical", "orchestral performance" ],
+      "href" : "https://api.spotify.com/v1/artists/2LmyJyCF5V1eQyvHgJNbTn",
+      "id" : "2LmyJyCF5V1eQyvHgJNbTn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb41df58451c2babdf18b21f19",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517441df58451c2babdf18b21f19",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17841df58451c2babdf18b21f19",
+        "width" : 160
+      } ],
+      "name" : "Leonard Bernstein",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:2LmyJyCF5V1eQyvHgJNbTn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 729199
+      },
+      "genres" : [ "canzone napoletana", "classical tenor", "italian tenor", "opera", "operatic pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0Y8KmFkKOgJybpVobn1onU",
+      "id" : "0Y8KmFkKOgJybpVobn1onU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7c79a26af7f4b435ec8c6b95",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747c79a26af7f4b435ec8c6b95",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787c79a26af7f4b435ec8c6b95",
+        "width" : 160
+      } ],
+      "name" : "Luciano Pavarotti",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Y8KmFkKOgJybpVobn1onU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Tx6Ti44QhL2JRmHSu1mU7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 214113
+      },
+      "genres" : [ "banda carnavalera", "banda jalisciense", "musica mexicana", "nueva musica mexicana" ],
+      "href" : "https://api.spotify.com/v1/artists/4Tx6Ti44QhL2JRmHSu1mU7",
+      "id" : "4Tx6Ti44QhL2JRmHSu1mU7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf43507df62a7a3ca1b4d419b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f43507df62a7a3ca1b4d419b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f43507df62a7a3ca1b4d419b",
+        "width" : 160
+      } ],
+      "name" : "La Imponente Vientos de Jalisco",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Tx6Ti44QhL2JRmHSu1mU7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2693
+      },
+      "genres" : [ "orchestral performance" ],
+      "href" : "https://api.spotify.com/v1/artists/3sjupE75AphhTX12fgkQv6",
+      "id" : "3sjupE75AphhTX12fgkQv6",
+      "images" : [ {
+        "height" : 665,
+        "url" : "https://i.scdn.co/image/63fe22aa9fd61cf2b76f6ef3a0843be42ce75668",
+        "width" : 1000
+      }, {
+        "height" : 426,
+        "url" : "https://i.scdn.co/image/478e9c2d963a21172a05395445c52eaa78726118",
+        "width" : 640
+      }, {
+        "height" : 133,
+        "url" : "https://i.scdn.co/image/34da020ece610bddccb9c89144ababaa4897fede",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/a1569c4df14cb3011583364b18b70617da829643",
+        "width" : 64
+      } ],
+      "name" : "Daniel Harding",
+      "popularity" : 55,
+      "type" : "artist",
+      "uri" : "spotify:artist:3sjupE75AphhTX12fgkQv6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7605
+      },
+      "genres" : [ "classical performance", "opera", "orchestral performance" ],
+      "href" : "https://api.spotify.com/v1/artists/4qFQgEF1rg6a9WvJM0MQIa",
+      "id" : "4qFQgEF1rg6a9WvJM0MQIa",
+      "images" : [ {
+        "height" : 201,
+        "url" : "https://i.scdn.co/image/07f25551ca228cb0d66d65eb5091b92417685188",
+        "width" : 416
+      }, {
+        "height" : 97,
+        "url" : "https://i.scdn.co/image/6d76c16cd7ea4f4502c7721410f2bbc8dd49d0c3",
+        "width" : 200
+      }, {
+        "height" : 31,
+        "url" : "https://i.scdn.co/image/0d3ef84faa046691490f0695f11487cb15cea746",
+        "width" : 64
+      } ],
+      "name" : "James Levine",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:4qFQgEF1rg6a9WvJM0MQIa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17632
+      },
+      "genres" : [ "classical performance", "classical piano", "nordic classical piano" ],
+      "href" : "https://api.spotify.com/v1/artists/7J9Fo9dMjGNYY8usNMietL",
+      "id" : "7J9Fo9dMjGNYY8usNMietL",
+      "images" : [ {
+        "height" : 667,
+        "url" : "https://i.scdn.co/image/8a4282e749ecbba020974208198bdc2fbc673afa",
+        "width" : 1000
+      }, {
+        "height" : 427,
+        "url" : "https://i.scdn.co/image/a4b4c2782962faf5d0532218932651a0f72d675c",
+        "width" : 640
+      }, {
+        "height" : 133,
+        "url" : "https://i.scdn.co/image/d088100e2a8769fba1eb355ad0814a312088df63",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/ddd001def2d872ca0c1365126d7682f04efc7f18",
+        "width" : 64
+      } ],
+      "name" : "Leif Ove Andsnes",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:7J9Fo9dMjGNYY8usNMietL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3HYV4ZdJ1LSOhPo5ehlEqF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23027
+      },
+      "genres" : [ "classical performance", "violin" ],
+      "href" : "https://api.spotify.com/v1/artists/3HYV4ZdJ1LSOhPo5ehlEqF",
+      "id" : "3HYV4ZdJ1LSOhPo5ehlEqF",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/da5ba5365e8c40f400600257a3c7d4aeb0bec555",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fd92b3971f37b63ce434959294c14c9adda489c9",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/1f1884d5fc4fcda13a91ba9ffbb477998109b4be",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ae1bd69b96e1325a9c6014ddc44b604395f865e0",
+        "width" : 64
+      } ],
+      "name" : "Isaac Stern",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:3HYV4ZdJ1LSOhPo5ehlEqF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hwPQDlJr99FzncxqZD2SU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8394
+      },
+      "genres" : [ "choral", "classical performance", "opera", "orchestral performance" ],
+      "href" : "https://api.spotify.com/v1/artists/3hwPQDlJr99FzncxqZD2SU",
+      "id" : "3hwPQDlJr99FzncxqZD2SU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebadab2240626da58438fdc059",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174adab2240626da58438fdc059",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178adab2240626da58438fdc059",
+        "width" : 160
+      } ],
+      "name" : "René Jacobs",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:3hwPQDlJr99FzncxqZD2SU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kuAjH8jM4yaKQhZekTUgL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8147
+      },
+      "genres" : [ "classical clarinet", "classical performance" ],
+      "href" : "https://api.spotify.com/v1/artists/6kuAjH8jM4yaKQhZekTUgL",
+      "id" : "6kuAjH8jM4yaKQhZekTUgL",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/ab6772690000c46ce0e4512fcf9d12660d74e2c0",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6772690000dd22e0e4512fcf9d12660d74e2c0",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/ab6772690000bac3e0e4512fcf9d12660d74e2c0",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67726900008f74e0e4512fcf9d12660d74e2c0",
+        "width" : 64
+      } ],
+      "name" : "Sabine Meyer",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:6kuAjH8jM4yaKQhZekTUgL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68wK3u9MnoZj5fFOFNTfwy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 70348
+      },
+      "genres" : [ "british industrial", "dark jazz", "experimental", "grave wave", "industrial", "martial industrial", "neofolk" ],
+      "href" : "https://api.spotify.com/v1/artists/68wK3u9MnoZj5fFOFNTfwy",
+      "id" : "68wK3u9MnoZj5fFOFNTfwy",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/0bd14a44946738b2c9f6c9c1bdf4b9d18f5e91c4",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/300ac39cabadd7ce0312e50e5bd8c61241d6f353",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/a0e4b773fdd3809168bcc8aeda4f4239f0d9cc5d",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/81144f45fb2105478190c2f0dc0c667ee25e791c",
+        "width" : 64
+      } ],
+      "name" : "Death In June",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:68wK3u9MnoZj5fFOFNTfwy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3r1dphXjVBOwbUAYrrkEkQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9250
+      },
+      "genres" : [ "baroque ensemble", "baroque violin", "classical performance", "historically informed performance", "italian violin", "orchestral performance", "violin" ],
+      "href" : "https://api.spotify.com/v1/artists/3r1dphXjVBOwbUAYrrkEkQ",
+      "id" : "3r1dphXjVBOwbUAYrrkEkQ",
+      "images" : [ {
+        "height" : 993,
+        "url" : "https://i.scdn.co/image/aa96f245a10aaae9f30aa7617f4c6f3e07141266",
+        "width" : 1000
+      }, {
+        "height" : 635,
+        "url" : "https://i.scdn.co/image/9154da51956205d646e8667f51c1387ca1985eb4",
+        "width" : 640
+      }, {
+        "height" : 199,
+        "url" : "https://i.scdn.co/image/ec644b3271def93515ff150487882aff106a8493",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c732f54433ee27731bdbe60bb262fdfc4794c8b8",
+        "width" : 64
+      } ],
+      "name" : "Fabio Biondi",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:3r1dphXjVBOwbUAYrrkEkQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hP9phvfxIsZP0xVKgVpRu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 246
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4hP9phvfxIsZP0xVKgVpRu",
+      "id" : "4hP9phvfxIsZP0xVKgVpRu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd97d476e6a3754622cd819d2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d97d476e6a3754622cd819d2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d97d476e6a3754622cd819d2",
+        "width" : 160
+      } ],
+      "name" : "iZZy D JaY",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:4hP9phvfxIsZP0xVKgVpRu"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=+J.I.D&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1497
+  }
+}

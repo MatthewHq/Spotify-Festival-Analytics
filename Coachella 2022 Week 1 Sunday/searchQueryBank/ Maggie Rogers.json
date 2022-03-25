@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Maggie+Rogers&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 807458
+      },
+      "genres" : [ "indie pop", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/4NZvixzsSefsNiIqXn0NDe",
+      "id" : "4NZvixzsSefsNiIqXn0NDe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb16d0a36a3f54fa3f9d72caa4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517416d0a36a3f54fa3f9d72caa4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17816d0a36a3f54fa3f9d72caa4",
+        "width" : 160
+      } ],
+      "name" : "Maggie Rogers",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:4NZvixzsSefsNiIqXn0NDe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5yNIycyieDY0xckgG61lTk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5yNIycyieDY0xckgG61lTk",
+      "id" : "5yNIycyieDY0xckgG61lTk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738fd09106d271d56bf6f89369",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028fd09106d271d56bf6f89369",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518fd09106d271d56bf6f89369",
+        "width" : 64
+      } ],
+      "name" : "Maggie E Rogers",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5yNIycyieDY0xckgG61lTk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62NQJ7EEBwVe8a46UHsyEu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 49
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/62NQJ7EEBwVe8a46UHsyEu",
+      "id" : "62NQJ7EEBwVe8a46UHsyEu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273897d9efb00af5122625507b2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02897d9efb00af5122625507b2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851897d9efb00af5122625507b2",
+        "width" : 64
+      } ],
+      "name" : "Maggie & Mr. Rogers",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:62NQJ7EEBwVe8a46UHsyEu"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

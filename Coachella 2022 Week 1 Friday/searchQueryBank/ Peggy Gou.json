@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Peggy+Gou&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 431043
+      },
+      "genres" : [ "electra", "float house" ],
+      "href" : "https://api.spotify.com/v1/artists/2mLA48B366zkELXYx7hcDN",
+      "id" : "2mLA48B366zkELXYx7hcDN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb02176eaa418c6c23309edc0b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517402176eaa418c6c23309edc0b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17802176eaa418c6c23309edc0b",
+        "width" : 160
+      } ],
+      "name" : "Peggy Gou",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:2mLA48B366zkELXYx7hcDN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5hAUE693L5pdmvITXGPKFk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 114
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5hAUE693L5pdmvITXGPKFk",
+      "id" : "5hAUE693L5pdmvITXGPKFk",
+      "images" : [ ],
+      "name" : "Peggy Gou",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:5hAUE693L5pdmvITXGPKFk"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

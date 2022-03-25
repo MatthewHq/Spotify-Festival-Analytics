@@ -1,0 +1,535 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Flume&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2247046
+      },
+      "genres" : [ "australian dance", "australian electropop", "australian indie", "downtempo", "edm" ],
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebdcbf7ddf047dd267e4de8978",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174dcbf7ddf047dd267e4de8978",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178dcbf7ddf047dd267e4de8978",
+        "width" : 160
+      } ],
+      "name" : "Flume",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1UYW4tjwXVrhTZ0AGbBKrw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 64
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1UYW4tjwXVrhTZ0AGbBKrw",
+      "id" : "1UYW4tjwXVrhTZ0AGbBKrw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737c3cc590f5beb77f73010ef3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027c3cc590f5beb77f73010ef3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517c3cc590f5beb77f73010ef3",
+        "width" : 64
+      } ],
+      "name" : "Flumer",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:1UYW4tjwXVrhTZ0AGbBKrw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1982
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2wE8kzwd3Ej3WDAtBESiQQ",
+      "id" : "2wE8kzwd3Ej3WDAtBESiQQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb32bbff1e8625ca987cda981d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517432bbff1e8625ca987cda981d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17832bbff1e8625ca987cda981d",
+        "width" : 160
+      } ],
+      "name" : "Liza Flume",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:2wE8kzwd3Ej3WDAtBESiQQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/32LfmB16hixOjYuWKIbV63"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 646
+      },
+      "genres" : [ "birmingham hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/32LfmB16hixOjYuWKIbV63",
+      "id" : "32LfmB16hixOjYuWKIbV63",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba53843e4b367b564f544d280",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a53843e4b367b564f544d280",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a53843e4b367b564f544d280",
+        "width" : 160
+      } ],
+      "name" : "Flume Santi",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:32LfmB16hixOjYuWKIbV63"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0E7RVuGtz6RR1eGyidsas4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 190
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0E7RVuGtz6RR1eGyidsas4",
+      "id" : "0E7RVuGtz6RR1eGyidsas4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b5210f50336f3a8be4b2aa66",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b5210f50336f3a8be4b2aa66",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b5210f50336f3a8be4b2aa66",
+        "width" : 64
+      } ],
+      "name" : "DJ Michael Flume",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:0E7RVuGtz6RR1eGyidsas4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62R1EpHT7Y1OzPA9fVKKP9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1606
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/62R1EpHT7Y1OzPA9fVKKP9",
+      "id" : "62R1EpHT7Y1OzPA9fVKKP9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737beb9d6ba46c42c909d37e01",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027beb9d6ba46c42c909d37e01",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517beb9d6ba46c42c909d37e01",
+        "width" : 64
+      } ],
+      "name" : "Flume",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:62R1EpHT7Y1OzPA9fVKKP9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gdTeMXa2p6C2fuRoqcVN1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2gdTeMXa2p6C2fuRoqcVN1",
+      "id" : "2gdTeMXa2p6C2fuRoqcVN1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b34010a8f9664d1b7c0f660",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b34010a8f9664d1b7c0f660",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b34010a8f9664d1b7c0f660",
+        "width" : 64
+      } ],
+      "name" : "Flumeo",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2gdTeMXa2p6C2fuRoqcVN1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6iVOVEzEyXjurmI9GKey8P"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 197
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6iVOVEzEyXjurmI9GKey8P",
+      "id" : "6iVOVEzEyXjurmI9GKey8P",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb216ca5367abc4a3c22c0f7cd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174216ca5367abc4a3c22c0f7cd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178216ca5367abc4a3c22c0f7cd",
+        "width" : 160
+      } ],
+      "name" : "flumen",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:6iVOVEzEyXjurmI9GKey8P"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31w2dtKOAGLfbbgazQy1ev"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 46
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/31w2dtKOAGLfbbgazQy1ev",
+      "id" : "31w2dtKOAGLfbbgazQy1ev",
+      "images" : [ ],
+      "name" : "DJ Flume",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:31w2dtKOAGLfbbgazQy1ev"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78y0RYVVRBL2VlbLXTHrp3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 192
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/78y0RYVVRBL2VlbLXTHrp3",
+      "id" : "78y0RYVVRBL2VlbLXTHrp3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27333c01854bc2e89ec848e046e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0233c01854bc2e89ec848e046e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485133c01854bc2e89ec848e046e",
+        "width" : 64
+      } ],
+      "name" : "The Flumes",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:78y0RYVVRBL2VlbLXTHrp3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4d0218x4VXB60S5tcopWby"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4d0218x4VXB60S5tcopWby",
+      "id" : "4d0218x4VXB60S5tcopWby",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ba45550634b8d9058690c5c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ba45550634b8d9058690c5c9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ba45550634b8d9058690c5c9",
+        "width" : 64
+      } ],
+      "name" : "Flumered",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4d0218x4VXB60S5tcopWby"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xzJWnWFQIpuQ7Z7D3QwCb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6xzJWnWFQIpuQ7Z7D3QwCb",
+      "id" : "6xzJWnWFQIpuQ7Z7D3QwCb",
+      "images" : [ ],
+      "name" : "Josef Flumeri",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6xzJWnWFQIpuQ7Z7D3QwCb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ICjcztzco25g0tNoHniwX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0ICjcztzco25g0tNoHniwX",
+      "id" : "0ICjcztzco25g0tNoHniwX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb34ab2ce949b636e093a8e42b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517434ab2ce949b636e093a8e42b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17834ab2ce949b636e093a8e42b",
+        "width" : 160
+      } ],
+      "name" : "Flumec",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0ICjcztzco25g0tNoHniwX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31RLfxQ4DCanJTPK4KjNta"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/31RLfxQ4DCanJTPK4KjNta",
+      "id" : "31RLfxQ4DCanJTPK4KjNta",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb12573f218957005266f084c8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517412573f218957005266f084c8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17812573f218957005266f084c8",
+        "width" : 160
+      } ],
+      "name" : "David Flumen",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:31RLfxQ4DCanJTPK4KjNta"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/406bZad8B0KEslFwcWchIk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/406bZad8B0KEslFwcWchIk",
+      "id" : "406bZad8B0KEslFwcWchIk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc6307eea941ad31b94a970fc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c6307eea941ad31b94a970fc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c6307eea941ad31b94a970fc",
+        "width" : 160
+      } ],
+      "name" : "Maine Flume",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:406bZad8B0KEslFwcWchIk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/35IGpoJs6nk0CwqHHeC4hU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 37
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/35IGpoJs6nk0CwqHHeC4hU",
+      "id" : "35IGpoJs6nk0CwqHHeC4hU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27381352b61abdfcf241f9c370a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0281352b61abdfcf241f9c370a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485181352b61abdfcf241f9c370a",
+        "width" : 64
+      } ],
+      "name" : "The Muddy Flumen",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:35IGpoJs6nk0CwqHHeC4hU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2V9OexRvV4fR2pEJeDld7J"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 83
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2V9OexRvV4fR2pEJeDld7J",
+      "id" : "2V9OexRvV4fR2pEJeDld7J",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3f6db2c48589202e31a7aa47",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743f6db2c48589202e31a7aa47",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783f6db2c48589202e31a7aa47",
+        "width" : 160
+      } ],
+      "name" : "Iuxta Flumen",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2V9OexRvV4fR2pEJeDld7J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DaVl7XANHjvhYKS6CVSrt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 78
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1DaVl7XANHjvhYKS6CVSrt",
+      "id" : "1DaVl7XANHjvhYKS6CVSrt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb950cc0b125b30f64275128d9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174950cc0b125b30f64275128d9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178950cc0b125b30f64275128d9",
+        "width" : 160
+      } ],
+      "name" : "Yosef Flumeri",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:1DaVl7XANHjvhYKS6CVSrt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4onMnEnOXlnt8FiU9s9TJO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4onMnEnOXlnt8FiU9s9TJO",
+      "id" : "4onMnEnOXlnt8FiU9s9TJO",
+      "images" : [ ],
+      "name" : "Marissa Flume",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4onMnEnOXlnt8FiU9s9TJO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UDO99lNbhc8DTZCUvPNNp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6UDO99lNbhc8DTZCUvPNNp",
+      "id" : "6UDO99lNbhc8DTZCUvPNNp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b635960ff96bef2cc5a8c3b6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b635960ff96bef2cc5a8c3b6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b635960ff96bef2cc5a8c3b6",
+        "width" : 64
+      } ],
+      "name" : "Elisabetta Flumeri",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6UDO99lNbhc8DTZCUvPNNp"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=+Flume&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 26
+  }
+}

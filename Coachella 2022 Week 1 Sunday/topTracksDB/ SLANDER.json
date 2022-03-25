@@ -1,0 +1,943 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+        "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+        "name" : "Dylan Matthew",
+        "type" : "artist",
+        "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4sFNNIc9t1SS1FnuVKXR3J",
+      "id" : "4sFNNIc9t1SS1FnuVKXR3J",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733892a2a2c261629f34bb5536",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023892a2a2c261629f34bb5536",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513892a2a2c261629f34bb5536",
+        "width" : 64
+      } ],
+      "name" : "Love Is Gone (Acoustic)",
+      "release_date" : "2019-11-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4sFNNIc9t1SS1FnuVKXR3J"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+      "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+      "name" : "Dylan Matthew",
+      "type" : "artist",
+      "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 176971,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1969481"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7F1CiKqrY44kh5cDqwHOnx",
+    "id" : "7F1CiKqrY44kh5cDqwHOnx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love Is Gone - Acoustic",
+    "popularity" : 83,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2404eb4cd93f53ff736d11d9a22ff4db67cf6166?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7F1CiKqrY44kh5cDqwHOnx"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+        "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+        "name" : "Dylan Matthew",
+        "type" : "artist",
+        "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YB42DQZ7h7VX95BRiu1Hi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YB42DQZ7h7VX95BRiu1Hi",
+      "id" : "1YB42DQZ7h7VX95BRiu1Hi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329a582922631710b2cf10d64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229a582922631710b2cf10d64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129a582922631710b2cf10d64",
+        "width" : 64
+      } ],
+      "name" : "Love Is Gone",
+      "release_date" : "2019-05-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1YB42DQZ7h7VX95BRiu1Hi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+      "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+      "name" : "Dylan Matthew",
+      "type" : "artist",
+      "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 256042,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1928205"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/39glqzRVRAy4vq3PqeTGb8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/39glqzRVRAy4vq3PqeTGb8",
+    "id" : "39glqzRVRAy4vq3PqeTGb8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love Is Gone",
+    "popularity" : 74,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ebfe9896fa4b5c78c318e3d845632d6b34efc57c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:39glqzRVRAy4vq3PqeTGb8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+        "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+        "name" : "NGHTMRE",
+        "type" : "artist",
+        "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jd5jHj3j3dakL1cKvzMEC",
+      "id" : "6jd5jHj3j3dakL1cKvzMEC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a12c68a5ac3470aeb459918",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a12c68a5ac3470aeb459918",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a12c68a5ac3470aeb459918",
+        "width" : 64
+      } ],
+      "name" : "FEELING GUD",
+      "release_date" : "2020-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6jd5jHj3j3dakL1cKvzMEC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+      "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+      "name" : "NGHTMRE",
+      "type" : "artist",
+      "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5t2P9w0qT2I9y0DrNhykSj",
+      "id" : "5t2P9w0qT2I9y0DrNhykSj",
+      "name" : "Matthew Santos",
+      "type" : "artist",
+      "uri" : "spotify:artist:5t2P9w0qT2I9y0DrNhykSj"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190682,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2010602"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0suLmBuEbatdochI4tHduq",
+    "id" : "0suLmBuEbatdochI4tHduq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "FEELING GUD",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/499393fad05685b1a26d067844534b6ec00fddbb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0suLmBuEbatdochI4tHduq"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+        "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+        "name" : "NGHTMRE",
+        "type" : "artist",
+        "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+        "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+        "name" : "Dylan Matthew",
+        "type" : "artist",
+        "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6PT8LbcXWPCVAk5Ixj2cu9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6PT8LbcXWPCVAk5Ixj2cu9",
+      "id" : "6PT8LbcXWPCVAk5Ixj2cu9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27308c6f5a7b303468ba07429e5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0208c6f5a7b303468ba07429e5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485108c6f5a7b303468ba07429e5",
+        "width" : 64
+      } ],
+      "name" : "Fall Into Me (feat. Dylan Matthew)",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6PT8LbcXWPCVAk5Ixj2cu9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+      "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+      "name" : "NGHTMRE",
+      "type" : "artist",
+      "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+      "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+      "name" : "Dylan Matthew",
+      "type" : "artist",
+      "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231428,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2287448"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5jwPoLlVOLcawSpvDpwlty",
+    "id" : "5jwPoLlVOLcawSpvDpwlty",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fall Into Me (feat. Dylan Matthew)",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/25ad8e1277605f0e4a13b56bef82fdb5bbcda1ba?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5jwPoLlVOLcawSpvDpwlty"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+        "id" : "2ZRQcIgzPCVaT9XKhXZIzh",
+        "name" : "Gryffin",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2IAVHJdaRPFA6MQqXHoG75",
+      "id" : "2IAVHJdaRPFA6MQqXHoG75",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e5311993a01fb2e7169f6a7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e5311993a01fb2e7169f6a7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e5311993a01fb2e7169f6a7",
+        "width" : 64
+      } ],
+      "name" : "Gravity",
+      "release_date" : "2019-10-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:2IAVHJdaRPFA6MQqXHoG75"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+      "id" : "2ZRQcIgzPCVaT9XKhXZIzh",
+      "name" : "Gryffin",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QeNM65b7IWvK4Ofcqz8cm",
+      "id" : "2QeNM65b7IWvK4Ofcqz8cm",
+      "name" : "Calle Lehmann",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QeNM65b7IWvK4Ofcqz8cm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238337,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71904442"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4TIkSdsNSfqpuq6ZYvCjAz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4TIkSdsNSfqpuq6ZYvCjAz",
+    "id" : "4TIkSdsNSfqpuq6ZYvCjAz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "All You Need To Know (feat. Calle Lehmann)",
+    "popularity" : 64,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4TIkSdsNSfqpuq6ZYvCjAz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7d5SfGXKpgS3JK8BFIq59h",
+        "id" : "7d5SfGXKpgS3JK8BFIq59h",
+        "name" : "William Black",
+        "type" : "artist",
+        "uri" : "spotify:artist:7d5SfGXKpgS3JK8BFIq59h"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0hKOffv9vWtya3CkEXrVhO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0hKOffv9vWtya3CkEXrVhO",
+      "id" : "0hKOffv9vWtya3CkEXrVhO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273df34234cbad3fca10cda133e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02df34234cbad3fca10cda133e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851df34234cbad3fca10cda133e",
+        "width" : 64
+      } ],
+      "name" : "Back To U",
+      "release_date" : "2020-04-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0hKOffv9vWtya3CkEXrVhO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7d5SfGXKpgS3JK8BFIq59h",
+      "id" : "7d5SfGXKpgS3JK8BFIq59h",
+      "name" : "William Black",
+      "type" : "artist",
+      "uri" : "spotify:artist:7d5SfGXKpgS3JK8BFIq59h"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR2040247"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/19m23w2ANVhtB7rApM6pbN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/19m23w2ANVhtB7rApM6pbN",
+    "id" : "19m23w2ANVhtB7rApM6pbN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Back To U",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/47a7082aa20f83e2cc80f9138c56895ba7720eb7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:19m23w2ANVhtB7rApM6pbN"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+        "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+        "name" : "NGHTMRE",
+        "type" : "artist",
+        "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ABYsJwhqu0MoN3HVn3tKi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ABYsJwhqu0MoN3HVn3tKi",
+      "id" : "1ABYsJwhqu0MoN3HVn3tKi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dcdf83db248a1b14719f8ec9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dcdf83db248a1b14719f8ec9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dcdf83db248a1b14719f8ec9",
+        "width" : 64
+      } ],
+      "name" : "GUD VIBRATIONS",
+      "release_date" : "2016-10-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1ABYsJwhqu0MoN3HVn3tKi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+      "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+      "name" : "NGHTMRE",
+      "type" : "artist",
+      "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224210,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V1600245"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2BVUOGciUUUqOPSLtHwLGp",
+    "id" : "2BVUOGciUUUqOPSLtHwLGp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "GUD VIBRATIONS",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bdac9b11de013eb3406ef856450b1d3d3489e21f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2BVUOGciUUUqOPSLtHwLGp"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+        "id" : "6fcTRFpz0yH79qSKfof7lp",
+        "name" : "Seven Lions",
+        "type" : "artist",
+        "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+        "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+        "name" : "Dylan Matthew",
+        "type" : "artist",
+        "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0pm25h4mEG11O8CJkNXJwH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0pm25h4mEG11O8CJkNXJwH",
+      "id" : "0pm25h4mEG11O8CJkNXJwH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273109b7795a5873721200060f3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02109b7795a5873721200060f3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851109b7795a5873721200060f3",
+        "width" : 64
+      } ],
+      "name" : "First Time (feat. Dylan Matthew)",
+      "release_date" : "2018-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0pm25h4mEG11O8CJkNXJwH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+      "id" : "6fcTRFpz0yH79qSKfof7lp",
+      "name" : "Seven Lions",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+      "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+      "name" : "Dylan Matthew",
+      "type" : "artist",
+      "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 297782,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA1802950"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/27YD36FUikKxbp3bKSiKGZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/27YD36FUikKxbp3bKSiKGZ",
+    "id" : "27YD36FUikKxbp3bKSiKGZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "First Time (feat. Dylan Matthew)",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/00e252395613eec0f24ab56970097a002112bd5d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:27YD36FUikKxbp3bKSiKGZ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CtI0OHj5x6rHQDqpM4JPy",
+        "id" : "5CtI0OHj5x6rHQDqpM4JPy",
+        "name" : "JT Roach",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CtI0OHj5x6rHQDqpM4JPy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6HIUMoRw3A8XEFakdfOTsD",
+      "id" : "6HIUMoRw3A8XEFakdfOTsD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a494addb4ea499c64fee6921",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a494addb4ea499c64fee6921",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a494addb4ea499c64fee6921",
+        "width" : 64
+      } ],
+      "name" : "Gravity",
+      "release_date" : "2021-08-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6HIUMoRw3A8XEFakdfOTsD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CtI0OHj5x6rHQDqpM4JPy",
+      "id" : "5CtI0OHj5x6rHQDqpM4JPy",
+      "name" : "JT Roach",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CtI0OHj5x6rHQDqpM4JPy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 364800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2191859"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5qCpcgqwL1Hum85sAQz3W7",
+    "id" : "5qCpcgqwL1Hum85sAQz3W7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gravity",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8be2db6783c248ebdc5860726a421fe614469dde?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5qCpcgqwL1Hum85sAQz3W7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39W8ER2QJe2x3pKLIXTiwK",
+        "id" : "39W8ER2QJe2x3pKLIXTiwK",
+        "name" : "if found",
+        "type" : "artist",
+        "uri" : "spotify:artist:39W8ER2QJe2x3pKLIXTiwK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1y2nMsmj0osjLiXHri15M1",
+        "id" : "1y2nMsmj0osjLiXHri15M1",
+        "name" : "Danni Carra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1y2nMsmj0osjLiXHri15M1"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1U1KPw61pnyjLktp0nCiPj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1U1KPw61pnyjLktp0nCiPj",
+      "id" : "1U1KPw61pnyjLktp0nCiPj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c1669388c89f8cba303c97fa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c1669388c89f8cba303c97fa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c1669388c89f8cba303c97fa",
+        "width" : 64
+      } ],
+      "name" : "Getting Late (feat. Danni Carra)",
+      "release_date" : "2021-12-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1U1KPw61pnyjLktp0nCiPj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39W8ER2QJe2x3pKLIXTiwK",
+      "id" : "39W8ER2QJe2x3pKLIXTiwK",
+      "name" : "if found",
+      "type" : "artist",
+      "uri" : "spotify:artist:39W8ER2QJe2x3pKLIXTiwK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1y2nMsmj0osjLiXHri15M1",
+      "id" : "1y2nMsmj0osjLiXHri15M1",
+      "name" : "Danni Carra",
+      "type" : "artist",
+      "uri" : "spotify:artist:1y2nMsmj0osjLiXHri15M1"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231750,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0033251"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2wG7MgpfXMCzQcTPCt78Tb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2wG7MgpfXMCzQcTPCt78Tb",
+    "id" : "2wG7MgpfXMCzQcTPCt78Tb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Getting Late (feat. Danni Carra)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/92ba1214a725e4c107003ceffa96e9c1084557bb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2wG7MgpfXMCzQcTPCt78Tb"
+  } ]
+}

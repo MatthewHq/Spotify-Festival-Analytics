@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Isaiah+Rashad&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1108023
+      },
+      "genres" : [ "hip hop", "rap", "tennessee hip hop", "underground hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/6aaMZ3fcfLv4tEbmY7bjRM",
+      "id" : "6aaMZ3fcfLv4tEbmY7bjRM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1ff1685224034e6c12538722",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741ff1685224034e6c12538722",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781ff1685224034e6c12538722",
+        "width" : 160
+      } ],
+      "name" : "Isaiah Rashad",
+      "popularity" : 73,
+      "type" : "artist",
+      "uri" : "spotify:artist:6aaMZ3fcfLv4tEbmY7bjRM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NR95SeA14vciamTu2tzxs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0NR95SeA14vciamTu2tzxs",
+      "id" : "0NR95SeA14vciamTu2tzxs",
+      "images" : [ ],
+      "name" : "Rashad Isaiah",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0NR95SeA14vciamTu2tzxs"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

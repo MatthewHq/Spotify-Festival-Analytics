@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Holly+Humberstone&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 134431
+      },
+      "genres" : [ "alt z", "indie pop", "modern alternative pop", "uk pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0nnYdIpahs41QiZ9MWp5Wx",
+      "id" : "0nnYdIpahs41QiZ9MWp5Wx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaeefd08e91c8375b0fc5bca5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aeefd08e91c8375b0fc5bca5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aeefd08e91c8375b0fc5bca5",
+        "width" : 160
+      } ],
+      "name" : "Holly Humberstone",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:0nnYdIpahs41QiZ9MWp5Wx"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

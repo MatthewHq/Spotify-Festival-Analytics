@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Lane+8&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 301389
+      },
+      "genres" : [ "gauze pop", "progressive house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/27gtK7m9vYwCyJ04zz0kIb",
+      "id" : "27gtK7m9vYwCyJ04zz0kIb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba63ca9a9ed590b0f7c9633a7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a63ca9a9ed590b0f7c9633a7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a63ca9a9ed590b0f7c9633a7",
+        "width" : 160
+      } ],
+      "name" : "Lane 8",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:27gtK7m9vYwCyJ04zz0kIb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5l2XBTWd7eNPb2ugNjkOse"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 96
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5l2XBTWd7eNPb2ugNjkOse",
+      "id" : "5l2XBTWd7eNPb2ugNjkOse",
+      "images" : [ ],
+      "name" : "Lane 8",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5l2XBTWd7eNPb2ugNjkOse"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IG3ctmCxPj9cQsqfElwBD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3IG3ctmCxPj9cQsqfElwBD",
+      "id" : "3IG3ctmCxPj9cQsqfElwBD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739d2e25c4d1336d035069b3e3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029d2e25c4d1336d035069b3e3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519d2e25c4d1336d035069b3e3",
+        "width" : 64
+      } ],
+      "name" : "8088Y Lane",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:3IG3ctmCxPj9cQsqfElwBD"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

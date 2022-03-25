@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Princess+Nokia&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 524941
+      },
+      "genres" : [ "escape room", "lgbtq+ hip hop", "trap queen" ],
+      "href" : "https://api.spotify.com/v1/artists/6lay1nwbE6hTx1jivysUAL",
+      "id" : "6lay1nwbE6hTx1jivysUAL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb30f34673f9cb4f20e4603fd4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517430f34673f9cb4f20e4603fd4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17830f34673f9cb4f20e4603fd4",
+        "width" : 160
+      } ],
+      "name" : "Princess Nokia",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:6lay1nwbE6hTx1jivysUAL"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

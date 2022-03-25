@@ -1,0 +1,763 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id" : "68kEuyFKyqrdQQLLsmiatm",
+        "name" : "Vince Staples",
+        "type" : "artist",
+        "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+        "id" : "0YinUQ50QDB7ZxSCLyQ40k",
+        "name" : "Mustard",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0pVhqkfdTywxdrHc3RCo7u",
+      "id" : "0pVhqkfdTywxdrHc3RCo7u",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ae35bf50055d670e7b2f61f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ae35bf50055d670e7b2f61f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ae35bf50055d670e7b2f61f",
+        "width" : 64
+      } ],
+      "name" : "MAGIC (feat. Mustard)",
+      "release_date" : "2022-02-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0pVhqkfdTywxdrHc3RCo7u"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+      "id" : "0YinUQ50QDB7ZxSCLyQ40k",
+      "name" : "Mustard",
+      "type" : "artist",
+      "uri" : "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 226006,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72201184"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5FvXe5bz4nQQ4eBaitt4EC",
+    "id" : "5FvXe5bz4nQQ4eBaitt4EC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "MAGIC (feat. Mustard)",
+    "popularity" : 74,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5FvXe5bz4nQQ4eBaitt4EC"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id" : "68kEuyFKyqrdQQLLsmiatm",
+        "name" : "Vince Staples",
+        "type" : "artist",
+        "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+        "id" : "4IVAbR2w4JJNJDDRFP3E83",
+        "name" : "6LACK",
+        "type" : "artist",
+        "uri" : "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/294lNTPZfdqyzt8qnxmFiL",
+        "id" : "294lNTPZfdqyzt8qnxmFiL",
+        "name" : "Mereba",
+        "type" : "artist",
+        "uri" : "spotify:artist:294lNTPZfdqyzt8qnxmFiL"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09VyQ2zwUx0EBKTJNBUZv1",
+      "id" : "09VyQ2zwUx0EBKTJNBUZv1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aac370232c213219c3c9d47c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aac370232c213219c3c9d47c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aac370232c213219c3c9d47c",
+        "width" : 64
+      } ],
+      "name" : "Yo Love (From \"Queen & Slim: The Soundtrack\")",
+      "release_date" : "2019-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:09VyQ2zwUx0EBKTJNBUZv1"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+      "id" : "4IVAbR2w4JJNJDDRFP3E83",
+      "name" : "6LACK",
+      "type" : "artist",
+      "uri" : "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/294lNTPZfdqyzt8qnxmFiL",
+      "id" : "294lNTPZfdqyzt8qnxmFiL",
+      "name" : "Mereba",
+      "type" : "artist",
+      "uri" : "spotify:artist:294lNTPZfdqyzt8qnxmFiL"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 143830,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71920230"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Vj8RQkFwOmDvUrwu6MtQZ",
+    "id" : "3Vj8RQkFwOmDvUrwu6MtQZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Yo Love - From \"Queen & Slim: The Soundtrack\"",
+    "popularity" : 71,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3Vj8RQkFwOmDvUrwu6MtQZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id" : "68kEuyFKyqrdQQLLsmiatm",
+        "name" : "Vince Staples",
+        "type" : "artist",
+        "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2suR5CCbtL2Wq8ShFo8rFr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2suR5CCbtL2Wq8ShFo8rFr",
+      "id" : "2suR5CCbtL2Wq8ShFo8rFr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab1b13e7ec3ada8d31cdae8b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab1b13e7ec3ada8d31cdae8b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab1b13e7ec3ada8d31cdae8b",
+        "width" : 64
+      } ],
+      "name" : "Vince Staples",
+      "release_date" : "2021-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2suR5CCbtL2Wq8ShFo8rFr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 138410,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72104401"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5OFEJMirg4NPz7G1zgXDYu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5OFEJMirg4NPz7G1zgXDYu",
+    "id" : "5OFEJMirg4NPz7G1zgXDYu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "ARE YOU WITH THAT?",
+    "popularity" : 71,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5OFEJMirg4NPz7G1zgXDYu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id" : "68kEuyFKyqrdQQLLsmiatm",
+        "name" : "Vince Staples",
+        "type" : "artist",
+        "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Csoz10NhNJOrCTUoPBdUD",
+      "id" : "4Csoz10NhNJOrCTUoPBdUD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27386f51d101637fd4dc59fc32a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0286f51d101637fd4dc59fc32a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485186f51d101637fd4dc59fc32a",
+        "width" : 64
+      } ],
+      "name" : "Summertime '06",
+      "release_date" : "2015-06-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4Csoz10NhNJOrCTUoPBdUD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 183160,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71507721"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4uQ7wYsuL0DryknoDc11Hk",
+    "id" : "4uQ7wYsuL0DryknoDc11Hk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Norf Norf",
+    "popularity" : 71,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4uQ7wYsuL0DryknoDc11Hk"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id" : "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name" : "Billie Eilish",
+        "type" : "artist",
+        "uri" : "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id" : "68kEuyFKyqrdQQLLsmiatm",
+        "name" : "Vince Staples",
+        "type" : "artist",
+        "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6eQpKhYCtvD0TwXQVHsgC2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6eQpKhYCtvD0TwXQVHsgC2",
+      "id" : "6eQpKhYCtvD0TwXQVHsgC2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f3425d012117543bf914c451",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f3425d012117543bf914c451",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f3425d012117543bf914c451",
+        "width" : 64
+      } ],
+      "name" : "&burn (with Vince Staples)",
+      "release_date" : "2017-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6eQpKhYCtvD0TwXQVHsgC2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id" : "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name" : "Billie Eilish",
+      "type" : "artist",
+      "uri" : "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 179015,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71713617"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7uX3gufAoBVqKVoD3dBLLD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7uX3gufAoBVqKVoD3dBLLD",
+    "id" : "7uX3gufAoBVqKVoD3dBLLD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "&burn (with Vince Staples)",
+    "popularity" : 67,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7uX3gufAoBVqKVoD3dBLLD"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/35s58BRTGAEWztPo9WqCIs",
+      "id" : "35s58BRTGAEWztPo9WqCIs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e2e352d89826aef6dbd5ff8f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e2e352d89826aef6dbd5ff8f",
+        "width" : 64
+      } ],
+      "name" : "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "release_date" : "2018-12-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:35s58BRTGAEWztPo9WqCIs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3QYRu7CWJylnxkvbTS3ovC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3QYRu7CWJylnxkvbTS3ovC",
+      "id" : "3QYRu7CWJylnxkvbTS3ovC",
+      "name" : "Richie Kohan",
+      "type" : "artist",
+      "uri" : "spotify:artist:3QYRu7CWJylnxkvbTS3ovC"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71707052"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7pBsquIkbED6W6uSQJGbkn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7pBsquIkbED6W6uSQJGbkn",
+    "id" : "7pBsquIkbED6W6uSQJGbkn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Home",
+    "popularity" : 66,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:7pBsquIkbED6W6uSQJGbkn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id" : "68kEuyFKyqrdQQLLsmiatm",
+        "name" : "Vince Staples",
+        "type" : "artist",
+        "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5h3WJG0aZjNOrayFu3MhCS",
+      "id" : "5h3WJG0aZjNOrayFu3MhCS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba7b4d23c717f3211717946",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba7b4d23c717f3211717946",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba7b4d23c717f3211717946",
+        "width" : 64
+      } ],
+      "name" : "Big Fish Theory",
+      "release_date" : "2017-06-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5h3WJG0aZjNOrayFu3MhCS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 198133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71700611"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6eL1ncVDtQHgSm3E288TS7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6eL1ncVDtQHgSm3E288TS7",
+    "id" : "6eL1ncVDtQHgSm3E288TS7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Big Fish",
+    "popularity" : 63,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6eL1ncVDtQHgSm3E288TS7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id" : "68kEuyFKyqrdQQLLsmiatm",
+        "name" : "Vince Staples",
+        "type" : "artist",
+        "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2suR5CCbtL2Wq8ShFo8rFr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2suR5CCbtL2Wq8ShFo8rFr",
+      "id" : "2suR5CCbtL2Wq8ShFo8rFr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab1b13e7ec3ada8d31cdae8b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab1b13e7ec3ada8d31cdae8b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab1b13e7ec3ada8d31cdae8b",
+        "width" : 64
+      } ],
+      "name" : "Vince Staples",
+      "release_date" : "2021-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2suR5CCbtL2Wq8ShFo8rFr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 139050,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72104402"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4hWAIH8ZIjcA2cEhGjr7jc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4hWAIH8ZIjcA2cEhGjr7jc",
+    "id" : "4hWAIH8ZIjcA2cEhGjr7jc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "LAW OF AVERAGES",
+    "popularity" : 63,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4hWAIH8ZIjcA2cEhGjr7jc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id" : "68kEuyFKyqrdQQLLsmiatm",
+        "name" : "Vince Staples",
+        "type" : "artist",
+        "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2suR5CCbtL2Wq8ShFo8rFr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2suR5CCbtL2Wq8ShFo8rFr",
+      "id" : "2suR5CCbtL2Wq8ShFo8rFr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab1b13e7ec3ada8d31cdae8b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab1b13e7ec3ada8d31cdae8b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab1b13e7ec3ada8d31cdae8b",
+        "width" : 64
+      } ],
+      "name" : "Vince Staples",
+      "release_date" : "2021-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2suR5CCbtL2Wq8ShFo8rFr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6trIghKwHRUyxwvm66HLHH",
+      "id" : "6trIghKwHRUyxwvm66HLHH",
+      "name" : "Fousheé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6trIghKwHRUyxwvm66HLHH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 166829,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72104400"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3RXGbZhy0Hyur2mSVDlu51"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3RXGbZhy0Hyur2mSVDlu51",
+    "id" : "3RXGbZhy0Hyur2mSVDlu51",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "TAKE ME HOME",
+    "popularity" : 62,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3RXGbZhy0Hyur2mSVDlu51"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+        "id" : "68kEuyFKyqrdQQLLsmiatm",
+        "name" : "Vince Staples",
+        "type" : "artist",
+        "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2suR5CCbtL2Wq8ShFo8rFr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2suR5CCbtL2Wq8ShFo8rFr",
+      "id" : "2suR5CCbtL2Wq8ShFo8rFr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab1b13e7ec3ada8d31cdae8b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab1b13e7ec3ada8d31cdae8b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab1b13e7ec3ada8d31cdae8b",
+        "width" : 64
+      } ],
+      "name" : "Vince Staples",
+      "release_date" : "2021-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2suR5CCbtL2Wq8ShFo8rFr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 150877,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72104406"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0zfsHae5pzUPpEuXjtEqbC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0zfsHae5pzUPpEuXjtEqbC",
+    "id" : "0zfsHae5pzUPpEuXjtEqbC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "SUNDOWN TOWN",
+    "popularity" : 62,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0zfsHae5pzUPpEuXjtEqbC"
+  } ]
+}

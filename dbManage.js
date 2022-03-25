@@ -49,10 +49,11 @@ export async function artistCollect(festivalTitle) {
         try { var files = await promiseReadDir(searchQBPath) } catch (err) {
             reject(err)
         }
-        console.log("FILES " + files)
+        // console.log("FILES " + files)
         for (let i = 0; i < files.length; i++) {
             // console.log("ASYNC CHECKPOINT INNER FOR LOOP ARTISTCOLLECT")
             let artistQuery = fs.readFileSync(searchQBPath + '/' + files[i], 'utf8')
+            console.log(files[i])
             artistQuery = JSON.parse(artistQuery)
 
             if (artistQuery.artists.items.length != 0) {
@@ -79,10 +80,15 @@ export async function artistCollect(festivalTitle) {
                             }
                         }
                     }
-                    if (compare < 100) {
+                    if (compare < 500) {
                         promises.push(promiseWriteFile(artistDBPath + files[i], JSON.stringify(artistQuery.artists.items[index])))
                         // console.log(promises)
                         // console.log("promises^")
+                        if (compare > 50) {
+                            console.log("did not find exact BUT WROTE FILE | " + files[i] + " | closest is |" + artistQuery.artists.items[index].name + " | with a dif of " + compare)
+                            // console.log(promises)
+                            // console.log("promises^")
+                        }
                     } else {
                         console.log("DID NOT FIND CORRECT DATA FOR | " + files[i] + " | closest is |" + artistQuery.artists.items[index].name + " | with a dif of " + compare)
                     }

@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+DJ+Holographic&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1849
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4PRhpvNBYt7YURb5VhEDox",
+      "id" : "4PRhpvNBYt7YURb5VhEDox",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3110a9b40a538e513d230b6d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743110a9b40a538e513d230b6d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783110a9b40a538e513d230b6d",
+        "width" : 160
+      } ],
+      "name" : "DJ Holographic",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:4PRhpvNBYt7YURb5VhEDox"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

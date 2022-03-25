@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Giselle+Woo+&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/03wug6PkH762Wk7t2tQeuE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 66
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/03wug6PkH762Wk7t2tQeuE",
+      "id" : "03wug6PkH762Wk7t2tQeuE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27380fc8b47d2f4bde15fe1715d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0280fc8b47d2f4bde15fe1715d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485180fc8b47d2f4bde15fe1715d",
+        "width" : 64
+      } ],
+      "name" : "Giselle Woo",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:03wug6PkH762Wk7t2tQeuE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WI9uFufFkL3pe9Jz1Fsz6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 225
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1WI9uFufFkL3pe9Jz1Fsz6",
+      "id" : "1WI9uFufFkL3pe9Jz1Fsz6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1289e1d0d649bca124fcf431",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741289e1d0d649bca124fcf431",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781289e1d0d649bca124fcf431",
+        "width" : 160
+      } ],
+      "name" : "Giselle Woo & the Night Owls",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:1WI9uFufFkL3pe9Jz1Fsz6"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

@@ -1,0 +1,673 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1uD1kdwTWH1DZQZqGKz6rY",
+      "id" : "1uD1kdwTWH1DZQZqGKz6rY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b103a69ed742a7735a2ba7e8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b103a69ed742a7735a2ba7e8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b103a69ed742a7735a2ba7e8",
+        "width" : 64
+      } ],
+      "name" : "Jubilee",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1uD1kdwTWH1DZQZqGKz6rY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 195370,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2022502"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0dpyzcT3RMNNSd2xKBf35I",
+    "id" : "0dpyzcT3RMNNSd2xKBf35I",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Be Sweet",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2b51403e2de5ba2d4890c2285aeb567f0b256dec?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0dpyzcT3RMNNSd2xKBf35I"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1uD1kdwTWH1DZQZqGKz6rY",
+      "id" : "1uD1kdwTWH1DZQZqGKz6rY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b103a69ed742a7735a2ba7e8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b103a69ed742a7735a2ba7e8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b103a69ed742a7735a2ba7e8",
+        "width" : 64
+      } ],
+      "name" : "Jubilee",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1uD1kdwTWH1DZQZqGKz6rY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 220316,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2022501"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3zyqphgXvgHe436IMKeey3",
+    "id" : "3zyqphgXvgHe436IMKeey3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Paprika",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d01b1ccfa88a609e4e3c5d3f83b7c9c50ec35dfe?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3zyqphgXvgHe436IMKeey3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6PnTp1NIlueJGURW4zSYua",
+      "id" : "6PnTp1NIlueJGURW4zSYua",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e280ed04a8e7cf1ad8acf4ad",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e280ed04a8e7cf1ad8acf4ad",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e280ed04a8e7cf1ad8acf4ad",
+        "width" : 64
+      } ],
+      "name" : "Soft Sounds from Another Planet",
+      "release_date" : "2017-07-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6PnTp1NIlueJGURW4zSYua"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 195106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G1713302"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5rQEom98vgByjAZ4kIw2kL",
+    "id" : "5rQEom98vgByjAZ4kIw2kL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Road Head",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c2c27b63bf9b9f6626ce40d54899fbae3286144b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5rQEom98vgByjAZ4kIw2kL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1uD1kdwTWH1DZQZqGKz6rY",
+      "id" : "1uD1kdwTWH1DZQZqGKz6rY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b103a69ed742a7735a2ba7e8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b103a69ed742a7735a2ba7e8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b103a69ed742a7735a2ba7e8",
+        "width" : 64
+      } ],
+      "name" : "Jubilee",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1uD1kdwTWH1DZQZqGKz6rY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218744,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2022503"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0O4sIQ728ugLlwBVaxF8UM",
+    "id" : "0O4sIQ728ugLlwBVaxF8UM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kokomo, IN",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b21c3ea0d1b7600e98f9fd3ed03712d5c7150610?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0O4sIQ728ugLlwBVaxF8UM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6PnTp1NIlueJGURW4zSYua",
+      "id" : "6PnTp1NIlueJGURW4zSYua",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e280ed04a8e7cf1ad8acf4ad",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e280ed04a8e7cf1ad8acf4ad",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e280ed04a8e7cf1ad8acf4ad",
+        "width" : 64
+      } ],
+      "name" : "Soft Sounds from Another Planet",
+      "release_date" : "2017-07-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6PnTp1NIlueJGURW4zSYua"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G1713306"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ETQzZdnRJwaoFIPQy3GJv",
+    "id" : "4ETQzZdnRJwaoFIPQy3GJv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Boyish",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d07fa51b994a135e31635428fbe42bd699745c1d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4ETQzZdnRJwaoFIPQy3GJv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1uD1kdwTWH1DZQZqGKz6rY",
+      "id" : "1uD1kdwTWH1DZQZqGKz6rY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b103a69ed742a7735a2ba7e8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b103a69ed742a7735a2ba7e8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b103a69ed742a7735a2ba7e8",
+        "width" : 64
+      } ],
+      "name" : "Jubilee",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1uD1kdwTWH1DZQZqGKz6rY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 146184,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2022507"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0EredcGoVUJTRiBLmwI0AO",
+    "id" : "0EredcGoVUJTRiBLmwI0AO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Savage Good Boy",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1418779014674a5ad3fe3d12877430df3696894c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0EredcGoVUJTRiBLmwI0AO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3i7EHinpu9J5MXKMzjpjZ0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3i7EHinpu9J5MXKMzjpjZ0",
+      "id" : "3i7EHinpu9J5MXKMzjpjZ0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736b3d417dd6a2f0cc0b913361",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026b3d417dd6a2f0cc0b913361",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516b3d417dd6a2f0cc0b913361",
+        "width" : 64
+      } ],
+      "name" : "Psychopomp",
+      "release_date" : "2016-04-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:3i7EHinpu9J5MXKMzjpjZ0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 132631,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1569461"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3YufkKqsssZ8wt9T24ULSj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3YufkKqsssZ8wt9T24ULSj",
+    "id" : "3YufkKqsssZ8wt9T24ULSj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Everybody Wants to Love You",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/04b85a1d5780c985f304b9b6b3d62042b41e326a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3YufkKqsssZ8wt9T24ULSj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1uD1kdwTWH1DZQZqGKz6rY",
+      "id" : "1uD1kdwTWH1DZQZqGKz6rY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b103a69ed742a7735a2ba7e8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b103a69ed742a7735a2ba7e8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b103a69ed742a7735a2ba7e8",
+        "width" : 64
+      } ],
+      "name" : "Jubilee",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1uD1kdwTWH1DZQZqGKz6rY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219782,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2022504"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ksM8r8u4AjMwvtqUif9W1",
+    "id" : "5ksM8r8u4AjMwvtqUif9W1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Slide Tackle",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8fa613221f7bc23755d1ba6d8300548ae3848662?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5ksM8r8u4AjMwvtqUif9W1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1uD1kdwTWH1DZQZqGKz6rY",
+      "id" : "1uD1kdwTWH1DZQZqGKz6rY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b103a69ed742a7735a2ba7e8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b103a69ed742a7735a2ba7e8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b103a69ed742a7735a2ba7e8",
+        "width" : 64
+      } ],
+      "name" : "Jubilee",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1uD1kdwTWH1DZQZqGKz6rY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 244691,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2022505"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/33qgZ7mWvlH95efOGQqfzZ",
+    "id" : "33qgZ7mWvlH95efOGQqfzZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Posing In Bondage",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/af760c11dd1d96ea94cb5efa8511945b60dc24dd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:33qgZ7mWvlH95efOGQqfzZ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+        "id" : "7MoIc5s9KXolCBH1fy9kkw",
+        "name" : "Japanese Breakfast",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6W8UhZlIF4yuQolmJPAO1P",
+      "id" : "6W8UhZlIF4yuQolmJPAO1P",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e8a4e6538b13c2ad5a477b9f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e8a4e6538b13c2ad5a477b9f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e8a4e6538b13c2ad5a477b9f",
+        "width" : 64
+      } ],
+      "name" : "Nobody Sees Me Like You Do",
+      "release_date" : "2022-01-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6W8UhZlIF4yuQolmJPAO1P"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+      "id" : "7MoIc5s9KXolCBH1fy9kkw",
+      "name" : "Japanese Breakfast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211635,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT22105794"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3vGsonmcc2Y7x8BZYKnjhi",
+    "id" : "3vGsonmcc2Y7x8BZYKnjhi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nobody Sees Me Like You Do",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/218fef625fdbfed4464b0335906181a2b9dbd4bf?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3vGsonmcc2Y7x8BZYKnjhi"
+  } ]
+}

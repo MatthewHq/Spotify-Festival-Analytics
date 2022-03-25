@@ -1,0 +1,754 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+        "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+        "name" : "Jamie xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/04Duapg2mNlVykd895xcfZ",
+      "id" : "04Duapg2mNlVykd895xcfZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e8ac8f5ea7877d823e5df3ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e8ac8f5ea7877d823e5df3ea",
+        "width" : 64
+      } ],
+      "name" : "In Colour",
+      "release_date" : "2015-06-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:04Duapg2mNlVykd895xcfZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+      "id" : "3X2DdnmoANw8Rg8luHyZQb",
+      "name" : "Romy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 283066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK7MC1500008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7lPgKA5mLFNmGPMdb07OlM",
+    "id" : "7lPgKA5mLFNmGPMdb07OlM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Loud Places",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fd28ab28dff7bc473dd0c17bea95d4939d830ba0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:7lPgKA5mLFNmGPMdb07OlM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+        "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+        "name" : "Jamie xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/04Duapg2mNlVykd895xcfZ",
+      "id" : "04Duapg2mNlVykd895xcfZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e8ac8f5ea7877d823e5df3ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e8ac8f5ea7877d823e5df3ea",
+        "width" : 64
+      } ],
+      "name" : "In Colour",
+      "release_date" : "2015-06-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:04Duapg2mNlVykd895xcfZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+      "id" : "50co4Is1HCEo8bhOyUWKpn",
+      "name" : "Young Thug",
+      "type" : "artist",
+      "uri" : "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/62DmErcU7dqZbJaDqwsqzR",
+      "id" : "62DmErcU7dqZbJaDqwsqzR",
+      "name" : "Popcaan",
+      "type" : "artist",
+      "uri" : "spotify:artist:62DmErcU7dqZbJaDqwsqzR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213622,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "UK7MC1500009"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/06UOL50QYtDR5l06ohu88m"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/06UOL50QYtDR5l06ohu88m",
+    "id" : "06UOL50QYtDR5l06ohu88m",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Know There's Gonna Be (Good Times)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/089046a86f869e84afef50811ab32ee042f806e3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:06UOL50QYtDR5l06ohu88m"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+        "id" : "1moxjboGR7GNWYIMWsRjgG",
+        "name" : "Florence + The Machine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+        "id" : "3iOvXCl6edW5Um0fXEBRXy",
+        "name" : "The xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+        "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+        "name" : "Jamie xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ehMwGARrrgvrOpyHAV1LA",
+      "id" : "6ehMwGARrrgvrOpyHAV1LA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a30aaca0591aea46a4ccece4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a30aaca0591aea46a4ccece4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a30aaca0591aea46a4ccece4",
+        "width" : 64
+      } ],
+      "name" : "You've Got The Love (Jamie xx Rework)",
+      "release_date" : "2009-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6ehMwGARrrgvrOpyHAV1LA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+      "id" : "1moxjboGR7GNWYIMWsRjgG",
+      "name" : "Florence + The Machine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+      "id" : "3iOvXCl6edW5Um0fXEBRXy",
+      "name" : "The xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 342990,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM70913862"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/59Y2GLn55BVjX3UTMUDtTP",
+    "id" : "59Y2GLn55BVjX3UTMUDtTP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "You've Got The Love - Jamie xx Rework",
+    "popularity" : 61,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:59Y2GLn55BVjX3UTMUDtTP"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+        "id" : "3iOvXCl6edW5Um0fXEBRXy",
+        "name" : "The xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1KwcjMbLdbmGBvHFRjNWCo",
+      "id" : "1KwcjMbLdbmGBvHFRjNWCo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733925ee871e58c53b2dc003ce",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023925ee871e58c53b2dc003ce",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513925ee871e58c53b2dc003ce",
+        "width" : 64
+      } ],
+      "name" : "On Hold (Jamie xx Remix)",
+      "release_date" : "2017-09-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1KwcjMbLdbmGBvHFRjNWCo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+      "id" : "3iOvXCl6edW5Um0fXEBRXy",
+      "name" : "The xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 371533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK7MC1700151"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3qOuySPLpVyBXLuTNMgbRj",
+    "id" : "3qOuySPLpVyBXLuTNMgbRj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "On Hold - Jamie xx Remix",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/55002f1d364a0447e7b77b73cc5757c7e3b508c4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3qOuySPLpVyBXLuTNMgbRj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+        "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+        "name" : "Jamie xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/04Duapg2mNlVykd895xcfZ",
+      "id" : "04Duapg2mNlVykd895xcfZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e8ac8f5ea7877d823e5df3ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e8ac8f5ea7877d823e5df3ea",
+        "width" : 64
+      } ],
+      "name" : "In Colour",
+      "release_date" : "2015-06-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:04Duapg2mNlVykd895xcfZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 291018,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK7MC1500001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4mlZurguzNJior9siewA8C",
+    "id" : "4mlZurguzNJior9siewA8C",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gosh",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a574fcad65a78379af0ee135122dcb0a761e2261?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4mlZurguzNJior9siewA8C"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+        "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+        "name" : "Jamie xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/04Duapg2mNlVykd895xcfZ",
+      "id" : "04Duapg2mNlVykd895xcfZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e8ac8f5ea7877d823e5df3ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e8ac8f5ea7877d823e5df3ea",
+        "width" : 64
+      } ],
+      "name" : "In Colour",
+      "release_date" : "2015-06-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:04Duapg2mNlVykd895xcfZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231039,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK7MC1500004"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7HTnBZgjsp1T9uF286kQ7o",
+    "id" : "7HTnBZgjsp1T9uF286kQ7o",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Obvs",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b0129a7fa9bc1fe0efed49a3aa1b104a845c4544?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7HTnBZgjsp1T9uF286kQ7o"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+        "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+        "name" : "Jamie xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/04Duapg2mNlVykd895xcfZ",
+      "id" : "04Duapg2mNlVykd895xcfZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e8ac8f5ea7877d823e5df3ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e8ac8f5ea7877d823e5df3ea",
+        "width" : 64
+      } ],
+      "name" : "In Colour",
+      "release_date" : "2015-06-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:04Duapg2mNlVykd895xcfZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 245585,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK7MC1500026"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0s2ziTuwyOfnpNbpctNwqO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0s2ziTuwyOfnpNbpctNwqO",
+    "id" : "0s2ziTuwyOfnpNbpctNwqO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Girl",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/840617b2e7b40ee4f5bf089b840c2f7343e5376a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0s2ziTuwyOfnpNbpctNwqO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+        "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+        "name" : "Jamie xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ORIBhcatSSgmL3vhvhRYB",
+      "id" : "6ORIBhcatSSgmL3vhvhRYB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739880046b9f93845a0fc8a44d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029880046b9f93845a0fc8a44d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519880046b9f93845a0fc8a44d",
+        "width" : 64
+      } ],
+      "name" : "Girl/Sleep Sound",
+      "release_date" : "2014-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6ORIBhcatSSgmL3vhvhRYB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 383309,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBBKS1300174"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4aNm6woQfV9XRkCmk51GSX",
+    "id" : "4aNm6woQfV9XRkCmk51GSX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sleep Sound",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/184020a31d8a0b16c24503b51c9693f683ac58a6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4aNm6woQfV9XRkCmk51GSX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+        "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+        "name" : "Jamie xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/04Duapg2mNlVykd895xcfZ",
+      "id" : "04Duapg2mNlVykd895xcfZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e8ac8f5ea7877d823e5df3ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e8ac8f5ea7877d823e5df3ea",
+        "width" : 64
+      } ],
+      "name" : "In Colour",
+      "release_date" : "2015-06-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:04Duapg2mNlVykd895xcfZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+      "id" : "3X2DdnmoANw8Rg8luHyZQb",
+      "name" : "Romy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 268788,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK7MC1500003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6N9NpkIKu7SLAjZd0IewoV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6N9NpkIKu7SLAjZd0IewoV",
+    "id" : "6N9NpkIKu7SLAjZd0IewoV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "SeeSaw",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/28b10d4d46371426431a59a66d33232066ca9116?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6N9NpkIKu7SLAjZd0IewoV"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+        "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+        "name" : "Jamie xx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1OuBffTkjBqwVVfj9I8hHr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1OuBffTkjBqwVVfj9I8hHr",
+      "id" : "1OuBffTkjBqwVVfj9I8hHr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273df82bf71a2406f123a417221",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02df82bf71a2406f123a417221",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851df82bf71a2406f123a417221",
+        "width" : 64
+      } ],
+      "name" : "Idontknow",
+      "release_date" : "2020-04-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1OuBffTkjBqwVVfj9I8hHr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+      "id" : "7A0awCXkE1FtSU8B0qwOJQ",
+      "name" : "Jamie xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 321502,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK7MC2000001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7nSBHckG4tTFkp0xqNZDs5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7nSBHckG4tTFkp0xqNZDs5",
+    "id" : "7nSBHckG4tTFkp0xqNZDs5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Idontknow",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3d88a1273c626953caf887530853446517388113?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7nSBHckG4tTFkp0xqNZDs5"
+  } ]
+}

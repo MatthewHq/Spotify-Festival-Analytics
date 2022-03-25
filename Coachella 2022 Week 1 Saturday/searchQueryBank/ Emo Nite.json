@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Emo+Nite&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1VVzQaPmhgjVogHUYcqE0a"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 70
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1VVzQaPmhgjVogHUYcqE0a",
+      "id" : "1VVzQaPmhgjVogHUYcqE0a",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bde4b69da75b555f3ab716fa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bde4b69da75b555f3ab716fa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bde4b69da75b555f3ab716fa",
+        "width" : 64
+      } ],
+      "name" : "Emonite",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1VVzQaPmhgjVogHUYcqE0a"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8104
+      },
+      "genres" : [ "j-division", "vocaloid" ],
+      "href" : "https://api.spotify.com/v1/artists/4gSRXG5tamMDAxsswktQKG",
+      "id" : "4gSRXG5tamMDAxsswktQKG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaafe956690a1901be2492087",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aafe956690a1901be2492087",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aafe956690a1901be2492087",
+        "width" : 160
+      } ],
+      "name" : "emon(Tes.)",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:4gSRXG5tamMDAxsswktQKG"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

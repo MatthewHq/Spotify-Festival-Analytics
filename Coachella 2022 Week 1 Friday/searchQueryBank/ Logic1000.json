@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Logic1000&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20992
+      },
+      "genres" : [ "electronica", "float house", "ukg revival" ],
+      "href" : "https://api.spotify.com/v1/artists/2EFsfh1zewsSWhDINv7j1I",
+      "id" : "2EFsfh1zewsSWhDINv7j1I",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb97438da697b979c4542b0153",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517497438da697b979c4542b0153",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17897438da697b979c4542b0153",
+        "width" : 160
+      } ],
+      "name" : "Logic1000",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:2EFsfh1zewsSWhDINv7j1I"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BfMeV8Pmx59f5C0sFICBH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6BfMeV8Pmx59f5C0sFICBH",
+      "id" : "6BfMeV8Pmx59f5C0sFICBH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273603fef7e86ff3ace5bf11d86",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02603fef7e86ff3ace5bf11d86",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851603fef7e86ff3ace5bf11d86",
+        "width" : 64
+      } ],
+      "name" : "Logicprox1000",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6BfMeV8Pmx59f5C0sFICBH"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

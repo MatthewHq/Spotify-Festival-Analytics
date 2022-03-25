@@ -1,0 +1,559 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+ANNA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 305969
+      },
+      "genres" : [ "hollywood", "movie tunes" ],
+      "href" : "https://api.spotify.com/v1/artists/6xfqnpe2HnLVUaYXs2F8YS",
+      "id" : "6xfqnpe2HnLVUaYXs2F8YS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bf912e74770477b7464d16b1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bf912e74770477b7464d16b1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bf912e74770477b7464d16b1",
+        "width" : 64
+      } ],
+      "name" : "Anna Kendrick",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:6xfqnpe2HnLVUaYXs2F8YS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 185076
+      },
+      "genres" : [ "electropop", "indie poptimism", "norwegian pop", "vapor pop", "vapor soul" ],
+      "href" : "https://api.spotify.com/v1/artists/1mSJCvDX0W7Dn7S9C6vmvI",
+      "id" : "1mSJCvDX0W7Dn7S9C6vmvI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3d7e467ef58d081734dc5ec4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743d7e467ef58d081734dc5ec4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783d7e467ef58d081734dc5ec4",
+        "width" : 160
+      } ],
+      "name" : "Anna of the North",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:1mSJCvDX0W7Dn7S9C6vmvI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1z6xb7fWEynx9m92JVA8ZR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 186572
+      },
+      "genres" : [ "alt z", "otacore" ],
+      "href" : "https://api.spotify.com/v1/artists/1z6xb7fWEynx9m92JVA8ZR",
+      "id" : "1z6xb7fWEynx9m92JVA8ZR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebed6374fa56357f46e7b7ae70",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ed6374fa56357f46e7b7ae70",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ed6374fa56357f46e7b7ae70",
+        "width" : 160
+      } ],
+      "name" : "Annapantsu",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:1z6xb7fWEynx9m92JVA8ZR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 421810
+      },
+      "genres" : [ "alt z", "pop", "post-teen pop", "social media pop", "viral pop" ],
+      "href" : "https://api.spotify.com/v1/artists/2y9j8qUwBMGPYPQJJxmYzD",
+      "id" : "2y9j8qUwBMGPYPQJJxmYzD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7e6338790c15558d62891b7a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747e6338790c15558d62891b7a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787e6338790c15558d62891b7a",
+        "width" : 160
+      } ],
+      "name" : "Anna Clendening",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:2y9j8qUwBMGPYPQJJxmYzD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 61624
+      },
+      "genres" : [ "alternative r&b", "indie r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/0N41KJ4H6bkPAm2tx7VS8C",
+      "id" : "0N41KJ4H6bkPAm2tx7VS8C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5ec91e0be5d6bf0aed81903f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745ec91e0be5d6bf0aed81903f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785ec91e0be5d6bf0aed81903f",
+        "width" : 160
+      } ],
+      "name" : "Anna Wise",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:0N41KJ4H6bkPAm2tx7VS8C"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15057
+      },
+      "genres" : [ "anthem worship", "apostolic worship", "ccm", "christian pop", "world worship" ],
+      "href" : "https://api.spotify.com/v1/artists/3YChYj3gO6EJmFwI79cUSe",
+      "id" : "3YChYj3gO6EJmFwI79cUSe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf21402af5ffec5ff849f3293",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f21402af5ffec5ff849f3293",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f21402af5ffec5ff849f3293",
+        "width" : 160
+      } ],
+      "name" : "Anna Golden",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:3YChYj3gO6EJmFwI79cUSe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30856
+      },
+      "genres" : [ "alt z", "contemporary country" ],
+      "href" : "https://api.spotify.com/v1/artists/5rjz63sgMaAUAyBMyCUK5D",
+      "id" : "5rjz63sgMaAUAyBMyCUK5D",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd1a5a59a964e128834f0fbbe",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d1a5a59a964e128834f0fbbe",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d1a5a59a964e128834f0fbbe",
+        "width" : 160
+      } ],
+      "name" : "Avery Anna",
+      "popularity" : 55,
+      "type" : "artist",
+      "uri" : "spotify:artist:5rjz63sgMaAUAyBMyCUK5D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 54
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6CLuGSdrVoVKbBkuwjNXOw",
+      "id" : "6CLuGSdrVoVKbBkuwjNXOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb55b1561511411fcab1f378f8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517455b1561511411fcab1f378f8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17855b1561511411fcab1f378f8",
+        "width" : 160
+      } ],
+      "name" : "Anna Landström",
+      "popularity" : 55,
+      "type" : "artist",
+      "uri" : "spotify:artist:6CLuGSdrVoVKbBkuwjNXOw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 143828
+      },
+      "genres" : [ "acoustic pop", "lilith", "neo mellow" ],
+      "href" : "https://api.spotify.com/v1/artists/4LoM3lMauQ540MW9QiyIcR",
+      "id" : "4LoM3lMauQ540MW9QiyIcR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4cb595db104bda6559df9044",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744cb595db104bda6559df9044",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784cb595db104bda6559df9044",
+        "width" : 160
+      } ],
+      "name" : "Anna Nalick",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:4LoM3lMauQ540MW9QiyIcR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 46791
+      },
+      "genres" : [ "bass house", "electra", "nu disco" ],
+      "href" : "https://api.spotify.com/v1/artists/7d96RW5Vix23AiCHr3mf3D",
+      "id" : "7d96RW5Vix23AiCHr3mf3D",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcc7cd4cf07534ccccf2a02ae",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cc7cd4cf07534ccccf2a02ae",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cc7cd4cf07534ccccf2a02ae",
+        "width" : 160
+      } ],
+      "name" : "Anna Lunoe",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:7d96RW5Vix23AiCHr3mf3D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1496
+      },
+      "genres" : [ "neo-classical" ],
+      "href" : "https://api.spotify.com/v1/artists/1LMH92wmd895KpE0pdRSek",
+      "id" : "1LMH92wmd895KpE0pdRSek",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8e956ae348437f8d06900b8a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748e956ae348437f8d06900b8a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788e956ae348437f8d06900b8a",
+        "width" : 160
+      } ],
+      "name" : "Anna Sofia Nord",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:1LMH92wmd895KpE0pdRSek"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4cHdzQMvESi5fSYStocJQT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3101
+      },
+      "genres" : [ "broadway", "hollywood", "show tunes" ],
+      "href" : "https://api.spotify.com/v1/artists/4cHdzQMvESi5fSYStocJQT",
+      "id" : "4cHdzQMvESi5fSYStocJQT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730c2261216868adc817a4a51f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020c2261216868adc817a4a51f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510c2261216868adc817a4a51f",
+        "width" : 64
+      } ],
+      "name" : "Annaleigh Ashford",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:4cHdzQMvESi5fSYStocJQT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21357
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Ndq6RparrhEoceel7LC4Z",
+      "id" : "2Ndq6RparrhEoceel7LC4Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf44a22ddf0de309ddf0ae8a9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f44a22ddf0de309ddf0ae8a9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f44a22ddf0de309ddf0ae8a9",
+        "width" : 160
+      } ],
+      "name" : "Anna Yvette",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Ndq6RparrhEoceel7LC4Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22296
+      },
+      "genres" : [ "german dance" ],
+      "href" : "https://api.spotify.com/v1/artists/6vNe5MINTo5QZyR08sBOBA",
+      "id" : "6vNe5MINTo5QZyR08sBOBA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9777aa95449ae4128825c40d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749777aa95449ae4128825c40d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789777aa95449ae4128825c40d",
+        "width" : 160
+      } ],
+      "name" : "Anna Naklab",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:6vNe5MINTo5QZyR08sBOBA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zrmmZauGfivt1PTDs5Ph6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 101353
+      },
+      "genres" : [ "otacore" ],
+      "href" : "https://api.spotify.com/v1/artists/0zrmmZauGfivt1PTDs5Ph6",
+      "id" : "0zrmmZauGfivt1PTDs5Ph6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8d3ca7144b099b85fa86b1cc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748d3ca7144b099b85fa86b1cc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788d3ca7144b099b85fa86b1cc",
+        "width" : 160
+      } ],
+      "name" : "Anna Blue",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:0zrmmZauGfivt1PTDs5Ph6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WtmDnBN2uns73pavhp6mB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19
+      },
+      "genres" : [ "instrumental lullaby" ],
+      "href" : "https://api.spotify.com/v1/artists/4WtmDnBN2uns73pavhp6mB",
+      "id" : "4WtmDnBN2uns73pavhp6mB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27341dc01da4b8178e2cde3df95",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0241dc01da4b8178e2cde3df95",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485141dc01da4b8178e2cde3df95",
+        "width" : 64
+      } ],
+      "name" : "Anna Ramirez",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:4WtmDnBN2uns73pavhp6mB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 743
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4zR2t8bagib4ozydVgb93l",
+      "id" : "4zR2t8bagib4ozydVgb93l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba4166a65415d528ab3aa935c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a4166a65415d528ab3aa935c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a4166a65415d528ab3aa935c",
+        "width" : 160
+      } ],
+      "name" : "Annabel",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:4zR2t8bagib4ozydVgb93l"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/40EzXxZKfeMHctd8T22mlh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/40EzXxZKfeMHctd8T22mlh",
+      "id" : "40EzXxZKfeMHctd8T22mlh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737aa1724185e6363c031fa2fc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027aa1724185e6363c031fa2fc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517aa1724185e6363c031fa2fc",
+        "width" : 64
+      } ],
+      "name" : "Anna Nueva",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:40EzXxZKfeMHctd8T22mlh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3431
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3STjhKc10jr3X60mDRpHV4",
+      "id" : "3STjhKc10jr3X60mDRpHV4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5b600bed830739aee821a8ec",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745b600bed830739aee821a8ec",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785b600bed830739aee821a8ec",
+        "width" : 160
+      } ],
+      "name" : "Anna Shoemaker",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:3STjhKc10jr3X60mDRpHV4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QFetakbVZD86mLaPGJy9Z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 966
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0QFetakbVZD86mLaPGJy9Z",
+      "id" : "0QFetakbVZD86mLaPGJy9Z",
+      "images" : [ ],
+      "name" : "Anna Cathcart",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:0QFetakbVZD86mLaPGJy9Z"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=+ANNA&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5146
+  }
+}

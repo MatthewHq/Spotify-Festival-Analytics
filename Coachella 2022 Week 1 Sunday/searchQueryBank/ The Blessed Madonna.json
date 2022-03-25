@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+The+Blessed+Madonna&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22337
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4TvhRzxIL1le2PWCeUqxQw",
+      "id" : "4TvhRzxIL1le2PWCeUqxQw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb68e58d779dc8269bb1596e3f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517468e58d779dc8269bb1596e3f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17868e58d779dc8269bb1596e3f",
+        "width" : 160
+      } ],
+      "name" : "The Blessed Madonna",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:4TvhRzxIL1le2PWCeUqxQw"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

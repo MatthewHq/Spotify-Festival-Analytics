@@ -169,7 +169,7 @@ export async function bulkToPlaylistAdd() {
         for (let i = 0; i < lineByLineToJSON.doubleUriArray.length; i++) {
             try {
                 await addItemsToPlaylist(lineByLineToJSON.doubleUriArray[i].uris, i * 100)
-                await delay(1000) /// waiting 1 second.
+                await new Promise(resolve => setTimeout(resolve, 1000));/// waiting 1 second.
             } catch (err) {
                 reject(err)
             }

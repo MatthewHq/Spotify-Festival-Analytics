@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+The+Martinez+Brothers&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 163265
+      },
+      "genres" : [ "minimal tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb085c718c865b1bb7302ebc3b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174085c718c865b1bb7302ebc3b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178085c718c865b1bb7302ebc3b",
+        "width" : 160
+      } ],
+      "name" : "The Martinez Brothers",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2AlUZ8FuXMoH7QEz1dznUn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2AlUZ8FuXMoH7QEz1dznUn",
+      "id" : "2AlUZ8FuXMoH7QEz1dznUn",
+      "images" : [ ],
+      "name" : "Phil Weeks, The Martinez Brothers",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:2AlUZ8FuXMoH7QEz1dznUn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Pjs4EXI94RMq19kMgB7MR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 64
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Pjs4EXI94RMq19kMgB7MR",
+      "id" : "0Pjs4EXI94RMq19kMgB7MR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b05cc57dfb2f062fbc4d838b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b05cc57dfb2f062fbc4d838b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b05cc57dfb2f062fbc4d838b",
+        "width" : 64
+      } ],
+      "name" : "Argy & The Martinez Brothers",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Pjs4EXI94RMq19kMgB7MR"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

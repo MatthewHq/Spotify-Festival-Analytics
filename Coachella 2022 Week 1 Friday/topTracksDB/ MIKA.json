@@ -1,0 +1,691 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4wKkXYJXQWDa9sndBSx0gI",
+      "id" : "4wKkXYJXQWDa9sndBSx0gI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b9a3105ad4ffb91ad2e2798",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b9a3105ad4ffb91ad2e2798",
+        "width" : 64
+      } ],
+      "name" : "Life in Cartoon Motion",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4wKkXYJXQWDa9sndBSx0gI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 187733,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R0600006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7dzUZec5MnWMyQnk5klnKR",
+    "id" : "7dzUZec5MnWMyQnk5klnKR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Grace Kelly",
+    "popularity" : 65,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7dzUZec5MnWMyQnk5klnKR"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vafSvjk0CxZxzocBWfuml"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vafSvjk0CxZxzocBWfuml",
+      "id" : "6vafSvjk0CxZxzocBWfuml",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a3eb3de3a20ec5b8bb07767b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a3eb3de3a20ec5b8bb07767b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a3eb3de3a20ec5b8bb07767b",
+        "width" : 64
+      } ],
+      "name" : "Bubblegum Pop",
+      "release_date" : "2019-12-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 29,
+      "type" : "album",
+      "uri" : "spotify:album:6vafSvjk0CxZxzocBWfuml"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 270000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R0600114"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4lEirIpFGdZGfy7mMWPuX5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4lEirIpFGdZGfy7mMWPuX5",
+    "id" : "4lEirIpFGdZGfy7mMWPuX5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Relax, Take It Easy",
+    "popularity" : 48,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:4lEirIpFGdZGfy7mMWPuX5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4wKkXYJXQWDa9sndBSx0gI",
+      "id" : "4wKkXYJXQWDa9sndBSx0gI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b9a3105ad4ffb91ad2e2798",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b9a3105ad4ffb91ad2e2798",
+        "width" : 64
+      } ],
+      "name" : "Life in Cartoon Motion",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4wKkXYJXQWDa9sndBSx0gI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 276000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R0600016"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1wl3u4FrzcuBv2LQ97Z6TQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1wl3u4FrzcuBv2LQ97Z6TQ",
+    "id" : "1wl3u4FrzcuBv2LQ97Z6TQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Happy Ending",
+    "popularity" : 50,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1wl3u4FrzcuBv2LQ97Z6TQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4wKkXYJXQWDa9sndBSx0gI",
+      "id" : "4wKkXYJXQWDa9sndBSx0gI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b9a3105ad4ffb91ad2e2798",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b9a3105ad4ffb91ad2e2798",
+        "width" : 64
+      } ],
+      "name" : "Life in Cartoon Motion",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4wKkXYJXQWDa9sndBSx0gI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 183533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R0600045"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1JAnC4VkVIbO7C6Vislnue"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1JAnC4VkVIbO7C6Vislnue",
+    "id" : "1JAnC4VkVIbO7C6Vislnue",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lollipop",
+    "popularity" : 56,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1JAnC4VkVIbO7C6Vislnue"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4wKkXYJXQWDa9sndBSx0gI",
+      "id" : "4wKkXYJXQWDa9sndBSx0gI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b9a3105ad4ffb91ad2e2798",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b9a3105ad4ffb91ad2e2798",
+        "width" : 64
+      } ],
+      "name" : "Life in Cartoon Motion",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4wKkXYJXQWDa9sndBSx0gI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235173,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R0600007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ZBJFWDYJSTQg54eDsqnkJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ZBJFWDYJSTQg54eDsqnkJ",
+    "id" : "6ZBJFWDYJSTQg54eDsqnkJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love Today",
+    "popularity" : 53,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6ZBJFWDYJSTQg54eDsqnkJ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0DuM9D6Kz3YQgyogYRHS39"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0DuM9D6Kz3YQgyogYRHS39",
+      "id" : "0DuM9D6Kz3YQgyogYRHS39",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273feb85b89af573ac623fc3871",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02feb85b89af573ac623fc3871",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851feb85b89af573ac623fc3871",
+        "width" : 64
+      } ],
+      "name" : "Popular Song",
+      "release_date" : "2012-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0DuM9D6Kz3YQgyogYRHS39"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id" : "66CXWjxzNUsdJxJ2JdwvnR",
+      "name" : "Ariana Grande",
+      "type" : "artist",
+      "uri" : "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5w0ka9nPOmEH6CcZrutyP2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5w0ka9nPOmEH6CcZrutyP2",
+      "id" : "5w0ka9nPOmEH6CcZrutyP2",
+      "name" : "Jason Nevins",
+      "type" : "artist",
+      "uri" : "spotify:artist:5w0ka9nPOmEH6CcZrutyP2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200613,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R1200178"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0xFomAiFsu5qCnLM0hu0UR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0xFomAiFsu5qCnLM0hu0UR",
+    "id" : "0xFomAiFsu5qCnLM0hu0UR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Popular Song",
+    "popularity" : 55,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0xFomAiFsu5qCnLM0hu0UR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4wKkXYJXQWDa9sndBSx0gI",
+      "id" : "4wKkXYJXQWDa9sndBSx0gI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b9a3105ad4ffb91ad2e2798",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b9a3105ad4ffb91ad2e2798",
+        "width" : 64
+      } ],
+      "name" : "Life in Cartoon Motion",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4wKkXYJXQWDa9sndBSx0gI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 248000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R0600008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Jh9XDqXe3yvxovXsLYOO2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Jh9XDqXe3yvxovXsLYOO2",
+    "id" : "7Jh9XDqXe3yvxovXsLYOO2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Big Girl (You Are Beautiful)",
+    "popularity" : 54,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7Jh9XDqXe3yvxovXsLYOO2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0zY3JRYHC0rycbFUqGcRpV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0zY3JRYHC0rycbFUqGcRpV",
+      "id" : "0zY3JRYHC0rycbFUqGcRpV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737d6cb24f59d34e96a1118c46",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027d6cb24f59d34e96a1118c46",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517d6cb24f59d34e96a1118c46",
+        "width" : 64
+      } ],
+      "name" : "The Origin Of Love (Deluxe)",
+      "release_date" : "2012-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:0zY3JRYHC0rycbFUqGcRpV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    } ],
+    "disc_number" : 2,
+    "duration_ms" : 216933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R1100001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2CFGQXM3exBO8U9WGve2GY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2CFGQXM3exBO8U9WGve2GY",
+    "id" : "2CFGQXM3exBO8U9WGve2GY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Elle me dit",
+    "popularity" : 57,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2CFGQXM3exBO8U9WGve2GY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4wKkXYJXQWDa9sndBSx0gI",
+      "id" : "4wKkXYJXQWDa9sndBSx0gI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b9a3105ad4ffb91ad2e2798",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b9a3105ad4ffb91ad2e2798",
+        "width" : 64
+      } ],
+      "name" : "Life in Cartoon Motion",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4wKkXYJXQWDa9sndBSx0gI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R0700071"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5msFXipAG1CsK92OakSAbS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5msFXipAG1CsK92OakSAbS",
+    "id" : "5msFXipAG1CsK92OakSAbS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Relax, Take It Easy",
+    "popularity" : 56,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5msFXipAG1CsK92OakSAbS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+        "id" : "5MmVJVhhYKQ86izuGHzJYA",
+        "name" : "MIKA",
+        "type" : "artist",
+        "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0eDOBb4qgJIwRj23L71OxX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0eDOBb4qgJIwRj23L71OxX",
+      "id" : "0eDOBb4qgJIwRj23L71OxX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273227ed56d83812eef0ae8935b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02227ed56d83812eef0ae8935b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851227ed56d83812eef0ae8935b",
+        "width" : 64
+      } ],
+      "name" : "The Boy Who Knew Too Much",
+      "release_date" : "2009-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0eDOBb4qgJIwRj23L71OxX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MmVJVhhYKQ86izuGHzJYA",
+      "id" : "5MmVJVhhYKQ86izuGHzJYA",
+      "name" : "MIKA",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MmVJVhhYKQ86izuGHzJYA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC7R0900125"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4G0oTxAqWyKo59oLjiuIzk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4G0oTxAqWyKo59oLjiuIzk",
+    "id" : "4G0oTxAqWyKo59oLjiuIzk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "We Are Golden",
+    "popularity" : 41,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4G0oTxAqWyKo59oLjiuIzk"
+  } ]
+}

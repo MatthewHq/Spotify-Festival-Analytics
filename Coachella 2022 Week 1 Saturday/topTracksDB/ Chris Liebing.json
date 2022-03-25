@@ -1,0 +1,871 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+        "id" : "21444lX8gpmOX36icLmbFI",
+        "name" : "Chris Liebing",
+        "type" : "artist",
+        "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1lJhME1ZpzsEa5M0wW6Mso",
+        "id" : "1lJhME1ZpzsEa5M0wW6Mso",
+        "name" : "Charlotte de Witte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1lJhME1ZpzsEa5M0wW6Mso"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/496wGRSvPBhF6s3KnTxupv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/496wGRSvPBhF6s3KnTxupv",
+      "id" : "496wGRSvPBhF6s3KnTxupv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fc76db407470952849d59b2c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fc76db407470952849d59b2c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fc76db407470952849d59b2c",
+        "width" : 64
+      } ],
+      "name" : "Liquid Slow EP",
+      "release_date" : "2019-09-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:496wGRSvPBhF6s3KnTxupv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1lJhME1ZpzsEa5M0wW6Mso",
+      "id" : "1lJhME1ZpzsEa5M0wW6Mso",
+      "name" : "Charlotte de Witte",
+      "type" : "artist",
+      "uri" : "spotify:artist:1lJhME1ZpzsEa5M0wW6Mso"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 406344,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BET611900014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Qp2c0odcvUIN640gVyisz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Qp2c0odcvUIN640gVyisz",
+    "id" : "6Qp2c0odcvUIN640gVyisz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Liquid Slow",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8ed9b24845438d5091426414bbc65d55e4efc51e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6Qp2c0odcvUIN640gVyisz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+        "id" : "21444lX8gpmOX36icLmbFI",
+        "name" : "Chris Liebing",
+        "type" : "artist",
+        "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5wMlMjOLeJfS5DfxqGfm83",
+        "id" : "5wMlMjOLeJfS5DfxqGfm83",
+        "name" : "Jan Blomqvist",
+        "type" : "artist",
+        "uri" : "spotify:artist:5wMlMjOLeJfS5DfxqGfm83"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0LNdafyM08p3EUWNAGlB0E"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0LNdafyM08p3EUWNAGlB0E",
+      "id" : "0LNdafyM08p3EUWNAGlB0E",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734099d9d21078f81c6b069bef",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024099d9d21078f81c6b069bef",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514099d9d21078f81c6b069bef",
+        "width" : 64
+      } ],
+      "name" : "Circles (feat. Tom Adams & Ralf Hildenbeutel) [Jan Blomqvist Remix]",
+      "release_date" : "2021-10-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0LNdafyM08p3EUWNAGlB0E"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cpiae3VUqBtLzkOSwycrf",
+      "id" : "1cpiae3VUqBtLzkOSwycrf",
+      "name" : "Ralf Hildenbeutel",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cpiae3VUqBtLzkOSwycrf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16iuZANRzcO9KStBcMkeAC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16iuZANRzcO9KStBcMkeAC",
+      "id" : "16iuZANRzcO9KStBcMkeAC",
+      "name" : "Tom Adams",
+      "type" : "artist",
+      "uri" : "spotify:artist:16iuZANRzcO9KStBcMkeAC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5wMlMjOLeJfS5DfxqGfm83",
+      "id" : "5wMlMjOLeJfS5DfxqGfm83",
+      "name" : "Jan Blomqvist",
+      "type" : "artist",
+      "uri" : "spotify:artist:5wMlMjOLeJfS5DfxqGfm83"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 366586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBR8R2100338"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/71Xg0wlTFkPzn3rNVmEAum"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/71Xg0wlTFkPzn3rNVmEAum",
+    "id" : "71Xg0wlTFkPzn3rNVmEAum",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Circles (feat. Tom Adams & Ralf Hildenbeutel) - Jan Blomqvist Remix",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0135e2fd4c9aeaa27e4434981eb78ca58af4adea?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:71Xg0wlTFkPzn3rNVmEAum"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1lJhME1ZpzsEa5M0wW6Mso",
+        "id" : "1lJhME1ZpzsEa5M0wW6Mso",
+        "name" : "Charlotte de Witte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1lJhME1ZpzsEa5M0wW6Mso"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6idN8ZmlZoc0AYMIEH0vue"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6idN8ZmlZoc0AYMIEH0vue",
+      "id" : "6idN8ZmlZoc0AYMIEH0vue",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e23812c4c24522f8c3d6e693",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e23812c4c24522f8c3d6e693",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e23812c4c24522f8c3d6e693",
+        "width" : 64
+      } ],
+      "name" : "Mixmag Presents Charlotte de Witte (DJ Mix)",
+      "release_date" : "2021-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6idN8ZmlZoc0AYMIEH0vue"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1lJhME1ZpzsEa5M0wW6Mso",
+      "id" : "1lJhME1ZpzsEa5M0wW6Mso",
+      "name" : "Charlotte de Witte",
+      "type" : "artist",
+      "uri" : "spotify:artist:1lJhME1ZpzsEa5M0wW6Mso"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 335062,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMFME2131500"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/71be9NipmFf3zj0qTCXQJf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/71be9NipmFf3zj0qTCXQJf",
+    "id" : "71be9NipmFf3zj0qTCXQJf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Liquid Slow - Mixed",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a6b60f6a2f1b1ba1493e8f6b5f12c411ba124538?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:71be9NipmFf3zj0qTCXQJf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+        "id" : "21444lX8gpmOX36icLmbFI",
+        "name" : "Chris Liebing",
+        "type" : "artist",
+        "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4K816FI8JFlvVARGFRYbBB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4K816FI8JFlvVARGFRYbBB",
+      "id" : "4K816FI8JFlvVARGFRYbBB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e7f0d2e84480288292b122cf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e7f0d2e84480288292b122cf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e7f0d2e84480288292b122cf",
+        "width" : 64
+      } ],
+      "name" : "Burn Slow",
+      "release_date" : "2018-09-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:4K816FI8JFlvVARGFRYbBB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50kGBViPsuTkcjPdu5pval"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50kGBViPsuTkcjPdu5pval",
+      "id" : "50kGBViPsuTkcjPdu5pval",
+      "name" : "Ralf Hildenbeutal",
+      "type" : "artist",
+      "uri" : "spotify:artist:50kGBViPsuTkcjPdu5pval"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 438321,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBR8R1700328"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Jv5gLsh1hrcEzrN0NWw58"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Jv5gLsh1hrcEzrN0NWw58",
+    "id" : "2Jv5gLsh1hrcEzrN0NWw58",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Novembergrey (feat. Ralf Hildenbeutal)",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/79363bb8f2e14d1a1b931bcd55a72fa7f6dd4b04?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2Jv5gLsh1hrcEzrN0NWw58"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7icoOm5fKKPo49jVxoj1Cq",
+        "id" : "7icoOm5fKKPo49jVxoj1Cq",
+        "name" : "Anfisa Letyago",
+        "type" : "artist",
+        "uri" : "spotify:artist:7icoOm5fKKPo49jVxoj1Cq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6gBmUpKvNYtnQTSLK5vwS5",
+        "id" : "6gBmUpKvNYtnQTSLK5vwS5",
+        "name" : "DJ Rush",
+        "type" : "artist",
+        "uri" : "spotify:artist:6gBmUpKvNYtnQTSLK5vwS5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+        "id" : "21444lX8gpmOX36icLmbFI",
+        "name" : "Chris Liebing",
+        "type" : "artist",
+        "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7xnCdS6PmzJXBp670xvSjG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7xnCdS6PmzJXBp670xvSjG",
+      "id" : "7xnCdS6PmzJXBp670xvSjG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ca7d1acc13cad259a013fc0e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ca7d1acc13cad259a013fc0e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ca7d1acc13cad259a013fc0e",
+        "width" : 64
+      } ],
+      "name" : "Listen & Nisida (Remixed) Vol. 1",
+      "release_date" : "2022-01-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:7xnCdS6PmzJXBp670xvSjG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7icoOm5fKKPo49jVxoj1Cq",
+      "id" : "7icoOm5fKKPo49jVxoj1Cq",
+      "name" : "Anfisa Letyago",
+      "type" : "artist",
+      "uri" : "spotify:artist:7icoOm5fKKPo49jVxoj1Cq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 422222,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEN582100912"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7wyG1F5ZuPDTC1OYl4crLj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7wyG1F5ZuPDTC1OYl4crLj",
+    "id" : "7wyG1F5ZuPDTC1OYl4crLj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Not There - Chris Liebing Remix",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7d18896574c0a142c0c56b571588d9814076a5e1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7wyG1F5ZuPDTC1OYl4crLj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+        "id" : "21444lX8gpmOX36icLmbFI",
+        "name" : "Chris Liebing",
+        "type" : "artist",
+        "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1lJhME1ZpzsEa5M0wW6Mso",
+        "id" : "1lJhME1ZpzsEa5M0wW6Mso",
+        "name" : "Charlotte de Witte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1lJhME1ZpzsEa5M0wW6Mso"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/496wGRSvPBhF6s3KnTxupv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/496wGRSvPBhF6s3KnTxupv",
+      "id" : "496wGRSvPBhF6s3KnTxupv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fc76db407470952849d59b2c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fc76db407470952849d59b2c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fc76db407470952849d59b2c",
+        "width" : 64
+      } ],
+      "name" : "Liquid Slow EP",
+      "release_date" : "2019-09-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:496wGRSvPBhF6s3KnTxupv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1lJhME1ZpzsEa5M0wW6Mso",
+      "id" : "1lJhME1ZpzsEa5M0wW6Mso",
+      "name" : "Charlotte de Witte",
+      "type" : "artist",
+      "uri" : "spotify:artist:1lJhME1ZpzsEa5M0wW6Mso"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 462743,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BET611900015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ecMn0qSzw7C5Fug0Ia0eX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ecMn0qSzw7C5Fug0Ia0eX",
+    "id" : "3ecMn0qSzw7C5Fug0Ia0eX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "In Memory",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/aa8e474dfc21f9c054fdb372878e11df256fa800?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3ecMn0qSzw7C5Fug0Ia0eX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+        "id" : "21444lX8gpmOX36icLmbFI",
+        "name" : "Chris Liebing",
+        "type" : "artist",
+        "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7umQgFrDu3yrchEbFfJd60",
+        "id" : "7umQgFrDu3yrchEbFfJd60",
+        "name" : "Planetary Assault Systems",
+        "type" : "artist",
+        "uri" : "spotify:artist:7umQgFrDu3yrchEbFfJd60"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3JzsWTUmgRi5LVtk7tKYOZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3JzsWTUmgRi5LVtk7tKYOZ",
+      "id" : "3JzsWTUmgRi5LVtk7tKYOZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732d5382a50cd0b24c8a8652e3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022d5382a50cd0b24c8a8652e3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512d5382a50cd0b24c8a8652e3",
+        "width" : 64
+      } ],
+      "name" : "Bruson EP Redux",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:3JzsWTUmgRi5LVtk7tKYOZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7umQgFrDu3yrchEbFfJd60",
+      "id" : "7umQgFrDu3yrchEbFfJd60",
+      "name" : "Planetary Assault Systems",
+      "type" : "artist",
+      "uri" : "spotify:artist:7umQgFrDu3yrchEbFfJd60"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 383649,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEBE72100759"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1gPPUXOZDSIXFDjPO3aEhO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1gPPUXOZDSIXFDjPO3aEhO",
+    "id" : "1gPPUXOZDSIXFDjPO3aEhO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mind Bender - Planetary Assault Systems Remix",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6c305194870f53f438b4408084b82bd33aa3169f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1gPPUXOZDSIXFDjPO3aEhO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+        "id" : "21444lX8gpmOX36icLmbFI",
+        "name" : "Chris Liebing",
+        "type" : "artist",
+        "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4JDnEaSRzvXdZrQyLrLhvQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4JDnEaSRzvXdZrQyLrLhvQ",
+      "id" : "4JDnEaSRzvXdZrQyLrLhvQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27342e71535149a00f90e1bfba5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0242e71535149a00f90e1bfba5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485142e71535149a00f90e1bfba5",
+        "width" : 64
+      } ],
+      "name" : "BURN SLOW REMIXES PT. II",
+      "release_date" : "2020-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:4JDnEaSRzvXdZrQyLrLhvQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wkaDi2HJV3eCaBJ4iH6om",
+      "id" : "3wkaDi2HJV3eCaBJ4iH6om",
+      "name" : "ANNA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wkaDi2HJV3eCaBJ4iH6om"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 409460,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBR8R2000029"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1fYag6u9x29PmwGWqQoPS0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1fYag6u9x29PmwGWqQoPS0",
+    "id" : "1fYag6u9x29PmwGWqQoPS0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Trilogy - ANNA Remix",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/877c415d57ba98e325695c97e56a3a8c4556aac1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1fYag6u9x29PmwGWqQoPS0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+        "id" : "21444lX8gpmOX36icLmbFI",
+        "name" : "Chris Liebing",
+        "type" : "artist",
+        "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vrJ2GjVQ9lavv0u74PHJn",
+      "id" : "0vrJ2GjVQ9lavv0u74PHJn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab1d825292d6518c3b1b2149",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab1d825292d6518c3b1b2149",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab1d825292d6518c3b1b2149",
+        "width" : 64
+      } ],
+      "name" : "Another Day",
+      "release_date" : "2021-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:0vrJ2GjVQ9lavv0u74PHJn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cpiae3VUqBtLzkOSwycrf",
+      "id" : "1cpiae3VUqBtLzkOSwycrf",
+      "name" : "Ralf Hildenbeutel",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cpiae3VUqBtLzkOSwycrf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 315297,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBR8R2100011"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4SKkLIyC381iLFbjt0dIWM",
+    "id" : "4SKkLIyC381iLFbjt0dIWM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Something Half Way (feat. Ralf Hildenbeutel)",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1cf07810b1002dd107467666669aa1f95583acfb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4SKkLIyC381iLFbjt0dIWM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+        "id" : "21444lX8gpmOX36icLmbFI",
+        "name" : "Chris Liebing",
+        "type" : "artist",
+        "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5BKsn7SCN2XmbF7apdCpRS",
+        "id" : "5BKsn7SCN2XmbF7apdCpRS",
+        "name" : "Goldfrapp",
+        "type" : "artist",
+        "uri" : "spotify:artist:5BKsn7SCN2XmbF7apdCpRS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1cpiae3VUqBtLzkOSwycrf",
+        "id" : "1cpiae3VUqBtLzkOSwycrf",
+        "name" : "Ralf Hildenbeutel",
+        "type" : "artist",
+        "uri" : "spotify:artist:1cpiae3VUqBtLzkOSwycrf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3KUt0bL9WBMdwn36o4UtnW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3KUt0bL9WBMdwn36o4UtnW",
+      "id" : "3KUt0bL9WBMdwn36o4UtnW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bc9e06951f9c927b1a365353",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bc9e06951f9c927b1a365353",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bc9e06951f9c927b1a365353",
+        "width" : 64
+      } ],
+      "name" : "And All Went Dark (feat. Polly Scattergood) [Goldfrapp & Ralf Hildenbeutel Remix]",
+      "release_date" : "2018-11-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3KUt0bL9WBMdwn36o4UtnW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "name" : "Chris Liebing",
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YR01kdOztg2p9nvD6MRg7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YR01kdOztg2p9nvD6MRg7",
+      "id" : "3YR01kdOztg2p9nvD6MRg7",
+      "name" : "Polly Scattergood",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YR01kdOztg2p9nvD6MRg7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BKsn7SCN2XmbF7apdCpRS",
+      "id" : "5BKsn7SCN2XmbF7apdCpRS",
+      "name" : "Goldfrapp",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BKsn7SCN2XmbF7apdCpRS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cpiae3VUqBtLzkOSwycrf",
+      "id" : "1cpiae3VUqBtLzkOSwycrf",
+      "name" : "Ralf Hildenbeutel",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cpiae3VUqBtLzkOSwycrf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 302602,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBR8R1800703"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ve7lwoXCsrrWYAKmgppC9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ve7lwoXCsrrWYAKmgppC9",
+    "id" : "1ve7lwoXCsrrWYAKmgppC9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "And All Went Dark (feat. Polly Scattergood) - Goldfrapp & Ralf Hildenbeutel Remix",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4fecbdb152d1587e2be1092b8b9a479ad11791b4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1ve7lwoXCsrrWYAKmgppC9"
+  } ]
+}

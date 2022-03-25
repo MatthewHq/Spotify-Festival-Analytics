@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+The+Avalanches&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 438425
+      },
+      "genres" : [ "alternative dance", "australian alternative rock", "australian dance", "collage pop", "electronica", "indie rock", "indietronica", "new rave", "psychedelic hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/3C8RpaI3Go0yFF9whvKoED",
+      "id" : "3C8RpaI3Go0yFF9whvKoED",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb348fb7d638c8f86c675122e2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174348fb7d638c8f86c675122e2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178348fb7d638c8f86c675122e2",
+        "width" : 160
+      } ],
+      "name" : "The Avalanches",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:3C8RpaI3Go0yFF9whvKoED"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NLSNMqeiBFf5ERuty4UOk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0NLSNMqeiBFf5ERuty4UOk",
+      "id" : "0NLSNMqeiBFf5ERuty4UOk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355295c2963dc0520b9383996",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255295c2963dc0520b9383996",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155295c2963dc0520b9383996",
+        "width" : 64
+      } ],
+      "name" : "The Avalanches",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:0NLSNMqeiBFf5ERuty4UOk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0y2AdnjkZU3Cw5fCqAE5uV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 953
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0y2AdnjkZU3Cw5fCqAE5uV",
+      "id" : "0y2AdnjkZU3Cw5fCqAE5uV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ef22344fcebe9b919a22f725",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ef22344fcebe9b919a22f725",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ef22344fcebe9b919a22f725",
+        "width" : 64
+      } ],
+      "name" : "The Avalanches",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:0y2AdnjkZU3Cw5fCqAE5uV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7c0E2XSVKeTC6DTvx7rWYI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7c0E2XSVKeTC6DTvx7rWYI",
+      "id" : "7c0E2XSVKeTC6DTvx7rWYI",
+      "images" : [ ],
+      "name" : "Ava & The Avalanches",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7c0E2XSVKeTC6DTvx7rWYI"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

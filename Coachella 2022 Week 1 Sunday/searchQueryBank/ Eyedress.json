@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Eyedress&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 662939
+      },
+      "genres" : [ "noise pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3XxNRirzbjfLdDli06zMaB",
+      "id" : "3XxNRirzbjfLdDli06zMaB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbf89aa2e3329ccb517a36f77",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bf89aa2e3329ccb517a36f77",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bf89aa2e3329ccb517a36f77",
+        "width" : 160
+      } ],
+      "name" : "Eyedress",
+      "popularity" : 77,
+      "type" : "artist",
+      "uri" : "spotify:artist:3XxNRirzbjfLdDli06zMaB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1252YQB89G6AODtbh1IxNL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1252YQB89G6AODtbh1IxNL",
+      "id" : "1252YQB89G6AODtbh1IxNL",
+      "images" : [ ],
+      "name" : "Eyedress and Ankhten Brown",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1252YQB89G6AODtbh1IxNL"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

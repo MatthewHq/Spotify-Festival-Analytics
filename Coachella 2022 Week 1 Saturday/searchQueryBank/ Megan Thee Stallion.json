@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Megan+Thee+Stallion&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6230966
+      },
+      "genres" : [ "dance pop", "houston rap", "pop", "trap queen" ],
+      "href" : "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+      "id" : "181bsRPaVXVlUKXrxwZfHK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfb87d5f73ea5b7faa3cd9694",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fb87d5f73ea5b7faa3cd9694",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fb87d5f73ea5b7faa3cd9694",
+        "width" : 160
+      } ],
+      "name" : "Megan Thee Stallion",
+      "popularity" : 86,
+      "type" : "artist",
+      "uri" : "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

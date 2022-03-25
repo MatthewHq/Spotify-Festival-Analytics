@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Kyary+Pamyu+Pamyu&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 401469
+      },
+      "genres" : [ "j-idol", "japanese electropop" ],
+      "href" : "https://api.spotify.com/v1/artists/7Gh6fW49xfXLP8DTWaLVJP",
+      "id" : "7Gh6fW49xfXLP8DTWaLVJP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8ac39c2edf24cdf59630b239",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748ac39c2edf24cdf59630b239",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788ac39c2edf24cdf59630b239",
+        "width" : 160
+      } ],
+      "name" : "Kyary Pamyu Pamyu",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:7Gh6fW49xfXLP8DTWaLVJP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3yF1bLQku1XkIRFyoPB8BS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3yF1bLQku1XkIRFyoPB8BS",
+      "id" : "3yF1bLQku1XkIRFyoPB8BS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ec7468238100be790f55baee",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ec7468238100be790f55baee",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ec7468238100be790f55baee",
+        "width" : 64
+      } ],
+      "name" : "Kyary Pamyu Pamyu",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3yF1bLQku1XkIRFyoPB8BS"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

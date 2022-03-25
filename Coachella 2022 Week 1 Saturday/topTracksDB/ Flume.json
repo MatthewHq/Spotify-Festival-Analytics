@@ -1,0 +1,826 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+        "id" : "6nxWCVXbOlEVRexSbLsTer",
+        "name" : "Flume",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp",
+        "id" : "6O4EGCCb6DoIiR6B1QCQgp",
+        "name" : "Toro y Moi",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3QgFzksD4J43TnGIJOOrRV",
+      "id" : "3QgFzksD4J43TnGIJOOrRV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a8d74e789b99484e0e169001",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a8d74e789b99484e0e169001",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a8d74e789b99484e0e169001",
+        "width" : 64
+      } ],
+      "name" : "The Difference",
+      "release_date" : "2020-03-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3QgFzksD4J43TnGIJOOrRV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp",
+      "id" : "6O4EGCCb6DoIiR6B1QCQgp",
+      "name" : "Toro y Moi",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 139662,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF02000008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4nlvKIIetOWGIMyhjQXgOZ",
+    "id" : "4nlvKIIetOWGIMyhjQXgOZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Difference",
+    "popularity" : 78,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7c66c1c81961e6f889865462dd16ed6ab40309aa?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4nlvKIIetOWGIMyhjQXgOZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+        "id" : "6nS5roXSAGhTGr34W6n7Et",
+        "name" : "Disclosure",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0QFMqnSP2kBMTrbfNkj3SB",
+      "id" : "0QFMqnSP2kBMTrbfNkj3SB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737cc97670c72e565337cfb3e0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027cc97670c72e565337cfb3e0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517cc97670c72e565337cfb3e0",
+        "width" : 64
+      } ],
+      "name" : "Settle (The Remixes)",
+      "release_date" : "2013-06-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0QFMqnSP2kBMTrbfNkj3SB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+      "id" : "6nS5roXSAGhTGr34W6n7Et",
+      "name" : "Disclosure",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/14L5rpGTLVUz1pD8fUeJB1",
+      "id" : "14L5rpGTLVUz1pD8fUeJB1",
+      "name" : "Eliza Doolittle",
+      "type" : "artist",
+      "uri" : "spotify:artist:14L5rpGTLVUz1pD8fUeJB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 282812,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71303827"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1snNAXmmPXCn0dkF9DaPWw",
+    "id" : "1snNAXmmPXCn0dkF9DaPWw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "You & Me - Flume Remix",
+    "popularity" : 71,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:1snNAXmmPXCn0dkF9DaPWw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+        "id" : "6nxWCVXbOlEVRexSbLsTer",
+        "name" : "Flume",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5J8UACGRZtDb4WdOzo9YJN",
+        "id" : "5J8UACGRZtDb4WdOzo9YJN",
+        "name" : "MAY-A",
+        "type" : "artist",
+        "uri" : "spotify:artist:5J8UACGRZtDb4WdOzo9YJN"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3QMl37rC1ye7PKRFH7Bgz9",
+      "id" : "3QMl37rC1ye7PKRFH7Bgz9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ed1bbd0cdd419a5c8f742ff9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ed1bbd0cdd419a5c8f742ff9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ed1bbd0cdd419a5c8f742ff9",
+        "width" : 64
+      } ],
+      "name" : "Say Nothing (feat. MAY-A)",
+      "release_date" : "2022-02-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3QMl37rC1ye7PKRFH7Bgz9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5J8UACGRZtDb4WdOzo9YJN",
+      "id" : "5J8UACGRZtDb4WdOzo9YJN",
+      "name" : "MAY-A",
+      "type" : "artist",
+      "uri" : "spotify:artist:5J8UACGRZtDb4WdOzo9YJN"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 232959,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF02200002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/424Uwmm1kNW07Ty1nOhSpl",
+    "id" : "424Uwmm1kNW07Ty1nOhSpl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Say Nothing (feat. MAY-A)",
+    "popularity" : 76,
+    "preview_url" : "https://p.scdn.co/mp3-preview/def566403f7a2caa8f03355257c4d521cb421aa4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:424Uwmm1kNW07Ty1nOhSpl"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+        "id" : "6nxWCVXbOlEVRexSbLsTer",
+        "name" : "Flume",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6UcJxoeHWWWyT5HZP064om",
+        "id" : "6UcJxoeHWWWyT5HZP064om",
+        "name" : "Chet Faker",
+        "type" : "artist",
+        "uri" : "spotify:artist:6UcJxoeHWWWyT5HZP064om"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4wngUMjPQwiOngxqKPuh5p",
+      "id" : "4wngUMjPQwiOngxqKPuh5p",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e22ce077d8cb2d990aced237",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e22ce077d8cb2d990aced237",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e22ce077d8cb2d990aced237",
+        "width" : 64
+      } ],
+      "name" : "Lockjaw",
+      "release_date" : "2013-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:4wngUMjPQwiOngxqKPuh5p"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UcJxoeHWWWyT5HZP064om",
+      "id" : "6UcJxoeHWWWyT5HZP064om",
+      "name" : "Chet Faker",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UcJxoeHWWWyT5HZP064om"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 221894,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF01300488"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/06WnUZymWyJamDivTWqJZA",
+    "id" : "06WnUZymWyJamDivTWqJZA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Drop The Game",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/876671bc398ec0229269804634618e3419760929?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:06WnUZymWyJamDivTWqJZA"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+        "id" : "6nxWCVXbOlEVRexSbLsTer",
+        "name" : "Flume",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ujrA1eZLDHR7yQ6FZa2qA",
+        "id" : "5ujrA1eZLDHR7yQ6FZa2qA",
+        "name" : "Vera Blue",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ujrA1eZLDHR7yQ6FZa2qA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4d2YOjyPDopVhOkksaALJj",
+      "id" : "4d2YOjyPDopVhOkksaALJj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273683d659e308221da35d3c0ca",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02683d659e308221da35d3c0ca",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851683d659e308221da35d3c0ca",
+        "width" : 64
+      } ],
+      "name" : "Rushing Back",
+      "release_date" : "2019-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4d2YOjyPDopVhOkksaALJj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ujrA1eZLDHR7yQ6FZa2qA",
+      "id" : "5ujrA1eZLDHR7yQ6FZa2qA",
+      "name" : "Vera Blue",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ujrA1eZLDHR7yQ6FZa2qA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231663,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF01900128"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2zoNNEAyPK2OGDfajardlY",
+    "id" : "2zoNNEAyPK2OGDfajardlY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rushing Back",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1a7c7e0dd21d68eab5378dfd61696da4b3f3eef5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2zoNNEAyPK2OGDfajardlY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+        "id" : "6nxWCVXbOlEVRexSbLsTer",
+        "name" : "Flume",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4NZWRpoMuXaHU7csTjWdB5",
+      "id" : "4NZWRpoMuXaHU7csTjWdB5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02750d4a1b362296d1b815a223",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851750d4a1b362296d1b815a223",
+        "width" : 64
+      } ],
+      "name" : "Skin",
+      "release_date" : "2016-05-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:4NZWRpoMuXaHU7csTjWdB5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xHUXzrfhFgnIv86EBR3Ml",
+      "id" : "6xHUXzrfhFgnIv86EBR3Ml",
+      "name" : "kai",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xHUXzrfhFgnIv86EBR3Ml"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 234909,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "AUFF01500784"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5WI2ltQIdwgzf1SNE76JyR",
+    "id" : "5WI2ltQIdwgzf1SNE76JyR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Never Be Like You (feat. Kai)",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/458557f006530cbc7cd0877191438d18b4d05414?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5WI2ltQIdwgzf1SNE76JyR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4lCsf6uYTVnWSKm99eKkdY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4lCsf6uYTVnWSKm99eKkdY",
+        "id" : "4lCsf6uYTVnWSKm99eKkdY",
+        "name" : "Seekae",
+        "type" : "artist",
+        "uri" : "spotify:artist:4lCsf6uYTVnWSKm99eKkdY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ViDQATM3uoaXqjBS2h7pO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ViDQATM3uoaXqjBS2h7pO",
+      "id" : "6ViDQATM3uoaXqjBS2h7pO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a0084d69f43f8dc944e930b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a0084d69f43f8dc944e930b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a0084d69f43f8dc944e930b7",
+        "width" : 64
+      } ],
+      "name" : "Test & Recognise (Remixes)",
+      "release_date" : "2014-08-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:6ViDQATM3uoaXqjBS2h7pO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4lCsf6uYTVnWSKm99eKkdY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4lCsf6uYTVnWSKm99eKkdY",
+      "id" : "4lCsf6uYTVnWSKm99eKkdY",
+      "name" : "Seekae",
+      "type" : "artist",
+      "uri" : "spotify:artist:4lCsf6uYTVnWSKm99eKkdY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 303660,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF01400535"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/24BYTj1tb5ovZcnIbtdTYD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/24BYTj1tb5ovZcnIbtdTYD",
+    "id" : "24BYTj1tb5ovZcnIbtdTYD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Test & Recognise - Flume Re-work",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d1c2c20b39cd8f9c37d277ae7c97b3989b718603?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:24BYTj1tb5ovZcnIbtdTYD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+        "id" : "6nxWCVXbOlEVRexSbLsTer",
+        "name" : "Flume",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4NZWRpoMuXaHU7csTjWdB5",
+      "id" : "4NZWRpoMuXaHU7csTjWdB5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02750d4a1b362296d1b815a223",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851750d4a1b362296d1b815a223",
+        "width" : 64
+      } ],
+      "name" : "Skin",
+      "release_date" : "2016-05-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:4NZWRpoMuXaHU7csTjWdB5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+      "id" : "4NHQUGzhtTLFvgF5SZesLK",
+      "name" : "Tove Lo",
+      "type" : "artist",
+      "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 262521,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "AUFF01600799"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5aOpzm8W8zysk4asB9hxJw",
+    "id" : "5aOpzm8W8zysk4asB9hxJw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Say It (feat. Tove Lo)",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/985a3b94a4441486e17ff267b65095cec9f470d8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5aOpzm8W8zysk4asB9hxJw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+        "id" : "6nxWCVXbOlEVRexSbLsTer",
+        "name" : "Flume",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Bd1cgCjtCI32PYvDC3ynO",
+        "id" : "3Bd1cgCjtCI32PYvDC3ynO",
+        "name" : "London Grammar",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Bd1cgCjtCI32PYvDC3ynO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JWZvxiJLvRQwqKL2IhcD0",
+      "id" : "0JWZvxiJLvRQwqKL2IhcD0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d298a421a7ec605a7982921f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d298a421a7ec605a7982921f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d298a421a7ec605a7982921f",
+        "width" : 64
+      } ],
+      "name" : "Let You Know",
+      "release_date" : "2019-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0JWZvxiJLvRQwqKL2IhcD0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Bd1cgCjtCI32PYvDC3ynO",
+      "id" : "3Bd1cgCjtCI32PYvDC3ynO",
+      "name" : "London Grammar",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Bd1cgCjtCI32PYvDC3ynO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 199579,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF01900094"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7p0tz5SeCrSxTLSvwR8W3D",
+    "id" : "7p0tz5SeCrSxTLSvwR8W3D",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let You Know",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bc9ff9da2cffc22480f08295ae0f8047ae33ed80?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7p0tz5SeCrSxTLSvwR8W3D"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+        "id" : "6nxWCVXbOlEVRexSbLsTer",
+        "name" : "Flume",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/08v1r0jqDyvSo2LtSqHxcy",
+        "id" : "08v1r0jqDyvSo2LtSqHxcy",
+        "name" : "Reo Cragun",
+        "type" : "artist",
+        "uri" : "spotify:artist:08v1r0jqDyvSo2LtSqHxcy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WfM4Cm6YmThxnPQOjMsIz",
+      "id" : "5WfM4Cm6YmThxnPQOjMsIz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731d7dc9072977fd651a68cee7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021d7dc9072977fd651a68cee7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511d7dc9072977fd651a68cee7",
+        "width" : 64
+      } ],
+      "name" : "Friends",
+      "release_date" : "2019-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5WfM4Cm6YmThxnPQOjMsIz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/08v1r0jqDyvSo2LtSqHxcy",
+      "id" : "08v1r0jqDyvSo2LtSqHxcy",
+      "name" : "Reo Cragun",
+      "type" : "artist",
+      "uri" : "spotify:artist:08v1r0jqDyvSo2LtSqHxcy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 223909,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "AUFF01900052"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Y8JSCYjFznthCYb5HZ8lW",
+    "id" : "3Y8JSCYjFznthCYb5HZ8lW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Friends",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5f99563f2ab1209112e6a988801ef58d84adb8a4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3Y8JSCYjFznthCYb5HZ8lW"
+  } ]
+}

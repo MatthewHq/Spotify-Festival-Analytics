@@ -1,0 +1,727 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+        "id" : "1uNFoZAHBGtllmzznpCI3s",
+        "name" : "Justin Bieber",
+        "type" : "artist",
+        "uri" : "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5dGWwsZ9iB2Xc3UKR0gif2",
+      "id" : "5dGWwsZ9iB2Xc3UKR0gif2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
+        "width" : 64
+      } ],
+      "name" : "Justice",
+      "release_date" : "2021-03-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+      "id" : "1uNFoZAHBGtllmzznpCI3s",
+      "name" : "Justin Bieber",
+      "type" : "artist",
+      "uri" : "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+      "id" : "4fxd5Ee7UefO4CUXgwJ7IP",
+      "name" : "Giveon",
+      "type" : "artist",
+      "uri" : "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 198081,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72102636"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4iJyoBOLtHqaGxP12qzhQI",
+    "id" : "4iJyoBOLtHqaGxP12qzhQI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Peaches (feat. Daniel Caesar & Giveon)",
+    "popularity" : 91,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:4iJyoBOLtHqaGxP12qzhQI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3xybjP7r2VsWzwvDQipdM0",
+      "id" : "3xybjP7r2VsWzwvDQipdM0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023138f891f3075c9c5d944037",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513138f891f3075c9c5d944037",
+        "width" : 64
+      } ],
+      "name" : "Freudian",
+      "release_date" : "2017-08-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:3xybjP7r2VsWzwvDQipdM0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+      "id" : "1U1el3k54VvEUzo3ybLPlM",
+      "name" : "Kali Uchis",
+      "type" : "artist",
+      "uri" : "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 278179,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCACR1690004"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7zFXmv6vqI4qOt4yGf3jYZ",
+    "id" : "7zFXmv6vqI4qOt4yGf3jYZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Get You (feat. Kali Uchis)",
+    "popularity" : 84,
+    "preview_url" : "https://p.scdn.co/mp3-preview/62b2aa0e19847cddad6858632c2262f6edf3adf3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7zFXmv6vqI4qOt4yGf3jYZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3xybjP7r2VsWzwvDQipdM0",
+      "id" : "3xybjP7r2VsWzwvDQipdM0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023138f891f3075c9c5d944037",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513138f891f3075c9c5d944037",
+        "width" : 64
+      } ],
+      "name" : "Freudian",
+      "release_date" : "2017-08-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:3xybjP7r2VsWzwvDQipdM0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Y7RZ31TRPVadSFVy1o8os",
+      "id" : "3Y7RZ31TRPVadSFVy1o8os",
+      "name" : "H.E.R.",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Y7RZ31TRPVadSFVy1o8os"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209831,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CADDS1700022"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1RMJOxR6GRPsBHL8qeC2ux",
+    "id" : "1RMJOxR6GRPsBHL8qeC2ux",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Best Part (feat. H.E.R.)",
+    "popularity" : 81,
+    "preview_url" : "https://p.scdn.co/mp3-preview/72679c2768e4c988205288bea81b0c5f67beeab1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1RMJOxR6GRPsBHL8qeC2ux"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5qfhZ5YkZ4LhEUbYgjrWt6",
+      "id" : "5qfhZ5YkZ4LhEUbYgjrWt6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273617c314e94693fad9a26f798",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02617c314e94693fad9a26f798",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851617c314e94693fad9a26f798",
+        "width" : 64
+      } ],
+      "name" : "Get You - Single",
+      "release_date" : "2016-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:5qfhZ5YkZ4LhEUbYgjrWt6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 270846,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "TCACR1690007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1boXOL0ua7N2iCOUVI1p9F",
+    "id" : "1boXOL0ua7N2iCOUVI1p9F",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Japanese Denim",
+    "popularity" : 80,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9c1bff3a9666bcf9a9f829a1ee4ca06be6496fa6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1boXOL0ua7N2iCOUVI1p9F"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4mvxoogQn8p84Wz17zTHnJ",
+      "id" : "4mvxoogQn8p84Wz17zTHnJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737607aa9ae7904e1b12907c93",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027607aa9ae7904e1b12907c93",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517607aa9ae7904e1b12907c93",
+        "width" : 64
+      } ],
+      "name" : "CASE STUDY 01",
+      "release_date" : "2019-06-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:4mvxoogQn8p84Wz17zTHnJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 194959,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6N21983282"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3uouaAVXpQR3X8RYkJyitQ",
+    "id" : "3uouaAVXpQR3X8RYkJyitQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "CYANIDE",
+    "popularity" : 75,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1b21b6eef21a0c2fbe3b1f4c1ddc8bc90305a6d7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3uouaAVXpQR3X8RYkJyitQ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039"
+      },
+      "href" : "https://api.spotify.com/v1/albums/15M9pZ8gsdoN67yLjyQ039",
+      "id" : "15M9pZ8gsdoN67yLjyQ039",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c70176fa51326491ecc5f79e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c70176fa51326491ecc5f79e",
+        "width" : 64
+      } ],
+      "name" : "Who Hurt You?",
+      "release_date" : "2018-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:15M9pZ8gsdoN67yLjyQ039"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231964,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "TCADX1816901"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/23c9gmiiv7RCu7twft0Mym",
+    "id" : "23c9gmiiv7RCu7twft0Mym",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Who Hurt You?",
+    "popularity" : 74,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8ff18679447d8847f0d1309e31098b01f6d81722?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:23c9gmiiv7RCu7twft0Mym"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/31BVN37zvcirLlth8tlKHh",
+      "id" : "31BVN37zvcirLlth8tlKHh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab8ead9beb7253d1485c850d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab8ead9beb7253d1485c850d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab8ead9beb7253d1485c850d",
+        "width" : 64
+      } ],
+      "name" : "Invincible (feat. Daniel Caesar)",
+      "release_date" : "2022-02-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:31BVN37zvcirLlth8tlKHh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB12200029"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Qy41cZBMKnm8OIAeTQRBH",
+    "id" : "4Qy41cZBMKnm8OIAeTQRBH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Invincible (feat. Daniel Caesar)",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/49a89c89317a8b070526ff9ef08a5971f11e25ac?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Qy41cZBMKnm8OIAeTQRBH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4uP43hIpmEEDuW7aOfiU2C"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4uP43hIpmEEDuW7aOfiU2C",
+      "id" : "4uP43hIpmEEDuW7aOfiU2C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a117ac19ee51aebdf05fe88c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a117ac19ee51aebdf05fe88c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a117ac19ee51aebdf05fe88c",
+        "width" : 64
+      } ],
+      "name" : "Pilgrim's Paradise",
+      "release_date" : "2015-11-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:4uP43hIpmEEDuW7aOfiU2C"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 246972,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCACJ1532157"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Cu2COdH93MnuireuKNiS3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Cu2COdH93MnuireuKNiS3",
+    "id" : "7Cu2COdH93MnuireuKNiS3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Streetcar",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0cd20ad3bf00486b35fa015b813ffc0372dca2b9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7Cu2COdH93MnuireuKNiS3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3xybjP7r2VsWzwvDQipdM0",
+      "id" : "3xybjP7r2VsWzwvDQipdM0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023138f891f3075c9c5d944037",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513138f891f3075c9c5d944037",
+        "width" : 64
+      } ],
+      "name" : "Freudian",
+      "release_date" : "2017-08-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:3xybjP7r2VsWzwvDQipdM0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 254919,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CADDS1700020"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1TPLsNVlofwX1txcE9gZZF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1TPLsNVlofwX1txcE9gZZF",
+    "id" : "1TPLsNVlofwX1txcE9gZZF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "We Find Love",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/23f0510be701384e2d5e1d0724d1736772b3d798?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1TPLsNVlofwX1txcE9gZZF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3xybjP7r2VsWzwvDQipdM0",
+      "id" : "3xybjP7r2VsWzwvDQipdM0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023138f891f3075c9c5d944037",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513138f891f3075c9c5d944037",
+        "width" : 64
+      } ],
+      "name" : "Freudian",
+      "release_date" : "2017-08-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:3xybjP7r2VsWzwvDQipdM0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 241370,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CADDS1700021"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0KyzXQhY2yzcb1FYCHkZc2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0KyzXQhY2yzcb1FYCHkZc2",
+    "id" : "0KyzXQhY2yzcb1FYCHkZc2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Blessed",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dc1281eb264567fef25946da98b699f39ce14be0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0KyzXQhY2yzcb1FYCHkZc2"
+  } ]
+}

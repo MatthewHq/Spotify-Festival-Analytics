@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Swedish+House+Mafia&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3506214
+      },
+      "genres" : [ "dance pop", "edm", "electro house", "pop", "pop dance", "progressive electro house" ],
+      "href" : "https://api.spotify.com/v1/artists/1h6Cn3P4NGzXbaXidqURXs",
+      "id" : "1h6Cn3P4NGzXbaXidqURXs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0c05adcae61ac479afe35c8e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740c05adcae61ac479afe35c8e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780c05adcae61ac479afe35c8e",
+        "width" : 160
+      } ],
+      "name" : "Swedish House Mafia",
+      "popularity" : 79,
+      "type" : "artist",
+      "uri" : "spotify:artist:1h6Cn3P4NGzXbaXidqURXs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4oEnPo3WGgvL5hHgD0LNZX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 213
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4oEnPo3WGgvL5hHgD0LNZX",
+      "id" : "4oEnPo3WGgvL5hHgD0LNZX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27391da9f73fcd894c97ce3eead",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0291da9f73fcd894c97ce3eead",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485191da9f73fcd894c97ce3eead",
+        "width" : 64
+      } ],
+      "name" : "Swedish House Mafia Tribute Team",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4oEnPo3WGgvL5hHgD0LNZX"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

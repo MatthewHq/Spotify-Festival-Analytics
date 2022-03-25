@@ -1,0 +1,763 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+        "id" : "20wkVLutqVOYrc0kxFs7rA",
+        "name" : "Daniel Caesar",
+        "type" : "artist",
+        "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/31BVN37zvcirLlth8tlKHh",
+      "id" : "31BVN37zvcirLlth8tlKHh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab8ead9beb7253d1485c850d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab8ead9beb7253d1485c850d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab8ead9beb7253d1485c850d",
+        "width" : 64
+      } ],
+      "name" : "Invincible (feat. Daniel Caesar)",
+      "release_date" : "2022-02-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:31BVN37zvcirLlth8tlKHh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id" : "20wkVLutqVOYrc0kxFs7rA",
+      "name" : "Daniel Caesar",
+      "type" : "artist",
+      "uri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB12200029"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Qy41cZBMKnm8OIAeTQRBH",
+    "id" : "4Qy41cZBMKnm8OIAeTQRBH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Invincible (feat. Daniel Caesar)",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/49a89c89317a8b070526ff9ef08a5971f11e25ac?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Qy41cZBMKnm8OIAeTQRBH"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4HsgZMW1HHEQX6xyX0MrQm",
+      "id" : "4HsgZMW1HHEQX6xyX0MrQm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730c459a21874491366b18807e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020c459a21874491366b18807e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510c459a21874491366b18807e",
+        "width" : 64
+      } ],
+      "name" : "Killing Me",
+      "release_date" : "2022-03-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4HsgZMW1HHEQX6xyX0MrQm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 165320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USWB12200271"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1vghSeMBb7AIMT3JaMrlHO",
+    "id" : "1vghSeMBb7AIMT3JaMrlHO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Killing Me",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ed315e38f6a438fd78558848ee3713642b1beb3f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1vghSeMBb7AIMT3JaMrlHO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+        "id" : "6USv9qhCn6zfxlBQIYJ9qs",
+        "name" : "Dominic Fike",
+        "type" : "artist",
+        "uri" : "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1rHOtdmGNr5vcYNw5v7QGC",
+        "id" : "1rHOtdmGNr5vcYNw5v7QGC",
+        "name" : "Kenny Beats",
+        "type" : "artist",
+        "uri" : "spotify:artist:1rHOtdmGNr5vcYNw5v7QGC"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0sWQFBl9e6A9tL4CqFT9X8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0sWQFBl9e6A9tL4CqFT9X8",
+      "id" : "0sWQFBl9e6A9tL4CqFT9X8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27330ead8f7d556f54dc3bac63d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0230ead8f7d556f54dc3bac63d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485130ead8f7d556f54dc3bac63d",
+        "width" : 64
+      } ],
+      "name" : "Hit Me Up",
+      "release_date" : "2019-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0sWQFBl9e6A9tL4CqFT9X8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6USv9qhCn6zfxlBQIYJ9qs",
+      "id" : "6USv9qhCn6zfxlBQIYJ9qs",
+      "name" : "Dominic Fike",
+      "type" : "artist",
+      "uri" : "spotify:artist:6USv9qhCn6zfxlBQIYJ9qs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1rHOtdmGNr5vcYNw5v7QGC",
+      "id" : "1rHOtdmGNr5vcYNw5v7QGC",
+      "name" : "Kenny Beats",
+      "type" : "artist",
+      "uri" : "spotify:artist:1rHOtdmGNr5vcYNw5v7QGC"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 160000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBKPL1974006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Lhy1sDDdtUFY2pyq2ZVi9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Lhy1sDDdtUFY2pyq2ZVi9",
+    "id" : "0Lhy1sDDdtUFY2pyq2ZVi9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hit Me Up",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/15d72ace55096b869b9a0e4f7d147c14c481552c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0Lhy1sDDdtUFY2pyq2ZVi9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1nETLIyhtk8GjuqyfOt1G7",
+      "id" : "1nETLIyhtk8GjuqyfOt1G7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ccb5d619d0b196357c4608f3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ccb5d619d0b196357c4608f3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ccb5d619d0b196357c4608f3",
+        "width" : 64
+      } ],
+      "name" : "Go Away",
+      "release_date" : "2021-07-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1nETLIyhtk8GjuqyfOt1G7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 207346,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB12101228"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6BXHCHzw706smnLQdCIDUy",
+    "id" : "6BXHCHzw706smnLQdCIDUy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Go Away",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3f5b6d5a51a7ff0afc17ca2b2d69ad971c116858?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6BXHCHzw706smnLQdCIDUy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
+        "id" : "5TYxZTjIPqKM8K8NuP9woO",
+        "name" : "C. Tangana",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TYxZTjIPqKM8K8NuP9woO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/52QyC9nSbgtHFXyQRHsXJ9",
+      "id" : "52QyC9nSbgtHFXyQRHsXJ9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a408c78e231f716383a58eb3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a408c78e231f716383a58eb3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a408c78e231f716383a58eb3",
+        "width" : 64
+      } ],
+      "name" : "El Madrileño",
+      "release_date" : "2021-02-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:52QyC9nSbgtHFXyQRHsXJ9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
+      "id" : "5TYxZTjIPqKM8K8NuP9woO",
+      "name" : "C. Tangana",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TYxZTjIPqKM8K8NuP9woO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 187520,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "ES5022100006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Nr40AS5eNsfFjpMrisCY3",
+    "id" : "6Nr40AS5eNsfFjpMrisCY3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Te Olvidaste",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ad917faeb2e4c58da979cb05eacbf30a9bed738c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6Nr40AS5eNsfFjpMrisCY3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7HlxxaJOHK0ArY4Ae4Qfc7",
+      "id" : "7HlxxaJOHK0ArY4Ae4Qfc7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27373f6df727a4167d26d7b7f45",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0273f6df727a4167d26d7b7f45",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485173f6df727a4167d26d7b7f45",
+        "width" : 64
+      } ],
+      "name" : "Apolonio",
+      "release_date" : "2020-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:7HlxxaJOHK0ArY4Ae4Qfc7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xkAtLTf309LAGZTbvULBn",
+      "id" : "5xkAtLTf309LAGZTbvULBn",
+      "name" : "Ruel",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xkAtLTf309LAGZTbvULBn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 247720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB12003930"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Qu24vc8msUVLcMZWa4k1x",
+    "id" : "1Qu24vc8msUVLcMZWa4k1x",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Want U Around (feat. Ruel)",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f66495bff796094f407083fc6849ad1130a27a54?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1Qu24vc8msUVLcMZWa4k1x"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7HlxxaJOHK0ArY4Ae4Qfc7",
+      "id" : "7HlxxaJOHK0ArY4Ae4Qfc7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27373f6df727a4167d26d7b7f45",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0273f6df727a4167d26d7b7f45",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485173f6df727a4167d26d7b7f45",
+        "width" : 64
+      } ],
+      "name" : "Apolonio",
+      "release_date" : "2020-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:7HlxxaJOHK0ArY4Ae4Qfc7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 183693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB12003932"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7dJN4NWQuqCjWwIT3UwOps"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7dJN4NWQuqCjWwIT3UwOps",
+    "id" : "7dJN4NWQuqCjWwIT3UwOps",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Useless",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/94e1be303389be9eba36048d5dc3123d44f6fda2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7dJN4NWQuqCjWwIT3UwOps"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0sSIXkYfRqXomRPrK4wYYe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0sSIXkYfRqXomRPrK4wYYe",
+      "id" : "0sSIXkYfRqXomRPrK4wYYe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273819ce0908822c84b678555f4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02819ce0908822c84b678555f4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851819ce0908822c84b678555f4",
+        "width" : 64
+      } ],
+      "name" : "Stereo",
+      "release_date" : "2018-05-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:0sSIXkYfRqXomRPrK4wYYe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 127272,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UST8K1751655"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2NCBjlH7FHEG7hXcnvUaWA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2NCBjlH7FHEG7hXcnvUaWA",
+    "id" : "2NCBjlH7FHEG7hXcnvUaWA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ugotme",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f7224273dccb17571e3a17a7153e5e3e1059c983?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2NCBjlH7FHEG7hXcnvUaWA"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+        "id" : "1U1el3k54VvEUzo3ybLPlM",
+        "name" : "Kali Uchis",
+        "type" : "artist",
+        "uri" : "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5MBSSSfF904m3GaUapgRIs",
+      "id" : "5MBSSSfF904m3GaUapgRIs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c209ae0357bfe7e2d20aacc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c209ae0357bfe7e2d20aacc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c209ae0357bfe7e2d20aacc",
+        "width" : 64
+      } ],
+      "name" : "Bad Life (feat. Kali Uchis)",
+      "release_date" : "2021-11-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5MBSSSfF904m3GaUapgRIs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+      "id" : "1U1el3k54VvEUzo3ybLPlM",
+      "name" : "Kali Uchis",
+      "type" : "artist",
+      "uri" : "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 197746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB12103661"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6RT5ir7all6RgZEAupLNlO",
+    "id" : "6RT5ir7all6RgZEAupLNlO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bad Life (feat. Kali Uchis)",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d6fb05c8a5e16dc5936c4f205dfbed84191252a6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6RT5ir7all6RgZEAupLNlO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+        "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+        "name" : "Omar Apollo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7HlxxaJOHK0ArY4Ae4Qfc7",
+      "id" : "7HlxxaJOHK0ArY4Ae4Qfc7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27373f6df727a4167d26d7b7f45",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0273f6df727a4167d26d7b7f45",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485173f6df727a4167d26d7b7f45",
+        "width" : 64
+      } ],
+      "name" : "Apolonio",
+      "release_date" : "2020-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:7HlxxaJOHK0ArY4Ae4Qfc7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id" : "5FxD8fkQZ6KcsSYupDVoSO",
+      "name" : "Omar Apollo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210914,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USWB12003221"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5uUjYnzcjEgiIFWR0av19g"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5uUjYnzcjEgiIFWR0av19g",
+    "id" : "5uUjYnzcjEgiIFWR0av19g",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kamikaze",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7b93d26ab5213970277328924158475abf039238?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5uUjYnzcjEgiIFWR0av19g"
+  } ]
+}

@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Pabllo+Vittar&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3658402
+      },
+      "genres" : [ "dance pop", "funk carioca", "funk pop", "pop", "pop lgbtq+ brasileira", "pop nacional" ],
+      "href" : "https://api.spotify.com/v1/artists/6tzRZ39aZlNqlUzQlkuhDV",
+      "id" : "6tzRZ39aZlNqlUzQlkuhDV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6fd1ef5ab2ed8974dd751922",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746fd1ef5ab2ed8974dd751922",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786fd1ef5ab2ed8974dd751922",
+        "width" : 160
+      } ],
+      "name" : "Pabllo Vittar",
+      "popularity" : 71,
+      "type" : "artist",
+      "uri" : "spotify:artist:6tzRZ39aZlNqlUzQlkuhDV"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

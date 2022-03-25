@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Billie+Eilish&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59270820
+      },
+      "genres" : [ "art pop", "electropop", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id" : "6qqNVTkY8uBg9cP3Jd7DAH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
+        "width" : 160
+      } ],
+      "name" : "Billie Eilish",
+      "popularity" : 92,
+      "type" : "artist",
+      "uri" : "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59jPhW2wDr8cRGuZs6BItr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 711
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/59jPhW2wDr8cRGuZs6BItr",
+      "id" : "59jPhW2wDr8cRGuZs6BItr",
+      "images" : [ ],
+      "name" : "Billie Eilish O'Connell",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:59jPhW2wDr8cRGuZs6BItr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0UIQNwCkrMcYwLSmOirKHh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 72
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0UIQNwCkrMcYwLSmOirKHh",
+      "id" : "0UIQNwCkrMcYwLSmOirKHh",
+      "images" : [ ],
+      "name" : "Billie Eilish O'Connell and Finneas Baird O'Connell",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:0UIQNwCkrMcYwLSmOirKHh"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

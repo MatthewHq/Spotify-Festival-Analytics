@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Run+The+Jewels&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 963194
+      },
+      "genres" : [ "alternative hip hop", "escape room", "hip hop", "political hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+      "id" : "4RnBFZRiMLRyZy0AzzTg2C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebea5eda58996c7f08d423d522",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ea5eda58996c7f08d423d522",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ea5eda58996c7f08d423d522",
+        "width" : 160
+      } ],
+      "name" : "Run The Jewels",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

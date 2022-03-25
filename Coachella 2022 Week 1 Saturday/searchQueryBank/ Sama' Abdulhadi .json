@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Sama%27+Abdulhadi+&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16983
+      },
+      "genres" : [ "arab electronic", "palestinian alternative" ],
+      "href" : "https://api.spotify.com/v1/artists/52qyXsgOeHZZxHRRxyO8xm",
+      "id" : "52qyXsgOeHZZxHRRxyO8xm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb20b25ec308747c2948af3fc2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517420b25ec308747c2948af3fc2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17820b25ec308747c2948af3fc2",
+        "width" : 160
+      } ],
+      "name" : "Sama’ Abdulhadi",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:52qyXsgOeHZZxHRRxyO8xm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6aDuXoEw6Kn8QIjFZafAmm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6aDuXoEw6Kn8QIjFZafAmm",
+      "id" : "6aDuXoEw6Kn8QIjFZafAmm",
+      "images" : [ ],
+      "name" : "Sama' Abdulhadi",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6aDuXoEw6Kn8QIjFZafAmm"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

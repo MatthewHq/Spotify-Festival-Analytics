@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Carly+Rae+Jepsen&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4947676
+      },
+      "genres" : [ "canadian pop", "dance pop", "electropop", "pop", "post-teen pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id" : "6sFIWsNpZYqfjUpaCgueju",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb71fed7c1f401da1662f209cb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517471fed7c1f401da1662f209cb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17871fed7c1f401da1662f209cb",
+        "width" : 160
+      } ],
+      "name" : "Carly Rae Jepsen",
+      "popularity" : 75,
+      "type" : "artist",
+      "uri" : "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13vU2OxoFWEMjkzldLu2eH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 127
+      },
+      "genres" : [ "fake" ],
+      "href" : "https://api.spotify.com/v1/artists/13vU2OxoFWEMjkzldLu2eH",
+      "id" : "13vU2OxoFWEMjkzldLu2eH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733c440a6de4326e711faac81d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023c440a6de4326e711faac81d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513c440a6de4326e711faac81d",
+        "width" : 64
+      } ],
+      "name" : "Carly Rae Jepsen Tribute Team",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:13vU2OxoFWEMjkzldLu2eH"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

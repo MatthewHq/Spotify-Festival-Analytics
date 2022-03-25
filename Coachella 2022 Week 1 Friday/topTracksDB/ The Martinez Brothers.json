@@ -1,0 +1,961 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dncbrnveDMX9DgxcedeUg",
+        "id" : "5dncbrnveDMX9DgxcedeUg",
+        "name" : "Louie Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+        "id" : "7B1LLuCQk13H4Mb6CFBftU",
+        "name" : "The Martinez Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/00FT5Wcufsly3rKqLWMIUn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/00FT5Wcufsly3rKqLWMIUn",
+      "id" : "00FT5Wcufsly3rKqLWMIUn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377be31cfdb5a1ed5fea2eb42",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277be31cfdb5a1ed5fea2eb42",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177be31cfdb5a1ed5fea2eb42",
+        "width" : 64
+      } ],
+      "name" : "Let It Go (with Marc E. Bassy) [Vintage Culture Remix]",
+      "release_date" : "2021-01-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:00FT5Wcufsly3rKqLWMIUn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dncbrnveDMX9DgxcedeUg",
+      "id" : "5dncbrnveDMX9DgxcedeUg",
+      "name" : "Louie Vega",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tQx1LPXbsYjE9VwN1Peaa",
+      "id" : "3tQx1LPXbsYjE9VwN1Peaa",
+      "name" : "Marc E. Bassy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tQx1LPXbsYjE9VwN1Peaa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 204198,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2019139"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Rzr9nzXM1yX3NB8CwHWQg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Rzr9nzXM1yX3NB8CwHWQg",
+    "id" : "2Rzr9nzXM1yX3NB8CwHWQg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let It Go (with Marc E. Bassy) - Vintage Culture Remix",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cbd4830b560f8aa83d3fc6644e2380b390598483?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2Rzr9nzXM1yX3NB8CwHWQg"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+        "id" : "7B1LLuCQk13H4Mb6CFBftU",
+        "name" : "The Martinez Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+        "id" : "7wU2WGCJ8HxkekHHE2QLul",
+        "name" : "Fuego",
+        "type" : "artist",
+        "uri" : "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/57hEnKIuvKtgQHrGid8ubd",
+      "id" : "57hEnKIuvKtgQHrGid8ubd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27318f3f19fb3da760abc76f739",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0218f3f19fb3da760abc76f739",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485118f3f19fb3da760abc76f739",
+        "width" : 64
+      } ],
+      "name" : "PAP (Pendiente Al Paso)",
+      "release_date" : "2021-08-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:57hEnKIuvKtgQHrGid8ubd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7wU2WGCJ8HxkekHHE2QLul",
+      "id" : "7wU2WGCJ8HxkekHHE2QLul",
+      "name" : "Fuego",
+      "type" : "artist",
+      "uri" : "spotify:artist:7wU2WGCJ8HxkekHHE2QLul"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 164242,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUYG1379533"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7HqtpURyE5eUVY2mMImqTX",
+    "id" : "7HqtpURyE5eUVY2mMImqTX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "PAP (Pendiente Al Paso)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bbed2891ab981da90f46b521308ae0e69bbbf5ed?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7HqtpURyE5eUVY2mMImqTX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dncbrnveDMX9DgxcedeUg",
+        "id" : "5dncbrnveDMX9DgxcedeUg",
+        "name" : "Louie Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+        "id" : "7B1LLuCQk13H4Mb6CFBftU",
+        "name" : "The Martinez Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3yAuFFA0zd9J0sJi3JGpvt",
+      "id" : "3yAuFFA0zd9J0sJi3JGpvt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273888445c795ee9f674b7bcc07",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02888445c795ee9f674b7bcc07",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851888445c795ee9f674b7bcc07",
+        "width" : 64
+      } ],
+      "name" : "Let It Go (with Marc E. Bassy)",
+      "release_date" : "2020-07-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:3yAuFFA0zd9J0sJi3JGpvt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dncbrnveDMX9DgxcedeUg",
+      "id" : "5dncbrnveDMX9DgxcedeUg",
+      "name" : "Louie Vega",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tQx1LPXbsYjE9VwN1Peaa",
+      "id" : "3tQx1LPXbsYjE9VwN1Peaa",
+      "name" : "Marc E. Bassy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tQx1LPXbsYjE9VwN1Peaa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 204226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMZQ41626002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3TvNcBtucVO8flCgst1ESc",
+    "id" : "3TvNcBtucVO8flCgst1ESc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let It Go (with Marc E. Bassy)",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/609dfd919b701f4a4f97b82688cc1e9a91db25ee?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3TvNcBtucVO8flCgst1ESc"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+        "id" : "6icQOAFXDZKsumw3YXyusw",
+        "name" : "Lil Yachty",
+        "type" : "artist",
+        "uri" : "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Y1rf5tcgOjEOz8pRpK2uf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Y1rf5tcgOjEOz8pRpK2uf",
+      "id" : "4Y1rf5tcgOjEOz8pRpK2uf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325c48141c775f867c044ed74",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225c48141c775f867c044ed74",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125c48141c775f867c044ed74",
+        "width" : 64
+      } ],
+      "name" : "SaintLaurentYSL (The Martinez Brothers Re-Edit)",
+      "release_date" : "2019-04-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4Y1rf5tcgOjEOz8pRpK2uf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6icQOAFXDZKsumw3YXyusw",
+      "id" : "6icQOAFXDZKsumw3YXyusw",
+      "name" : "Lil Yachty",
+      "type" : "artist",
+      "uri" : "spotify:artist:6icQOAFXDZKsumw3YXyusw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+      "id" : "5f7VJjfbwm532GiveGC0ZK",
+      "name" : "Lil Baby",
+      "type" : "artist",
+      "uri" : "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 363636,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG12000080"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Yhq45AkxUJzKPucSfGN9Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Yhq45AkxUJzKPucSfGN9Y",
+    "id" : "4Yhq45AkxUJzKPucSfGN9Y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "SaintLaurentYSL - The Martinez Brothers Re-Edit",
+    "popularity" : 54,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Yhq45AkxUJzKPucSfGN9Y"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4admDxmnri5Zco0xYrJ0ji",
+        "id" : "4admDxmnri5Zco0xYrJ0ji",
+        "name" : "Jamie Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:4admDxmnri5Zco0xYrJ0ji"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+        "id" : "7B1LLuCQk13H4Mb6CFBftU",
+        "name" : "The Martinez Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6mMFUeW7ng8r7R9cYYxCRS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6mMFUeW7ng8r7R9cYYxCRS",
+      "id" : "6mMFUeW7ng8r7R9cYYxCRS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ddade39ffb2d8cae5ac3e1f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ddade39ffb2d8cae5ac3e1f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ddade39ffb2d8cae5ac3e1f",
+        "width" : 64
+      } ],
+      "name" : "Bappi",
+      "release_date" : "2019-10-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:6mMFUeW7ng8r7R9cYYxCRS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4admDxmnri5Zco0xYrJ0ji",
+      "id" : "4admDxmnri5Zco0xYrJ0ji",
+      "name" : "Jamie Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:4admDxmnri5Zco0xYrJ0ji"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 354378,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y1914001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4jHiBP6xFggG8uUuc7u0WE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4jHiBP6xFggG8uUuc7u0WE",
+    "id" : "4jHiBP6xFggG8uUuc7u0WE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bappi",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/062ebdcd7b955e0bf2bc8d5e78220cafaa114e5f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4jHiBP6xFggG8uUuc7u0WE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/38epWdyauFwdRkldqUMfWE",
+        "id" : "38epWdyauFwdRkldqUMfWE",
+        "name" : "Chucky73",
+        "type" : "artist",
+        "uri" : "spotify:artist:38epWdyauFwdRkldqUMfWE"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+        "id" : "7B1LLuCQk13H4Mb6CFBftU",
+        "name" : "The Martinez Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1rhVQSyhxNOMN6RHi2sB44",
+        "id" : "1rhVQSyhxNOMN6RHi2sB44",
+        "name" : "Florentino",
+        "type" : "artist",
+        "uri" : "spotify:artist:1rhVQSyhxNOMN6RHi2sB44"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5zruzxbUxzzf2mjJpuUqAX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5zruzxbUxzzf2mjJpuUqAX",
+      "id" : "5zruzxbUxzzf2mjJpuUqAX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e091d384031c6abca95e71f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e091d384031c6abca95e71f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e091d384031c6abca95e71f",
+        "width" : 64
+      } ],
+      "name" : "Dominicana (The Martinez Brothers + Florentino Remix)",
+      "release_date" : "2021-05-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5zruzxbUxzzf2mjJpuUqAX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/38epWdyauFwdRkldqUMfWE",
+      "id" : "38epWdyauFwdRkldqUMfWE",
+      "name" : "Chucky73",
+      "type" : "artist",
+      "uri" : "spotify:artist:38epWdyauFwdRkldqUMfWE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1rhVQSyhxNOMN6RHi2sB44",
+      "id" : "1rhVQSyhxNOMN6RHi2sB44",
+      "name" : "Florentino",
+      "type" : "artist",
+      "uri" : "spotify:artist:1rhVQSyhxNOMN6RHi2sB44"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 245624,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZKQ82000211"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7GtkJSvO9djv0GkoCoPbyH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7GtkJSvO9djv0GkoCoPbyH",
+    "id" : "7GtkJSvO9djv0GkoCoPbyH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dominicana - The Martinez Brothers + Florentino Remix",
+    "popularity" : 48,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7GtkJSvO9djv0GkoCoPbyH"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dncbrnveDMX9DgxcedeUg",
+        "id" : "5dncbrnveDMX9DgxcedeUg",
+        "name" : "Louie Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+        "id" : "7B1LLuCQk13H4Mb6CFBftU",
+        "name" : "The Martinez Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1dNdUSIBedHHqM5i8jKPmB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1dNdUSIBedHHqM5i8jKPmB",
+      "id" : "1dNdUSIBedHHqM5i8jKPmB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27345d8d07947c4326a3c24ffc3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0245d8d07947c4326a3c24ffc3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485145d8d07947c4326a3c24ffc3",
+        "width" : 64
+      } ],
+      "name" : "Let It Go (with Marc E. Bassy) [Dom Dolla Remix]",
+      "release_date" : "2020-10-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:1dNdUSIBedHHqM5i8jKPmB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dncbrnveDMX9DgxcedeUg",
+      "id" : "5dncbrnveDMX9DgxcedeUg",
+      "name" : "Louie Vega",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tQx1LPXbsYjE9VwN1Peaa",
+      "id" : "3tQx1LPXbsYjE9VwN1Peaa",
+      "name" : "Marc E. Bassy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tQx1LPXbsYjE9VwN1Peaa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/205i7E8fNVfojowcQSfK9m",
+      "id" : "205i7E8fNVfojowcQSfK9m",
+      "name" : "Dom Dolla",
+      "type" : "artist",
+      "uri" : "spotify:artist:205i7E8fNVfojowcQSfK9m"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 279948,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2018569"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4V3oJg19fIQCbwhGrBES6Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4V3oJg19fIQCbwhGrBES6Y",
+    "id" : "4V3oJg19fIQCbwhGrBES6Y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let It Go (with Marc E. Bassy) - Dom Dolla Remix",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b5d7e7e56e313678590e042184888025e6ad7770?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4V3oJg19fIQCbwhGrBES6Y"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dncbrnveDMX9DgxcedeUg",
+        "id" : "5dncbrnveDMX9DgxcedeUg",
+        "name" : "Louie Vega",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+        "id" : "7B1LLuCQk13H4Mb6CFBftU",
+        "name" : "The Martinez Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3yAuFFA0zd9J0sJi3JGpvt",
+      "id" : "3yAuFFA0zd9J0sJi3JGpvt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273888445c795ee9f674b7bcc07",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02888445c795ee9f674b7bcc07",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851888445c795ee9f674b7bcc07",
+        "width" : 64
+      } ],
+      "name" : "Let It Go (with Marc E. Bassy)",
+      "release_date" : "2020-07-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:3yAuFFA0zd9J0sJi3JGpvt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dncbrnveDMX9DgxcedeUg",
+      "id" : "5dncbrnveDMX9DgxcedeUg",
+      "name" : "Louie Vega",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tQx1LPXbsYjE9VwN1Peaa",
+      "id" : "3tQx1LPXbsYjE9VwN1Peaa",
+      "name" : "Marc E. Bassy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tQx1LPXbsYjE9VwN1Peaa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 458866,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMZQ41626001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4QMUXDddGlxJNQREVHOv5m"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4QMUXDddGlxJNQREVHOv5m",
+    "id" : "4QMUXDddGlxJNQREVHOv5m",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let It Go (with Marc E. Bassy) - Extended Mix",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ef6e79902258ffcab6180ac7bdd9cbf49086be64?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4QMUXDddGlxJNQREVHOv5m"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CCjtD0hCK005Bvg2WG1a7",
+        "id" : "7CCjtD0hCK005Bvg2WG1a7",
+        "name" : "Carnage",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CCjtD0hCK005Bvg2WG1a7"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+        "id" : "7B1LLuCQk13H4Mb6CFBftU",
+        "name" : "The Martinez Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2vf4pRsEY6LpL5tKmqWb64",
+        "id" : "2vf4pRsEY6LpL5tKmqWb64",
+        "name" : "Elderbrook",
+        "type" : "artist",
+        "uri" : "spotify:artist:2vf4pRsEY6LpL5tKmqWb64"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Mbsze5zhAxj7H884FDckq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Mbsze5zhAxj7H884FDckq",
+      "id" : "2Mbsze5zhAxj7H884FDckq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273caa08cd67ce54b619390c93d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02caa08cd67ce54b619390c93d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851caa08cd67ce54b619390c93d",
+        "width" : 64
+      } ],
+      "name" : "Together (feat. Elderbrook & MIKE DEAN)",
+      "release_date" : "2020-08-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2Mbsze5zhAxj7H884FDckq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CCjtD0hCK005Bvg2WG1a7",
+      "id" : "7CCjtD0hCK005Bvg2WG1a7",
+      "name" : "Carnage",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CCjtD0hCK005Bvg2WG1a7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2vf4pRsEY6LpL5tKmqWb64",
+      "id" : "2vf4pRsEY6LpL5tKmqWb64",
+      "name" : "Elderbrook",
+      "type" : "artist",
+      "uri" : "spotify:artist:2vf4pRsEY6LpL5tKmqWb64"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TAipisjquAkq2o7lzMJyc",
+      "id" : "5TAipisjquAkq2o7lzMJyc",
+      "name" : "MIKE DEAN",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TAipisjquAkq2o7lzMJyc"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 345599,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS12000437"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5991u5bqBb19XqhjoAraZz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5991u5bqBb19XqhjoAraZz",
+    "id" : "5991u5bqBb19XqhjoAraZz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Together (feat. Elderbrook & MIKE DEAN)",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7326f876d27b73e2d232c2faf60a0f3bc25d22b6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5991u5bqBb19XqhjoAraZz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4admDxmnri5Zco0xYrJ0ji",
+        "id" : "4admDxmnri5Zco0xYrJ0ji",
+        "name" : "Jamie Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:4admDxmnri5Zco0xYrJ0ji"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+        "id" : "7B1LLuCQk13H4Mb6CFBftU",
+        "name" : "The Martinez Brothers",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/45qi6kZ0LB5kqE8tbmjCy9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/45qi6kZ0LB5kqE8tbmjCy9",
+      "id" : "45qi6kZ0LB5kqE8tbmjCy9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27394b0943c23494627820111c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0294b0943c23494627820111c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485194b0943c23494627820111c4",
+        "width" : 64
+      } ],
+      "name" : "Bappi",
+      "release_date" : "2019-09-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:45qi6kZ0LB5kqE8tbmjCy9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4admDxmnri5Zco0xYrJ0ji",
+      "id" : "4admDxmnri5Zco0xYrJ0ji",
+      "name" : "Jamie Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:4admDxmnri5Zco0xYrJ0ji"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B1LLuCQk13H4Mb6CFBftU",
+      "id" : "7B1LLuCQk13H4Mb6CFBftU",
+      "name" : "The Martinez Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1LLuCQk13H4Mb6CFBftU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 204374,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y1914003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3oQmoqWlT0HUl0w48CN2Mo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3oQmoqWlT0HUl0w48CN2Mo",
+    "id" : "3oQmoqWlT0HUl0w48CN2Mo",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bappi - Edit",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1ac7af8b87e610a32b8dec8c8ba78f60ef3b3175?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3oQmoqWlT0HUl0w48CN2Mo"
+  } ]
+}

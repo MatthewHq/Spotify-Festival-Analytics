@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Still+Woozy&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 793719
+      },
+      "genres" : [ "bedroom pop", "modern rock", "oakland indie" ],
+      "href" : "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
+      "id" : "4iMO20EPodreIaEl8qW66y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
+        "width" : 160
+      } ],
+      "name" : "Still Woozy",
+      "popularity" : 74,
+      "type" : "artist",
+      "uri" : "spotify:artist:4iMO20EPodreIaEl8qW66y"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

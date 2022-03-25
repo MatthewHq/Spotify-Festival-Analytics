@@ -1,0 +1,151 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Whipped+Cream&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 51632
+      },
+      "genres" : [ "canadian electronic", "dark clubbing", "electra", "electro house", "electronic trap", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/5CMaNobmJYgXcfiT0zYOwi",
+      "id" : "5CMaNobmJYgXcfiT0zYOwi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe81e4976d9141f62df410a5d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e81e4976d9141f62df410a5d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e81e4976d9141f62df410a5d",
+        "width" : 160
+      } ],
+      "name" : "WHIPPED CREAM",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:5CMaNobmJYgXcfiT0zYOwi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qDLtCjxWSMsf79pO8vHRu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 157
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2qDLtCjxWSMsf79pO8vHRu",
+      "id" : "2qDLtCjxWSMsf79pO8vHRu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb73571a495f26939077070afb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517473571a495f26939077070afb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17873571a495f26939077070afb",
+        "width" : 160
+      } ],
+      "name" : "Heavy Whipped Cream",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2qDLtCjxWSMsf79pO8vHRu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qf4H96dChgWOHqmTaE8rE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6qf4H96dChgWOHqmTaE8rE",
+      "id" : "6qf4H96dChgWOHqmTaE8rE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a909b8f8fa6be1d4c02257f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a909b8f8fa6be1d4c02257f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a909b8f8fa6be1d4c02257f",
+        "width" : 64
+      } ],
+      "name" : "Whipped Cream Explosion",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6qf4H96dChgWOHqmTaE8rE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZQJQeP1TXp2xKmv0yltSu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3ZQJQeP1TXp2xKmv0yltSu",
+      "id" : "3ZQJQeP1TXp2xKmv0yltSu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d3006b0c28a4a2b2e8f7ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d3006b0c28a4a2b2e8f7ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d3006b0c28a4a2b2e8f7ace",
+        "width" : 64
+      } ],
+      "name" : "Topping of Whipped Cream",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZQJQeP1TXp2xKmv0yltSu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3LJtaoEfsPLym7GxrnAkyj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 357
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3LJtaoEfsPLym7GxrnAkyj",
+      "id" : "3LJtaoEfsPLym7GxrnAkyj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377beefe20ffe486f9e1c417d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277beefe20ffe486f9e1c417d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177beefe20ffe486f9e1c417d",
+        "width" : 64
+      } ],
+      "name" : "The Whipped Cream Brass Band",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:3LJtaoEfsPLym7GxrnAkyj"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5
+  }
+}

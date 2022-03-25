@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Chris+Liebing&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 93944
+      },
+      "genres" : [ "frankfurt electronic", "german techno", "minimal techno", "schranz", "tech house", "techno" ],
+      "href" : "https://api.spotify.com/v1/artists/21444lX8gpmOX36icLmbFI",
+      "id" : "21444lX8gpmOX36icLmbFI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd816d9ab0c669a7977d820ac",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d816d9ab0c669a7977d820ac",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d816d9ab0c669a7977d820ac",
+        "width" : 160
+      } ],
+      "name" : "Chris Liebing",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:21444lX8gpmOX36icLmbFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3znCSdtbMbK0CTeCBkvjNi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 343
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3znCSdtbMbK0CTeCBkvjNi",
+      "id" : "3znCSdtbMbK0CTeCBkvjNi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27354cce6f4dd9a5036ba047fdd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0254cce6f4dd9a5036ba047fdd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485154cce6f4dd9a5036ba047fdd",
+        "width" : 64
+      } ],
+      "name" : "Chris Liebing vs. Green Velvet",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3znCSdtbMbK0CTeCBkvjNi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09jHT943S9PYmIUEuDbdkh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 196
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/09jHT943S9PYmIUEuDbdkh",
+      "id" : "09jHT943S9PYmIUEuDbdkh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b337b8301e598e26f6a06c48",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b337b8301e598e26f6a06c48",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b337b8301e598e26f6a06c48",
+        "width" : 64
+      } ],
+      "name" : "Chris Liebing & Ben Sims",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:09jHT943S9PYmIUEuDbdkh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2mQmleXQajKHNnf8CvrmYp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 52
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2mQmleXQajKHNnf8CvrmYp",
+      "id" : "2mQmleXQajKHNnf8CvrmYp",
+      "images" : [ ],
+      "name" : "Andrew Wooden & Chris Liebing",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2mQmleXQajKHNnf8CvrmYp"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

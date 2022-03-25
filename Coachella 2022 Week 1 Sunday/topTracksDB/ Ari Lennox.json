@@ -1,0 +1,763 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+        "id" : "6LuN9FCkKOj5PcnpouEgny",
+        "name" : "Khalid",
+        "type" : "artist",
+        "uri" : "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5HBwLKK7l3N8fovxDlTBpE",
+      "id" : "5HBwLKK7l3N8fovxDlTBpE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b6866de8f1c7a1a1559ef5a8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b6866de8f1c7a1a1559ef5a8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b6866de8f1c7a1a1559ef5a8",
+        "width" : 64
+      } ],
+      "name" : "Scenic Drive (The Tape)",
+      "release_date" : "2021-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:5HBwLKK7l3N8fovxDlTBpE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+      "id" : "6LuN9FCkKOj5PcnpouEgny",
+      "name" : "Khalid",
+      "type" : "artist",
+      "uri" : "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ybINI1qPiFbwDXamRtwxD",
+      "id" : "1ybINI1qPiFbwDXamRtwxD",
+      "name" : "Smino",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ybINI1qPiFbwDXamRtwxD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 249773,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC12103080"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6zIen2DYr2t19vbwqgORY2",
+    "id" : "6zIen2DYr2t19vbwqgORY2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Scenic Drive (feat. Ari Lennox & Smino)",
+    "popularity" : 75,
+    "preview_url" : "https://p.scdn.co/mp3-preview/82deeceed8ae854073b914b48b36bdfc215b85d6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6zIen2DYr2t19vbwqgORY2"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+        "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+        "name" : "Ari Lennox",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5lpInBYJiEtNyOXLIa3c9B",
+      "id" : "5lpInBYJiEtNyOXLIa3c9B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c46c77bbb72676a4b7756188",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c46c77bbb72676a4b7756188",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c46c77bbb72676a4b7756188",
+        "width" : 64
+      } ],
+      "name" : "Pressure",
+      "release_date" : "2021-09-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5lpInBYJiEtNyOXLIa3c9B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193279,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72115142"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ElfCM1XppU0YWkkFYh4s2",
+    "id" : "6ElfCM1XppU0YWkkFYh4s2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pressure",
+    "popularity" : 73,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6ElfCM1XppU0YWkkFYh4s2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/57LYzLEk2LcFghVwuWbcuS",
+        "id" : "57LYzLEk2LcFghVwuWbcuS",
+        "name" : "Summer Walker",
+        "type" : "artist",
+        "uri" : "spotify:artist:57LYzLEk2LcFghVwuWbcuS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4lPqFAvgmG97pxyxQsyCQx",
+      "id" : "4lPqFAvgmG97pxyxQsyCQx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cd4fbef085542cb698fd598c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cd4fbef085542cb698fd598c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cd4fbef085542cb698fd598c",
+        "width" : 64
+      } ],
+      "name" : "Still Over It",
+      "release_date" : "2021-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4lPqFAvgmG97pxyxQsyCQx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57LYzLEk2LcFghVwuWbcuS",
+      "id" : "57LYzLEk2LcFghVwuWbcuS",
+      "name" : "Summer Walker",
+      "type" : "artist",
+      "uri" : "spotify:artist:57LYzLEk2LcFghVwuWbcuS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 207294,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72118252"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/081Shn2hU3YxvQmGaCPegr",
+    "id" : "081Shn2hU3YxvQmGaCPegr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Unloyal (with Ari Lennox)",
+    "popularity" : 70,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:081Shn2hU3YxvQmGaCPegr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+        "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+        "name" : "Ari Lennox",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hejjJbFsinMBc1KBqF71w",
+      "id" : "3hejjJbFsinMBc1KBqF71w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f1a1bdd330659e602cb927ec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f1a1bdd330659e602cb927ec",
+        "width" : 64
+      } ],
+      "name" : "Shea Butter Baby",
+      "release_date" : "2019-05-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3hejjJbFsinMBc1KBqF71w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+      "id" : "6l3HvQ5sa6mXTsMTB19rO5",
+      "name" : "J. Cole",
+      "type" : "artist",
+      "uri" : "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211610,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71820049"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5BOBHIBuzvQuIYL1E1nDzl",
+    "id" : "5BOBHIBuzvQuIYL1E1nDzl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Shea Butter Baby (with J. Cole)",
+    "popularity" : 68,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5BOBHIBuzvQuIYL1E1nDzl"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gSjFKpVmDgC2MMsnN8CYq",
+        "id" : "7gSjFKpVmDgC2MMsnN8CYq",
+        "name" : "Jazmine Sullivan",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gSjFKpVmDgC2MMsnN8CYq"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5g9YhHW8tE7Tcslgxsk5u9",
+      "id" : "5g9YhHW8tE7Tcslgxsk5u9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737955a7d9d5998317da3fbb04",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027955a7d9d5998317da3fbb04",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517955a7d9d5998317da3fbb04",
+        "width" : 64
+      } ],
+      "name" : "Heaux Tales",
+      "release_date" : "2021-01-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:5g9YhHW8tE7Tcslgxsk5u9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gSjFKpVmDgC2MMsnN8CYq",
+      "id" : "7gSjFKpVmDgC2MMsnN8CYq",
+      "name" : "Jazmine Sullivan",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gSjFKpVmDgC2MMsnN8CYq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC12004167"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Xr6BbSSu5HhImp8vfxMbg",
+    "id" : "4Xr6BbSSu5HhImp8vfxMbg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "On It",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5fc42f6db847e596e69c77a38ad02756337cb99c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4Xr6BbSSu5HhImp8vfxMbg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+        "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+        "name" : "Ari Lennox",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hejjJbFsinMBc1KBqF71w",
+      "id" : "3hejjJbFsinMBc1KBqF71w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f1a1bdd330659e602cb927ec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f1a1bdd330659e602cb927ec",
+        "width" : 64
+      } ],
+      "name" : "Shea Butter Baby",
+      "release_date" : "2019-05-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3hejjJbFsinMBc1KBqF71w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 146914,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71907532"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Ffgp7DIow5wECYQyzEiTq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Ffgp7DIow5wECYQyzEiTq",
+    "id" : "7Ffgp7DIow5wECYQyzEiTq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "BMO",
+    "popularity" : 65,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7Ffgp7DIow5wECYQyzEiTq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1iNqsUDUraNWrj00bqssQG",
+        "id" : "1iNqsUDUraNWrj00bqssQG",
+        "name" : "Dreamville",
+        "type" : "artist",
+        "uri" : "spotify:artist:1iNqsUDUraNWrj00bqssQG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+        "id" : "6l3HvQ5sa6mXTsMTB19rO5",
+        "name" : "J. Cole",
+        "type" : "artist",
+        "uri" : "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2n3quCZ0anEa46j2IveacI",
+      "id" : "2n3quCZ0anEa46j2IveacI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c0ae820e3b64854de4642101",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c0ae820e3b64854de4642101",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c0ae820e3b64854de4642101",
+        "width" : 64
+      } ],
+      "name" : "Revenge Of The Dreamers III",
+      "release_date" : "2019-07-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:2n3quCZ0anEa46j2IveacI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1iNqsUDUraNWrj00bqssQG",
+      "id" : "1iNqsUDUraNWrj00bqssQG",
+      "name" : "Dreamville",
+      "type" : "artist",
+      "uri" : "spotify:artist:1iNqsUDUraNWrj00bqssQG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5j1BNsC9xeWGfBVCzzg6fc",
+      "id" : "5j1BNsC9xeWGfBVCzzg6fc",
+      "name" : "Omen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5j1BNsC9xeWGfBVCzzg6fc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+      "id" : "7c0XG5cIJTrrAgEC3ULPiq",
+      "name" : "Ty Dolla $ign",
+      "type" : "artist",
+      "uri" : "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gWumE1wMALHXANLSIt054",
+      "id" : "7gWumE1wMALHXANLSIt054",
+      "name" : "Dreezy",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gWumE1wMALHXANLSIt054"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 284040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71910269"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4nw0S8MtvcLSpXCS9M8ciL",
+    "id" : "4nw0S8MtvcLSpXCS9M8ciL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)",
+    "popularity" : 63,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:4nw0S8MtvcLSpXCS9M8ciL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+        "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+        "name" : "Ari Lennox",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hejjJbFsinMBc1KBqF71w",
+      "id" : "3hejjJbFsinMBc1KBqF71w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f1a1bdd330659e602cb927ec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f1a1bdd330659e602cb927ec",
+        "width" : 64
+      } ],
+      "name" : "Shea Butter Baby",
+      "release_date" : "2019-05-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3hejjJbFsinMBc1KBqF71w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 288531,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71809771"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/56IszkEOG5lFShWevvEH3R"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/56IszkEOG5lFShWevvEH3R",
+    "id" : "56IszkEOG5lFShWevvEH3R",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Whipped Cream",
+    "popularity" : 61,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:56IszkEOG5lFShWevvEH3R"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+        "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+        "name" : "Ari Lennox",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1x6E0JYj6wKFHfZQFQCpnU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1x6E0JYj6wKFHfZQFQCpnU",
+      "id" : "1x6E0JYj6wKFHfZQFQCpnU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27336eac825e3a4cbcb458a18f8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0236eac825e3a4cbcb458a18f8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485136eac825e3a4cbcb458a18f8",
+        "width" : 64
+      } ],
+      "name" : "PHO EP",
+      "release_date" : "2016-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:1x6E0JYj6wKFHfZQFQCpnU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 150133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71614006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3VeuvRWfJLSOzeVPrgi5MR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3VeuvRWfJLSOzeVPrgi5MR",
+    "id" : "3VeuvRWfJLSOzeVPrgi5MR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Night Drive",
+    "popularity" : 60,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3VeuvRWfJLSOzeVPrgi5MR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+        "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+        "name" : "Ari Lennox",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hejjJbFsinMBc1KBqF71w",
+      "id" : "3hejjJbFsinMBc1KBqF71w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f1a1bdd330659e602cb927ec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f1a1bdd330659e602cb927ec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f1a1bdd330659e602cb927ec",
+        "width" : 64
+      } ],
+      "name" : "Shea Butter Baby",
+      "release_date" : "2019-05-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3hejjJbFsinMBc1KBqF71w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "name" : "Ari Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 266934,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71905795"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ZSQS1o7qYAXJa5I37lk5x",
+    "id" : "4ZSQS1o7qYAXJa5I37lk5x",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Up Late",
+    "popularity" : 57,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4ZSQS1o7qYAXJa5I37lk5x"
+  } ]
+}

@@ -1,0 +1,99 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+The+Marias&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 705113
+      },
+      "genres" : [ "bedroom pop", "indie pop", "la indie" ],
+      "href" : "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+      "id" : "2sSGPbdZJkaSE2AbcGOACx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba37a2e21b6b2d1aa22826548",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a37a2e21b6b2d1aa22826548",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a37a2e21b6b2d1aa22826548",
+        "width" : 160
+      } ],
+      "name" : "The Marías",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6JMVkaZzRMiue0n9ZXxUZT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 93
+      },
+      "genres" : [ "skinhead oi" ],
+      "href" : "https://api.spotify.com/v1/artists/6JMVkaZzRMiue0n9ZXxUZT",
+      "id" : "6JMVkaZzRMiue0n9ZXxUZT",
+      "images" : [ ],
+      "name" : "The Black Marias",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6JMVkaZzRMiue0n9ZXxUZT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5POubuJAMZSRjKNbHXpYNT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5POubuJAMZSRjKNbHXpYNT",
+      "id" : "5POubuJAMZSRjKNbHXpYNT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731dba2d3ade61a64d13e66b66",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021dba2d3ade61a64d13e66b66",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511dba2d3ade61a64d13e66b66",
+        "width" : 64
+      } ],
+      "name" : "The Velvet Marias",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5POubuJAMZSRjKNbHXpYNT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7LPZq4OqYwdQNOXRs3HDfj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7LPZq4OqYwdQNOXRs3HDfj",
+      "id" : "7LPZq4OqYwdQNOXRs3HDfj",
+      "images" : [ ],
+      "name" : "Mariasa Sannia, The Plagues",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:7LPZq4OqYwdQNOXRs3HDfj"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

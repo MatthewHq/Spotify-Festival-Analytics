@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Banda+MS+de+Sergio+Lizarraga+&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14358113
+      },
+      "genres" : [ "banda", "musica mexicana", "norteno" ],
+      "href" : "https://api.spotify.com/v1/artists/2C6i0I5RiGzDKN9IAF8reh",
+      "id" : "2C6i0I5RiGzDKN9IAF8reh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbbea577c2181208f77d1fb49",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bbea577c2181208f77d1fb49",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bbea577c2181208f77d1fb49",
+        "width" : 160
+      } ],
+      "name" : "Banda MS de Sergio Lizárraga",
+      "popularity" : 84,
+      "type" : "artist",
+      "uri" : "spotify:artist:2C6i0I5RiGzDKN9IAF8reh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2821
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Y6rrQjzcZhaM4RXusI8UP",
+      "id" : "6Y6rrQjzcZhaM4RXusI8UP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a44d477def7f938b2c04436d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a44d477def7f938b2c04436d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a44d477def7f938b2c04436d",
+        "width" : 64
+      } ],
+      "name" : "Banda Sinaloense MS de Sergio Lizárraga",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Y6rrQjzcZhaM4RXusI8UP"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

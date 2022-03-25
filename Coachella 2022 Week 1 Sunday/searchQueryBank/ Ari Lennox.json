@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Ari+Lennox&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 520276
+      },
+      "genres" : [ "alternative r&b", "dmv rap", "neo soul", "pop", "r&b", "urban contemporary" ],
+      "href" : "https://api.spotify.com/v1/artists/1vaQ6v3pOFxAIrFoPrAcom",
+      "id" : "1vaQ6v3pOFxAIrFoPrAcom",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb666882efcbd13a82108176f9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174666882efcbd13a82108176f9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178666882efcbd13a82108176f9",
+        "width" : 160
+      } ],
+      "name" : "Ari Lennox",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:1vaQ6v3pOFxAIrFoPrAcom"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

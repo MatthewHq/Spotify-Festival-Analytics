@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+girl+in+red&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4711439
+      },
+      "genres" : [ "bedroom pop", "bubblegrunge", "indie pop", "norwegian indie", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3uwAm6vQy7kWPS2bciKWx9",
+      "id" : "3uwAm6vQy7kWPS2bciKWx9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb05b8c8f98561880f045ed2c2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517405b8c8f98561880f045ed2c2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17805b8c8f98561880f045ed2c2",
+        "width" : 160
+      } ],
+      "name" : "girl in red",
+      "popularity" : 81,
+      "type" : "artist",
+      "uri" : "spotify:artist:3uwAm6vQy7kWPS2bciKWx9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 434115
+      },
+      "genres" : [ "indie pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6rniTPs9zN26kYnkPdFl1U",
+      "id" : "6rniTPs9zN26kYnkPdFl1U",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb20842197930ff7eebc7971e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b20842197930ff7eebc7971e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b20842197930ff7eebc7971e",
+        "width" : 160
+      } ],
+      "name" : "Sir Chloe",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:6rniTPs9zN26kYnkPdFl1U"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

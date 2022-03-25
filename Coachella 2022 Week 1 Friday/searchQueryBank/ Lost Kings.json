@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Lost+Kings&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 350788
+      },
+      "genres" : [ "dance pop", "edm", "electro house", "pop", "pop dance", "pop edm", "pop rap", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/3hyEbRtp617pNCuuQjyOmc",
+      "id" : "3hyEbRtp617pNCuuQjyOmc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba143e59c7af9f75f44ffd6b2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a143e59c7af9f75f44ffd6b2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a143e59c7af9f75f44ffd6b2",
+        "width" : 160
+      } ],
+      "name" : "Lost Kings",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:3hyEbRtp617pNCuuQjyOmc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aBh7YeXLphsnuLpbExjXr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 32
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1aBh7YeXLphsnuLpbExjXr",
+      "id" : "1aBh7YeXLphsnuLpbExjXr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273141ec07e12a2e1b78d020e2c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02141ec07e12a2e1b78d020e2c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851141ec07e12a2e1b78d020e2c",
+        "width" : 64
+      } ],
+      "name" : "Lost Kings",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1aBh7YeXLphsnuLpbExjXr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4MjAfpHAG8We8tOS0V8nmA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1120
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4MjAfpHAG8We8tOS0V8nmA",
+      "id" : "4MjAfpHAG8We8tOS0V8nmA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7ec9132b5ff8d195e4383526",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747ec9132b5ff8d195e4383526",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787ec9132b5ff8d195e4383526",
+        "width" : 160
+      } ],
+      "name" : "Lost World Kings",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4MjAfpHAG8We8tOS0V8nmA"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

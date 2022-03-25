@@ -1,0 +1,511 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Cuco&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1626133
+      },
+      "genres" : [ "bedroom pop", "dream pop" ],
+      "href" : "https://api.spotify.com/v1/artists/2Tglaf8nvDzwSQnpSrjLHP",
+      "id" : "2Tglaf8nvDzwSQnpSrjLHP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9a3033e7b6eff9ee38298a43",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749a3033e7b6eff9ee38298a43",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789a3033e7b6eff9ee38298a43",
+        "width" : 160
+      } ],
+      "name" : "Cuco",
+      "popularity" : 74,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Tglaf8nvDzwSQnpSrjLHP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 283799
+      },
+      "genres" : [ "bolero", "guitarra mexicana", "mariachi", "mexican rock-and-roll", "ranchera" ],
+      "href" : "https://api.spotify.com/v1/artists/1M1VkVEy3JGFFyPy7oKH2E",
+      "id" : "1M1VkVEy3JGFFyPy7oKH2E",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273071ffa1c21f686d6ae40b2ce",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02071ffa1c21f686d6ae40b2ce",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851071ffa1c21f686d6ae40b2ce",
+        "width" : 64
+      } ],
+      "name" : "Cuco Sánchez",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:1M1VkVEy3JGFFyPy7oKH2E"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 128066
+      },
+      "genres" : [ "latin jazz", "salsa", "salsa international", "tropical" ],
+      "href" : "https://api.spotify.com/v1/artists/0RdKPjwSwfx6jqqdgkyGmE",
+      "id" : "0RdKPjwSwfx6jqqdgkyGmE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b795971e32e6120ae52c7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b795971e32e6120ae52c7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b795971e32e6120ae52c7768",
+        "width" : 64
+      } ],
+      "name" : "Cuco Valoy",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:0RdKPjwSwfx6jqqdgkyGmE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64ysRLp37hwCnsN7rooVbq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 127
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/64ysRLp37hwCnsN7rooVbq",
+      "id" : "64ysRLp37hwCnsN7rooVbq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fc9aaeea9bc60495c675259e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fc9aaeea9bc60495c675259e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fc9aaeea9bc60495c675259e",
+        "width" : 64
+      } ],
+      "name" : "cuco sanchez",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:64ysRLp37hwCnsN7rooVbq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ejeKKDN7siyfBjmzPgKhQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 503
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ejeKKDN7siyfBjmzPgKhQ",
+      "id" : "1ejeKKDN7siyfBjmzPgKhQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27392fb73790d61014795e32d86",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0292fb73790d61014795e32d86",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485192fb73790d61014795e32d86",
+        "width" : 64
+      } ],
+      "name" : "Cuco Valoy Y Su Nueva Tribu",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ejeKKDN7siyfBjmzPgKhQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Bo5iF6jYYpj4LVLEQoFGX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 198
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Bo5iF6jYYpj4LVLEQoFGX",
+      "id" : "0Bo5iF6jYYpj4LVLEQoFGX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f33fd74c19c463599cb85848",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f33fd74c19c463599cb85848",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f33fd74c19c463599cb85848",
+        "width" : 64
+      } ],
+      "name" : "Cuco Mora y su Grupo Sagaz",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Bo5iF6jYYpj4LVLEQoFGX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7oFZm5JcMOq57J4pKft0QJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 54
+      },
+      "genres" : [ "tamborazo" ],
+      "href" : "https://api.spotify.com/v1/artists/7oFZm5JcMOq57J4pKft0QJ",
+      "id" : "7oFZm5JcMOq57J4pKft0QJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735388de6b73d00cbcfab81e47",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025388de6b73d00cbcfab81e47",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515388de6b73d00cbcfab81e47",
+        "width" : 64
+      } ],
+      "name" : "Tamborazo De Cuco Escamilla",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:7oFZm5JcMOq57J4pKft0QJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5h6e7LpU88xAeVc5DF9pmE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 332
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5h6e7LpU88xAeVc5DF9pmE",
+      "id" : "5h6e7LpU88xAeVc5DF9pmE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd3d0e33552ef07376ccc5218",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d3d0e33552ef07376ccc5218",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d3d0e33552ef07376ccc5218",
+        "width" : 160
+      } ],
+      "name" : "Cucovich",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:5h6e7LpU88xAeVc5DF9pmE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46XWu0W6Cd1KFnIvU2T0t2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/46XWu0W6Cd1KFnIvU2T0t2",
+      "id" : "46XWu0W6Cd1KFnIvU2T0t2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ba8112f4c958d8973aaa18c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ba8112f4c958d8973aaa18c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ba8112f4c958d8973aaa18c7",
+        "width" : 64
+      } ],
+      "name" : "Tito Gonzalez \"El Cuco Del Amargue\"",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:46XWu0W6Cd1KFnIvU2T0t2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UKAR7zIHVD7meGtCtIVJd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 353
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2UKAR7zIHVD7meGtCtIVJd",
+      "id" : "2UKAR7zIHVD7meGtCtIVJd",
+      "images" : [ ],
+      "name" : "Cuco Sanchéz y Sus Interpretes",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:2UKAR7zIHVD7meGtCtIVJd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6iGTvXEXIjdUvu8aIKn7hn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6iGTvXEXIjdUvu8aIKn7hn",
+      "id" : "6iGTvXEXIjdUvu8aIKn7hn",
+      "images" : [ ],
+      "name" : "Cuco",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:6iGTvXEXIjdUvu8aIKn7hn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0MCOZKX1X3QfgTIXubZwSF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 85
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0MCOZKX1X3QfgTIXubZwSF",
+      "id" : "0MCOZKX1X3QfgTIXubZwSF",
+      "images" : [ ],
+      "name" : "Cuco Peña",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:0MCOZKX1X3QfgTIXubZwSF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4n2mJzNbuIACoDNOyEcBP5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4n2mJzNbuIACoDNOyEcBP5",
+      "id" : "4n2mJzNbuIACoDNOyEcBP5",
+      "images" : [ ],
+      "name" : "Cucoblund",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4n2mJzNbuIACoDNOyEcBP5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hvK6QEKFsqqgURkMjWFZJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 47
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4hvK6QEKFsqqgURkMjWFZJ",
+      "id" : "4hvK6QEKFsqqgURkMjWFZJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273421da8ddaba5ad2ad888447d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02421da8ddaba5ad2ad888447d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851421da8ddaba5ad2ad888447d",
+        "width" : 64
+      } ],
+      "name" : "Cuco Ortega",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:4hvK6QEKFsqqgURkMjWFZJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/33ywUtEWCqXDRtrXi7pVoN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/33ywUtEWCqXDRtrXi7pVoN",
+      "id" : "33ywUtEWCqXDRtrXi7pVoN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcf5d705a1da2f2196d7f9db3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cf5d705a1da2f2196d7f9db3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cf5d705a1da2f2196d7f9db3",
+        "width" : 160
+      } ],
+      "name" : "CucomBonion",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:33ywUtEWCqXDRtrXi7pVoN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0bGOatNW7PbwTHUasdoPGu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 110
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0bGOatNW7PbwTHUasdoPGu",
+      "id" : "0bGOatNW7PbwTHUasdoPGu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dafe2b1f8f556b0ea7dbcb2c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dafe2b1f8f556b0ea7dbcb2c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dafe2b1f8f556b0ea7dbcb2c",
+        "width" : 64
+      } ],
+      "name" : "Cuco Mora Y Su Klan 12",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:0bGOatNW7PbwTHUasdoPGu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/366raivaISWoD0MxN4TZCm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/366raivaISWoD0MxN4TZCm",
+      "id" : "366raivaISWoD0MxN4TZCm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebae27c7295e294a969d454c8b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ae27c7295e294a969d454c8b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ae27c7295e294a969d454c8b",
+        "width" : 160
+      } ],
+      "name" : "CuCozy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:366raivaISWoD0MxN4TZCm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0RbL484Y77LxxaXDVmhxUe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 63
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0RbL484Y77LxxaXDVmhxUe",
+      "id" : "0RbL484Y77LxxaXDVmhxUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c4cc5f7be27835eb8fc5901c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c4cc5f7be27835eb8fc5901c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c4cc5f7be27835eb8fc5901c",
+        "width" : 64
+      } ],
+      "name" : "Cuco Mora Y Su Grupo Amuleto",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:0RbL484Y77LxxaXDVmhxUe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7zKqlZGyCSREdL6bQoHtRx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7zKqlZGyCSREdL6bQoHtRx",
+      "id" : "7zKqlZGyCSREdL6bQoHtRx",
+      "images" : [ ],
+      "name" : "Cuco",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7zKqlZGyCSREdL6bQoHtRx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 98
+      },
+      "genres" : [ "jazz mexicano" ],
+      "href" : "https://api.spotify.com/v1/artists/2b973rD0RqYzSz9161lGIa",
+      "id" : "2b973rD0RqYzSz9161lGIa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b73f63b80907176847314dd7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b73f63b80907176847314dd7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b73f63b80907176847314dd7",
+        "width" : 64
+      } ],
+      "name" : "Cuco Valtierra",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:2b973rD0RqYzSz9161lGIa"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=+Cuco&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 98
+  }
+}

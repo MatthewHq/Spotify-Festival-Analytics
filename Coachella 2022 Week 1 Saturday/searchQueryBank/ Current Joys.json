@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Current+Joys&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 669782
+      },
+      "genres" : [ "indie pop", "lo-fi indie" ],
+      "href" : "https://api.spotify.com/v1/artists/0m5FakHKCQdA7UN0PIzMcL",
+      "id" : "0m5FakHKCQdA7UN0PIzMcL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb8d94b72b902515ce5b13a53",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b8d94b72b902515ce5b13a53",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b8d94b72b902515ce5b13a53",
+        "width" : 160
+      } ],
+      "name" : "Current Joys",
+      "popularity" : 72,
+      "type" : "artist",
+      "uri" : "spotify:artist:0m5FakHKCQdA7UN0PIzMcL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4GdDo6OBb8h1KN6G22njev"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 122
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4GdDo6OBb8h1KN6G22njev",
+      "id" : "4GdDo6OBb8h1KN6G22njev",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731de382d6dc4cb8b2da962ebe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021de382d6dc4cb8b2da962ebe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511de382d6dc4cb8b2da962ebe",
+        "width" : 64
+      } ],
+      "name" : "Current Joys",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4GdDo6OBb8h1KN6G22njev"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

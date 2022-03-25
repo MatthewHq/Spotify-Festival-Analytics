@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+BADBADNOTGOOD&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 597547
+      },
+      "genres" : [ "alternative hip hop", "canadian modern jazz", "escape room", "indie soul" ],
+      "href" : "https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ",
+      "id" : "65dGLGjkw3UbddUg2GKQoZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb61d28b161209f1ee239fdafa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517461d28b161209f1ee239fdafa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17861d28b161209f1ee239fdafa",
+        "width" : 160
+      } ],
+      "name" : "BADBADNOTGOOD",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ueszLjzSazrFDVImfIxMm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 61
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5ueszLjzSazrFDVImfIxMm",
+      "id" : "5ueszLjzSazrFDVImfIxMm",
+      "images" : [ ],
+      "name" : "Black Milk and BADBADNOTGOOD",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ueszLjzSazrFDVImfIxMm"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

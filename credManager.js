@@ -30,7 +30,7 @@ export async function supplyTokenData(tokenType, tokenPath) {
 
 export function getClientCredToken(tokenPath) {
     console.log("getClientCredToken")
-    var creds = readDat("creds",null)
+    var creds = readDat("creds", null)
     var client_id = creds.client_id; // Your client id
     var client_secret = creds.client_secret; // Your secret
     var body = {
@@ -104,7 +104,7 @@ export function getTempUserRefreshToken(tokenPath) {
 
 
 export async function generalTokenRequest(tokenType, tokenPath, options, qString) {
-    console.log(tokenPath)
+    // console.log(tokenPath)
     // console.log(options)
     return new Promise((resolve, reject) => {
         var req = https.request(options, function (res) {
@@ -162,7 +162,6 @@ export async function generalTokenRequest(tokenType, tokenPath, options, qString
 
 
 export function readDat(type, optionalPath) {
-    console.log(type, optionalPath)
     var path
     if (optionalPath == null) {
         const tempClientTokenPath = 'mainDB/tempClientToken.json'

@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+The+Regrettes&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 231495
+      },
+      "genres" : [ "indie pop", "la indie" ],
+      "href" : "https://api.spotify.com/v1/artists/67WNUxmM7y4WzHPAVzBu3E",
+      "id" : "67WNUxmM7y4WzHPAVzBu3E",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb912cfa2b974d421f9ebf4c48",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174912cfa2b974d421f9ebf4c48",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178912cfa2b974d421f9ebf4c48",
+        "width" : 160
+      } ],
+      "name" : "The Regrettes",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:67WNUxmM7y4WzHPAVzBu3E"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Natanael+Cano&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3739002
+      },
+      "genres" : [ "corrido", "corridos tumbados", "musica mexicana", "nueva musica mexicana", "sierreno" ],
+      "href" : "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
+      "id" : "0elWFr7TW8piilVRYJUe4P",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb615df07b39adb4ddcccd4270",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174615df07b39adb4ddcccd4270",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178615df07b39adb4ddcccd4270",
+        "width" : 160
+      } ],
+      "name" : "Natanael Cano",
+      "popularity" : 79,
+      "type" : "artist",
+      "uri" : "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Madeon&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 605491
+      },
+      "genres" : [ "complextro", "edm", "electro house", "electropop", "filter house", "future bass", "nantes indie", "pop dance" ],
+      "href" : "https://api.spotify.com/v1/artists/4pb4rqWSoGUgxm63xmJ8xc",
+      "id" : "4pb4rqWSoGUgxm63xmJ8xc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb575765a3c5e35a1205eac302",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174575765a3c5e35a1205eac302",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178575765a3c5e35a1205eac302",
+        "width" : 160
+      } ],
+      "name" : "Madeon",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:4pb4rqWSoGUgxm63xmJ8xc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QSyy8FZa7KdTIrRUXIMxV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0QSyy8FZa7KdTIrRUXIMxV",
+      "id" : "0QSyy8FZa7KdTIrRUXIMxV",
+      "images" : [ ],
+      "name" : "madeonfiji",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0QSyy8FZa7KdTIrRUXIMxV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FriGJJNi9feC1CCZTyfsM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4FriGJJNi9feC1CCZTyfsM",
+      "id" : "4FriGJJNi9feC1CCZTyfsM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc0246d6f9ab2c8dc41ed2712",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c0246d6f9ab2c8dc41ed2712",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c0246d6f9ab2c8dc41ed2712",
+        "width" : 160
+      } ],
+      "name" : "MADEONMARS",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4FriGJJNi9feC1CCZTyfsM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7uLRy3hrgRLUU3eCXD4LOO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7uLRy3hrgRLUU3eCXD4LOO",
+      "id" : "7uLRy3hrgRLUU3eCXD4LOO",
+      "images" : [ ],
+      "name" : "Madeon",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7uLRy3hrgRLUU3eCXD4LOO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1S9lhear9OYM35n8lwcUNd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1S9lhear9OYM35n8lwcUNd",
+      "id" : "1S9lhear9OYM35n8lwcUNd",
+      "images" : [ ],
+      "name" : "made.ONLINE",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1S9lhear9OYM35n8lwcUNd"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+        "id" : "3AhwIUus3pIaA3CvYBEtpy",
+        "name" : "Richie Hawtin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+        "id" : "7GoFQNOTX0suC6Tn59qx8n",
+        "name" : "Plastikman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+        "id" : "0qudezVgvl4Chd9BgNFB83",
+        "name" : "Chilly Gonzales",
+        "type" : "artist",
+        "uri" : "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3juMh8Hi5Mo0t9MlkacYAo",
+      "id" : "3juMh8Hi5Mo0t9MlkacYAo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc8615a07bce9b4e8a2ba147",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc8615a07bce9b4e8a2ba147",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc8615a07bce9b4e8a2ba147",
+        "width" : 64
+      } ],
+      "name" : "Contain (In Key)",
+      "release_date" : "2022-03-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3juMh8Hi5Mo0t9MlkacYAo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+      "id" : "7GoFQNOTX0suC6Tn59qx8n",
+      "name" : "Plastikman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qudezVgvl4Chd9BgNFB83",
+      "id" : "0qudezVgvl4Chd9BgNFB83",
+      "name" : "Chilly Gonzales",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qudezVgvl4Chd9BgNFB83"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 488706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAM262100001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7741k8FIhIzCt1gTA0F42J",
+    "id" : "7741k8FIhIzCt1gTA0F42J",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Contain (In Key)",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/99224322de2558ecd75df9a7d1b74d549657c925?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7741k8FIhIzCt1gTA0F42J"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+        "id" : "7GoFQNOTX0suC6Tn59qx8n",
+        "name" : "Plastikman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+        "id" : "3AhwIUus3pIaA3CvYBEtpy",
+        "name" : "Richie Hawtin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4AFkZfFvIGYxNc28b2FKpy",
+      "id" : "4AFkZfFvIGYxNc28b2FKpy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738a2f6214e68ce7f52c166a35",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028a2f6214e68ce7f52c166a35",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518a2f6214e68ce7f52c166a35",
+        "width" : 64
+      } ],
+      "name" : "Recycled Plastik",
+      "release_date" : "1994-04-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4AFkZfFvIGYxNc28b2FKpy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+      "id" : "7GoFQNOTX0suC6Tn59qx8n",
+      "name" : "Plastikman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 555626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAM261800030"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/553HOkDZQktOEBKvxTBPS1",
+    "id" : "553HOkDZQktOEBKvxTBPS1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Spastik",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/403bf767cbdd5c235674a4bc57d5c9cf6d3343e9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:553HOkDZQktOEBKvxTBPS1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        "href" : "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+        "id" : "053q0ukIDRgzwTr4vNSwab",
+        "name" : "Grimes",
+        "type" : "artist",
+        "uri" : "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2FQYkZIuXLy222CVzgPbQ0",
+      "id" : "2FQYkZIuXLy222CVzgPbQ0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735f143116163d3671f4d288c8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025f143116163d3671f4d288c8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515f143116163d3671f4d288c8",
+        "width" : 64
+      } ],
+      "name" : "Miss Anthropocene (Rave Edition)",
+      "release_date" : "2021-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2FQYkZIuXLy222CVzgPbQ0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "href" : "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id" : "053q0ukIDRgzwTr4vNSwab",
+      "name" : "Grimes",
+      "type" : "artist",
+      "uri" : "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gRbjzXPan9DOBEMmTjxVo",
+      "id" : "3gRbjzXPan9DOBEMmTjxVo",
+      "name" : "潘PAN",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gRbjzXPan9DOBEMmTjxVo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 637058,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAFL2000472"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0UQOPPZrDqzn2AxnOTX2Hl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0UQOPPZrDqzn2AxnOTX2Hl",
+    "id" : "0UQOPPZrDqzn2AxnOTX2Hl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Darkseid - Richie Hawtin Remix",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8d0660674e6e11d0560d8f5c0ca1b039a05151af?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0UQOPPZrDqzn2AxnOTX2Hl"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+        "id" : "7GoFQNOTX0suC6Tn59qx8n",
+        "name" : "Plastikman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+        "id" : "3AhwIUus3pIaA3CvYBEtpy",
+        "name" : "Richie Hawtin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0pqBn0iSw0xkQoO2sAaHAf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0pqBn0iSw0xkQoO2sAaHAf",
+      "id" : "0pqBn0iSw0xkQoO2sAaHAf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27322a3ba17a3b3b1b75f53c263",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0222a3ba17a3b3b1b75f53c263",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485122a3ba17a3b3b1b75f53c263",
+        "width" : 64
+      } ],
+      "name" : "Artifakts (BC)",
+      "release_date" : "1998-11-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:0pqBn0iSw0xkQoO2sAaHAf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+      "id" : "7GoFQNOTX0suC6Tn59qx8n",
+      "name" : "Plastikman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 733840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAM269850017"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ISmTommsQb47avYPq79yZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ISmTommsQb47avYPq79yZ",
+    "id" : "6ISmTommsQb47avYPq79yZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pakard",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ffd8dabd36d0eb17421347de831b781e2a30c336?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6ISmTommsQb47avYPq79yZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+        "id" : "7GoFQNOTX0suC6Tn59qx8n",
+        "name" : "Plastikman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+        "id" : "3AhwIUus3pIaA3CvYBEtpy",
+        "name" : "Richie Hawtin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1U7aY4kI9xeMuI3nD4LKBy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1U7aY4kI9xeMuI3nD4LKBy",
+      "id" : "1U7aY4kI9xeMuI3nD4LKBy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7c070e0d1592f72f15ebaa7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7c070e0d1592f72f15ebaa7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7c070e0d1592f72f15ebaa7",
+        "width" : 64
+      } ],
+      "name" : "Consumed",
+      "release_date" : "1998-05-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:1U7aY4kI9xeMuI3nD4LKBy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+      "id" : "7GoFQNOTX0suC6Tn59qx8n",
+      "name" : "Plastikman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 700151,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAM269850002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5TRFywcS0o6pw7ULm6gXhV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5TRFywcS0o6pw7ULm6gXhV",
+    "id" : "5TRFywcS0o6pw7ULm6gXhV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Consumed",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2973d95d6762886c869146818cd45143bfbf310?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5TRFywcS0o6pw7ULm6gXhV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+        "id" : "7GoFQNOTX0suC6Tn59qx8n",
+        "name" : "Plastikman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+        "id" : "3AhwIUus3pIaA3CvYBEtpy",
+        "name" : "Richie Hawtin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0pqBn0iSw0xkQoO2sAaHAf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0pqBn0iSw0xkQoO2sAaHAf",
+      "id" : "0pqBn0iSw0xkQoO2sAaHAf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27322a3ba17a3b3b1b75f53c263",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0222a3ba17a3b3b1b75f53c263",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485122a3ba17a3b3b1b75f53c263",
+        "width" : 64
+      } ],
+      "name" : "Artifakts (BC)",
+      "release_date" : "1998-11-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:0pqBn0iSw0xkQoO2sAaHAf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+      "id" : "7GoFQNOTX0suC6Tn59qx8n",
+      "name" : "Plastikman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 510533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAM269850018"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0UYnNc1kXbN01kdiWmSt7c"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0UYnNc1kXbN01kdiWmSt7c",
+    "id" : "0UYnNc1kXbN01kdiWmSt7c",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Psyk",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d487f6f42ef86e761090e97144ee753225a7e754?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0UYnNc1kXbN01kdiWmSt7c"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+        "id" : "3AhwIUus3pIaA3CvYBEtpy",
+        "name" : "Richie Hawtin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bPCREAXZxEudTJkLJrvNW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bPCREAXZxEudTJkLJrvNW",
+      "id" : "2bPCREAXZxEudTJkLJrvNW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735dcf1e55451efa6bccea5490",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025dcf1e55451efa6bccea5490",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515dcf1e55451efa6bccea5490",
+        "width" : 64
+      } ],
+      "name" : "Acid King",
+      "release_date" : "2021-08-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:2bPCREAXZxEudTJkLJrvNW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 640724,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2130645"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ruVY6icAv4DN04j0qcu1W"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ruVY6icAv4DN04j0qcu1W",
+    "id" : "5ruVY6icAv4DN04j0qcu1W",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Acid King - Full Tilt Mix",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f1a5f628a9b7cacb7f6710698a5fa81ea076f421?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5ruVY6icAv4DN04j0qcu1W"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6qRKwyDhiTu2n9cOhbHict",
+        "id" : "6qRKwyDhiTu2n9cOhbHict",
+        "name" : "F.U.S.E.",
+        "type" : "artist",
+        "uri" : "spotify:artist:6qRKwyDhiTu2n9cOhbHict"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+        "id" : "3AhwIUus3pIaA3CvYBEtpy",
+        "name" : "Richie Hawtin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KLpnpPRuDx24So8bHiBXw",
+      "id" : "2KLpnpPRuDx24So8bHiBXw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3990dc638d07a055c6c6c7a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3990dc638d07a055c6c6c7a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3990dc638d07a055c6c6c7a",
+        "width" : 64
+      } ],
+      "name" : "Substance Abuse",
+      "release_date" : "1991-01-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:2KLpnpPRuDx24So8bHiBXw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6qRKwyDhiTu2n9cOhbHict",
+      "id" : "6qRKwyDhiTu2n9cOhbHict",
+      "name" : "F.U.S.E.",
+      "type" : "artist",
+      "uri" : "spotify:artist:6qRKwyDhiTu2n9cOhbHict"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 306143,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAM269180032"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3yo5BnK1cWRuAIMbJReCMZ",
+    "id" : "3yo5BnK1cWRuAIMbJReCMZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Substance Abuse",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/094a8db294b9a27ce426f403421a4387c49d494e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3yo5BnK1cWRuAIMbJReCMZ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+        "id" : "3AhwIUus3pIaA3CvYBEtpy",
+        "name" : "Richie Hawtin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1wqy5Bf5gptpxzj98M6TlN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1wqy5Bf5gptpxzj98M6TlN",
+      "id" : "1wqy5Bf5gptpxzj98M6TlN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dcafe256b4981581924f4129",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dcafe256b4981581924f4129",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dcafe256b4981581924f4129",
+        "width" : 64
+      } ],
+      "name" : "Minus Orange",
+      "release_date" : "1996-05-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:1wqy5Bf5gptpxzj98M6TlN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 481573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAM269950001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0CXS4rsSgIb2ysl0w3gK6s"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0CXS4rsSgIb2ysl0w3gK6s",
+    "id" : "0CXS4rsSgIb2ysl0w3gK6s",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Minus/Orange 1",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/44b68da82c9737ea915d7f66686b97c497f91d54?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0CXS4rsSgIb2ysl0w3gK6s"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+        "id" : "7GoFQNOTX0suC6Tn59qx8n",
+        "name" : "Plastikman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+        "id" : "3AhwIUus3pIaA3CvYBEtpy",
+        "name" : "Richie Hawtin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6aun733p8M6kSVTnf4yA5M"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6aun733p8M6kSVTnf4yA5M",
+      "id" : "6aun733p8M6kSVTnf4yA5M",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d39b9f7bf1c812857a1b2da7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d39b9f7bf1c812857a1b2da7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d39b9f7bf1c812857a1b2da7",
+        "width" : 64
+      } ],
+      "name" : "TripTideThud (Prada SS22 Menswear Version)",
+      "release_date" : "2021-06-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6aun733p8M6kSVTnf4yA5M"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7GoFQNOTX0suC6Tn59qx8n",
+      "id" : "7GoFQNOTX0suC6Tn59qx8n",
+      "name" : "Plastikman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7GoFQNOTX0suC6Tn59qx8n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "name" : "Richie Hawtin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 360113,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2124291"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Fl3NuVREFJbmdqZyADwXi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Fl3NuVREFJbmdqZyADwXi",
+    "id" : "2Fl3NuVREFJbmdqZyADwXi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "TripTideThud - Prada SS22 Menswear Version",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a206abdce872b439bb4cdfbbb5448f0602504be3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2Fl3NuVREFJbmdqZyADwXi"
+  } ]
+}

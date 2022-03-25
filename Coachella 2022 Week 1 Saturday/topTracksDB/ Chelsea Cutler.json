@@ -1,0 +1,790 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3",
+        "id" : "3gIRvgZssIb9aiirIg0nI3",
+        "name" : "Jeremy Zucker",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gIRvgZssIb9aiirIg0nI3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+        "id" : "5JMLG56F1X5mFmWNmS0iAp",
+        "name" : "Chelsea Cutler",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/16mjtcKPxpQ4ajFHmJ0hJC",
+      "id" : "16mjtcKPxpQ4ajFHmJ0hJC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d841ad4d4aa791514d7e9758",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d841ad4d4aa791514d7e9758",
+        "width" : 64
+      } ],
+      "name" : "brent",
+      "release_date" : "2019-05-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:16mjtcKPxpQ4ajFHmJ0hJC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3",
+      "id" : "3gIRvgZssIb9aiirIg0nI3",
+      "name" : "Jeremy Zucker",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gIRvgZssIb9aiirIg0nI3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219146,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71906797"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4CxFN5zON70B3VOPBYbd6P",
+    "id" : "4CxFN5zON70B3VOPBYbd6P",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "you were good to me",
+    "popularity" : 82,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4CxFN5zON70B3VOPBYbd6P"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3",
+        "id" : "3gIRvgZssIb9aiirIg0nI3",
+        "name" : "Jeremy Zucker",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gIRvgZssIb9aiirIg0nI3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+        "id" : "5JMLG56F1X5mFmWNmS0iAp",
+        "name" : "Chelsea Cutler",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0A9eIFTz09ciHqCHJNYyf2",
+      "id" : "0A9eIFTz09ciHqCHJNYyf2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bdcc1b27dac22bfb3a57c2de",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bdcc1b27dac22bfb3a57c2de",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bdcc1b27dac22bfb3a57c2de",
+        "width" : 64
+      } ],
+      "name" : "brent ii",
+      "release_date" : "2021-02-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:0A9eIFTz09ciHqCHJNYyf2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3",
+      "id" : "3gIRvgZssIb9aiirIg0nI3",
+      "name" : "Jeremy Zucker",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gIRvgZssIb9aiirIg0nI3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 174586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM72024519"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1aEsTgCsv8nOjEgyEoRCpS",
+    "id" : "1aEsTgCsv8nOjEgyEoRCpS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "this is how you fall in love",
+    "popularity" : 80,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1aEsTgCsv8nOjEgyEoRCpS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ApUX1o6oSz321MMECyIYd",
+        "id" : "3ApUX1o6oSz321MMECyIYd",
+        "name" : "Quinn XCII",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6B3LAqHoBKmSN9HLbyy0Ro",
+      "id" : "6B3LAqHoBKmSN9HLbyy0Ro",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d827f56df28bdd1de12fd3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d827f56df28bdd1de12fd3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d827f56df28bdd1de12fd3c6",
+        "width" : 64
+      } ],
+      "name" : "Change of Scenery II",
+      "release_date" : "2021-03-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6B3LAqHoBKmSN9HLbyy0Ro"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ApUX1o6oSz321MMECyIYd",
+      "id" : "3ApUX1o6oSz321MMECyIYd",
+      "name" : "Quinn XCII",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 206045,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12006556"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7kTlHVCARylJAqm40yVoWE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7kTlHVCARylJAqm40yVoWE",
+    "id" : "7kTlHVCARylJAqm40yVoWE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Stay Next To Me (with Chelsea Cutler)",
+    "popularity" : 76,
+    "preview_url" : "https://p.scdn.co/mp3-preview/38b61a56cdd51ce6ba8673308ee55d350e9661b6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7kTlHVCARylJAqm40yVoWE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3",
+        "id" : "3gIRvgZssIb9aiirIg0nI3",
+        "name" : "Jeremy Zucker",
+        "type" : "artist",
+        "uri" : "spotify:artist:3gIRvgZssIb9aiirIg0nI3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/14lSyFVCuhvEoW7ogOIzD0",
+      "id" : "14lSyFVCuhvEoW7ogOIzD0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273455cc3060b25c1f0015269fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02455cc3060b25c1f0015269fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851455cc3060b25c1f0015269fe",
+        "width" : 64
+      } ],
+      "name" : "glisten",
+      "release_date" : "2018-05-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:14lSyFVCuhvEoW7ogOIzD0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gIRvgZssIb9aiirIg0nI3",
+      "id" : "3gIRvgZssIb9aiirIg0nI3",
+      "name" : "Jeremy Zucker",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gIRvgZssIb9aiirIg0nI3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71804924"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7bdYxWPCs46dQ0XLwySOyv",
+    "id" : "7bdYxWPCs46dQ0XLwySOyv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "better off",
+    "popularity" : 71,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7bdYxWPCs46dQ0XLwySOyv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LZ4De2MoO3lP6QaNCfvcu",
+        "id" : "4LZ4De2MoO3lP6QaNCfvcu",
+        "name" : "Said The Sky",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LZ4De2MoO3lP6QaNCfvcu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2NRBI2mvyZIYpHMEcDmN6A",
+      "id" : "2NRBI2mvyZIYpHMEcDmN6A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398f6ae2f0dff4d8241da5ea4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298f6ae2f0dff4d8241da5ea4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198f6ae2f0dff4d8241da5ea4",
+        "width" : 64
+      } ],
+      "name" : "Sentiment",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:2NRBI2mvyZIYpHMEcDmN6A"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LZ4De2MoO3lP6QaNCfvcu",
+      "id" : "4LZ4De2MoO3lP6QaNCfvcu",
+      "name" : "Said The Sky",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LZ4De2MoO3lP6QaNCfvcu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216125,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2281411"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3lG6pvrzze5fH20SKQFYon"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3lG6pvrzze5fH20SKQFYon",
+    "id" : "3lG6pvrzze5fH20SKQFYon",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Walk Me Home",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/974665043a257deef1c309ce5da9b156df54eb7f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:3lG6pvrzze5fH20SKQFYon"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+        "id" : "5JMLG56F1X5mFmWNmS0iAp",
+        "name" : "Chelsea Cutler",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6M3X8VGDuFXvqoj1mLS0eV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6M3X8VGDuFXvqoj1mLS0eV",
+      "id" : "6M3X8VGDuFXvqoj1mLS0eV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273710bb2bbdb72d67651606833",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02710bb2bbdb72d67651606833",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851710bb2bbdb72d67651606833",
+        "width" : 64
+      } ],
+      "name" : "When I Close My Eyes (Deluxe)",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6M3X8VGDuFXvqoj1mLS0eV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 174278,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG12200247"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6qY6IZtn59bCJsEl0tos9X"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6qY6IZtn59bCJsEl0tos9X",
+    "id" : "6qY6IZtn59bCJsEl0tos9X",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "the lifeboat's empty!",
+    "popularity" : 54,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:6qY6IZtn59bCJsEl0tos9X"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+        "id" : "5JMLG56F1X5mFmWNmS0iAp",
+        "name" : "Chelsea Cutler",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4uP2XlSUEX4VmW2nIcEgVb",
+      "id" : "4uP2XlSUEX4VmW2nIcEgVb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27394bd50447700c46305e369b6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0294bd50447700c46305e369b6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485194bd50447700c46305e369b6",
+        "width" : 64
+      } ],
+      "name" : "Your Shirt",
+      "release_date" : "2017-02-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4uP2XlSUEX4VmW2nIcEgVb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS11700062"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6zdg9ovHEPx9EblJcc7FGf",
+    "id" : "6zdg9ovHEPx9EblJcc7FGf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Your Shirt",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4d8ac2a0dce93722d14af8cd57d35e39007ac35c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6zdg9ovHEPx9EblJcc7FGf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ApUX1o6oSz321MMECyIYd",
+        "id" : "3ApUX1o6oSz321MMECyIYd",
+        "name" : "Quinn XCII",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7j7cqgeWmYH9PbKe3S5oJj",
+      "id" : "7j7cqgeWmYH9PbKe3S5oJj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27376767c56ea68780fff2efb31",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0276767c56ea68780fff2efb31",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485176767c56ea68780fff2efb31",
+        "width" : 64
+      } ],
+      "name" : "The Story of Us",
+      "release_date" : "2017-09-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:7j7cqgeWmYH9PbKe3S5oJj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ApUX1o6oSz321MMECyIYd",
+      "id" : "3ApUX1o6oSz321MMECyIYd",
+      "name" : "Quinn XCII",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240013,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM11705903"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7cM9Kqto11iJpY2RwgVJSq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7cM9Kqto11iJpY2RwgVJSq",
+    "id" : "7cM9Kqto11iJpY2RwgVJSq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Flare Guns",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/38119f890a052c5f947e9dd5eb9f22bff8f3161e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7cM9Kqto11iJpY2RwgVJSq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+        "id" : "7wg1qvie3KqDNQbAkTdbX0",
+        "name" : "Louis The Child",
+        "type" : "artist",
+        "uri" : "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4aBLjtEUUg1424XB5WQgKP",
+      "id" : "4aBLjtEUUg1424XB5WQgKP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c97444ecc52c4ca601144a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c97444ecc52c4ca601144a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c97444ecc52c4ca601144a",
+        "width" : 64
+      } ],
+      "name" : "Here For Now",
+      "release_date" : "2020-06-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4aBLjtEUUg1424XB5WQgKP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+      "id" : "7wg1qvie3KqDNQbAkTdbX0",
+      "name" : "Louis The Child",
+      "type" : "artist",
+      "uri" : "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ApUX1o6oSz321MMECyIYd",
+      "id" : "3ApUX1o6oSz321MMECyIYd",
+      "name" : "Quinn XCII",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 197453,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM72006496"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/52681Ivj8kgCi90Lu8B9fl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/52681Ivj8kgCi90Lu8B9fl",
+    "id" : "52681Ivj8kgCi90Lu8B9fl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Little Things (with Quinn XCII & Chelsea Cutler)",
+    "popularity" : 66,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:52681Ivj8kgCi90Lu8B9fl"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6d4jrmreCmsenscuieJERc",
+        "id" : "6d4jrmreCmsenscuieJERc",
+        "name" : "The Band CAMINO",
+        "type" : "artist",
+        "uri" : "spotify:artist:6d4jrmreCmsenscuieJERc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+        "id" : "5JMLG56F1X5mFmWNmS0iAp",
+        "name" : "Chelsea Cutler",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/53KjVSjTOJXAyJ7Fdjjhwr",
+      "id" : "53KjVSjTOJXAyJ7Fdjjhwr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a92b660981b2bb134109a02a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a92b660981b2bb134109a02a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a92b660981b2bb134109a02a",
+        "width" : 64
+      } ],
+      "name" : "Crying Over You",
+      "release_date" : "2020-07-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:53KjVSjTOJXAyJ7Fdjjhwr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6d4jrmreCmsenscuieJERc",
+      "id" : "6d4jrmreCmsenscuieJERc",
+      "name" : "The Band CAMINO",
+      "type" : "artist",
+      "uri" : "spotify:artist:6d4jrmreCmsenscuieJERc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178949,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT22004621"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/53bCcVMGv0S2aIYvfju2Tt",
+    "id" : "53bCcVMGv0S2aIYvfju2Tt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crying Over You",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/96e74766abbc3b177868c57eee3d3707553a9402?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:53bCcVMGv0S2aIYvfju2Tt"
+  } ]
+}

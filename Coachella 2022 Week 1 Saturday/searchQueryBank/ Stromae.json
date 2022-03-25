@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Stromae&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2216373
+      },
+      "genres" : [ "belgian pop", "g-house" ],
+      "href" : "https://api.spotify.com/v1/artists/5j4HeCoUlzhfWtjAfM1acR",
+      "id" : "5j4HeCoUlzhfWtjAfM1acR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5e22bd1057446fccb9fce27c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745e22bd1057446fccb9fce27c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785e22bd1057446fccb9fce27c",
+        "width" : 160
+      } ],
+      "name" : "Stromae",
+      "popularity" : 83,
+      "type" : "artist",
+      "uri" : "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5b0Z5bfT8kClpMJfk1EhT8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5b0Z5bfT8kClpMJfk1EhT8",
+      "id" : "5b0Z5bfT8kClpMJfk1EhT8",
+      "images" : [ ],
+      "name" : "Stromae",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:5b0Z5bfT8kClpMJfk1EhT8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JHg7nzQX0QBvx2NUS9zRq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 612
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5JHg7nzQX0QBvx2NUS9zRq",
+      "id" : "5JHg7nzQX0QBvx2NUS9zRq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6e74f614a7d6878079a948e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6e74f614a7d6878079a948e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6e74f614a7d6878079a948e",
+        "width" : 64
+      } ],
+      "name" : "Stromaes",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:5JHg7nzQX0QBvx2NUS9zRq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1QtYSKIsd9sY16WFtgSeOo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 198
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1QtYSKIsd9sY16WFtgSeOo",
+      "id" : "1QtYSKIsd9sY16WFtgSeOo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739ee2b90b99a44a07c565b894",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029ee2b90b99a44a07c565b894",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519ee2b90b99a44a07c565b894",
+        "width" : 64
+      } ],
+      "name" : "Tribute to Stromae",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1QtYSKIsd9sY16WFtgSeOo"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

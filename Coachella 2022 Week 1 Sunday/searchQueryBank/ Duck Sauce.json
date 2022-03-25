@@ -1,0 +1,131 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Duck+Sauce&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 103803
+      },
+      "genres" : [ "disco house", "electro house", "filter house", "vocal house" ],
+      "href" : "https://api.spotify.com/v1/artists/0q8J3Yj810t5cpAYEJ7gxt",
+      "id" : "0q8J3Yj810t5cpAYEJ7gxt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd4dce5cfe5e10f4b6215417a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d4dce5cfe5e10f4b6215417a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d4dce5cfe5e10f4b6215417a",
+        "width" : 160
+      } ],
+      "name" : "Duck Sauce",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3baQVGEEtM5zbKlfJZ05Gi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 64
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3baQVGEEtM5zbKlfJZ05Gi",
+      "id" : "3baQVGEEtM5zbKlfJZ05Gi",
+      "images" : [ ],
+      "name" : "Duck Sauce",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3baQVGEEtM5zbKlfJZ05Gi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dtV2hO9XwwAm1GScookYa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4dtV2hO9XwwAm1GScookYa",
+      "id" : "4dtV2hO9XwwAm1GScookYa",
+      "images" : [ ],
+      "name" : "Duck Sauce",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4dtV2hO9XwwAm1GScookYa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46zJbpPc71KKysxCYhPBNL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/46zJbpPc71KKysxCYhPBNL",
+      "id" : "46zJbpPc71KKysxCYhPBNL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d24f70c38c0d9c9ba28953ce",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d24f70c38c0d9c9ba28953ce",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d24f70c38c0d9c9ba28953ce",
+        "width" : 64
+      } ],
+      "name" : "Duck Sauce",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:46zJbpPc71KKysxCYhPBNL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7t4ZzWQw8OG9jceDjljlrb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7t4ZzWQw8OG9jceDjljlrb",
+      "id" : "7t4ZzWQw8OG9jceDjljlrb",
+      "images" : [ ],
+      "name" : "Anf Duck Sauce",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7t4ZzWQw8OG9jceDjljlrb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lTVnOcxMcZAiGxANism2p"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6lTVnOcxMcZAiGxANism2p",
+      "id" : "6lTVnOcxMcZAiGxANism2p",
+      "images" : [ ],
+      "name" : "$auce Money Aka Duck Sauce",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6lTVnOcxMcZAiGxANism2p"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6
+  }
+}

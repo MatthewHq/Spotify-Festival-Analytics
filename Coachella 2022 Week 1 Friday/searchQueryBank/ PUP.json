@@ -1,0 +1,575 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+PUP&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 209160
+      },
+      "genres" : [ "alternative emo", "bubblegrunge", "canadian indie", "canadian pop punk", "canadian punk", "emo", "indie punk", "modern rock", "toronto indie" ],
+      "href" : "https://api.spotify.com/v1/artists/6A7uqgC2N1nUhrCLAytHxN",
+      "id" : "6A7uqgC2N1nUhrCLAytHxN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3c01e2c45dcbdca5a953b469",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743c01e2c45dcbdca5a953b469",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783c01e2c45dcbdca5a953b469",
+        "width" : 160
+      } ],
+      "name" : "PUP",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:6A7uqgC2N1nUhrCLAytHxN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 782590
+      },
+      "genres" : [ "alternative metal", "christian rock", "nu metal", "post-grunge", "rap rock" ],
+      "href" : "https://api.spotify.com/v1/artists/7qAcXJgt1PWnxwUgxMdyuk",
+      "id" : "7qAcXJgt1PWnxwUgxMdyuk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfe2104e0eba94c43807ae72c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fe2104e0eba94c43807ae72c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fe2104e0eba94c43807ae72c",
+        "width" : 160
+      } ],
+      "name" : "Sick Puppies",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:7qAcXJgt1PWnxwUgxMdyuk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16086
+      },
+      "genres" : [ "children's music", "preschool children's music" ],
+      "href" : "https://api.spotify.com/v1/artists/6XYqhT02pSA6p3BoYe9P63",
+      "id" : "6XYqhT02pSA6p3BoYe9P63",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273005ed3818956c85329f04bd4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02005ed3818956c85329f04bd4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851005ed3818956c85329f04bd4",
+        "width" : 64
+      } ],
+      "name" : "\"Puppy Dog Pals\" Cast",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:6XYqhT02pSA6p3BoYe9P63"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33530
+      },
+      "genres" : [ "complextro", "edm", "electro house", "future bass", "gaming edm", "melodic dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/0QaiCsyOUjBgLqsbABu07O",
+      "id" : "0QaiCsyOUjBgLqsbABu07O",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd4e9dfb40dbd617672406c6c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d4e9dfb40dbd617672406c6c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d4e9dfb40dbd617672406c6c",
+        "width" : 160
+      } ],
+      "name" : "Puppet",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:0QaiCsyOUjBgLqsbABu07O"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 44785
+      },
+      "genres" : [ "socal indie" ],
+      "href" : "https://api.spotify.com/v1/artists/58eJhHRICp87T2IFcP0bYh",
+      "id" : "58eJhHRICp87T2IFcP0bYh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd65285d8a99dd1bdf49a61f0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d65285d8a99dd1bdf49a61f0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d65285d8a99dd1bdf49a61f0",
+        "width" : 160
+      } ],
+      "name" : "Slush Puppy",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:58eJhHRICp87T2IFcP0bYh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7vnJHigaP3gHzwy4v3UJ55"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6288
+      },
+      "genres" : [ "preschool children's music" ],
+      "href" : "https://api.spotify.com/v1/artists/7vnJHigaP3gHzwy4v3UJ55",
+      "id" : "7vnJHigaP3gHzwy4v3UJ55",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6030225bc46821d2ac8a7ae9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746030225bc46821d2ac8a7ae9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786030225bc46821d2ac8a7ae9",
+        "width" : 160
+      } ],
+      "name" : "Pups Superstars",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:7vnJHigaP3gHzwy4v3UJ55"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 850785
+      },
+      "genres" : [ "alternative rock", "baroque pop", "indie rock", "modern rock", "rock", "sheffield indie" ],
+      "href" : "https://api.spotify.com/v1/artists/2Z7UcsdweVlRbAk5wH5fsf",
+      "id" : "2Z7UcsdweVlRbAk5wH5fsf",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/1e721c9502da1663fe9dd0b9f8a90519546f0a9f",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/c3d3f098f92fbacb7a16ab5ca1d801228b26e1b2",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/ef0c42ed770ea0b67e073b2796c5e6eb2dd937cc",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/df50b63ee9d08f5aa7a93cec0f26fcc1846ca20f",
+        "width" : 64
+      } ],
+      "name" : "The Last Shadow Puppets",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Z7UcsdweVlRbAk5wH5fsf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5XRqj86xOmCYIAnCmYl1fz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 84
+      },
+      "genres" : [ "pet calming" ],
+      "href" : "https://api.spotify.com/v1/artists/5XRqj86xOmCYIAnCmYl1fz",
+      "id" : "5XRqj86xOmCYIAnCmYl1fz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dd6ff2b7c00945a3348f6519",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dd6ff2b7c00945a3348f6519",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dd6ff2b7c00945a3348f6519",
+        "width" : 64
+      } ],
+      "name" : "Puppy Music",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:5XRqj86xOmCYIAnCmYl1fz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 44896
+      },
+      "genres" : [ "pop edm" ],
+      "href" : "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+      "id" : "4F61H4lx1js4wtWfb2Rfnt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7a878b7fc55287dc1a56422f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747a878b7fc55287dc1a56422f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787a878b7fc55287dc1a56422f",
+        "width" : 160
+      } ],
+      "name" : "Party Pupils",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BaHNS3q5lBlIFUJ1IENVh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 430
+      },
+      "genres" : [ "pet calming" ],
+      "href" : "https://api.spotify.com/v1/artists/5BaHNS3q5lBlIFUJ1IENVh",
+      "id" : "5BaHNS3q5lBlIFUJ1IENVh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dd6ff2b7c00945a3348f6519",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dd6ff2b7c00945a3348f6519",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dd6ff2b7c00945a3348f6519",
+        "width" : 64
+      } ],
+      "name" : "Puppy Music Therapy",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:5BaHNS3q5lBlIFUJ1IENVh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2h9yQhKyqOMex3QFMVeq7F"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 218308
+      },
+      "genres" : [ "alternative rock", "cowpunk", "grunge", "post-punk", "punk", "rock" ],
+      "href" : "https://api.spotify.com/v1/artists/2h9yQhKyqOMex3QFMVeq7F",
+      "id" : "2h9yQhKyqOMex3QFMVeq7F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcec30a3f8d0baa7c2ccf0304",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cec30a3f8d0baa7c2ccf0304",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cec30a3f8d0baa7c2ccf0304",
+        "width" : 160
+      } ],
+      "name" : "Meat Puppets",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:2h9yQhKyqOMex3QFMVeq7F"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FNCXF8vxsp3EFpGU8ykRM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3197
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7FNCXF8vxsp3EFpGU8ykRM",
+      "id" : "7FNCXF8vxsp3EFpGU8ykRM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273991e1c09a0ad2e711a63bbc5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02991e1c09a0ad2e711a63bbc5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851991e1c09a0ad2e711a63bbc5",
+        "width" : 64
+      } ],
+      "name" : "Puppet Master",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:7FNCXF8vxsp3EFpGU8ykRM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 559466
+      },
+      "genres" : [ "contemporary jazz", "funk rock", "jazz fusion", "progressive jazz fusion" ],
+      "href" : "https://api.spotify.com/v1/artists/7ENzCHnmJUr20nUjoZ0zZ1",
+      "id" : "7ENzCHnmJUr20nUjoZ0zZ1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebae9e6dd153b94058ebf99f6e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ae9e6dd153b94058ebf99f6e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ae9e6dd153b94058ebf99f6e",
+        "width" : 160
+      } ],
+      "name" : "Snarky Puppy",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:7ENzCHnmJUr20nUjoZ0zZ1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6LjwPhoH3RDoL8JoXciUHL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 72259
+      },
+      "genres" : [ "classic italian pop", "italian adult pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6LjwPhoH3RDoL8JoXciUHL",
+      "id" : "6LjwPhoH3RDoL8JoXciUHL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb79464f05b7de3d5439fe6797",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517479464f05b7de3d5439fe6797",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17879464f05b7de3d5439fe6797",
+        "width" : 160
+      } ],
+      "name" : "Pupo",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:6LjwPhoH3RDoL8JoXciUHL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/47NwBHc82I5BeXq1FxEemV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1493
+      },
+      "genres" : [ "houston rap" ],
+      "href" : "https://api.spotify.com/v1/artists/47NwBHc82I5BeXq1FxEemV",
+      "id" : "47NwBHc82I5BeXq1FxEemV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb35382abb77baa6d388b38674",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517435382abb77baa6d388b38674",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17835382abb77baa6d388b38674",
+        "width" : 160
+      } ],
+      "name" : "Big Pup",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:47NwBHc82I5BeXq1FxEemV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1177
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6UugiEEysCLia9Ge04UN1j",
+      "id" : "6UugiEEysCLia9Ge04UN1j",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc874c122251271dfb939d506",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c874c122251271dfb939d506",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c874c122251271dfb939d506",
+        "width" : 160
+      } ],
+      "name" : "Kind Puppy",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:6UugiEEysCLia9Ge04UN1j"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1k7YEgitylDPEwY0oLo8lH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11529
+      },
+      "genres" : [ "british alternative rock", "modern alternative rock" ],
+      "href" : "https://api.spotify.com/v1/artists/1k7YEgitylDPEwY0oLo8lH",
+      "id" : "1k7YEgitylDPEwY0oLo8lH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcef6601a889bc4107746c19f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cef6601a889bc4107746c19f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cef6601a889bc4107746c19f",
+        "width" : 160
+      } ],
+      "name" : "Puppy",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:1k7YEgitylDPEwY0oLo8lH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19863
+      },
+      "genres" : [ "salsa", "salsa puertorriquena" ],
+      "href" : "https://api.spotify.com/v1/artists/1AwtkVab3KjuB4wHYVj28r",
+      "id" : "1AwtkVab3KjuB4wHYVj28r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb90b78373cb4265b1c982e7ad",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517490b78373cb4265b1c982e7ad",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17890b78373cb4265b1c982e7ad",
+        "width" : 160
+      } ],
+      "name" : "Pupy Santiago",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:1AwtkVab3KjuB4wHYVj28r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 160159
+      },
+      "genres" : [ "dark wave", "ebm", "electro-industrial", "experimental", "industrial", "industrial metal", "industrial rock" ],
+      "href" : "https://api.spotify.com/v1/artists/5Mu0EMEsUIVE132pNMywns",
+      "id" : "5Mu0EMEsUIVE132pNMywns",
+      "images" : [ {
+        "height" : 311,
+        "url" : "https://i.scdn.co/image/822ffe8acabc54c538b7377e0345a39211aecc3c",
+        "width" : 451
+      }, {
+        "height" : 138,
+        "url" : "https://i.scdn.co/image/4a48f5e3d3d00ab2e27c5b8992732aab7569cf1e",
+        "width" : 200
+      }, {
+        "height" : 44,
+        "url" : "https://i.scdn.co/image/48e58388242f6b66ca044fc2b7419cec0fb80364",
+        "width" : 64
+      } ],
+      "name" : "Skinny Puppy",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Mu0EMEsUIVE132pNMywns"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4909
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8874b3f7554ddb2c2e1c8e4c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748874b3f7554ddb2c2e1c8e4c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788874b3f7554ddb2c2e1c8e4c",
+        "width" : 160
+      } ],
+      "name" : "Bolis Pupul",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=+PUP&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1755
+  }
+}

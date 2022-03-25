@@ -1,0 +1,119 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+ARTBAT&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 208487
+      },
+      "genres" : [ "ukrainian electronic" ],
+      "href" : "https://api.spotify.com/v1/artists/3BkRu2TGd2I1uBxZKddfg1",
+      "id" : "3BkRu2TGd2I1uBxZKddfg1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc1347b34c318f8af8d73bcbb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c1347b34c318f8af8d73bcbb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c1347b34c318f8af8d73bcbb",
+        "width" : 160
+      } ],
+      "name" : "ARTBAT",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sEh3sZd1UXjzzOZ6gkwqU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 100
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5sEh3sZd1UXjzzOZ6gkwqU",
+      "id" : "5sEh3sZd1UXjzzOZ6gkwqU",
+      "images" : [ ],
+      "name" : "ARTBAT",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:5sEh3sZd1UXjzzOZ6gkwqU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66kcQDmB3WcuoYPaNQqeH7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1134
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/66kcQDmB3WcuoYPaNQqeH7",
+      "id" : "66kcQDmB3WcuoYPaNQqeH7",
+      "images" : [ ],
+      "name" : "Artbat",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:66kcQDmB3WcuoYPaNQqeH7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QUizPUlTzje6JK8kxH6M0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0QUizPUlTzje6JK8kxH6M0",
+      "id" : "0QUizPUlTzje6JK8kxH6M0",
+      "images" : [ ],
+      "name" : "Artbat",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0QUizPUlTzje6JK8kxH6M0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58lkkoGMWVXoSMceUmf2fh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 34
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/58lkkoGMWVXoSMceUmf2fh",
+      "id" : "58lkkoGMWVXoSMceUmf2fh",
+      "images" : [ ],
+      "name" : "Artbattle",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:58lkkoGMWVXoSMceUmf2fh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Y1qZFmQRtXzGjHSJ3jjw7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4Y1qZFmQRtXzGjHSJ3jjw7",
+      "id" : "4Y1qZFmQRtXzGjHSJ3jjw7",
+      "images" : [ ],
+      "name" : "ARTBAT",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Y1qZFmQRtXzGjHSJ3jjw7"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6
+  }
+}

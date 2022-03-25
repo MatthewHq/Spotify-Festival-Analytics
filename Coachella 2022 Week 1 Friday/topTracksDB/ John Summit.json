@@ -1,0 +1,835 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pT84mlmySh9CkiGfJA9xV",
+        "id" : "4pT84mlmySh9CkiGfJA9xV",
+        "name" : "Echoes",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pT84mlmySh9CkiGfJA9xV"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0LsQJbzouY38Os8GXxn5dO",
+      "id" : "0LsQJbzouY38Os8GXxn5dO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731f903731aea694cc58a4ca19",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021f903731aea694cc58a4ca19",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511f903731aea694cc58a4ca19",
+        "width" : 64
+      } ],
+      "name" : "Human (feat. Echoes)",
+      "release_date" : "2021-11-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0LsQJbzouY38Os8GXxn5dO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pT84mlmySh9CkiGfJA9xV",
+      "id" : "4pT84mlmySh9CkiGfJA9xV",
+      "name" : "Echoes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pT84mlmySh9CkiGfJA9xV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219047,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAYE2101411"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4G4patpYxsF6ovHZOX9wgR",
+    "id" : "4G4patpYxsF6ovHZOX9wgR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Human (feat. Echoes)",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4a51358f786ada5df0b08515856b6df21ff93034?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4G4patpYxsF6ovHZOX9wgR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5czbzNZZfWpyFgZyfT3Mkk",
+        "id" : "5czbzNZZfWpyFgZyfT3Mkk",
+        "name" : "SIDEPIECE",
+        "type" : "artist",
+        "uri" : "spotify:artist:5czbzNZZfWpyFgZyfT3Mkk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3G4HzFDfCJUBJ4u7G3IdVc",
+      "id" : "3G4HzFDfCJUBJ4u7G3IdVc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273749eedc0092f7c1bdb9f37a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02749eedc0092f7c1bdb9f37a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851749eedc0092f7c1bdb9f37a2",
+        "width" : 64
+      } ],
+      "name" : "Deep End (SIDEPIECE Remix)",
+      "release_date" : "2020-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3G4HzFDfCJUBJ4u7G3IdVc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5czbzNZZfWpyFgZyfT3Mkk",
+      "id" : "5czbzNZZfWpyFgZyfT3Mkk",
+      "name" : "SIDEPIECE",
+      "type" : "artist",
+      "uri" : "spotify:artist:5czbzNZZfWpyFgZyfT3Mkk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 196666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQX92004236"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7JdiXX87BugXUDhQ89GEc8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7JdiXX87BugXUDhQ89GEc8",
+    "id" : "7JdiXX87BugXUDhQ89GEc8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Deep End - SIDEPIECE Remix",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e7cf0b14a864e635cd6aae317326e63feef425c0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7JdiXX87BugXUDhQ89GEc8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+        "id" : "586uxXMyD5ObPuzjtrzO1Q",
+        "name" : "Sofi Tukker",
+        "type" : "artist",
+        "uri" : "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0XKusTPfwHVCYWzsn2kN8i",
+      "id" : "0XKusTPfwHVCYWzsn2kN8i",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27319cc8d9fa63ffb76c11a5e53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0219cc8d9fa63ffb76c11a5e53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485119cc8d9fa63ffb76c11a5e53",
+        "width" : 64
+      } ],
+      "name" : "Sun Came Up",
+      "release_date" : "2021-09-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0XKusTPfwHVCYWzsn2kN8i"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+      "id" : "586uxXMyD5ObPuzjtrzO1Q",
+      "name" : "Sofi Tukker",
+      "type" : "artist",
+      "uri" : "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202905,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM37X2100005"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2wf2KMhjoHSZXKVHNBoTMg",
+    "id" : "2wf2KMhjoHSZXKVHNBoTMg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sun Came Up",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cfa659d07450d687f41fcdf16383e395e5d29d9d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2wf2KMhjoHSZXKVHNBoTMg"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+        "id" : "586uxXMyD5ObPuzjtrzO1Q",
+        "name" : "Sofi Tukker",
+        "type" : "artist",
+        "uri" : "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3SJnS1rKgzb1tgi7oCkf5F",
+      "id" : "3SJnS1rKgzb1tgi7oCkf5F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d8e28a912c6a071cd4c6bcf1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d8e28a912c6a071cd4c6bcf1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d8e28a912c6a071cd4c6bcf1",
+        "width" : 64
+      } ],
+      "name" : "Drinkee (Vintage Culture & John Summit Remix)",
+      "release_date" : "2021-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3SJnS1rKgzb1tgi7oCkf5F"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+      "id" : "586uxXMyD5ObPuzjtrzO1Q",
+      "name" : "Sofi Tukker",
+      "type" : "artist",
+      "uri" : "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205161,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM37X2100001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/68raS6F0ad2Iilql3yYeCt",
+    "id" : "68raS6F0ad2Iilql3yYeCt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Drinkee - Vintage Culture & John Summit Remix",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/36308c5b538b95dcd06ccf0312fbdd045b2f1984?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:68raS6F0ad2Iilql3yYeCt"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tUqZawXHgIOYvRgrvpa9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tUqZawXHgIOYvRgrvpa9n",
+      "id" : "3tUqZawXHgIOYvRgrvpa9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc4f1c83755411df0ae3435e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc4f1c83755411df0ae3435e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc4f1c83755411df0ae3435e",
+        "width" : 64
+      } ],
+      "name" : "Deep End",
+      "release_date" : "2020-06-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3tUqZawXHgIOYvRgrvpa9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 156210,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2017641"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Ez1aIT6ljEWE0W3qNhl62"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Ez1aIT6ljEWE0W3qNhl62",
+    "id" : "3Ez1aIT6ljEWE0W3qNhl62",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Deep End",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5615edc9d75557354714ea70418875bb275643c0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3Ez1aIT6ljEWE0W3qNhl62"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6veWaUKjv5fGyTMQoYKkgR",
+      "id" : "6veWaUKjv5fGyTMQoYKkgR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273383e7e9bde8853204eae3882",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02383e7e9bde8853204eae3882",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851383e7e9bde8853204eae3882",
+        "width" : 64
+      } ],
+      "name" : "La Danza",
+      "release_date" : "2022-03-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6veWaUKjv5fGyTMQoYKkgR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 157619,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2220636"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2FEUloDXMvRnyfLcsrCfkw",
+    "id" : "2FEUloDXMvRnyfLcsrCfkw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "La Danza",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f42649d96c270d212d1577ef53adab7398a4d6c9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2FEUloDXMvRnyfLcsrCfkw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UIF595KTWQs5H1NHDinJI",
+      "id" : "4UIF595KTWQs5H1NHDinJI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733df3649ffb5d3b8334b01f3d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023df3649ffb5d3b8334b01f3d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513df3649ffb5d3b8334b01f3d",
+        "width" : 64
+      } ],
+      "name" : "Make Me Feel",
+      "release_date" : "2021-03-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4UIF595KTWQs5H1NHDinJI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 201904,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2133865"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4vgP9RNzsXEUcW7Ws50VrI",
+    "id" : "4vgP9RNzsXEUcW7Ws50VrI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Make Me Feel",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/10ce4d3b7fab975401b35f50a2a79505ebaf11b5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4vgP9RNzsXEUcW7Ws50VrI"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7y5xCKz1V2iSh1YsOLyOPH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7y5xCKz1V2iSh1YsOLyOPH",
+        "id" : "7y5xCKz1V2iSh1YsOLyOPH",
+        "name" : "Parachute Youth",
+        "type" : "artist",
+        "uri" : "spotify:artist:7y5xCKz1V2iSh1YsOLyOPH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6GbUYC6kB63fND2yunOVmZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6GbUYC6kB63fND2yunOVmZ",
+      "id" : "6GbUYC6kB63fND2yunOVmZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a4c8d615cea2603a14fa130",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a4c8d615cea2603a14fa130",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a4c8d615cea2603a14fa130",
+        "width" : 64
+      } ],
+      "name" : "Better Than This",
+      "release_date" : "2021-05-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6GbUYC6kB63fND2yunOVmZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7y5xCKz1V2iSh1YsOLyOPH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7y5xCKz1V2iSh1YsOLyOPH",
+      "id" : "7y5xCKz1V2iSh1YsOLyOPH",
+      "name" : "Parachute Youth",
+      "type" : "artist",
+      "uri" : "spotify:artist:7y5xCKz1V2iSh1YsOLyOPH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 188160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUDCB1701777"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5OLSGox6JVpAyEQuoSYRcs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5OLSGox6JVpAyEQuoSYRcs",
+    "id" : "5OLSGox6JVpAyEQuoSYRcs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Better Than This",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/58fe279453e8fccbbd37750c0622edb03a177588?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5OLSGox6JVpAyEQuoSYRcs"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2T86EVnDCP64EaVKRXIcRx",
+        "id" : "2T86EVnDCP64EaVKRXIcRx",
+        "name" : "Guz",
+        "type" : "artist",
+        "uri" : "spotify:artist:2T86EVnDCP64EaVKRXIcRx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2SNatJfvvM3VT444888Mgk",
+      "id" : "2SNatJfvvM3VT444888Mgk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739834969e110d5be921378108",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029834969e110d5be921378108",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519834969e110d5be921378108",
+        "width" : 64
+      } ],
+      "name" : "Thin Line",
+      "release_date" : "2020-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2SNatJfvvM3VT444888Mgk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2T86EVnDCP64EaVKRXIcRx",
+      "id" : "2T86EVnDCP64EaVKRXIcRx",
+      "name" : "Guz",
+      "type" : "artist",
+      "uri" : "spotify:artist:2T86EVnDCP64EaVKRXIcRx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 188180,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2018744"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/10bmUjdCwAcLNMaFs6BLNO",
+    "id" : "10bmUjdCwAcLNMaFs6BLNO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Thin Line",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0f5d9d4f3d19f278469d93e4b0427bbedaad1426?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:10bmUjdCwAcLNMaFs6BLNO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pT84mlmySh9CkiGfJA9xV",
+        "id" : "4pT84mlmySh9CkiGfJA9xV",
+        "name" : "Echoes",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pT84mlmySh9CkiGfJA9xV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KJPsGYJN54GllYOKTleaj",
+        "id" : "6KJPsGYJN54GllYOKTleaj",
+        "name" : "Hibell",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KJPsGYJN54GllYOKTleaj"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0E8IudongeQszuQs96CoC2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0E8IudongeQszuQs96CoC2",
+      "id" : "0E8IudongeQszuQs96CoC2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273abf7db8d5315d967eae5cf88",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02abf7db8d5315d967eae5cf88",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851abf7db8d5315d967eae5cf88",
+        "width" : 64
+      } ],
+      "name" : "Human (feat. Echoes) [Hibell Remix]",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0E8IudongeQszuQs96CoC2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pT84mlmySh9CkiGfJA9xV",
+      "id" : "4pT84mlmySh9CkiGfJA9xV",
+      "name" : "Echoes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pT84mlmySh9CkiGfJA9xV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KJPsGYJN54GllYOKTleaj",
+      "id" : "6KJPsGYJN54GllYOKTleaj",
+      "name" : "Hibell",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KJPsGYJN54GllYOKTleaj"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 171807,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAYE2200131"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6hQRP0fV38up2v9YPZikNh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6hQRP0fV38up2v9YPZikNh",
+    "id" : "6hQRP0fV38up2v9YPZikNh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Human (feat. Echoes) - Hibell Remix",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f57ffb66b007da81850aae19a13f8bc4eafd5935?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6hQRP0fV38up2v9YPZikNh"
+  } ]
+}

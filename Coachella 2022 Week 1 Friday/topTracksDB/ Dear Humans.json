@@ -1,0 +1,772 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+        "id" : "3H364zRn4QfVTb07GSszAF",
+        "name" : "Dear Humans",
+        "type" : "artist",
+        "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12e2YqKDow6X8rOnKXiju3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12e2YqKDow6X8rOnKXiju3",
+      "id" : "12e2YqKDow6X8rOnKXiju3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c17dee1db7827d08ba4015ce",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c17dee1db7827d08ba4015ce",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c17dee1db7827d08ba4015ce",
+        "width" : 64
+      } ],
+      "name" : "Harvest Moon",
+      "release_date" : "2020-02-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:12e2YqKDow6X8rOnKXiju3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 285000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US83Z2003046"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3iAMApRxWPI2dlvvBcRE6V"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3iAMApRxWPI2dlvvBcRE6V",
+    "id" : "3iAMApRxWPI2dlvvBcRE6V",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Harvest Moon",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7b9f4585e119fc0344f1aa869e52d5e71f8283dc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3iAMApRxWPI2dlvvBcRE6V"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0SR4O7YUAaraXpGzzaoqjO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0SR4O7YUAaraXpGzzaoqjO",
+        "id" : "0SR4O7YUAaraXpGzzaoqjO",
+        "name" : "Rasi Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:0SR4O7YUAaraXpGzzaoqjO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7jokIldfLhoT74QmNYaImU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7jokIldfLhoT74QmNYaImU",
+      "id" : "7jokIldfLhoT74QmNYaImU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731625466fec63ca2c760da104",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021625466fec63ca2c760da104",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511625466fec63ca2c760da104",
+        "width" : 64
+      } ],
+      "name" : "Sefid",
+      "release_date" : "2019-07-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:7jokIldfLhoT74QmNYaImU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SR4O7YUAaraXpGzzaoqjO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SR4O7YUAaraXpGzzaoqjO",
+      "id" : "0SR4O7YUAaraXpGzzaoqjO",
+      "name" : "Rasi Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SR4O7YUAaraXpGzzaoqjO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ZlyWV201fAovqs2lg5RYI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ZlyWV201fAovqs2lg5RYI",
+      "id" : "0ZlyWV201fAovqs2lg5RYI",
+      "name" : "Ali Daryayi",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ZlyWV201fAovqs2lg5RYI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 367228,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US83Z1917184"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ueVVZWwj26GkQGVI4Cofn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ueVVZWwj26GkQGVI4Cofn",
+    "id" : "1ueVVZWwj26GkQGVI4Cofn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sefid - Dear Humans Remix",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2f210a9cc18c02a0ded041df3ca119e11c0bab28?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1ueVVZWwj26GkQGVI4Cofn"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+        "id" : "3H364zRn4QfVTb07GSszAF",
+        "name" : "Dear Humans",
+        "type" : "artist",
+        "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0XeKWeR2V3lUzArSi6zQuC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0XeKWeR2V3lUzArSi6zQuC",
+      "id" : "0XeKWeR2V3lUzArSi6zQuC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ad7c4adb0552fa6c16ad6a18",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ad7c4adb0552fa6c16ad6a18",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ad7c4adb0552fa6c16ad6a18",
+        "width" : 64
+      } ],
+      "name" : "Kidogo",
+      "release_date" : "2020-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0XeKWeR2V3lUzArSi6zQuC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EnmXQhQQvFYrWorH0Duoy",
+      "id" : "6EnmXQhQQvFYrWorH0Duoy",
+      "name" : "Armonica",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EnmXQhQQvFYrWorH0Duoy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 501255,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ITFGO2000017"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4u49iDT467FZNahSU0FJlS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4u49iDT467FZNahSU0FJlS",
+    "id" : "4u49iDT467FZNahSU0FJlS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kidogo - Armonica Remix",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1253696964071d270c76c7fb77b4005f3c162407?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4u49iDT467FZNahSU0FJlS"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+        "id" : "3H364zRn4QfVTb07GSszAF",
+        "name" : "Dear Humans",
+        "type" : "artist",
+        "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6lBqrVOig9oLBMswsLYO6w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6lBqrVOig9oLBMswsLYO6w",
+      "id" : "6lBqrVOig9oLBMswsLYO6w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737d49bc150a7c768a3e48cd0b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027d49bc150a7c768a3e48cd0b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517d49bc150a7c768a3e48cd0b",
+        "width" : 64
+      } ],
+      "name" : "Butterfly",
+      "release_date" : "2022-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6lBqrVOig9oLBMswsLYO6w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 242045,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SE4MF2200368"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5F0iBG1R04aUDv3wojUyhf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5F0iBG1R04aUDv3wojUyhf",
+    "id" : "5F0iBG1R04aUDv3wojUyhf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Butterfly - Radio Edit",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f3d25c14b0e97970c6d8b5c9825ecb25d69a19e2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5F0iBG1R04aUDv3wojUyhf"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+        "id" : "3H364zRn4QfVTb07GSszAF",
+        "name" : "Dear Humans",
+        "type" : "artist",
+        "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3NtMh27leYAQfzHfjjP8a3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3NtMh27leYAQfzHfjjP8a3",
+      "id" : "3NtMh27leYAQfzHfjjP8a3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383731a579c4b1792a2ac1c41",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283731a579c4b1792a2ac1c41",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183731a579c4b1792a2ac1c41",
+        "width" : 64
+      } ],
+      "name" : "Blinded",
+      "release_date" : "2020-08-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3NtMh27leYAQfzHfjjP8a3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 243934,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZKDK2079847"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1deUYrJCsmt0XQIkdQxm9Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1deUYrJCsmt0XQIkdQxm9Y",
+    "id" : "1deUYrJCsmt0XQIkdQxm9Y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Blinded",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dbaf09cfcc943c6dbb09d39efd6b53d8c266ded3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1deUYrJCsmt0XQIkdQxm9Y"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EnmXQhQQvFYrWorH0Duoy",
+        "id" : "6EnmXQhQQvFYrWorH0Duoy",
+        "name" : "Armonica",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EnmXQhQQvFYrWorH0Duoy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+        "id" : "3H364zRn4QfVTb07GSszAF",
+        "name" : "Dear Humans",
+        "type" : "artist",
+        "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/28nm13GF5KtfTvOLt6Di7x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/28nm13GF5KtfTvOLt6Di7x",
+      "id" : "28nm13GF5KtfTvOLt6Di7x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731356e97d6c2f4254f0635f26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021356e97d6c2f4254f0635f26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511356e97d6c2f4254f0635f26",
+        "width" : 64
+      } ],
+      "name" : "Music + Me EP",
+      "release_date" : "2020-10-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:28nm13GF5KtfTvOLt6Di7x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EnmXQhQQvFYrWorH0Duoy",
+      "id" : "6EnmXQhQQvFYrWorH0Duoy",
+      "name" : "Armonica",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EnmXQhQQvFYrWorH0Duoy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 457453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEU672002370"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3kNkXAHHiRmMaQcNdvZwpU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3kNkXAHHiRmMaQcNdvZwpU",
+    "id" : "3kNkXAHHiRmMaQcNdvZwpU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Better With Time - Armonica Version",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f0b507f0217d035e10aee21df2c80ab0bad92356?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3kNkXAHHiRmMaQcNdvZwpU"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EnmXQhQQvFYrWorH0Duoy",
+        "id" : "6EnmXQhQQvFYrWorH0Duoy",
+        "name" : "Armonica",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EnmXQhQQvFYrWorH0Duoy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+        "id" : "3H364zRn4QfVTb07GSszAF",
+        "name" : "Dear Humans",
+        "type" : "artist",
+        "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/28nm13GF5KtfTvOLt6Di7x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/28nm13GF5KtfTvOLt6Di7x",
+      "id" : "28nm13GF5KtfTvOLt6Di7x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731356e97d6c2f4254f0635f26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021356e97d6c2f4254f0635f26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511356e97d6c2f4254f0635f26",
+        "width" : 64
+      } ],
+      "name" : "Music + Me EP",
+      "release_date" : "2020-10-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:28nm13GF5KtfTvOLt6Di7x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EnmXQhQQvFYrWorH0Duoy",
+      "id" : "6EnmXQhQQvFYrWorH0Duoy",
+      "name" : "Armonica",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EnmXQhQQvFYrWorH0Duoy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 515616,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEU672002369"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1glJs5kAXNLiwVoeD6Tqf4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1glJs5kAXNLiwVoeD6Tqf4",
+    "id" : "1glJs5kAXNLiwVoeD6Tqf4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Music + Me - Armonica version",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b93fdb5778490f3e859e0712f101dcb82eab46a5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1glJs5kAXNLiwVoeD6Tqf4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+        "id" : "3H364zRn4QfVTb07GSszAF",
+        "name" : "Dear Humans",
+        "type" : "artist",
+        "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5KIoXQYGj3bWNxCVkiW7M6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5KIoXQYGj3bWNxCVkiW7M6",
+        "id" : "5KIoXQYGj3bWNxCVkiW7M6",
+        "name" : "Erdi Irmak",
+        "type" : "artist",
+        "uri" : "spotify:artist:5KIoXQYGj3bWNxCVkiW7M6"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3iwhSGEdoSMatJBTh7AmfO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3iwhSGEdoSMatJBTh7AmfO",
+      "id" : "3iwhSGEdoSMatJBTh7AmfO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c7de3381ffe0e762a79010d3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c7de3381ffe0e762a79010d3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c7de3381ffe0e762a79010d3",
+        "width" : 64
+      } ],
+      "name" : "Butterfly (Erdi Irmak Remix)",
+      "release_date" : "2022-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3iwhSGEdoSMatJBTh7AmfO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5KIoXQYGj3bWNxCVkiW7M6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5KIoXQYGj3bWNxCVkiW7M6",
+      "id" : "5KIoXQYGj3bWNxCVkiW7M6",
+      "name" : "Erdi Irmak",
+      "type" : "artist",
+      "uri" : "spotify:artist:5KIoXQYGj3bWNxCVkiW7M6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 267540,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SE4MF2200367"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7HsQKHa5o3wEeUn7FcDKkS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7HsQKHa5o3wEeUn7FcDKkS",
+    "id" : "7HsQKHa5o3wEeUn7FcDKkS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Butterfly - Erdi Irmak Radio Edit",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f44cd1a858df27564cf920306c53ce18a0aff732?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7HsQKHa5o3wEeUn7FcDKkS"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gDV7GWyYZxsUGntnNLy91"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gDV7GWyYZxsUGntnNLy91",
+        "id" : "1gDV7GWyYZxsUGntnNLy91",
+        "name" : "Del Monte",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gDV7GWyYZxsUGntnNLy91"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2n0RvOSyvDCfRrS9Vqvwvt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2n0RvOSyvDCfRrS9Vqvwvt",
+      "id" : "2n0RvOSyvDCfRrS9Vqvwvt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273618f946f66b193ed8161f455",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02618f946f66b193ed8161f455",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851618f946f66b193ed8161f455",
+        "width" : 64
+      } ],
+      "name" : "Alpine Grooves 12 (Kristallhütte) [DJ Mix]",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2n0RvOSyvDCfRrS9Vqvwvt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 287933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEH742046862"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4wpLOPY3Bbd8QurtiPqenS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4wpLOPY3Bbd8QurtiPqenS",
+    "id" : "4wpLOPY3Bbd8QurtiPqenS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Blinded (Extended Dub Mix) [Mixed]",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/38d110565527139b66dc4ce230b6a4e48c55a494?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4wpLOPY3Bbd8QurtiPqenS"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5yTIJH2r6uOtjo51D1ZZye"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5yTIJH2r6uOtjo51D1ZZye",
+        "id" : "5yTIJH2r6uOtjo51D1ZZye",
+        "name" : "Tober & Tober",
+        "type" : "artist",
+        "uri" : "spotify:artist:5yTIJH2r6uOtjo51D1ZZye"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+        "id" : "3H364zRn4QfVTb07GSszAF",
+        "name" : "Dear Humans",
+        "type" : "artist",
+        "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jBBoyLYAyRndf7PzSYthH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jBBoyLYAyRndf7PzSYthH",
+      "id" : "1jBBoyLYAyRndf7PzSYthH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736f9f5a55d59978c7286fe2f8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026f9f5a55d59978c7286fe2f8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516f9f5a55d59978c7286fe2f8",
+        "width" : 64
+      } ],
+      "name" : "Addicted",
+      "release_date" : "2019-06-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1jBBoyLYAyRndf7PzSYthH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5yTIJH2r6uOtjo51D1ZZye"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5yTIJH2r6uOtjo51D1ZZye",
+      "id" : "5yTIJH2r6uOtjo51D1ZZye",
+      "name" : "Tober & Tober",
+      "type" : "artist",
+      "uri" : "spotify:artist:5yTIJH2r6uOtjo51D1ZZye"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3H364zRn4QfVTb07GSszAF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3H364zRn4QfVTb07GSszAF",
+      "id" : "3H364zRn4QfVTb07GSszAF",
+      "name" : "Dear Humans",
+      "type" : "artist",
+      "uri" : "spotify:artist:3H364zRn4QfVTb07GSszAF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 252631,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEY471820855"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0r0QsGoZ6jvsCOO4jcyKiI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0r0QsGoZ6jvsCOO4jcyKiI",
+    "id" : "0r0QsGoZ6jvsCOO4jcyKiI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Addicted",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/53d65efb603a981b49679a4ad827a4511272f828?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0r0QsGoZ6jvsCOO4jcyKiI"
+  } ]
+}

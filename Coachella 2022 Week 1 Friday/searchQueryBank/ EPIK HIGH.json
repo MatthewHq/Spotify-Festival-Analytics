@@ -1,0 +1,115 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+EPIK+HIGH&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 607943
+      },
+      "genres" : [ "k-pop", "k-rap", "korean old school hip hop", "korean pop" ],
+      "href" : "https://api.spotify.com/v1/artists/5snNHNlYT2UrtZo5HCJkiw",
+      "id" : "5snNHNlYT2UrtZo5HCJkiw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7ab6a76808b6f77f5628d231",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747ab6a76808b6f77f5628d231",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787ab6a76808b6f77f5628d231",
+        "width" : 160
+      } ],
+      "name" : "Epik High",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:5snNHNlYT2UrtZo5HCJkiw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5VmssimbA6MDuNUPRGtFhs",
+      "id" : "5VmssimbA6MDuNUPRGtFhs",
+      "images" : [ ],
+      "name" : "Epik High & MYK",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:5VmssimbA6MDuNUPRGtFhs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fIVJh44s9SwexeDbT1VWg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 292
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6fIVJh44s9SwexeDbT1VWg",
+      "id" : "6fIVJh44s9SwexeDbT1VWg",
+      "images" : [ ],
+      "name" : "周筆暢 (feat. Epik High)",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:6fIVJh44s9SwexeDbT1VWg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qJbCU1Xh1DNNYVzi4wqdj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2qJbCU1Xh1DNNYVzi4wqdj",
+      "id" : "2qJbCU1Xh1DNNYVzi4wqdj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273995223efa4db42b92ccd63f9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02995223efa4db42b92ccd63f9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851995223efa4db42b92ccd63f9",
+        "width" : 64
+      } ],
+      "name" : "Epik High",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2qJbCU1Xh1DNNYVzi4wqdj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/07qsDs7SsBiTcVrtYK9vGX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/07qsDs7SsBiTcVrtYK9vGX",
+      "id" : "07qsDs7SsBiTcVrtYK9vGX",
+      "images" : [ ],
+      "name" : "DJ Tukutz of Epik High",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:07qsDs7SsBiTcVrtYK9vGX"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5
+  }
+}

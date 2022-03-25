@@ -1,0 +1,127 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Maneskin&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5692292
+      },
+      "genres" : [ "indie rock italiano", "italian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+      "id" : "0lAWpj5szCSwM4rUMHYmrr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb760340fd14e8ea7e6775253",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b760340fd14e8ea7e6775253",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b760340fd14e8ea7e6775253",
+        "width" : 160
+      } ],
+      "name" : "Måneskin",
+      "popularity" : 83,
+      "type" : "artist",
+      "uri" : "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hR6rV9ouEzfjJdh7c1DtU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 160
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6hR6rV9ouEzfjJdh7c1DtU",
+      "id" : "6hR6rV9ouEzfjJdh7c1DtU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a8d5f6065612b50c3abb00a4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a8d5f6065612b50c3abb00a4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a8d5f6065612b50c3abb00a4",
+        "width" : 64
+      } ],
+      "name" : "Måneskinn",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6hR6rV9ouEzfjJdh7c1DtU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2bSNFaYBd272cltcnBFiQv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2bSNFaYBd272cltcnBFiQv",
+      "id" : "2bSNFaYBd272cltcnBFiQv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27344067c09fb5a4689a1ddfc8e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0244067c09fb5a4689a1ddfc8e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485144067c09fb5a4689a1ddfc8e",
+        "width" : 64
+      } ],
+      "name" : "Måneskinnssonaten",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:2bSNFaYBd272cltcnBFiQv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hHa3zp8teNzyy8TOeg4SZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6hHa3zp8teNzyy8TOeg4SZ",
+      "id" : "6hHa3zp8teNzyy8TOeg4SZ",
+      "images" : [ ],
+      "name" : "Josh Maneskin",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6hHa3zp8teNzyy8TOeg4SZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XufY2xjrwfmxynrOso1zV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0XufY2xjrwfmxynrOso1zV",
+      "id" : "0XufY2xjrwfmxynrOso1zV",
+      "images" : [ ],
+      "name" : "Lil Maneskin",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0XufY2xjrwfmxynrOso1zV"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5
+  }
+}

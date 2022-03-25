@@ -1,0 +1,99 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Danny+Elfman&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 305703
+      },
+      "genres" : [ "orchestral soundtrack", "scorecore", "soundtrack" ],
+      "href" : "https://api.spotify.com/v1/artists/5qBZETtyzfYnXOobDXbmcD",
+      "id" : "5qBZETtyzfYnXOobDXbmcD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6a32f746906bd9a991ba4083",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746a32f746906bd9a991ba4083",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786a32f746906bd9a991ba4083",
+        "width" : 160
+      } ],
+      "name" : "Danny Elfman",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:5qBZETtyzfYnXOobDXbmcD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6JXA4i93iOM5g6uSXnFcW3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 28
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6JXA4i93iOM5g6uSXnFcW3",
+      "id" : "6JXA4i93iOM5g6uSXnFcW3",
+      "images" : [ ],
+      "name" : "Danny Elfman & Chris Bacon",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:6JXA4i93iOM5g6uSXnFcW3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jizu5QUDFHfvvVlQLZjKJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3jizu5QUDFHfvvVlQLZjKJ",
+      "id" : "3jizu5QUDFHfvvVlQLZjKJ",
+      "images" : [ ],
+      "name" : "Danny Elfman",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3jizu5QUDFHfvvVlQLZjKJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ZmRiHUY6KBHialNxHFIJm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 79
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4ZmRiHUY6KBHialNxHFIJm",
+      "id" : "4ZmRiHUY6KBHialNxHFIJm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27391e69d9cc4beae199790ea05",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0291e69d9cc4beae199790ea05",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485191e69d9cc4beae199790ea05",
+        "width" : 64
+      } ],
+      "name" : "Russell Shaw, Danny Elfman",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ZmRiHUY6KBHialNxHFIJm"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

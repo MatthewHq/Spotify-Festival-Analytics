@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+SOHMI&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2472
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0gUsjVKHygvZgi27L2QViK",
+      "id" : "0gUsjVKHygvZgi27L2QViK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb34e1cbfc5e2d59b3a7abc8ef",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517434e1cbfc5e2d59b3a7abc8ef",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17834e1cbfc5e2d59b3a7abc8ef",
+        "width" : 160
+      } ],
+      "name" : "SOHMI",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:0gUsjVKHygvZgi27L2QViK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61bB1APRIvLBuGYjwEoR9X"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/61bB1APRIvLBuGYjwEoR9X",
+      "id" : "61bB1APRIvLBuGYjwEoR9X",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273efc3b294e34bd35f9ad00a5e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02efc3b294e34bd35f9ad00a5e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851efc3b294e34bd35f9ad00a5e",
+        "width" : 64
+      } ],
+      "name" : "Sohmi Tamang",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:61bB1APRIvLBuGYjwEoR9X"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Eqf6QdmZW0FpQFh5MA3Gj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4Eqf6QdmZW0FpQFh5MA3Gj",
+      "id" : "4Eqf6QdmZW0FpQFh5MA3Gj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27328b13aa73546c7043c04daee",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0228b13aa73546c7043c04daee",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485128b13aa73546c7043c04daee",
+        "width" : 64
+      } ],
+      "name" : "Sohmiee",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Eqf6QdmZW0FpQFh5MA3Gj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3X4VB2yfGBI4QhGYnktlM4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3X4VB2yfGBI4QhGYnktlM4",
+      "id" : "3X4VB2yfGBI4QhGYnktlM4",
+      "images" : [ ],
+      "name" : "Ulf Söhmisch",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:3X4VB2yfGBI4QhGYnktlM4"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

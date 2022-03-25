@@ -1,0 +1,673 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1EjVo97IWVU7IdeOQB1bY9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1EjVo97IWVU7IdeOQB1bY9",
+        "id" : "1EjVo97IWVU7IdeOQB1bY9",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:1EjVo97IWVU7IdeOQB1bY9"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4pKJ14jcQKqko0cVBYoeWR",
+      "id" : "4pKJ14jcQKqko0cVBYoeWR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734909d4c4d0043ce7f5840829",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024909d4c4d0043ce7f5840829",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514909d4c4d0043ce7f5840829",
+        "width" : 64
+      } ],
+      "name" : "Locket",
+      "release_date" : "2017-06-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4pKJ14jcQKqko0cVBYoeWR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1EjVo97IWVU7IdeOQB1bY9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1EjVo97IWVU7IdeOQB1bY9",
+      "id" : "1EjVo97IWVU7IdeOQB1bY9",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:1EjVo97IWVU7IdeOQB1bY9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 318378,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCADC1793184"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2vfPsGhqMbqmhjMGQ52dYf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2vfPsGhqMbqmhjMGQ52dYf",
+    "id" : "2vfPsGhqMbqmhjMGQ52dYf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Locket",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8a80e7c6be0817d0e8b321a9224ac45afd62c6b1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2vfPsGhqMbqmhjMGQ52dYf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id" : "4kSGbjWGxTchKpIxXPJv0B",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6DxidEI7EhF8md8ev83iNY",
+      "id" : "6DxidEI7EhF8md8ev83iNY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736d9fb491fa8815157aa54a84",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026d9fb491fa8815157aa54a84",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516d9fb491fa8815157aa54a84",
+        "width" : 64
+      } ],
+      "name" : "Jinx",
+      "release_date" : "2019-06-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:6DxidEI7EhF8md8ev83iNY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+      "id" : "4kSGbjWGxTchKpIxXPJv0B",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 126120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMB621900203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0R3TWpoxAhT3HDXM7tpRzS",
+    "id" : "0R3TWpoxAhT3HDXM7tpRzS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ghostride",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2b045b820d149902a6e66c8c63457b6d62098fea?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0R3TWpoxAhT3HDXM7tpRzS"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1EjVo97IWVU7IdeOQB1bY9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1EjVo97IWVU7IdeOQB1bY9",
+        "id" : "1EjVo97IWVU7IdeOQB1bY9",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:1EjVo97IWVU7IdeOQB1bY9"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4pKJ14jcQKqko0cVBYoeWR",
+      "id" : "4pKJ14jcQKqko0cVBYoeWR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734909d4c4d0043ce7f5840829",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024909d4c4d0043ce7f5840829",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514909d4c4d0043ce7f5840829",
+        "width" : 64
+      } ],
+      "name" : "Locket",
+      "release_date" : "2017-06-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4pKJ14jcQKqko0cVBYoeWR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1EjVo97IWVU7IdeOQB1bY9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1EjVo97IWVU7IdeOQB1bY9",
+      "id" : "1EjVo97IWVU7IdeOQB1bY9",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:1EjVo97IWVU7IdeOQB1bY9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 191904,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCADB1785722"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0vMr3GXZJi1IIIWE8bBJuZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0vMr3GXZJi1IIIWE8bBJuZ",
+    "id" : "0vMr3GXZJi1IIIWE8bBJuZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Plants",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/00f4aaec5bb2db5ffd5dd6bf3a821d23d14fe254?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0vMr3GXZJi1IIIWE8bBJuZ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id" : "4kSGbjWGxTchKpIxXPJv0B",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5fmYMNT1zRl5tCdji7YSFh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5fmYMNT1zRl5tCdji7YSFh",
+      "id" : "5fmYMNT1zRl5tCdji7YSFh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27381ba6b8313211bef29a4cf6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0281ba6b8313211bef29a4cf6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485181ba6b8313211bef29a4cf6d",
+        "width" : 64
+      } ],
+      "name" : "Crumb",
+      "release_date" : "2016-09-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:5fmYMNT1zRl5tCdji7YSFh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+      "id" : "4kSGbjWGxTchKpIxXPJv0B",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193981,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCACR1635419"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5JCiqYJxcK4XO1mbQyPNdk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5JCiqYJxcK4XO1mbQyPNdk",
+    "id" : "5JCiqYJxcK4XO1mbQyPNdk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bones",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5078ca3c900063f52769c6ac85570d490dee9173?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5JCiqYJxcK4XO1mbQyPNdk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id" : "4kSGbjWGxTchKpIxXPJv0B",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6DxidEI7EhF8md8ev83iNY",
+      "id" : "6DxidEI7EhF8md8ev83iNY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736d9fb491fa8815157aa54a84",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026d9fb491fa8815157aa54a84",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516d9fb491fa8815157aa54a84",
+        "width" : 64
+      } ],
+      "name" : "Jinx",
+      "release_date" : "2019-06-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:6DxidEI7EhF8md8ev83iNY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+      "id" : "4kSGbjWGxTchKpIxXPJv0B",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 222920,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAEC1957424"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/49ztutPq82dK8AYDO2OkN7",
+    "id" : "49ztutPq82dK8AYDO2OkN7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Part III",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7f4e3c10678fc9b490b0bfde149c1a6f6e67c8fc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:49ztutPq82dK8AYDO2OkN7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id" : "4kSGbjWGxTchKpIxXPJv0B",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hlZNsmD2CoVWAbr6GnEYb",
+      "id" : "4hlZNsmD2CoVWAbr6GnEYb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273deac4655e6e52b549c6bf3cb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02deac4655e6e52b549c6bf3cb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851deac4655e6e52b549c6bf3cb",
+        "width" : 64
+      } ],
+      "name" : "Ice Melt",
+      "release_date" : "2021-04-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:4hlZNsmD2CoVWAbr6GnEYb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+      "id" : "4kSGbjWGxTchKpIxXPJv0B",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 185746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMB622100308"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0B6oBwvkyLptGexpwJVz7c"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0B6oBwvkyLptGexpwJVz7c",
+    "id" : "0B6oBwvkyLptGexpwJVz7c",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Balloon",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/42b7099907736236936e478c12d55d6c3b267a2e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:0B6oBwvkyLptGexpwJVz7c"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id" : "4kSGbjWGxTchKpIxXPJv0B",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6DxidEI7EhF8md8ev83iNY",
+      "id" : "6DxidEI7EhF8md8ev83iNY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736d9fb491fa8815157aa54a84",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026d9fb491fa8815157aa54a84",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516d9fb491fa8815157aa54a84",
+        "width" : 64
+      } ],
+      "name" : "Jinx",
+      "release_date" : "2019-06-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:6DxidEI7EhF8md8ev83iNY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+      "id" : "4kSGbjWGxTchKpIxXPJv0B",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200280,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMB621900202"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3U3uvOHNxa3ODEiD9H6oVr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3U3uvOHNxa3ODEiD9H6oVr",
+    "id" : "3U3uvOHNxa3ODEiD9H6oVr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nina",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/81f65bbf58802e6524b34ed04472ab19bdee3a12?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3U3uvOHNxa3ODEiD9H6oVr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id" : "4kSGbjWGxTchKpIxXPJv0B",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hlZNsmD2CoVWAbr6GnEYb",
+      "id" : "4hlZNsmD2CoVWAbr6GnEYb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273deac4655e6e52b549c6bf3cb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02deac4655e6e52b549c6bf3cb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851deac4655e6e52b549c6bf3cb",
+        "width" : 64
+      } ],
+      "name" : "Ice Melt",
+      "release_date" : "2021-04-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:4hlZNsmD2CoVWAbr6GnEYb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+      "id" : "4kSGbjWGxTchKpIxXPJv0B",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMB622100307"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2cX5koYbXtrs4IpnVxHx7A"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2cX5koYbXtrs4IpnVxHx7A",
+    "id" : "2cX5koYbXtrs4IpnVxHx7A",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Trophy",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/82ef1ff07f609c7809020231ccde80d1e2d07c37?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2cX5koYbXtrs4IpnVxHx7A"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id" : "4kSGbjWGxTchKpIxXPJv0B",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hlZNsmD2CoVWAbr6GnEYb",
+      "id" : "4hlZNsmD2CoVWAbr6GnEYb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273deac4655e6e52b549c6bf3cb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02deac4655e6e52b549c6bf3cb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851deac4655e6e52b549c6bf3cb",
+        "width" : 64
+      } ],
+      "name" : "Ice Melt",
+      "release_date" : "2021-04-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:4hlZNsmD2CoVWAbr6GnEYb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+      "id" : "4kSGbjWGxTchKpIxXPJv0B",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMB622100302"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/31ENsHZWhAD9XVtCcoOw1J"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/31ENsHZWhAD9XVtCcoOw1J",
+    "id" : "31ENsHZWhAD9XVtCcoOw1J",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "BNR",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4a492faa5e47c2b7af075e5383a2d95e9c8747f3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:31ENsHZWhAD9XVtCcoOw1J"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+        "id" : "4kSGbjWGxTchKpIxXPJv0B",
+        "name" : "Crumb",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5fmYMNT1zRl5tCdji7YSFh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5fmYMNT1zRl5tCdji7YSFh",
+      "id" : "5fmYMNT1zRl5tCdji7YSFh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27381ba6b8313211bef29a4cf6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0281ba6b8313211bef29a4cf6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485181ba6b8313211bef29a4cf6d",
+        "width" : 64
+      } ],
+      "name" : "Crumb",
+      "release_date" : "2016-09-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:5fmYMNT1zRl5tCdji7YSFh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+      "id" : "4kSGbjWGxTchKpIxXPJv0B",
+      "name" : "Crumb",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 299970,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCACR1635433"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1AFUETeDf0hlMB0Xj7s7Wv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1AFUETeDf0hlMB0Xj7s7Wv",
+    "id" : "1AFUETeDf0hlMB0Xj7s7Wv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Vinta",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7e0bcae77078e88ea7bcd297c04919e16351382d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1AFUETeDf0hlMB0Xj7s7Wv"
+  } ]
+}

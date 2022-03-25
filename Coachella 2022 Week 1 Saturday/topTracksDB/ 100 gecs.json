@@ -1,0 +1,844 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2uhB1KivbFnlkARpbd0Cvu",
+      "id" : "2uhB1KivbFnlkARpbd0Cvu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734123c0f9b6689205d20f350f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024123c0f9b6689205d20f350f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514123c0f9b6689205d20f350f",
+        "width" : 64
+      } ],
+      "name" : "1000 gecs",
+      "release_date" : "2019-05-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2uhB1KivbFnlkARpbd0Cvu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sklFG9fuDAq3vbIZlkNH6",
+      "id" : "3sklFG9fuDAq3vbIZlkNH6",
+      "name" : "Laura Les",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sklFG9fuDAq3vbIZlkNH6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Cm6C9PNHioyjRKBfO7n9N",
+      "id" : "2Cm6C9PNHioyjRKBfO7n9N",
+      "name" : "Dylan Brady",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Cm6C9PNHioyjRKBfO7n9N"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 114460,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22000415"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/61bwFjzXGG1x2aZsANdLyl",
+    "id" : "61bwFjzXGG1x2aZsANdLyl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "money machine",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9dba27e8be4ca18702ba64c77d0a702942b1d480?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:61bwFjzXGG1x2aZsANdLyl"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2uhB1KivbFnlkARpbd0Cvu",
+      "id" : "2uhB1KivbFnlkARpbd0Cvu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734123c0f9b6689205d20f350f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024123c0f9b6689205d20f350f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514123c0f9b6689205d20f350f",
+        "width" : 64
+      } ],
+      "name" : "1000 gecs",
+      "release_date" : "2019-05-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2uhB1KivbFnlkARpbd0Cvu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sklFG9fuDAq3vbIZlkNH6",
+      "id" : "3sklFG9fuDAq3vbIZlkNH6",
+      "name" : "Laura Les",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sklFG9fuDAq3vbIZlkNH6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Cm6C9PNHioyjRKBfO7n9N",
+      "id" : "2Cm6C9PNHioyjRKBfO7n9N",
+      "name" : "Dylan Brady",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Cm6C9PNHioyjRKBfO7n9N"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 126616,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22000422"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7CUkeiG7QtB7tPU9f8SANS",
+    "id" : "7CUkeiG7QtB7tPU9f8SANS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "hand crushed by a mallet",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fdc450e716d370a782e245b5b828e89597ba7dbc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7CUkeiG7QtB7tPU9f8SANS"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3zy8FiB9URB4b2yNOwMM36",
+      "id" : "3zy8FiB9URB4b2yNOwMM36",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730c52b44787942fcc92e8a25d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020c52b44787942fcc92e8a25d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510c52b44787942fcc92e8a25d",
+        "width" : 64
+      } ],
+      "name" : "mememe",
+      "release_date" : "2021-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3zy8FiB9URB4b2yNOwMM36"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sklFG9fuDAq3vbIZlkNH6",
+      "id" : "3sklFG9fuDAq3vbIZlkNH6",
+      "name" : "Laura Les",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sklFG9fuDAq3vbIZlkNH6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3h5CubMAGNOoUHApboZYKc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3h5CubMAGNOoUHApboZYKc",
+      "id" : "3h5CubMAGNOoUHApboZYKc",
+      "name" : "Dylan Brady",
+      "type" : "artist",
+      "uri" : "spotify:artist:3h5CubMAGNOoUHApboZYKc"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 166003,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22106106"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Tdkz4mLxN8szqcMeNWcI8",
+    "id" : "2Tdkz4mLxN8szqcMeNWcI8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "mememe",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9797ebfe3d97f4ad3768eb46dbd0aba9bfb8f27a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2Tdkz4mLxN8szqcMeNWcI8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2uhB1KivbFnlkARpbd0Cvu",
+      "id" : "2uhB1KivbFnlkARpbd0Cvu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734123c0f9b6689205d20f350f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024123c0f9b6689205d20f350f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514123c0f9b6689205d20f350f",
+        "width" : 64
+      } ],
+      "name" : "1000 gecs",
+      "release_date" : "2019-05-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2uhB1KivbFnlkARpbd0Cvu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sklFG9fuDAq3vbIZlkNH6",
+      "id" : "3sklFG9fuDAq3vbIZlkNH6",
+      "name" : "Laura Les",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sklFG9fuDAq3vbIZlkNH6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Cm6C9PNHioyjRKBfO7n9N",
+      "id" : "2Cm6C9PNHioyjRKBfO7n9N",
+      "name" : "Dylan Brady",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Cm6C9PNHioyjRKBfO7n9N"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 121681,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22000418"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/23Dapn8107GgxvXDIsPwWm",
+    "id" : "23Dapn8107GgxvXDIsPwWm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "stupid horse",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6cab4d3e8dfac7d85b33823ba78c4401ed4de719?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:23Dapn8107GgxvXDIsPwWm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2uhB1KivbFnlkARpbd0Cvu",
+      "id" : "2uhB1KivbFnlkARpbd0Cvu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734123c0f9b6689205d20f350f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024123c0f9b6689205d20f350f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514123c0f9b6689205d20f350f",
+        "width" : 64
+      } ],
+      "name" : "1000 gecs",
+      "release_date" : "2019-05-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2uhB1KivbFnlkARpbd0Cvu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sklFG9fuDAq3vbIZlkNH6",
+      "id" : "3sklFG9fuDAq3vbIZlkNH6",
+      "name" : "Laura Les",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sklFG9fuDAq3vbIZlkNH6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Cm6C9PNHioyjRKBfO7n9N",
+      "id" : "2Cm6C9PNHioyjRKBfO7n9N",
+      "name" : "Dylan Brady",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Cm6C9PNHioyjRKBfO7n9N"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 143663,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22000420"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3VHiIVQe8Sc6gtSsTp3pDz",
+    "id" : "3VHiIVQe8Sc6gtSsTp3pDz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "ringtone",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/63b51bd98c9894316a1796b7dca3f60712e936a0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3VHiIVQe8Sc6gtSsTp3pDz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0qnExDZfz0kVeBjixPsyjS",
+      "id" : "0qnExDZfz0kVeBjixPsyjS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f91a3040f0be854026ad2dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f91a3040f0be854026ad2dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f91a3040f0be854026ad2dd0",
+        "width" : 64
+      } ],
+      "name" : "1000 gecs and The Tree of Clues",
+      "release_date" : "2020-07-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:0qnExDZfz0kVeBjixPsyjS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6OqhFYFJDnBBHas02HopPT",
+      "id" : "6OqhFYFJDnBBHas02HopPT",
+      "name" : "Kero Kero Bonito",
+      "type" : "artist",
+      "uri" : "spotify:artist:6OqhFYFJDnBBHas02HopPT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214529,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT22000177"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2T93MtJuKMzcGRTR8fdizV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2T93MtJuKMzcGRTR8fdizV",
+    "id" : "2T93MtJuKMzcGRTR8fdizV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ae79e0ddb3c4ac0c8d27bf38ed0ff4457b203fd2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2T93MtJuKMzcGRTR8fdizV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2uhB1KivbFnlkARpbd0Cvu",
+      "id" : "2uhB1KivbFnlkARpbd0Cvu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734123c0f9b6689205d20f350f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024123c0f9b6689205d20f350f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514123c0f9b6689205d20f350f",
+        "width" : 64
+      } ],
+      "name" : "1000 gecs",
+      "release_date" : "2019-05-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2uhB1KivbFnlkARpbd0Cvu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sklFG9fuDAq3vbIZlkNH6",
+      "id" : "3sklFG9fuDAq3vbIZlkNH6",
+      "name" : "Laura Les",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sklFG9fuDAq3vbIZlkNH6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Cm6C9PNHioyjRKBfO7n9N",
+      "id" : "2Cm6C9PNHioyjRKBfO7n9N",
+      "name" : "Dylan Brady",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Cm6C9PNHioyjRKBfO7n9N"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 140183,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22000416"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2MLuFz9Y3Vg3PF0Yf93M5c",
+    "id" : "2MLuFz9Y3Vg3PF0Yf93M5c",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "800 db cloud",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4da6ed3f5c97bb2cb01a68b30772103413a06b7b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2MLuFz9Y3Vg3PF0Yf93M5c"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7KpuGjIfduSD45wl5IQc7G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7KpuGjIfduSD45wl5IQc7G",
+      "id" : "7KpuGjIfduSD45wl5IQc7G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27305d2d7b20beccb9b866f1037",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0205d2d7b20beccb9b866f1037",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485105d2d7b20beccb9b866f1037",
+        "width" : 64
+      } ],
+      "name" : "100 gecs",
+      "release_date" : "2017-01-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:7KpuGjIfduSD45wl5IQc7G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 129015,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCADL1841679"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1j581GCDFQ9P8xd6fyjgLt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1j581GCDFQ9P8xd6fyjgLt",
+    "id" : "1j581GCDFQ9P8xd6fyjgLt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "bloodstains",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ae084d2b2ddaf963d6dbab89acb18b5bb056233d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1j581GCDFQ9P8xd6fyjgLt"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz",
+        "id" : "6XyY86QOPPrYVGvF9ch6wz",
+        "name" : "Linkin Park",
+        "type" : "artist",
+        "uri" : "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0kJJubTbpBWH9dwHmRl4qR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0kJJubTbpBWH9dwHmRl4qR",
+      "id" : "0kJJubTbpBWH9dwHmRl4qR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bc0b95233a832ded76f3ebf7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bc0b95233a832ded76f3ebf7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bc0b95233a832ded76f3ebf7",
+        "width" : 64
+      } ],
+      "name" : "One Step Closer (100 gecs Reanimation)",
+      "release_date" : "2021-01-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0kJJubTbpBWH9dwHmRl4qR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz",
+      "id" : "6XyY86QOPPrYVGvF9ch6wz",
+      "name" : "Linkin Park",
+      "type" : "artist",
+      "uri" : "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 141071,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB12004652"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4jM6Tl8062cc9gTJgTZTpx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4jM6Tl8062cc9gTJgTZTpx",
+    "id" : "4jM6Tl8062cc9gTJgTZTpx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "One Step Closer - 100 gecs Reanimation",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2a2b8292f64ea76755b2692824bd88bf84f1c78a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4jM6Tl8062cc9gTJgTZTpx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2uhB1KivbFnlkARpbd0Cvu",
+      "id" : "2uhB1KivbFnlkARpbd0Cvu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734123c0f9b6689205d20f350f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024123c0f9b6689205d20f350f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514123c0f9b6689205d20f350f",
+        "width" : 64
+      } ],
+      "name" : "1000 gecs",
+      "release_date" : "2019-05-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2uhB1KivbFnlkARpbd0Cvu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sklFG9fuDAq3vbIZlkNH6",
+      "id" : "3sklFG9fuDAq3vbIZlkNH6",
+      "name" : "Laura Les",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sklFG9fuDAq3vbIZlkNH6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Cm6C9PNHioyjRKBfO7n9N",
+      "id" : "2Cm6C9PNHioyjRKBfO7n9N",
+      "name" : "Dylan Brady",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Cm6C9PNHioyjRKBfO7n9N"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 141290,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22000414"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2fwz9mBaELJCzXuEEEe35Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2fwz9mBaELJCzXuEEEe35Y",
+    "id" : "2fwz9mBaELJCzXuEEEe35Y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "745 sticky",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fdf0c1f8259993024f89ef596193610822e0494b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2fwz9mBaELJCzXuEEEe35Y"
+  } ]
+}

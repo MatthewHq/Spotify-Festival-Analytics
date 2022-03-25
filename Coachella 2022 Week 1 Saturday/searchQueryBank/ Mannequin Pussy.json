@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Mannequin+Pussy&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 70460
+      },
+      "genres" : [ "bubblegrunge", "indie punk", "indie rock", "modern power pop", "riot grrrl" ],
+      "href" : "https://api.spotify.com/v1/artists/33yje3hgpNfdXpqdJQcrt9",
+      "id" : "33yje3hgpNfdXpqdJQcrt9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd9edfbaa245e3597e5d230b3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d9edfbaa245e3597e5d230b3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d9edfbaa245e3597e5d230b3",
+        "width" : 160
+      } ],
+      "name" : "Mannequin Pussy",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:33yje3hgpNfdXpqdJQcrt9"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

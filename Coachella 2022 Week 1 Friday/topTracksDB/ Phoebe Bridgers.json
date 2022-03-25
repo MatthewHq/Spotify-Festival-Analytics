@@ -1,0 +1,682 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id" : "1r1uxoy19fzMxunt3ONAkG",
+        "name" : "Phoebe Bridgers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0qWcLfCZ8wtcoOdX14oGNI",
+      "id" : "0qWcLfCZ8wtcoOdX14oGNI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27368b90c3b34c3ac22856ddab8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0268b90c3b34c3ac22856ddab8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485168b90c3b34c3ac22856ddab8",
+        "width" : 64
+      } ],
+      "name" : "Stranger in the Alps",
+      "release_date" : "2017-09-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:0qWcLfCZ8wtcoOdX14oGNI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 229760,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G1714202"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5xo8RrjJ9CVNrtRg2S3B1R",
+    "id" : "5xo8RrjJ9CVNrtRg2S3B1R",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Motion Sickness",
+    "popularity" : 80,
+    "preview_url" : "https://p.scdn.co/mp3-preview/03bd2422cb4149c93e7b1c070aade6216778634f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5xo8RrjJ9CVNrtRg2S3B1R"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5wFXmYsg3KFJ8BDsQudJ4f",
+        "id" : "5wFXmYsg3KFJ8BDsQudJ4f",
+        "name" : "Manchester Orchestra",
+        "type" : "artist",
+        "uri" : "spotify:artist:5wFXmYsg3KFJ8BDsQudJ4f"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5pCfjopxazLdvmLae6My9w",
+      "id" : "5pCfjopxazLdvmLae6My9w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738b54cdfa703cc0162b76dfb1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028b54cdfa703cc0162b76dfb1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518b54cdfa703cc0162b76dfb1",
+        "width" : 64
+      } ],
+      "name" : "The Gold (Phoebe Bridgers Version)",
+      "release_date" : "2018-07-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5pCfjopxazLdvmLae6My9w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5wFXmYsg3KFJ8BDsQudJ4f",
+      "id" : "5wFXmYsg3KFJ8BDsQudJ4f",
+      "name" : "Manchester Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:5wFXmYsg3KFJ8BDsQudJ4f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 233226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G1818101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7qcXUzPwoxSBFxjTbNrV0B",
+    "id" : "7qcXUzPwoxSBFxjTbNrV0B",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Gold - Phoebe Bridgers Version",
+    "popularity" : 76,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2d5ed85a1bbdc90fdfbacddcbf7175010a0156ba?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7qcXUzPwoxSBFxjTbNrV0B"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id" : "1r1uxoy19fzMxunt3ONAkG",
+        "name" : "Phoebe Bridgers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Pp6qGEywDdofgFC1oFbSH",
+      "id" : "6Pp6qGEywDdofgFC1oFbSH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a91b75c9ef65ed8d760ff600",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a91b75c9ef65ed8d760ff600",
+        "width" : 64
+      } ],
+      "name" : "Punisher",
+      "release_date" : "2020-06-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:6Pp6qGEywDdofgFC1oFbSH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 184524,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2020003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4vjvx7Zxkb4AltGcZ0BBvI",
+    "id" : "4vjvx7Zxkb4AltGcZ0BBvI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kyoto",
+    "popularity" : 74,
+    "preview_url" : "https://p.scdn.co/mp3-preview/96f93f39e1d28a82efd2c914e233094954b86273?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4vjvx7Zxkb4AltGcZ0BBvI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id" : "1r1uxoy19fzMxunt3ONAkG",
+        "name" : "Phoebe Bridgers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Pp6qGEywDdofgFC1oFbSH",
+      "id" : "6Pp6qGEywDdofgFC1oFbSH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a91b75c9ef65ed8d760ff600",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a91b75c9ef65ed8d760ff600",
+        "width" : 64
+      } ],
+      "name" : "Punisher",
+      "release_date" : "2020-06-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:6Pp6qGEywDdofgFC1oFbSH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219681,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2020002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5bIgzvxvlefRUCQK9JPocF",
+    "id" : "5bIgzvxvlefRUCQK9JPocF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Garden Song",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0f2abc3cb7b33908b88d41ce5c8423acf98ac19e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5bIgzvxvlefRUCQK9JPocF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id" : "1r1uxoy19fzMxunt3ONAkG",
+        "name" : "Phoebe Bridgers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Pp6qGEywDdofgFC1oFbSH",
+      "id" : "6Pp6qGEywDdofgFC1oFbSH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a91b75c9ef65ed8d760ff600",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a91b75c9ef65ed8d760ff600",
+        "width" : 64
+      } ],
+      "name" : "Punisher",
+      "release_date" : "2020-06-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:6Pp6qGEywDdofgFC1oFbSH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 277676,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2020007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/46RNrAkGsqWTDrv2ZPOAbx",
+    "id" : "46RNrAkGsqWTDrv2ZPOAbx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Moon Song",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/117f7f7d291b59ffd37b411b73ce9835f790d96e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:46RNrAkGsqWTDrv2ZPOAbx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id" : "1r1uxoy19fzMxunt3ONAkG",
+        "name" : "Phoebe Bridgers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Pp6qGEywDdofgFC1oFbSH",
+      "id" : "6Pp6qGEywDdofgFC1oFbSH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a91b75c9ef65ed8d760ff600",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a91b75c9ef65ed8d760ff600",
+        "width" : 64
+      } ],
+      "name" : "Punisher",
+      "release_date" : "2020-06-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:6Pp6qGEywDdofgFC1oFbSH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 241640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2020008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5BN59BDczcpxstFKILIH0q"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5BN59BDczcpxstFKILIH0q",
+    "id" : "5BN59BDczcpxstFKILIH0q",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Savior Complex",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/571aaf7a9343f63b4e6b3a03ba6c81d8b7456c8f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5BN59BDczcpxstFKILIH0q"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id" : "1r1uxoy19fzMxunt3ONAkG",
+        "name" : "Phoebe Bridgers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Pp6qGEywDdofgFC1oFbSH",
+      "id" : "6Pp6qGEywDdofgFC1oFbSH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a91b75c9ef65ed8d760ff600",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a91b75c9ef65ed8d760ff600",
+        "width" : 64
+      } ],
+      "name" : "Punisher",
+      "release_date" : "2020-06-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:6Pp6qGEywDdofgFC1oFbSH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236350,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2020010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1WCjhRs2WBgyeGaybCX2Po"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1WCjhRs2WBgyeGaybCX2Po",
+    "id" : "1WCjhRs2WBgyeGaybCX2Po",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Graceland Too",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/95e692923d4e2100cfe9ef4acfb307583acd41ae?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1WCjhRs2WBgyeGaybCX2Po"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id" : "1r1uxoy19fzMxunt3ONAkG",
+        "name" : "Phoebe Bridgers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Pp6qGEywDdofgFC1oFbSH",
+      "id" : "6Pp6qGEywDdofgFC1oFbSH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a91b75c9ef65ed8d760ff600",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a91b75c9ef65ed8d760ff600",
+        "width" : 64
+      } ],
+      "name" : "Punisher",
+      "release_date" : "2020-06-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:6Pp6qGEywDdofgFC1oFbSH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 344692,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2020011"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0pJW1Xw3aY4Eh6k5iuBkfI",
+    "id" : "0pJW1Xw3aY4Eh6k5iuBkfI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Know The End",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3721d66b11fec8ba4350fedeff946d0e382dbc42?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0pJW1Xw3aY4Eh6k5iuBkfI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id" : "1r1uxoy19fzMxunt3ONAkG",
+        "name" : "Phoebe Bridgers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0qWcLfCZ8wtcoOdX14oGNI",
+      "id" : "0qWcLfCZ8wtcoOdX14oGNI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27368b90c3b34c3ac22856ddab8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0268b90c3b34c3ac22856ddab8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485168b90c3b34c3ac22856ddab8",
+        "width" : 64
+      } ],
+      "name" : "Stranger in the Alps",
+      "release_date" : "2017-09-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:0qWcLfCZ8wtcoOdX14oGNI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 232373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G1714203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3rJDsZjIaCfJQSqRUvl0BM",
+    "id" : "3rJDsZjIaCfJQSqRUvl0BM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Funeral",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8463fdef77ed26a45b1e544f65ea0ddca9dd4f4d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3rJDsZjIaCfJQSqRUvl0BM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+        "id" : "1r1uxoy19fzMxunt3ONAkG",
+        "name" : "Phoebe Bridgers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5XRNskxrXy1Q12hV59zkDr",
+      "id" : "5XRNskxrXy1Q12hV59zkDr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737791973890cd3352f5bc69ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027791973890cd3352f5bc69ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517791973890cd3352f5bc69ea",
+        "width" : 64
+      } ],
+      "name" : "That Funny Feeling",
+      "release_date" : "2021-10-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5XRNskxrXy1Q12hV59zkDr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id" : "1r1uxoy19fzMxunt3ONAkG",
+      "name" : "Phoebe Bridgers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 400565,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJ5G2130301"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/30y5OpD8TPAru2wsyZDD4S",
+    "id" : "30y5OpD8TPAru2wsyZDD4S",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "That Funny Feeling",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6dd0435d3bc36ed0342f952d7b682808b96d89ec?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:30y5OpD8TPAru2wsyZDD4S"
+  } ]
+}

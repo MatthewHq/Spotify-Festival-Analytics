@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Denzel+Curry&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1795927
+      },
+      "genres" : [ "dark trap", "drill", "hip hop", "miami hip hop", "rap", "underground hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+      "id" : "6fxyWrfmjcbj5d12gXeiNV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebdd630d7b6b717fb0c56f4554",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174dd630d7b6b717fb0c56f4554",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178dd630d7b6b717fb0c56f4554",
+        "width" : 160
+      } ],
+      "name" : "Denzel Curry",
+      "popularity" : 77,
+      "type" : "artist",
+      "uri" : "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2R8ANTVCPBYoZsS7FbrWn3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 210
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2R8ANTVCPBYoZsS7FbrWn3",
+      "id" : "2R8ANTVCPBYoZsS7FbrWn3",
+      "images" : [ ],
+      "name" : "Denzel Aquarius'killa Curry",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:2R8ANTVCPBYoZsS7FbrWn3"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

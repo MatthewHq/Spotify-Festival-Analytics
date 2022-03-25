@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=+Paco+Osuna&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 72646
+      },
+      "genres" : [ "minimal techno", "spanish techno" ],
+      "href" : "https://api.spotify.com/v1/artists/6vdIozDDsH4uJEAHN8tyS3",
+      "id" : "6vdIozDDsH4uJEAHN8tyS3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba95268bdcada682b7a5b8ee3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a95268bdcada682b7a5b8ee3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a95268bdcada682b7a5b8ee3",
+        "width" : 160
+      } ],
+      "name" : "Paco Osuna",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:6vdIozDDsH4uJEAHN8tyS3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36fEWlBT94FjeaiNSkRy04"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 61
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/36fEWlBT94FjeaiNSkRy04",
+      "id" : "36fEWlBT94FjeaiNSkRy04",
+      "images" : [ ],
+      "name" : "Paco Osuna",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:36fEWlBT94FjeaiNSkRy04"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5N4rRIOUuwxojD8rotTTUZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5N4rRIOUuwxojD8rotTTUZ",
+      "id" : "5N4rRIOUuwxojD8rotTTUZ",
+      "images" : [ ],
+      "name" : "Paco de Osuna",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5N4rRIOUuwxojD8rotTTUZ"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

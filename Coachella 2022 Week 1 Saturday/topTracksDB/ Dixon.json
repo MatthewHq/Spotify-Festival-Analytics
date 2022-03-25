@@ -1,0 +1,808 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3bqBkAzdPwEDe1JUvb7ZeC",
+        "id" : "3bqBkAzdPwEDe1JUvb7ZeC",
+        "name" : "Guy Gerber",
+        "type" : "artist",
+        "uri" : "spotify:artist:3bqBkAzdPwEDe1JUvb7ZeC"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+        "id" : "3wc57nV2fGEoM8x4xPK1O9",
+        "name" : "Dixon",
+        "type" : "artist",
+        "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3jXTZ0Up5vkQ2vU2p5XxKw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3jXTZ0Up5vkQ2vU2p5XxKw",
+      "id" : "3jXTZ0Up5vkQ2vU2p5XxKw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e3ca7704ed0256204d821e8d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e3ca7704ed0256204d821e8d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e3ca7704ed0256204d821e8d",
+        "width" : 64
+      } ],
+      "name" : "No Distance",
+      "release_date" : "2014-04-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3jXTZ0Up5vkQ2vU2p5XxKw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bqBkAzdPwEDe1JUvb7ZeC",
+      "id" : "3bqBkAzdPwEDe1JUvb7ZeC",
+      "name" : "Guy Gerber",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bqBkAzdPwEDe1JUvb7ZeC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 476856,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CH7531400001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7t4MdwfjiFCQziryb622Oc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7t4MdwfjiFCQziryb622Oc",
+    "id" : "7t4MdwfjiFCQziryb622Oc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "No Distance - Original Mix",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b7e5a249b383a397e9b7df693822af8a7874a026?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7t4MdwfjiFCQziryb622Oc"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+        "id" : "762310PdDnwsDxAQxzQkfX",
+        "name" : "Depeche Mode",
+        "type" : "artist",
+        "uri" : "spotify:artist:762310PdDnwsDxAQxzQkfX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5Z5liGDbXuSesNaHjhloUw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5Z5liGDbXuSesNaHjhloUw",
+      "id" : "5Z5liGDbXuSesNaHjhloUw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736f3e559d7970bbdfb281275c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026f3e559d7970bbdfb281275c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516f3e559d7970bbdfb281275c",
+        "width" : 64
+      } ],
+      "name" : "Cover Me (Remixes)",
+      "release_date" : "2017-10-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:5Z5liGDbXuSesNaHjhloUw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+      "id" : "762310PdDnwsDxAQxzQkfX",
+      "name" : "Depeche Mode",
+      "type" : "artist",
+      "uri" : "spotify:artist:762310PdDnwsDxAQxzQkfX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 446026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQX91701839"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ahv0ulS8yUYUsv1Kj9Is8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ahv0ulS8yUYUsv1Kj9Is8",
+    "id" : "1ahv0ulS8yUYUsv1Kj9Is8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Cover Me - Dixon Remix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5a969c1e2f68f6a035ce21486bc804deb4642260?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1ahv0ulS8yUYUsv1Kj9Is8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0SWJzERYiO2LLxoUqMXDsz",
+        "id" : "0SWJzERYiO2LLxoUqMXDsz",
+        "name" : "Manoo",
+        "type" : "artist",
+        "uri" : "spotify:artist:0SWJzERYiO2LLxoUqMXDsz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ErWVVcMH1io3Au40dTKnG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ErWVVcMH1io3Au40dTKnG",
+        "id" : "2ErWVVcMH1io3Au40dTKnG",
+        "name" : "Mr Raoul K",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ErWVVcMH1io3Au40dTKnG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1zD64owx5KjwupPUsfjVlj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1zD64owx5KjwupPUsfjVlj",
+      "id" : "1zD64owx5KjwupPUsfjVlj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304af87c007db2f454f9d3a1b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204af87c007db2f454f9d3a1b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104af87c007db2f454f9d3a1b",
+        "width" : 64
+      } ],
+      "name" : "Toukan EP",
+      "release_date" : "2017-07-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:1zD64owx5KjwupPUsfjVlj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SWJzERYiO2LLxoUqMXDsz",
+      "id" : "0SWJzERYiO2LLxoUqMXDsz",
+      "name" : "Manoo",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SWJzERYiO2LLxoUqMXDsz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09jtkgopdNOFuQKcOPPdeP",
+      "id" : "09jtkgopdNOFuQKcOPPdeP",
+      "name" : "Ahmed Sosso",
+      "type" : "artist",
+      "uri" : "spotify:artist:09jtkgopdNOFuQKcOPPdeP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ErWVVcMH1io3Au40dTKnG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ErWVVcMH1io3Au40dTKnG",
+      "id" : "2ErWVVcMH1io3Au40dTKnG",
+      "name" : "Mr Raoul K",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ErWVVcMH1io3Au40dTKnG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 480611,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEEC31700023"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3U39SHdh7f7rGGv5SollUp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3U39SHdh7f7rGGv5SollUp",
+    "id" : "3U39SHdh7f7rGGv5SollUp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Toukan - Dixon Rework",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/276fc14c67b394b0fe5b67a2bc4cc722cc9d4a4a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3U39SHdh7f7rGGv5SollUp"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ehDqG6bFGAurxlAJeQgNT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ehDqG6bFGAurxlAJeQgNT",
+        "id" : "1ehDqG6bFGAurxlAJeQgNT",
+        "name" : "Matthew Dekay",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ehDqG6bFGAurxlAJeQgNT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0334oJHhRSKJRHKpE9i62h",
+        "id" : "0334oJHhRSKJRHKpE9i62h",
+        "name" : "Lee Burridge",
+        "type" : "artist",
+        "uri" : "spotify:artist:0334oJHhRSKJRHKpE9i62h"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Gns7GRlscfuLKEnPrfvln"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Gns7GRlscfuLKEnPrfvln",
+      "id" : "0Gns7GRlscfuLKEnPrfvln",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273854c8064d2ab11229d2b58ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02854c8064d2ab11229d2b58ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851854c8064d2ab11229d2b58ab",
+        "width" : 64
+      } ],
+      "name" : "Lost In A Moment EP",
+      "release_date" : "2012-06-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0Gns7GRlscfuLKEnPrfvln"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ehDqG6bFGAurxlAJeQgNT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ehDqG6bFGAurxlAJeQgNT",
+      "id" : "1ehDqG6bFGAurxlAJeQgNT",
+      "name" : "Matthew Dekay",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ehDqG6bFGAurxlAJeQgNT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0334oJHhRSKJRHKpE9i62h",
+      "id" : "0334oJHhRSKJRHKpE9i62h",
+      "name" : "Lee Burridge",
+      "type" : "artist",
+      "uri" : "spotify:artist:0334oJHhRSKJRHKpE9i62h"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 562119,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEEC31200018"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0U9veOgl6xF5vgtmIc9rku"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0U9veOgl6xF5vgtmIc9rku",
+    "id" : "0U9veOgl6xF5vgtmIc9rku",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lost In A Moment - Dixon Rework",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/11a934f169c1d518788d171533f091fe12ca8140?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0U9veOgl6xF5vgtmIc9rku"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04KmByEP6icXVY0PvJaMMp",
+        "id" : "04KmByEP6icXVY0PvJaMMp",
+        "name" : "Mano Le Tough",
+        "type" : "artist",
+        "uri" : "spotify:artist:04KmByEP6icXVY0PvJaMMp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7MsogmGt7HeT2Lf0fPDV1w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7MsogmGt7HeT2Lf0fPDV1w",
+      "id" : "7MsogmGt7HeT2Lf0fPDV1w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731767872f916b5c74fcd53899",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021767872f916b5c74fcd53899",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511767872f916b5c74fcd53899",
+        "width" : 64
+      } ],
+      "name" : "Changing Days Remixes",
+      "release_date" : "2013-09-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:7MsogmGt7HeT2Lf0fPDV1w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04KmByEP6icXVY0PvJaMMp",
+      "id" : "04KmByEP6icXVY0PvJaMMp",
+      "name" : "Mano Le Tough",
+      "type" : "artist",
+      "uri" : "spotify:artist:04KmByEP6icXVY0PvJaMMp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 388302,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DECY61300036"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7eCWAyYizxAubSdc17iQnS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7eCWAyYizxAubSdc17iQnS",
+    "id" : "7eCWAyYizxAubSdc17iQnS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Everything You've Done Before - Dixon Remix",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c837821a2d83b9911030b3fa709e0bc4e8ba18da?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7eCWAyYizxAubSdc17iQnS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/61G7yQtFBGRRbJlohUvlPG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/61G7yQtFBGRRbJlohUvlPG",
+        "id" : "61G7yQtFBGRRbJlohUvlPG",
+        "name" : "Joy Wellboy",
+        "type" : "artist",
+        "uri" : "spotify:artist:61G7yQtFBGRRbJlohUvlPG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6YTQ78QgfiJeLOw4FS65iP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6YTQ78QgfiJeLOw4FS65iP",
+      "id" : "6YTQ78QgfiJeLOw4FS65iP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa0c83d46838e3d24e4bd838",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa0c83d46838e3d24e4bd838",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa0c83d46838e3d24e4bd838",
+        "width" : 64
+      } ],
+      "name" : "Before the Sunrise",
+      "release_date" : "2014-06-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:6YTQ78QgfiJeLOw4FS65iP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61G7yQtFBGRRbJlohUvlPG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/61G7yQtFBGRRbJlohUvlPG",
+      "id" : "61G7yQtFBGRRbJlohUvlPG",
+      "name" : "Joy Wellboy",
+      "type" : "artist",
+      "uri" : "spotify:artist:61G7yQtFBGRRbJlohUvlPG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 510000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEAE61400049"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6vXaspvzP5xRWcfOe2cpJ1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6vXaspvzP5xRWcfOe2cpJ1",
+    "id" : "6vXaspvzP5xRWcfOe2cpJ1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Before the Sunrise - Dixon Remix",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1aed464d290af9d550aec2598910a914ac08874f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:6vXaspvzP5xRWcfOe2cpJ1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+        "id" : "3wc57nV2fGEoM8x4xPK1O9",
+        "name" : "Dixon",
+        "type" : "artist",
+        "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/59lBOw48Og6RYoNTKzeerk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/59lBOw48Og6RYoNTKzeerk",
+      "id" : "59lBOw48Og6RYoNTKzeerk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738e6b7fd2f8226a39070b5cdc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028e6b7fd2f8226a39070b5cdc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518e6b7fd2f8226a39070b5cdc",
+        "width" : 64
+      } ],
+      "name" : "Deichkind - Autonom (Dixon Edit)",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:59lBOw48Og6RYoNTKzeerk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 314821,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJX32157005"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7wkwJ9b1MD6KWJxn1Hmfct"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7wkwJ9b1MD6KWJxn1Hmfct",
+    "id" : "7wkwJ9b1MD6KWJxn1Hmfct",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Deichkind – Autonom - Dixon Edit",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/54766a36830b1c5a5c9b507a91ee2f5cdf71be30?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7wkwJ9b1MD6KWJxn1Hmfct"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1m4GViPjIy4T8Pd0Iz6hRS",
+        "id" : "1m4GViPjIy4T8Pd0Iz6hRS",
+        "name" : "Ian Pooley",
+        "type" : "artist",
+        "uri" : "spotify:artist:1m4GViPjIy4T8Pd0Iz6hRS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0WxODviBaokQbcGtfqB8LF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0WxODviBaokQbcGtfqB8LF",
+      "id" : "0WxODviBaokQbcGtfqB8LF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de75f9cb14e01b3f6d02166b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de75f9cb14e01b3f6d02166b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de75f9cb14e01b3f6d02166b",
+        "width" : 64
+      } ],
+      "name" : "CompuRhythm EP",
+      "release_date" : "2012-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:0WxODviBaokQbcGtfqB8LF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1m4GViPjIy4T8Pd0Iz6hRS",
+      "id" : "1m4GViPjIy4T8Pd0Iz6hRS",
+      "name" : "Ian Pooley",
+      "type" : "artist",
+      "uri" : "spotify:artist:1m4GViPjIy4T8Pd0Iz6hRS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 491973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEEC31200024"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5HDemTuGF4mIq9hAJMBd8s"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5HDemTuGF4mIq9hAJMBd8s",
+    "id" : "5HDemTuGF4mIq9hAJMBd8s",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "CompuRhythm - Dixon 4/4 Treatment",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1f70a08b827a3f3acf813336f4918a6053fb0e5d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5HDemTuGF4mIq9hAJMBd8s"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Yrm2dRHOPodySNldoQp8J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Yrm2dRHOPodySNldoQp8J",
+        "id" : "6Yrm2dRHOPodySNldoQp8J",
+        "name" : "King Britt pres. Oba Funke",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Yrm2dRHOPodySNldoQp8J"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/54CvYLi6ip94D8daj7cG4g"
+      },
+      "href" : "https://api.spotify.com/v1/albums/54CvYLi6ip94D8daj7cG4g",
+      "id" : "54CvYLi6ip94D8daj7cG4g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ae7f5e3a5768e5cd70584703",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ae7f5e3a5768e5cd70584703",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ae7f5e3a5768e5cd70584703",
+        "width" : 64
+      } ],
+      "name" : "Uzoamaka Pt. 2",
+      "release_date" : "2017-07-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:54CvYLi6ip94D8daj7cG4g"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Yrm2dRHOPodySNldoQp8J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Yrm2dRHOPodySNldoQp8J",
+      "id" : "6Yrm2dRHOPodySNldoQp8J",
+      "name" : "King Britt pres. Oba Funke",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Yrm2dRHOPodySNldoQp8J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 620333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEEL41703003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0NJhQCY6m6RaQixLJpEIG4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0NJhQCY6m6RaQixLJpEIG4",
+    "id" : "0NJhQCY6m6RaQixLJpEIG4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Uzoamaka - Dixon Update",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e1f3832be9b20e8ceb2117112a1041bdad7869c1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0NJhQCY6m6RaQixLJpEIG4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49gaZqfow2v8EEQmjGyEIw",
+        "id" : "49gaZqfow2v8EEQmjGyEIw",
+        "name" : "Todd Terje",
+        "type" : "artist",
+        "uri" : "spotify:artist:49gaZqfow2v8EEQmjGyEIw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2HFnf5KA9BieWsHZtPqpEt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2HFnf5KA9BieWsHZtPqpEt",
+      "id" : "2HFnf5KA9BieWsHZtPqpEt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273adb85cfca15d7ed13453a8ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02adb85cfca15d7ed13453a8ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851adb85cfca15d7ed13453a8ea",
+        "width" : 64
+      } ],
+      "name" : "Snooze 4 Love (Remixed)",
+      "release_date" : "2016-07-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2HFnf5KA9BieWsHZtPqpEt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49gaZqfow2v8EEQmjGyEIw",
+      "id" : "49gaZqfow2v8EEQmjGyEIw",
+      "name" : "Todd Terje",
+      "type" : "artist",
+      "uri" : "spotify:artist:49gaZqfow2v8EEQmjGyEIw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wc57nV2fGEoM8x4xPK1O9",
+      "id" : "3wc57nV2fGEoM8x4xPK1O9",
+      "name" : "Dixon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wc57nV2fGEoM8x4xPK1O9"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 448230,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NOOLS1603010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1kMbnpk6ep86gPJu3YDYyF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1kMbnpk6ep86gPJu3YDYyF",
+    "id" : "1kMbnpk6ep86gPJu3YDYyF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Snooze 4 Love - Dixon Remix",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/929fdb86dce274df580bcc34bb1e570ce391d9d9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1kMbnpk6ep86gPJu3YDYyF"
+  } ]
+}
