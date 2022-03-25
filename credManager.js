@@ -29,8 +29,8 @@ export async function supplyTokenData(tokenType, tokenPath) {
 
 
 export function getClientCredToken(tokenPath) {
-
-    var creds = readDat("creds".null)
+    console.log("getClientCredToken")
+    var creds = readDat("creds",null)
     var client_id = creds.client_id; // Your client id
     var client_secret = creds.client_secret; // Your secret
     var body = {
@@ -162,6 +162,7 @@ export async function generalTokenRequest(tokenType, tokenPath, options, qString
 
 
 export function readDat(type, optionalPath) {
+    console.log(type, optionalPath)
     var path
     if (optionalPath == null) {
         const tempClientTokenPath = 'mainDB/tempClientToken.json'
@@ -243,6 +244,8 @@ export function readDat(type, optionalPath) {
         } else if (type == "userRefreshToken") {
             body = tempUserRefreshTokenTemplate
         }
+
+        console.log(body)
 
         fs.writeFile(path, JSON.stringify(body), function (err) {
             if (err) throw err;

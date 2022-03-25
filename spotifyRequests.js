@@ -8,7 +8,7 @@ import * as dbManage from './dbManage.js'
 export async function bulkArtistCache(festivalTitle) {
     return new Promise(async (resolve, reject) => {
         console.log("ASYNC CHECKPOINT bulkArtistCache")
-        await credManager.supplyTokenData()
+        await credManager.supplyTokenData("clientToken", './mainDB/tempClientToken.json')
         setTimeout(async () => {
             let promises = []
             let lineup = fs.readFileSync(festivalTitle + '/mainDB/artists.json', 'utf8')
@@ -34,7 +34,7 @@ export async function bulkArtistCache(festivalTitle) {
 //takes the top tracks from each artist and adds them to topTracksDB
 export async function bulkArtistTopTrack(festivalTitle) {
     return new Promise(async (resolve, reject) => {
-        await credManager.supplyTokenData()
+        await credManager.supplyTokenData("clientToken", './mainDB/tempClientToken.json')
         setTimeout(async () => {
             let promises = []
             let artistsPath = './' + festivalTitle + '/artistDB'
@@ -148,7 +148,7 @@ export async function generalPost(options, qString) {
 export async function searchArtist(search) {
     return new Promise(async (resolve, reject) => {
         try {
-            var tkd = await credManager.supplyTokenData()
+            var tkd = await credManager.supplyTokenData("clientToken", './mainDB/tempClientToken.json')
         } catch {
             reject(new Error("supplyTokenData in searchArtist Error"))
         }
@@ -184,7 +184,7 @@ export async function searchArtist(search) {
 export async function getTopTracks(artistId) {
     return new Promise(async (resolve, reject) => {
         try {
-            var tkd = await credManager.supplyTokenData()
+            var tkd = await credManager.supplyTokenData("clientToken", './mainDB/tempClientToken.json')
         } catch {
             reject(new Error("supplyTokenData in searchArtist Error"))
         }
@@ -216,7 +216,7 @@ export async function getTopTracks(artistId) {
 export async function getMultiTrackAudioFeatures(allIds) {
     return new Promise(async (resolve, reject) => {
         try {
-            var tkd = await credManager.supplyTokenData()
+            var tkd = await credManager.supplyTokenData("clientToken", './mainDB/tempClientToken.json')
         } catch {
             reject(new Error("supplyTokenData in searchArtist Error"))
         }
@@ -249,7 +249,7 @@ export async function getAllTrackAudioFeatures(festivalTitle) {
     return new Promise(async (resolve, reject) => {
 
         try {
-            await credManager.supplyTokenData()
+            await credManager.supplyTokenData("clientToken", './mainDB/tempClientToken.json')
         } catch {
             reject(new Error("supplyTokenData in searchArtist Error"))
         }
@@ -313,7 +313,7 @@ export async function getAllTrackAudioFeatures(festivalTitle) {
 export async function getArtist(artistId) {
     return new Promise(async (resolve, reject) => {
         try {
-            var tkd = await credManager.supplyTokenData()
+            var tkd = await credManager.supplyTokenData("clientToken", './mainDB/tempClientToken.json')
         } catch {
             reject(new Error("supplyTokenData in searchArtist Error"))
         }

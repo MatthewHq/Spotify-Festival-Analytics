@@ -7,58 +7,36 @@ import * as userSpotifyRequests from './userSpotifyRequests.js'
 async function main() {
     //MAIN PROCEDURE HERE ++++++++++++++++
 
-    // let festivalTitle = "beyond2022"
-    // clientTokenCreds()
-    // setTimeout(async () => {
-    //     dbManage.iniFestival(festivalTitle)
-    //     await spotifyRequests.bulkArtistCache(festivalTitle)
-    //     await dbManage.artistCollect(festivalTitle)
-    //     await spotifyRequests.overWriteArtists(festivalTitle)
-    //     await spotifyRequests.bulkArtistTopTrack(festivalTitle)
-    //     await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
-    //     await dbManage.consolidateTopTracks(festivalTitle)
-    //     await dbManage.consolidateArtists(festivalTitle)
-    //     await dbManage.allArtistsToCSVcustom(festivalTitle)
-    //     await dbManage.allTracksToCSVcustom(festivalTitle)
-    // }, 2000);
+    let festivalTitle = "beyond2022"
+    await clientTokenCreds()
+    setTimeout(async () => {
+        dbManage.iniFestival(festivalTitle)
+        await spotifyRequests.bulkArtistCache(festivalTitle)
+        // await dbManage.artistCollect(festivalTitle)
+        // await spotifyRequests.overWriteArtists(festivalTitle)
+        //     await spotifyRequests.bulkArtistTopTrack(festivalTitle)
+        //     await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
+        //     await dbManage.consolidateTopTracks(festivalTitle)
+        //     await dbManage.consolidateArtists(festivalTitle)
+        //     await dbManage.allArtistsToCSVcustom(festivalTitle)
+        //     await dbManage.allTracksToCSVcustom(festivalTitle)
+    }, 2000);
     // END MAIN PROCEDURE HERE ++++++++++++++++++
+
+
 
 
     //USER PROCEDURE HERE ++++++++++++++++++
     // userAccessTokenCreds()
+    // userRefreshTokenCreds()
 
-
-    userRefreshTokenCreds()
-
-    setTimeout(async () => {
-        let test = await userSpotifyRequests.createPlaylist("MY CODED PLAYLIST",false,false,"THIS IS MY PLAYLIST mADE WITH MY CODE")
-        // console.log(test)
-    }, 2000);
+    // setTimeout(async () => {
+    //     let test = await userSpotifyRequests.createPlaylist("MY CODED PLAYLIST", false, false, "THIS IS MY PLAYLIST mADE WITH MY CODE")
+    //     // console.log(test)
+    // }, 2000);
     //END USER PROCEDURE HERE ++++++++++++++++++
 
 
-
-    // let artist = await spotifyRequests.getArtist("3NYySx3H1V7zHemD9hmsQv")
-    // console.log(artist)
-
-    // await spotifyRequests.overWriteArtists()
-
-
-
-    // let topTracks = await spotifyRequests.getTopTracks('12Zk1DFhCbHY6v3xep2ZjI')
-    // console.log(topTracks)
-
-    // 
-
-    // dbManage.consolidateTopTracks()
-
-    // let audioFeatues = await spotifyRequests.getMultiTrackAudioFeatures('0PoMoPqIJxe6H0rDMnpGP8,5i5fCpsnqDJ9AfeObgd0gW')
-    // console.log(audioFeatues)
-
-    // await spotifyRequests.getAllTrackAudioFeatures()
-    // await dbManage.consolidateArtists()
-
-    // await dbManage.allArtistsToCSVcustom()
 }
 
 async function clientTokenCreds() {
