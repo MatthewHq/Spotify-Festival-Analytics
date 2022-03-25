@@ -106,7 +106,7 @@ function userAuth() {
 
     app.get('/callback', function (req, res) {
         dbManage.promiseWriteFile("../mainDB/authCodes/currAuthCode.json", JSON.stringify(res.req.query))
-        credManager.readDat("token",'../mainDB/tempToken.json')
+        credManager.readDat("oken", '../mainDB/tempToken.json')
 
         var creds = readDat("creds")
         var client_id = creds.client_id; // Your client id

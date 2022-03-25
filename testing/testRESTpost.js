@@ -1,7 +1,7 @@
 import * as https from 'https'
 import * as credManager from './credManager.js'
 
-var creds = credManager.readDat("creds")
+var creds = credManager.readDat("creds", null)
 var client_id = creds.client_id; // Your client id
 var client_secret = creds.client_secret; // Your secret
 

@@ -107,6 +107,43 @@ export async function generalGet(options) {
 
 }
 
+
+
+export async function generalPost(options, qString) {
+    return new Promise((resolve, reject) => {
+        var req = https.request(options, function (res) {
+
+            var result = '';
+            res.on('data', function (chunk) {
+                result += chunk;
+            });
+            res.on('end', function () {
+                console.log(JSON.parse(result))
+                // console.log("TD" + tokenData + "\n" + JSON.stringify(tokenData))
+                // console.log("TD" + result + "\n" + JSON.stringify(result))
+                result = JSON.parse(result)
+                resolve(result)
+            });
+            res.on('error', function (err) {
+                console.log(err + "| raw print"); //keeping these around just incase because i'm new to implementing async
+                reject(err)
+            })
+        });
+
+        // req error
+        req.on('error', function (err) {
+            console.log(err + "| raw print");//keeping these around just incase because i'm new to implementing async
+            reject(err)
+        });
+        //send request witht the postData form
+        req.write(qString);
+        req.end();
+    })
+}
+
+
+
+
 //spotify api call for searching an artist
 export async function searchArtist(search) {
     return new Promise(async (resolve, reject) => {
