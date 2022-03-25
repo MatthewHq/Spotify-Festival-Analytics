@@ -1,0 +1,503 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SIPPY&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6989
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2619a05ec4de2457a244dd52",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742619a05ec4de2457a244dd52",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782619a05ec4de2457a244dd52",
+        "width" : 160
+      } ],
+      "name" : "SIPPY",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 380792
+      },
+      "genres" : [ "desi pop", "punjabi pop" ],
+      "href" : "https://api.spotify.com/v1/artists/2zstvC7L2UiHZZo5Nrz9gY",
+      "id" : "2zstvC7L2UiHZZo5Nrz9gY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8fa8ee3ab83bb1667edeca21",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748fa8ee3ab83bb1667edeca21",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788fa8ee3ab83bb1667edeca21",
+        "width" : 160
+      } ],
+      "name" : "Sippy Gill",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:2zstvC7L2UiHZZo5Nrz9gY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mJWepYVbDWvXx22TdprO4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3mJWepYVbDWvXx22TdprO4",
+      "id" : "3mJWepYVbDWvXx22TdprO4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731daa4d7e9ed9cf9c30b2f43e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021daa4d7e9ed9cf9c30b2f43e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511daa4d7e9ed9cf9c30b2f43e",
+        "width" : 64
+      } ],
+      "name" : "Sippy",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:3mJWepYVbDWvXx22TdprO4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YEA5INwNMSKqqIXbP9r0v"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8296
+      },
+      "genres" : [ "punjabi hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/2YEA5INwNMSKqqIXbP9r0v",
+      "id" : "2YEA5INwNMSKqqIXbP9r0v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273489f755ca4742cecace9840e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02489f755ca4742cecace9840e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851489f755ca4742cecace9840e",
+        "width" : 64
+      } ],
+      "name" : "Sippy Gill, Western Pendu",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:2YEA5INwNMSKqqIXbP9r0v"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0thwL1viMWyt5XSUE3Gosu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1483
+      },
+      "genres" : [ "children's music" ],
+      "href" : "https://api.spotify.com/v1/artists/0thwL1viMWyt5XSUE3Gosu",
+      "id" : "0thwL1viMWyt5XSUE3Gosu",
+      "images" : [ {
+        "height" : 600,
+        "url" : "https://i.scdn.co/image/47e420ae070c106429a081f59f3806882ee49f6f",
+        "width" : 695
+      }, {
+        "height" : 553,
+        "url" : "https://i.scdn.co/image/4d9eee42acf1fa2f4b8be1c6d413d2f4e110e378",
+        "width" : 640
+      }, {
+        "height" : 173,
+        "url" : "https://i.scdn.co/image/3b4b2ab5d6e2cdaaa1895d7e50004853b4fafb99",
+        "width" : 200
+      }, {
+        "height" : 55,
+        "url" : "https://i.scdn.co/image/1efb6862c9b4b07689b75b0252ba3a690ec43a2a",
+        "width" : 64
+      } ],
+      "name" : "The Sippy Cups",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:0thwL1viMWyt5XSUE3Gosu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YoYru7MdcyhImg7mUHFic"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24621
+      },
+      "genres" : [ "punjabi pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3YoYru7MdcyhImg7mUHFic",
+      "id" : "3YoYru7MdcyhImg7mUHFic",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c96e03f4ca8229e01106003b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c96e03f4ca8229e01106003b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c96e03f4ca8229e01106003b",
+        "width" : 64
+      } ],
+      "name" : "Sippy Gill, Desi Roots",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:3YoYru7MdcyhImg7mUHFic"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BR5uI362O2ie8RLBHInAD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6BR5uI362O2ie8RLBHInAD",
+      "id" : "6BR5uI362O2ie8RLBHInAD",
+      "images" : [ ],
+      "name" : "Sippy Grey",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6BR5uI362O2ie8RLBHInAD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7JH7WaBhfAXEymzU4rXOEo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7JH7WaBhfAXEymzU4rXOEo",
+      "id" : "7JH7WaBhfAXEymzU4rXOEo",
+      "images" : [ ],
+      "name" : "SIPPY BEATZ",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:7JH7WaBhfAXEymzU4rXOEo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Ye3mv7drF3FSklf0viwWA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5Ye3mv7drF3FSklf0viwWA",
+      "id" : "5Ye3mv7drF3FSklf0viwWA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d639d3b96893476bc747a60d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d639d3b96893476bc747a60d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d639d3b96893476bc747a60d",
+        "width" : 64
+      } ],
+      "name" : "Sippy911",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Ye3mv7drF3FSklf0viwWA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1NEUjgQXUljnDG4Rzf3eqS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2435
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1NEUjgQXUljnDG4Rzf3eqS",
+      "id" : "1NEUjgQXUljnDG4Rzf3eqS",
+      "images" : [ ],
+      "name" : "Sippy Gill, Dilpreet Dhillon, Desi Crew",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:1NEUjgQXUljnDG4Rzf3eqS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5b2RYqLNYZxyvdGZEDQCBm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5b2RYqLNYZxyvdGZEDQCBm",
+      "id" : "5b2RYqLNYZxyvdGZEDQCBm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f05c23ac33f82f789fe71b0c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f05c23ac33f82f789fe71b0c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f05c23ac33f82f789fe71b0c",
+        "width" : 64
+      } ],
+      "name" : "SippyBeatz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5b2RYqLNYZxyvdGZEDQCBm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DFQXOIxESL4R3NeBIPl70"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 502
+      },
+      "genres" : [ "indonesian hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/1DFQXOIxESL4R3NeBIPl70",
+      "id" : "1DFQXOIxESL4R3NeBIPl70",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5c2d38a71f79786e10195f0d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745c2d38a71f79786e10195f0d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785c2d38a71f79786e10195f0d",
+        "width" : 160
+      } ],
+      "name" : "Sippy Straw Greg",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:1DFQXOIxESL4R3NeBIPl70"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Ax812Pmc8wIqt3fS0Exjn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Ax812Pmc8wIqt3fS0Exjn",
+      "id" : "2Ax812Pmc8wIqt3fS0Exjn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731eb24308c0948de2c6003b4c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021eb24308c0948de2c6003b4c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511eb24308c0948de2c6003b4c",
+        "width" : 64
+      } ],
+      "name" : "Sippy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Ax812Pmc8wIqt3fS0Exjn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NPKpXLIpW5hyruexSFEaa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0NPKpXLIpW5hyruexSFEaa",
+      "id" : "0NPKpXLIpW5hyruexSFEaa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736c34e684bbaccb954cbfc100",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026c34e684bbaccb954cbfc100",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516c34e684bbaccb954cbfc100",
+        "width" : 64
+      } ],
+      "name" : "Sippy GRey",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0NPKpXLIpW5hyruexSFEaa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53i1jrLfFQJbt9sAL5zfYu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/53i1jrLfFQJbt9sAL5zfYu",
+      "id" : "53i1jrLfFQJbt9sAL5zfYu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba599ab7bc62eb4b58530ffc8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a599ab7bc62eb4b58530ffc8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a599ab7bc62eb4b58530ffc8",
+        "width" : 160
+      } ],
+      "name" : "Sippy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:53i1jrLfFQJbt9sAL5zfYu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CcnbXJw03qTPPqLwrvbAI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7CcnbXJw03qTPPqLwrvbAI",
+      "id" : "7CcnbXJw03qTPPqLwrvbAI",
+      "images" : [ ],
+      "name" : "Sippy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7CcnbXJw03qTPPqLwrvbAI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1kI4nxgyxHGp0ZkNXcovWX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 45
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1kI4nxgyxHGp0ZkNXcovWX",
+      "id" : "1kI4nxgyxHGp0ZkNXcovWX",
+      "images" : [ ],
+      "name" : "Sippy Gil",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:1kI4nxgyxHGp0ZkNXcovWX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/27zpkrqbRemkSEd7gjBVdB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/27zpkrqbRemkSEd7gjBVdB",
+      "id" : "27zpkrqbRemkSEd7gjBVdB",
+      "images" : [ ],
+      "name" : "oks Sippy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:27zpkrqbRemkSEd7gjBVdB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rQ0UnUqmhIeEyBHF3TiVg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7rQ0UnUqmhIeEyBHF3TiVg",
+      "id" : "7rQ0UnUqmhIeEyBHF3TiVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5084f8a1e89f76dc8ea9ad99",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745084f8a1e89f76dc8ea9ad99",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785084f8a1e89f76dc8ea9ad99",
+        "width" : 160
+      } ],
+      "name" : "Sippy Bandz",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:7rQ0UnUqmhIeEyBHF3TiVg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2oBrIGKYybLLWtyhPSTazV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2oBrIGKYybLLWtyhPSTazV",
+      "id" : "2oBrIGKYybLLWtyhPSTazV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273366aed7d62aecea3e6116331",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02366aed7d62aecea3e6116331",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851366aed7d62aecea3e6116331",
+        "width" : 64
+      } ],
+      "name" : "Sippy Hunnid",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2oBrIGKYybLLWtyhPSTazV"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=SIPPY&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 64
+  }
+}

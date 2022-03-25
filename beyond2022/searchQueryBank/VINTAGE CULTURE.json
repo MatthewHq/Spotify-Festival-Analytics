@@ -1,0 +1,115 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=VINTAGE+CULTURE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1604095
+      },
+      "genres" : [ "brazilian edm" ],
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb92b73e7c017ab5359781fe1b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517492b73e7c017ab5359781fe1b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17892b73e7c017ab5359781fe1b",
+        "width" : 160
+      } ],
+      "name" : "Vintage Culture",
+      "popularity" : 78,
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49OCob31oaz7C82186Oox7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 102
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/49OCob31oaz7C82186Oox7",
+      "id" : "49OCob31oaz7C82186Oox7",
+      "images" : [ ],
+      "name" : "Vintage Culture & theDuo",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:49OCob31oaz7C82186Oox7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6GWG6vAzuEpuDiz2utGkCW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 261
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6GWG6vAzuEpuDiz2utGkCW",
+      "id" : "6GWG6vAzuEpuDiz2utGkCW",
+      "images" : [ ],
+      "name" : "Vintage Culture",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:6GWG6vAzuEpuDiz2utGkCW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ByxBomoQDGbZ9OJm3X76d"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2ByxBomoQDGbZ9OJm3X76d",
+      "id" : "2ByxBomoQDGbZ9OJm3X76d",
+      "images" : [ ],
+      "name" : "Vintage Culture & Love Bites",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ByxBomoQDGbZ9OJm3X76d"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FrMqO2Ho6iMA2xS3lu3dh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0FrMqO2Ho6iMA2xS3lu3dh",
+      "id" : "0FrMqO2Ho6iMA2xS3lu3dh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fff117ab69a19641e77ca48",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fff117ab69a19641e77ca48",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fff117ab69a19641e77ca48",
+        "width" : 64
+      } ],
+      "name" : "Vintage Cafe Culture",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0FrMqO2Ho6iMA2xS3lu3dh"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5
+  }
+}

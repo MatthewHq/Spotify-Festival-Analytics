@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=J.+WORRA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14242
+      },
+      "genres" : [ "bass house", "deep groove house", "electro house", "house" ],
+      "href" : "https://api.spotify.com/v1/artists/4q0N3EI67tVnAeeaXbNQIj",
+      "id" : "4q0N3EI67tVnAeeaXbNQIj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcd0f67dc1d87fbe10821ca06",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cd0f67dc1d87fbe10821ca06",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cd0f67dc1d87fbe10821ca06",
+        "width" : 160
+      } ],
+      "name" : "J. Worra",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:4q0N3EI67tVnAeeaXbNQIj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/63TRhDAuaVhoaVSYyuCSkl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/63TRhDAuaVhoaVSYyuCSkl",
+      "id" : "63TRhDAuaVhoaVSYyuCSkl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273917c068ab1f14a98100714fd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02917c068ab1f14a98100714fd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851917c068ab1f14a98100714fd",
+        "width" : 64
+      } ],
+      "name" : "Paul Worrall & John Magoon",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:63TRhDAuaVhoaVSYyuCSkl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yVh3cYP6jVQE03wtgi2cR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6yVh3cYP6jVQE03wtgi2cR",
+      "id" : "6yVh3cYP6jVQE03wtgi2cR",
+      "images" : [ ],
+      "name" : "Carollers from the Blue Ball, Worrall, 2002 and John Fowler",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6yVh3cYP6jVQE03wtgi2cR"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+        "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+        "name" : "Blastoyz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4BlNzSExfmgwe8omkndqyJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4BlNzSExfmgwe8omkndqyJ",
+      "id" : "4BlNzSExfmgwe8omkndqyJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273476bac38962ede4234bd1747",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02476bac38962ede4234bd1747",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851476bac38962ede4234bd1747",
+        "width" : 64
+      } ],
+      "name" : "Mandala",
+      "release_date" : "2018-02-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4BlNzSExfmgwe8omkndqyJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 357482,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEY921717253"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2MWjwvJD5Khi8XQ4YPAcTn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2MWjwvJD5Khi8XQ4YPAcTn",
+    "id" : "2MWjwvJD5Khi8XQ4YPAcTn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mandala",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9a66e1f4f9e06145c4e17477497a792b45edc1c7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2MWjwvJD5Khi8XQ4YPAcTn"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+        "id" : "6fcTRFpz0yH79qSKfof7lp",
+        "name" : "Seven Lions",
+        "type" : "artist",
+        "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+        "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+        "name" : "Blastoyz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2r7POU2f5jV6x3k4vsNwrM",
+        "id" : "2r7POU2f5jV6x3k4vsNwrM",
+        "name" : "Fiora",
+        "type" : "artist",
+        "uri" : "spotify:artist:2r7POU2f5jV6x3k4vsNwrM"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0H6hwPKfBGZNie24jF9MAQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0H6hwPKfBGZNie24jF9MAQ",
+      "id" : "0H6hwPKfBGZNie24jF9MAQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a559c6c947cce03d59f38af7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a559c6c947cce03d59f38af7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a559c6c947cce03d59f38af7",
+        "width" : 64
+      } ],
+      "name" : "After Dark (feat. Fiora)",
+      "release_date" : "2018-08-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0H6hwPKfBGZNie24jF9MAQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+      "id" : "6fcTRFpz0yH79qSKfof7lp",
+      "name" : "Seven Lions",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2r7POU2f5jV6x3k4vsNwrM",
+      "id" : "2r7POU2f5jV6x3k4vsNwrM",
+      "name" : "Fiora",
+      "type" : "artist",
+      "uri" : "spotify:artist:2r7POU2f5jV6x3k4vsNwrM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 229859,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA1802100"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/569BGSWQapYD8Niuy67Cal"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/569BGSWQapYD8Niuy67Cal",
+    "id" : "569BGSWQapYD8Niuy67Cal",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "After Dark (feat. Fiora)",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fc58f5269c019ec9966e14a5abce469f0a2fcbbe?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:569BGSWQapYD8Niuy67Cal"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+        "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+        "name" : "Blastoyz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2VkquxQ6H8d3eGK5ClilOf",
+        "id" : "2VkquxQ6H8d3eGK5ClilOf",
+        "name" : "Sajanka",
+        "type" : "artist",
+        "uri" : "spotify:artist:2VkquxQ6H8d3eGK5ClilOf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ZYQkWh7fuIWYC5CKgA83W"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ZYQkWh7fuIWYC5CKgA83W",
+        "id" : "3ZYQkWh7fuIWYC5CKgA83W",
+        "name" : "Liora Itzhak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ZYQkWh7fuIWYC5CKgA83W"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3PLWnnpSMWdr1zU0Y0ex2P"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3PLWnnpSMWdr1zU0Y0ex2P",
+      "id" : "3PLWnnpSMWdr1zU0Y0ex2P",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273444c3a507102ba18f7e81cc3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02444c3a507102ba18f7e81cc3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851444c3a507102ba18f7e81cc3",
+        "width" : 64
+      } ],
+      "name" : "Indian Spirit",
+      "release_date" : "2022-01-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3PLWnnpSMWdr1zU0Y0ex2P"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2VkquxQ6H8d3eGK5ClilOf",
+      "id" : "2VkquxQ6H8d3eGK5ClilOf",
+      "name" : "Sajanka",
+      "type" : "artist",
+      "uri" : "spotify:artist:2VkquxQ6H8d3eGK5ClilOf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZYQkWh7fuIWYC5CKgA83W"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZYQkWh7fuIWYC5CKgA83W",
+      "id" : "3ZYQkWh7fuIWYC5CKgA83W",
+      "name" : "Liora Itzhak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZYQkWh7fuIWYC5CKgA83W"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 365714,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0037260"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ialmmuwylzm1xDwHlxpCg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ialmmuwylzm1xDwHlxpCg",
+    "id" : "5ialmmuwylzm1xDwHlxpCg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Indian Spirit",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/47dde0264cb63e0bc94b46a1edd38392816a2e5c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5ialmmuwylzm1xDwHlxpCg"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XZkeCAlpiO5qcIlAJzZaA",
+        "id" : "0XZkeCAlpiO5qcIlAJzZaA",
+        "name" : "Omnia",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XZkeCAlpiO5qcIlAJzZaA"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RnohgGcKLo0NmGzhA9pnV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RnohgGcKLo0NmGzhA9pnV",
+        "id" : "3RnohgGcKLo0NmGzhA9pnV",
+        "name" : "Ira",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RnohgGcKLo0NmGzhA9pnV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+        "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+        "name" : "Blastoyz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6rKP0hoJCJ4eWpe6dSHYhd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6rKP0hoJCJ4eWpe6dSHYhd",
+      "id" : "6rKP0hoJCJ4eWpe6dSHYhd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273acb0f91064ed7742e82df41c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02acb0f91064ed7742e82df41c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851acb0f91064ed7742e82df41c",
+        "width" : 64
+      } ],
+      "name" : "The Fusion (Blastoyz Remix)",
+      "release_date" : "2021-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6rKP0hoJCJ4eWpe6dSHYhd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XZkeCAlpiO5qcIlAJzZaA",
+      "id" : "0XZkeCAlpiO5qcIlAJzZaA",
+      "name" : "Omnia",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XZkeCAlpiO5qcIlAJzZaA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RnohgGcKLo0NmGzhA9pnV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RnohgGcKLo0NmGzhA9pnV",
+      "id" : "3RnohgGcKLo0NmGzhA9pnV",
+      "name" : "Ira",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RnohgGcKLo0NmGzhA9pnV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 173142,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712108617"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2WyKvnMEF9H8CKHvmAXSm3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2WyKvnMEF9H8CKHvmAXSm3",
+    "id" : "2WyKvnMEF9H8CKHvmAXSm3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Fusion - Blastoyz Remix",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f0a10d3fcf751a216071a909f271bbd70e13a300?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2WyKvnMEF9H8CKHvmAXSm3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YAmYesPdjvMPgnLKcDHR3",
+        "id" : "0YAmYesPdjvMPgnLKcDHR3",
+        "name" : "Skazi",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YAmYesPdjvMPgnLKcDHR3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+        "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+        "name" : "Blastoyz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22EuzMQZuqMspk3PfQlMLC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22EuzMQZuqMspk3PfQlMLC",
+      "id" : "22EuzMQZuqMspk3PfQlMLC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b2f6bfde5c4223dce227c5af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b2f6bfde5c4223dce227c5af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b2f6bfde5c4223dce227c5af",
+        "width" : 64
+      } ],
+      "name" : "Heart on the Tree",
+      "release_date" : "2020-08-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:22EuzMQZuqMspk3PfQlMLC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0YAmYesPdjvMPgnLKcDHR3",
+      "id" : "0YAmYesPdjvMPgnLKcDHR3",
+      "name" : "Skazi",
+      "type" : "artist",
+      "uri" : "spotify:artist:0YAmYesPdjvMPgnLKcDHR3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 179130,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEIW12000305"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/65GjGEAs6RfC0PeYUyBTS5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/65GjGEAs6RfC0PeYUyBTS5",
+    "id" : "65GjGEAs6RfC0PeYUyBTS5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Heart On The Tree",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/11b34e02a6c3ac7b8553c55ceec61a243ac3c277?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:65GjGEAs6RfC0PeYUyBTS5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+        "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+        "name" : "Blastoyz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1yuLKnxvFhd7DSk4eUMcdD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1yuLKnxvFhd7DSk4eUMcdD",
+      "id" : "1yuLKnxvFhd7DSk4eUMcdD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d4498e64f0c03791ab0e76eb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d4498e64f0c03791ab0e76eb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d4498e64f0c03791ab0e76eb",
+        "width" : 64
+      } ],
+      "name" : "Parvati Valley",
+      "release_date" : "2016-04-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1yuLKnxvFhd7DSk4eUMcdD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 406153,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEY921607205"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0vtR1BWnjKvzs85eqcC5gn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0vtR1BWnjKvzs85eqcC5gn",
+    "id" : "0vtR1BWnjKvzs85eqcC5gn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Parvati Valley",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2a634fd1a696dfdd234f7bcd4edd2ce7c88614f4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0vtR1BWnjKvzs85eqcC5gn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+        "id" : "6fcTRFpz0yH79qSKfof7lp",
+        "name" : "Seven Lions",
+        "type" : "artist",
+        "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3vSClDRBxijZ7IueNoQBvS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3vSClDRBxijZ7IueNoQBvS",
+        "id" : "3vSClDRBxijZ7IueNoQBvS",
+        "name" : "Ophelia Records",
+        "type" : "artist",
+        "uri" : "spotify:artist:3vSClDRBxijZ7IueNoQBvS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/08nuPkCPSVzFvdWCxlxJqB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/08nuPkCPSVzFvdWCxlxJqB",
+      "id" : "08nuPkCPSVzFvdWCxlxJqB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734a1995ec1969fd24506d8beb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024a1995ec1969fd24506d8beb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514a1995ec1969fd24506d8beb",
+        "width" : 64
+      } ],
+      "name" : "Ophelia Volume 2",
+      "release_date" : "2021-10-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:08nuPkCPSVzFvdWCxlxJqB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4s10B1BltDZ1heQIhTFs59"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4s10B1BltDZ1heQIhTFs59",
+      "id" : "4s10B1BltDZ1heQIhTFs59",
+      "name" : "Dimibo",
+      "type" : "artist",
+      "uri" : "spotify:artist:4s10B1BltDZ1heQIhTFs59"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CCTvLyIHqUhY6VQizt150",
+      "id" : "6CCTvLyIHqUhY6VQizt150",
+      "name" : "Jason Ross",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CCTvLyIHqUhY6VQizt150"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3qnMl4DHT4gndzFAcG4FlM",
+      "id" : "3qnMl4DHT4gndzFAcG4FlM",
+      "name" : "Kill The Noise",
+      "type" : "artist",
+      "uri" : "spotify:artist:3qnMl4DHT4gndzFAcG4FlM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+      "id" : "6fcTRFpz0yH79qSKfof7lp",
+      "name" : "Seven Lions",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AT7XlLBevgZIiKvZQ83ye",
+      "id" : "4AT7XlLBevgZIiKvZQ83ye",
+      "name" : "Trivecta",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AT7XlLBevgZIiKvZQ83ye"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Uyqa2sdHm1bL5JK4IC4zc",
+      "id" : "1Uyqa2sdHm1bL5JK4IC4zc",
+      "name" : "Wooli",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Uyqa2sdHm1bL5JK4IC4zc"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 301600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA2105150"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5GeFdJyLcpjcaIi2ynkKx4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5GeFdJyLcpjcaIi2ynkKx4",
+    "id" : "5GeFdJyLcpjcaIi2ynkKx4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pantheon",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/38aef7474cb6588fc69c8fca0320e475d861c773?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:5GeFdJyLcpjcaIi2ynkKx4"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1mpYUkGqPoE5jZYUENa8Ig"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1mpYUkGqPoE5jZYUENa8Ig",
+        "id" : "1mpYUkGqPoE5jZYUENa8Ig",
+        "name" : "Dj Bim",
+        "type" : "artist",
+        "uri" : "spotify:artist:1mpYUkGqPoE5jZYUENa8Ig"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2E3tN2naR2Dex4m9Lh17bL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2E3tN2naR2Dex4m9Lh17bL",
+        "id" : "2E3tN2naR2Dex4m9Lh17bL",
+        "name" : "Schrittmacher",
+        "type" : "artist",
+        "uri" : "spotify:artist:2E3tN2naR2Dex4m9Lh17bL"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6T9bcLN4A0yreOubBmbSE3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6T9bcLN4A0yreOubBmbSE3",
+      "id" : "6T9bcLN4A0yreOubBmbSE3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273497646c8f6ab01be94cfc858",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02497646c8f6ab01be94cfc858",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851497646c8f6ab01be94cfc858",
+        "width" : 64
+      } ],
+      "name" : "Goa 2017, Vol. 2",
+      "release_date" : "2017-06-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:6T9bcLN4A0yreOubBmbSE3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Tu0luJL7EoFv1RsHZP30p",
+      "id" : "6Tu0luJL7EoFv1RsHZP30p",
+      "name" : "Ranji",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Tu0luJL7EoFv1RsHZP30p"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 400360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEY921607272"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6I4GmDAg09LSxVA0b2Ou7f"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6I4GmDAg09LSxVA0b2Ou7f",
+    "id" : "6I4GmDAg09LSxVA0b2Ou7f",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Zoom - Original Mix",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/28941d82e95768f47092023cd533c9ae1037753d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6I4GmDAg09LSxVA0b2Ou7f"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+        "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+        "name" : "Blastoyz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Oq3xaKZq5WjhBZK4Tjqnu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Oq3xaKZq5WjhBZK4Tjqnu",
+      "id" : "0Oq3xaKZq5WjhBZK4Tjqnu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27326056a795fd5889acb6f5adb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0226056a795fd5889acb6f5adb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485126056a795fd5889acb6f5adb",
+        "width" : 64
+      } ],
+      "name" : "High On Acid",
+      "release_date" : "2022-02-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0Oq3xaKZq5WjhBZK4Tjqnu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 473379,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2203196"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3xdUWpu1vwrLLj9ReUip8V"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3xdUWpu1vwrLLj9ReUip8V",
+    "id" : "3xdUWpu1vwrLLj9ReUip8V",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "High On Acid",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/828ce86499b23023659a49b51e9b9490cd8566fa?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3xdUWpu1vwrLLj9ReUip8V"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/29zsVzEH33dD5QqxeL8dvy",
+        "id" : "29zsVzEH33dD5QqxeL8dvy",
+        "name" : "Vini Vici",
+        "type" : "artist",
+        "uri" : "spotify:artist:29zsVzEH33dD5QqxeL8dvy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+        "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+        "name" : "Blastoyz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0GVEViT63fsMLllbFa0Mop"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0GVEViT63fsMLllbFa0Mop",
+        "id" : "0GVEViT63fsMLllbFa0Mop",
+        "name" : "Jean Marie",
+        "type" : "artist",
+        "uri" : "spotify:artist:0GVEViT63fsMLllbFa0Mop"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2PJ07zvzbIM61vLFR9yBdQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2PJ07zvzbIM61vLFR9yBdQ",
+      "id" : "2PJ07zvzbIM61vLFR9yBdQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4847c888de311220ff1aabd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4847c888de311220ff1aabd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4847c888de311220ff1aabd",
+        "width" : 64
+      } ],
+      "name" : "Gaia",
+      "release_date" : "2018-12-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2PJ07zvzbIM61vLFR9yBdQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/29zsVzEH33dD5QqxeL8dvy",
+      "id" : "29zsVzEH33dD5QqxeL8dvy",
+      "name" : "Vini Vici",
+      "type" : "artist",
+      "uri" : "spotify:artist:29zsVzEH33dD5QqxeL8dvy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WLP1sraOcF3Gaxp7xBa4p",
+      "id" : "6WLP1sraOcF3Gaxp7xBa4p",
+      "name" : "Blastoyz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0GVEViT63fsMLllbFa0Mop"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0GVEViT63fsMLllbFa0Mop",
+      "id" : "0GVEViT63fsMLllbFa0Mop",
+      "name" : "Jean Marie",
+      "type" : "artist",
+      "uri" : "spotify:artist:0GVEViT63fsMLllbFa0Mop"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 195000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ541801652"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jD7lUQw0GbUI7Kg92IOVj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jD7lUQw0GbUI7Kg92IOVj",
+    "id" : "6jD7lUQw0GbUI7Kg92IOVj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gaia",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f5a0fcc9f98f11d288f68585468e03a4f4e68d59?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6jD7lUQw0GbUI7Kg92IOVj"
+  } ]
+}

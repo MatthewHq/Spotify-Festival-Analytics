@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=HONEYLUV&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1125
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1sl3gVNz3Nxd4poA8f76sl",
+      "id" : "1sl3gVNz3Nxd4poA8f76sl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc18e55975e090784f517bbed",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c18e55975e090784f517bbed",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c18e55975e090784f517bbed",
+        "width" : 160
+      } ],
+      "name" : "HoneyLuv",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:1sl3gVNz3Nxd4poA8f76sl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59500P1dg5QlSn3uuwZ78r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/59500P1dg5QlSn3uuwZ78r",
+      "id" : "59500P1dg5QlSn3uuwZ78r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3cfe1e87148e2397db6fc125",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743cfe1e87148e2397db6fc125",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783cfe1e87148e2397db6fc125",
+        "width" : 160
+      } ],
+      "name" : "HoneyLuv",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:59500P1dg5QlSn3uuwZ78r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5X7o8gvxlIcskZeQOA1ia8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5X7o8gvxlIcskZeQOA1ia8",
+      "id" : "5X7o8gvxlIcskZeQOA1ia8",
+      "images" : [ ],
+      "name" : "Jug Honeyluv",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5X7o8gvxlIcskZeQOA1ia8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Ffe1G9OjeTQqRVOxoB92k"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7Ffe1G9OjeTQqRVOxoB92k",
+      "id" : "7Ffe1G9OjeTQqRVOxoB92k",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f28c650c9734549b5bf8112f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f28c650c9734549b5bf8112f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f28c650c9734549b5bf8112f",
+        "width" : 64
+      } ],
+      "name" : "Jug Honeyluv & Gazelle",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7Ffe1G9OjeTQqRVOxoB92k"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

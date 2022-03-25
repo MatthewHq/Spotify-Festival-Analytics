@@ -1,0 +1,943 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+        "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name" : "Patrick Topping",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VEY7dg6GBsee7YSRNBkDb",
+      "id" : "5VEY7dg6GBsee7YSRNBkDb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d53b97e91809790c5b19da30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d53b97e91809790c5b19da30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d53b97e91809790c5b19da30",
+        "width" : 64
+      } ],
+      "name" : "Frisk",
+      "release_date" : "2020-01-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5VEY7dg6GBsee7YSRNBkDb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 191350,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712000088"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4dB7bla8wMutu4Yq8stA7y",
+    "id" : "4dB7bla8wMutu4Yq8stA7y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Frisk",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f88c34731fff5773faf4fee5bd0ef43d4e771f6c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4dB7bla8wMutu4Yq8stA7y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Mb2QpmkC5kzR4UV6rkzLZ",
+        "id" : "7Mb2QpmkC5kzR4UV6rkzLZ",
+        "name" : "e-Dancer",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Mb2QpmkC5kzR4UV6rkzLZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1PRF1vYTbZmZyZKnJ7yEZ4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1PRF1vYTbZmZyZKnJ7yEZ4",
+      "id" : "1PRF1vYTbZmZyZKnJ7yEZ4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d57a7695e257edb8b4caeda4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d57a7695e257edb8b4caeda4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d57a7695e257edb8b4caeda4",
+        "width" : 64
+      } ],
+      "name" : "Re:Generate",
+      "release_date" : "2021-10-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:1PRF1vYTbZmZyZKnJ7yEZ4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Mb2QpmkC5kzR4UV6rkzLZ",
+      "id" : "7Mb2QpmkC5kzR4UV6rkzLZ",
+      "name" : "e-Dancer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Mb2QpmkC5kzR4UV6rkzLZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Ho1vKl1Uz8bJlk4vbmvmf",
+      "id" : "5Ho1vKl1Uz8bJlk4vbmvmf",
+      "name" : "Amelie Lens",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 319141,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR62000303"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Cj1pP80GBY8UOn8hsCA2D"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Cj1pP80GBY8UOn8hsCA2D",
+    "id" : "6Cj1pP80GBY8UOn8hsCA2D",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "One Nation - Amelie Lens Remix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/956245ec31a27c6a3e18d17683fae6d6034896a2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6Cj1pP80GBY8UOn8hsCA2D"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6oqv4rbOMlOZNOUoDFgBSp",
+        "id" : "6oqv4rbOMlOZNOUoDFgBSp",
+        "name" : "Andrea Oliva",
+        "type" : "artist",
+        "uri" : "spotify:artist:6oqv4rbOMlOZNOUoDFgBSp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/73Kvgt8MCHvHFH32Joop8i"
+      },
+      "href" : "https://api.spotify.com/v1/albums/73Kvgt8MCHvHFH32Joop8i",
+      "id" : "73Kvgt8MCHvHFH32Joop8i",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738fd9045d9eda43f30e6ad66a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028fd9045d9eda43f30e6ad66a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518fd9045d9eda43f30e6ad66a",
+        "width" : 64
+      } ],
+      "name" : "Transit (Kevin Saunderson Remix)",
+      "release_date" : "2022-01-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:73Kvgt8MCHvHFH32Joop8i"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6oqv4rbOMlOZNOUoDFgBSp",
+      "id" : "6oqv4rbOMlOZNOUoDFgBSp",
+      "name" : "Andrea Oliva",
+      "type" : "artist",
+      "uri" : "spotify:artist:6oqv4rbOMlOZNOUoDFgBSp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210461,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712200001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2NXe89CbqXHJvbdDWjPPfx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2NXe89CbqXHJvbdDWjPPfx",
+    "id" : "2NXe89CbqXHJvbdDWjPPfx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Transit - Kevin Saunderson Remix",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/761e8af1ab5e9dafda757a6a712db938b437b651?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2NXe89CbqXHJvbdDWjPPfx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Mb2QpmkC5kzR4UV6rkzLZ",
+        "id" : "7Mb2QpmkC5kzR4UV6rkzLZ",
+        "name" : "e-Dancer",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Mb2QpmkC5kzR4UV6rkzLZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1PRF1vYTbZmZyZKnJ7yEZ4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1PRF1vYTbZmZyZKnJ7yEZ4",
+      "id" : "1PRF1vYTbZmZyZKnJ7yEZ4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d57a7695e257edb8b4caeda4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d57a7695e257edb8b4caeda4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d57a7695e257edb8b4caeda4",
+        "width" : 64
+      } ],
+      "name" : "Re:Generate",
+      "release_date" : "2021-10-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:1PRF1vYTbZmZyZKnJ7yEZ4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Mb2QpmkC5kzR4UV6rkzLZ",
+      "id" : "7Mb2QpmkC5kzR4UV6rkzLZ",
+      "name" : "e-Dancer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Mb2QpmkC5kzR4UV6rkzLZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7mC3RkNNTV6p2j9w4F8Ip4",
+      "id" : "7mC3RkNNTV6p2j9w4F8Ip4",
+      "name" : "Layton Giordani",
+      "type" : "artist",
+      "uri" : "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 340839,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR62000306"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3aOcBv8zLLHsg2xfQayzl1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3aOcBv8zLLHsg2xfQayzl1",
+    "id" : "3aOcBv8zLLHsg2xfQayzl1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Heavenly - Layton Giordani Remix",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c175950d9039b98adcff1955da93a36431004af3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3aOcBv8zLLHsg2xfQayzl1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Mb2QpmkC5kzR4UV6rkzLZ",
+        "id" : "7Mb2QpmkC5kzR4UV6rkzLZ",
+        "name" : "e-Dancer",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Mb2QpmkC5kzR4UV6rkzLZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1PRF1vYTbZmZyZKnJ7yEZ4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1PRF1vYTbZmZyZKnJ7yEZ4",
+      "id" : "1PRF1vYTbZmZyZKnJ7yEZ4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d57a7695e257edb8b4caeda4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d57a7695e257edb8b4caeda4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d57a7695e257edb8b4caeda4",
+        "width" : 64
+      } ],
+      "name" : "Re:Generate",
+      "release_date" : "2021-10-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:1PRF1vYTbZmZyZKnJ7yEZ4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Mb2QpmkC5kzR4UV6rkzLZ",
+      "id" : "7Mb2QpmkC5kzR4UV6rkzLZ",
+      "name" : "e-Dancer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Mb2QpmkC5kzR4UV6rkzLZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1btv9qmIpbp7q1ixCYNdHu",
+      "id" : "1btv9qmIpbp7q1ixCYNdHu",
+      "name" : "Adam Beyer",
+      "type" : "artist",
+      "uri" : "spotify:artist:1btv9qmIpbp7q1ixCYNdHu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 426000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR62000304"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2DP2kfpmMPquhd3D3HAkyQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2DP2kfpmMPquhd3D3HAkyQ",
+    "id" : "2DP2kfpmMPquhd3D3HAkyQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "World of Deep - Adam Beyer Remix",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3d22a833f1d5547a813cdb73d587e5c12b849a65?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2DP2kfpmMPquhd3D3HAkyQ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0vUJ3QLN3MlRfjOc2LjGWp",
+        "id" : "0vUJ3QLN3MlRfjOc2LjGWp",
+        "name" : "Inner City",
+        "type" : "artist",
+        "uri" : "spotify:artist:0vUJ3QLN3MlRfjOc2LjGWp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Dc2rdPzleezxhvQhQbXuS",
+        "id" : "0Dc2rdPzleezxhvQhQbXuS",
+        "name" : "Idris Elba",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Dc2rdPzleezxhvQhQbXuS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2jCX2SAk1TFen1uv51Deqc",
+      "id" : "2jCX2SAk1TFen1uv51Deqc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b67031627cb5d7103a3f8b4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b67031627cb5d7103a3f8b4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b67031627cb5d7103a3f8b4",
+        "width" : 64
+      } ],
+      "name" : "We All Move Together (Kevin Saunderson x Latroit Remix)",
+      "release_date" : "2020-08-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2jCX2SAk1TFen1uv51Deqc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vUJ3QLN3MlRfjOc2LjGWp",
+      "id" : "0vUJ3QLN3MlRfjOc2LjGWp",
+      "name" : "Inner City",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vUJ3QLN3MlRfjOc2LjGWp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Dc2rdPzleezxhvQhQbXuS",
+      "id" : "0Dc2rdPzleezxhvQhQbXuS",
+      "name" : "Idris Elba",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Dc2rdPzleezxhvQhQbXuS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4keJDDQx0ac2jhmknbSLFK",
+      "id" : "4keJDDQx0ac2jhmknbSLFK",
+      "name" : "Latroit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4keJDDQx0ac2jhmknbSLFK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712009113"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2REuKIENtXdluRdxVFYG17",
+    "id" : "2REuKIENtXdluRdxVFYG17",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "We All Move Together - Kevin Saunderson x Latroit Remix",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3ed494bf9a5aeaddf4a6802a09116cb7b6c63304?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2REuKIENtXdluRdxVFYG17"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Mb2QpmkC5kzR4UV6rkzLZ",
+        "id" : "7Mb2QpmkC5kzR4UV6rkzLZ",
+        "name" : "e-Dancer",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Mb2QpmkC5kzR4UV6rkzLZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1PRF1vYTbZmZyZKnJ7yEZ4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1PRF1vYTbZmZyZKnJ7yEZ4",
+      "id" : "1PRF1vYTbZmZyZKnJ7yEZ4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d57a7695e257edb8b4caeda4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d57a7695e257edb8b4caeda4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d57a7695e257edb8b4caeda4",
+        "width" : 64
+      } ],
+      "name" : "Re:Generate",
+      "release_date" : "2021-10-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:1PRF1vYTbZmZyZKnJ7yEZ4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Mb2QpmkC5kzR4UV6rkzLZ",
+      "id" : "7Mb2QpmkC5kzR4UV6rkzLZ",
+      "name" : "e-Dancer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Mb2QpmkC5kzR4UV6rkzLZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6iWBjg4b4ll4jLiParnWXT",
+      "id" : "6iWBjg4b4ll4jLiParnWXT",
+      "name" : "Bart Skils",
+      "type" : "artist",
+      "uri" : "spotify:artist:6iWBjg4b4ll4jLiParnWXT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 284019,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR62000318"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1vxwzeIhdE7E0xLsPuuL2F"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1vxwzeIhdE7E0xLsPuuL2F",
+    "id" : "1vxwzeIhdE7E0xLsPuuL2F",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pump the Move - Bart Skils Groove Mix",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3fa58afbfe6c2a6552440b9e7b5946e98a006288?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:1vxwzeIhdE7E0xLsPuuL2F"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UvhyKqiU7yr1XdVAgHiMh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UvhyKqiU7yr1XdVAgHiMh",
+      "id" : "6UvhyKqiU7yr1XdVAgHiMh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9017d66cc63d94414d3ac56",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9017d66cc63d94414d3ac56",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9017d66cc63d94414d3ac56",
+        "width" : 64
+      } ],
+      "name" : "Future (feat. Inner City)",
+      "release_date" : "2011-12-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6UvhyKqiU7yr1XdVAgHiMh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vUJ3QLN3MlRfjOc2LjGWp",
+      "id" : "0vUJ3QLN3MlRfjOc2LjGWp",
+      "name" : "Inner City",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vUJ3QLN3MlRfjOc2LjGWp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7A4qanEMCOPcywaqZ01yVV",
+      "id" : "7A4qanEMCOPcywaqZ01yVV",
+      "name" : "Kenny Larkin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7A4qanEMCOPcywaqZ01yVV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 525535,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ1105661"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6xRtX4emvb1T8Sep84XAUE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6xRtX4emvb1T8Sep84XAUE",
+    "id" : "6xRtX4emvb1T8Sep84XAUE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Future (feat. Inner City) - Kenny Larkin Tension Mix",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/558b99b2b83802870ac395dc02642a3c1b08e6bc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6xRtX4emvb1T8Sep84XAUE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5LGa1U6Mwiib6ocVuJItcG",
+        "id" : "5LGa1U6Mwiib6ocVuJItcG",
+        "name" : "Gettoblaster",
+        "type" : "artist",
+        "uri" : "spotify:artist:5LGa1U6Mwiib6ocVuJItcG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4OGlp2UdUQGPJVbvJ82Cz5",
+        "id" : "4OGlp2UdUQGPJVbvJ82Cz5",
+        "name" : "Roland Clark",
+        "type" : "artist",
+        "uri" : "spotify:artist:4OGlp2UdUQGPJVbvJ82Cz5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rgT2kxhEFljDSgL1fB8AT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rgT2kxhEFljDSgL1fB8AT",
+      "id" : "3rgT2kxhEFljDSgL1fB8AT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27373f0fdd42efe52fd7df1b0a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0273f0fdd42efe52fd7df1b0a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485173f0fdd42efe52fd7df1b0a2",
+        "width" : 64
+      } ],
+      "name" : "Make Life Funky",
+      "release_date" : "2022-01-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:3rgT2kxhEFljDSgL1fB8AT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5LGa1U6Mwiib6ocVuJItcG",
+      "id" : "5LGa1U6Mwiib6ocVuJItcG",
+      "name" : "Gettoblaster",
+      "type" : "artist",
+      "uri" : "spotify:artist:5LGa1U6Mwiib6ocVuJItcG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4OGlp2UdUQGPJVbvJ82Cz5",
+      "id" : "4OGlp2UdUQGPJVbvJ82Cz5",
+      "name" : "Roland Clark",
+      "type" : "artist",
+      "uri" : "spotify:artist:4OGlp2UdUQGPJVbvJ82Cz5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vUJ3QLN3MlRfjOc2LjGWp",
+      "id" : "0vUJ3QLN3MlRfjOc2LjGWp",
+      "name" : "Inner City",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vUJ3QLN3MlRfjOc2LjGWp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2tavIhWjw7f878Bx9qDTma",
+      "id" : "2tavIhWjw7f878Bx9qDTma",
+      "name" : "Dantiez",
+      "type" : "artist",
+      "uri" : "spotify:artist:2tavIhWjw7f878Bx9qDTma"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 275002,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBLV62135266"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/13SuJL7DeOtPyEixvKjLgX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/13SuJL7DeOtPyEixvKjLgX",
+    "id" : "13SuJL7DeOtPyEixvKjLgX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Make Life Funky - Inner City, Kevin Saunderson, Dantiez Remix",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/713dd9b95be7ca0727819f29488290dba0eecd72?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:13SuJL7DeOtPyEixvKjLgX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3dE92yGWcrboP1kC5SWyqu",
+        "id" : "3dE92yGWcrboP1kC5SWyqu",
+        "name" : "Todd Terry",
+        "type" : "artist",
+        "uri" : "spotify:artist:3dE92yGWcrboP1kC5SWyqu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/34rEmZ1C0e7HQjZHNcENUW",
+      "id" : "34rEmZ1C0e7HQjZHNcENUW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27358e5258d8afbd0f476378bba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0258e5258d8afbd0f476378bba",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485158e5258d8afbd0f476378bba",
+        "width" : 64
+      } ],
+      "name" : "I Can't Believe",
+      "release_date" : "2020-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:34rEmZ1C0e7HQjZHNcENUW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3dE92yGWcrboP1kC5SWyqu",
+      "id" : "3dE92yGWcrboP1kC5SWyqu",
+      "name" : "Todd Terry",
+      "type" : "artist",
+      "uri" : "spotify:artist:3dE92yGWcrboP1kC5SWyqu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 369016,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "NLF712003161"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6fj1GG580y5T60iCJ85anz",
+    "id" : "6fj1GG580y5T60iCJ85anz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Can't Believe - Extended Mix",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3f1b6ce612bc7a35afe2322d671ca8a9abf13867?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6fj1GG580y5T60iCJ85anz"
+  } ]
+}

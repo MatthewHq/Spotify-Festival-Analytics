@@ -1,0 +1,844 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Uyqa2sdHm1bL5JK4IC4zc",
+        "id" : "1Uyqa2sdHm1bL5JK4IC4zc",
+        "name" : "Wooli",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Uyqa2sdHm1bL5JK4IC4zc"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/700jIZKk7zxZWVsN0vyEJd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/700jIZKk7zxZWVsN0vyEJd",
+      "id" : "700jIZKk7zxZWVsN0vyEJd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739df91069fc5e72c0d4ac9ded",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029df91069fc5e72c0d4ac9ded",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519df91069fc5e72c0d4ac9ded",
+        "width" : 64
+      } ],
+      "name" : "Mammoth EP",
+      "release_date" : "2018-10-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:700jIZKk7zxZWVsN0vyEJd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Uyqa2sdHm1bL5JK4IC4zc",
+      "id" : "1Uyqa2sdHm1bL5JK4IC4zc",
+      "name" : "Wooli",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Uyqa2sdHm1bL5JK4IC4zc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 256000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL1814203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3HoOPtaBf2SmrPohseDUYJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3HoOPtaBf2SmrPohseDUYJ",
+    "id" : "3HoOPtaBf2SmrPohseDUYJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Thicc Boi",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dcd6c6a1bceb3b698cac1998ca05bcb6143ed495?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3HoOPtaBf2SmrPohseDUYJ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4xaF2VIGwhWyEMbM6GuLdm",
+        "id" : "4xaF2VIGwhWyEMbM6GuLdm",
+        "name" : "Teddy Killerz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4xaF2VIGwhWyEMbM6GuLdm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+        "id" : "7dtX3ykcuyVmts2HQnWgSP",
+        "name" : "Kompany",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0qTtqa02EU5tpRhVNMek92"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0qTtqa02EU5tpRhVNMek92",
+      "id" : "0qTtqa02EU5tpRhVNMek92",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b96b6ff7c7b7d38bf2c1b6d2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b96b6ff7c7b7d38bf2c1b6d2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b96b6ff7c7b7d38bf2c1b6d2",
+        "width" : 64
+      } ],
+      "name" : "Assault",
+      "release_date" : "2021-12-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0qTtqa02EU5tpRhVNMek92"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xaF2VIGwhWyEMbM6GuLdm",
+      "id" : "4xaF2VIGwhWyEMbM6GuLdm",
+      "name" : "Teddy Killerz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xaF2VIGwhWyEMbM6GuLdm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 284651,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB8KE2162706"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4SbMVULuT6l7iN7d40PCNJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4SbMVULuT6l7iN7d40PCNJ",
+    "id" : "4SbMVULuT6l7iN7d40PCNJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Assault",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/de5f5e2cb4e9827fff36ff8db5266caaf74f6ba1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4SbMVULuT6l7iN7d40PCNJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FKchcZpQOkqFvXBj1aCvb",
+        "id" : "5FKchcZpQOkqFvXBj1aCvb",
+        "name" : "Excision",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FKchcZpQOkqFvXBj1aCvb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7tWLBskvupaWXOWzfmiU97",
+      "id" : "7tWLBskvupaWXOWzfmiU97",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273abf17a42035542c942feac37",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02abf17a42035542c942feac37",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851abf17a42035542c942feac37",
+        "width" : 64
+      } ],
+      "name" : "Onyx",
+      "release_date" : "2022-01-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:7tWLBskvupaWXOWzfmiU97"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FKchcZpQOkqFvXBj1aCvb",
+      "id" : "5FKchcZpQOkqFvXBj1aCvb",
+      "name" : "Excision",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FKchcZpQOkqFvXBj1aCvb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 187992,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZHCR2100240"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lGF7DaN7O1etnGpBJVJux"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lGF7DaN7O1etnGpBJVJux",
+    "id" : "2lGF7DaN7O1etnGpBJVJux",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Clockwork",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f539690fef8435c870a84bf454076f671e92b55f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2lGF7DaN7O1etnGpBJVJux"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+        "id" : "7dtX3ykcuyVmts2HQnWgSP",
+        "name" : "Kompany",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4mUEWZ6Uh2CgrEvZ7ujbFQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4mUEWZ6Uh2CgrEvZ7ujbFQ",
+      "id" : "4mUEWZ6Uh2CgrEvZ7ujbFQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27328db431c3074159953ae8563",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0228db431c3074159953ae8563",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485128db431c3074159953ae8563",
+        "width" : 64
+      } ],
+      "name" : "Feel It All",
+      "release_date" : "2020-08-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4mUEWZ6Uh2CgrEvZ7ujbFQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 294484,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL2000110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0OX690XFPv7DFeILVeDid5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0OX690XFPv7DFeILVeDid5",
+    "id" : "0OX690XFPv7DFeILVeDid5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feel It All",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/69b86dbf224642c305d0ca8dc5a4ee16268c90b2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0OX690XFPv7DFeILVeDid5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Uyqa2sdHm1bL5JK4IC4zc",
+        "id" : "1Uyqa2sdHm1bL5JK4IC4zc",
+        "name" : "Wooli",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Uyqa2sdHm1bL5JK4IC4zc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+        "id" : "7dtX3ykcuyVmts2HQnWgSP",
+        "name" : "Kompany",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4N5p7PYUZXwJcghs3rcFpS",
+      "id" : "4N5p7PYUZXwJcghs3rcFpS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f184c17e9978e91a2ad926d2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f184c17e9978e91a2ad926d2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f184c17e9978e91a2ad926d2",
+        "width" : 64
+      } ],
+      "name" : "Fight Milk",
+      "release_date" : "2021-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4N5p7PYUZXwJcghs3rcFpS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Uyqa2sdHm1bL5JK4IC4zc",
+      "id" : "1Uyqa2sdHm1bL5JK4IC4zc",
+      "name" : "Wooli",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Uyqa2sdHm1bL5JK4IC4zc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA2106251"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3NR2E4XSKDzasRnTzivtLU",
+    "id" : "3NR2E4XSKDzasRnTzivtLU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fight Milk",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/996fa620eaa84fed64f6d3f84abced1099a051f5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3NR2E4XSKDzasRnTzivtLU"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+        "id" : "7dtX3ykcuyVmts2HQnWgSP",
+        "name" : "Kompany",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0HnFImXmf8r1qmmyFwDXMt",
+        "id" : "0HnFImXmf8r1qmmyFwDXMt",
+        "name" : "KC",
+        "type" : "artist",
+        "uri" : "spotify:artist:0HnFImXmf8r1qmmyFwDXMt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4PPUdNjkbbVWrdby0AamEx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4PPUdNjkbbVWrdby0AamEx",
+      "id" : "4PPUdNjkbbVWrdby0AamEx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734c067e386e8675f202f6c41f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024c067e386e8675f202f6c41f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514c067e386e8675f202f6c41f",
+        "width" : 64
+      } ],
+      "name" : "Just Like You",
+      "release_date" : "2021-08-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4PPUdNjkbbVWrdby0AamEx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0HnFImXmf8r1qmmyFwDXMt",
+      "id" : "0HnFImXmf8r1qmmyFwDXMt",
+      "name" : "KC",
+      "type" : "artist",
+      "uri" : "spotify:artist:0HnFImXmf8r1qmmyFwDXMt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 268800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL2100101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5XRvpUtk1ux7Tni2RAayDB",
+    "id" : "5XRvpUtk1ux7Tni2RAayDB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Just Like You",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/06b2c345a13b77a94d97b7082df6cebd652533c0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5XRvpUtk1ux7Tni2RAayDB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6PD17jvyBOJ0JloBKCe121",
+      "id" : "6PD17jvyBOJ0JloBKCe121",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273599489fb9b61613f308d1523",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02599489fb9b61613f308d1523",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851599489fb9b61613f308d1523",
+        "width" : 64
+      } ],
+      "name" : "String Theory",
+      "release_date" : "2020-10-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:6PD17jvyBOJ0JloBKCe121"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZMHN2001296"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2MN7IMJJf1uanHSUnPG2tc",
+    "id" : "2MN7IMJJf1uanHSUnPG2tc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wicked Witch",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7de8301a37ca760cf0e0d066c541c508caefddd5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2MN7IMJJf1uanHSUnPG2tc"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+        "id" : "7dtX3ykcuyVmts2HQnWgSP",
+        "name" : "Kompany",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7IyxUmBgkkV4jh7kHoip34",
+        "id" : "7IyxUmBgkkV4jh7kHoip34",
+        "name" : "Hi I'm Ghost",
+        "type" : "artist",
+        "uri" : "spotify:artist:7IyxUmBgkkV4jh7kHoip34"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7JXv1qLx9ocfaxpERZ0SI9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7JXv1qLx9ocfaxpERZ0SI9",
+      "id" : "7JXv1qLx9ocfaxpERZ0SI9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27340e7fc4e5b1d5da3ffacfc1d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0240e7fc4e5b1d5da3ffacfc1d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485140e7fc4e5b1d5da3ffacfc1d",
+        "width" : 64
+      } ],
+      "name" : "Gunshots",
+      "release_date" : "2022-02-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7JXv1qLx9ocfaxpERZ0SI9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7IyxUmBgkkV4jh7kHoip34",
+      "id" : "7IyxUmBgkkV4jh7kHoip34",
+      "name" : "Hi I'm Ghost",
+      "type" : "artist",
+      "uri" : "spotify:artist:7IyxUmBgkkV4jh7kHoip34"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL2200007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3JQMhnfjxYKU9NG8vzjU9s"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3JQMhnfjxYKU9NG8vzjU9s",
+    "id" : "3JQMhnfjxYKU9NG8vzjU9s",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gunshots",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/99b70f5f77fa411fca6d2430417e09a794586d38?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3JQMhnfjxYKU9NG8vzjU9s"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Zxy5LwBatI5kw4uponwHQ",
+        "id" : "2Zxy5LwBatI5kw4uponwHQ",
+        "name" : "Riot Ten",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Zxy5LwBatI5kw4uponwHQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5zId1SmYy46E9v2KQsSTFR",
+        "id" : "5zId1SmYy46E9v2KQsSTFR",
+        "name" : "Whales",
+        "type" : "artist",
+        "uri" : "spotify:artist:5zId1SmYy46E9v2KQsSTFR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3eiIeSHsUUURB7ihCn7gJt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3eiIeSHsUUURB7ihCn7gJt",
+      "id" : "3eiIeSHsUUURB7ihCn7gJt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27333d0133f3f3c8e323552fa9e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0233d0133f3f3c8e323552fa9e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485133d0133f3f3c8e323552fa9e",
+        "width" : 64
+      } ],
+      "name" : "Save You (feat. Megan Stokes) [Remixes]",
+      "release_date" : "2020-08-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:3eiIeSHsUUURB7ihCn7gJt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Zxy5LwBatI5kw4uponwHQ",
+      "id" : "2Zxy5LwBatI5kw4uponwHQ",
+      "name" : "Riot Ten",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Zxy5LwBatI5kw4uponwHQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5zId1SmYy46E9v2KQsSTFR",
+      "id" : "5zId1SmYy46E9v2KQsSTFR",
+      "name" : "Whales",
+      "type" : "artist",
+      "uri" : "spotify:artist:5zId1SmYy46E9v2KQsSTFR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ZjllHNxBDJvMsJCzbPFEX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ZjllHNxBDJvMsJCzbPFEX",
+      "id" : "5ZjllHNxBDJvMsJCzbPFEX",
+      "name" : "Megan Stokes",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ZjllHNxBDJvMsJCzbPFEX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216827,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDM32026701"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ll5WUzszERWz9M11Mc6ij"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ll5WUzszERWz9M11Mc6ij",
+    "id" : "2ll5WUzszERWz9M11Mc6ij",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Save You (feat. Megan Stokes) - Kompany Remix",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a1ca1dae73fda8d779c5de2cccfa8f640b0ad10d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2ll5WUzszERWz9M11Mc6ij"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+        "id" : "7dtX3ykcuyVmts2HQnWgSP",
+        "name" : "Kompany",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4fHFFvChjfjG7sAseTwiXd",
+        "id" : "4fHFFvChjfjG7sAseTwiXd",
+        "name" : "fknsyd",
+        "type" : "artist",
+        "uri" : "spotify:artist:4fHFFvChjfjG7sAseTwiXd"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6gts5SbABS6J4eTtJcPGD2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6gts5SbABS6J4eTtJcPGD2",
+      "id" : "6gts5SbABS6J4eTtJcPGD2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273153998321b8bc1beb42bb95c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02153998321b8bc1beb42bb95c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851153998321b8bc1beb42bb95c",
+        "width" : 64
+      } ],
+      "name" : "Broken",
+      "release_date" : "2019-08-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6gts5SbABS6J4eTtJcPGD2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dtX3ykcuyVmts2HQnWgSP",
+      "id" : "7dtX3ykcuyVmts2HQnWgSP",
+      "name" : "Kompany",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dtX3ykcuyVmts2HQnWgSP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4fHFFvChjfjG7sAseTwiXd",
+      "id" : "4fHFFvChjfjG7sAseTwiXd",
+      "name" : "fknsyd",
+      "type" : "artist",
+      "uri" : "spotify:artist:4fHFFvChjfjG7sAseTwiXd"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 198400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GB7YL1986201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lXOBYnC7HANcUryoVQBio"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lXOBYnC7HANcUryoVQBio",
+    "id" : "2lXOBYnC7HANcUryoVQBio",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Broken",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e81c643ad4eef5bc385e3b74113bbbf2d81f9fb0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2lXOBYnC7HANcUryoVQBio"
+  } ]
+}

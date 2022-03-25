@@ -1,0 +1,898 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+        "id" : "6fcTRFpz0yH79qSKfof7lp",
+        "name" : "Seven Lions",
+        "type" : "artist",
+        "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CCTvLyIHqUhY6VQizt150",
+        "id" : "6CCTvLyIHqUhY6VQizt150",
+        "name" : "Jason Ross",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CCTvLyIHqUhY6VQizt150"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+        "id" : "6HraHl4uwIQFixUu3J49BK",
+        "name" : "Crystal Skies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7J07OsK7ZMVeqtOtAlNFTg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7J07OsK7ZMVeqtOtAlNFTg",
+      "id" : "7J07OsK7ZMVeqtOtAlNFTg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b895e2c31257cf0012e01dc5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b895e2c31257cf0012e01dc5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b895e2c31257cf0012e01dc5",
+        "width" : 64
+      } ],
+      "name" : "Foolish Of Me (feat. Jonathan Mendelsohn)",
+      "release_date" : "2020-10-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7J07OsK7ZMVeqtOtAlNFTg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+      "id" : "6fcTRFpz0yH79qSKfof7lp",
+      "name" : "Seven Lions",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CCTvLyIHqUhY6VQizt150",
+      "id" : "6CCTvLyIHqUhY6VQizt150",
+      "name" : "Jason Ross",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CCTvLyIHqUhY6VQizt150"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5d1oOpLkM76Tgr2zWMTYkm",
+      "id" : "5d1oOpLkM76Tgr2zWMTYkm",
+      "name" : "Jonathan Mendelsohn",
+      "type" : "artist",
+      "uri" : "spotify:artist:5d1oOpLkM76Tgr2zWMTYkm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 186666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA1909450"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/06jPOtcs4L8QpgJxixFiBT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/06jPOtcs4L8QpgJxixFiBT",
+    "id" : "06jPOtcs4L8QpgJxixFiBT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Foolish Of Me (feat. Jonathan Mendelsohn)",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a6520a8ceecacc7cd25c1e2c95eda9980dccad22?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:06jPOtcs4L8QpgJxixFiBT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/757FXqX0Osk2pqtgv4E5v4",
+        "id" : "757FXqX0Osk2pqtgv4E5v4",
+        "name" : "Nurko",
+        "type" : "artist",
+        "uri" : "spotify:artist:757FXqX0Osk2pqtgv4E5v4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+        "id" : "6HraHl4uwIQFixUu3J49BK",
+        "name" : "Crystal Skies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4CxkpkQVs7cguL10DtmyjR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4CxkpkQVs7cguL10DtmyjR",
+        "id" : "4CxkpkQVs7cguL10DtmyjR",
+        "name" : "KnownAsNat",
+        "type" : "artist",
+        "uri" : "spotify:artist:4CxkpkQVs7cguL10DtmyjR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3ZMIql6dt08cpegtz4Gr7b"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3ZMIql6dt08cpegtz4Gr7b",
+      "id" : "3ZMIql6dt08cpegtz4Gr7b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce7b680746fbf23cd7546bab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce7b680746fbf23cd7546bab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce7b680746fbf23cd7546bab",
+        "width" : 64
+      } ],
+      "name" : "Lost Without You",
+      "release_date" : "2022-02-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3ZMIql6dt08cpegtz4Gr7b"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/757FXqX0Osk2pqtgv4E5v4",
+      "id" : "757FXqX0Osk2pqtgv4E5v4",
+      "name" : "Nurko",
+      "type" : "artist",
+      "uri" : "spotify:artist:757FXqX0Osk2pqtgv4E5v4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4CxkpkQVs7cguL10DtmyjR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4CxkpkQVs7cguL10DtmyjR",
+      "id" : "4CxkpkQVs7cguL10DtmyjR",
+      "name" : "KnownAsNat",
+      "type" : "artist",
+      "uri" : "spotify:artist:4CxkpkQVs7cguL10DtmyjR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231724,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2159591"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5x7dCMY120aFbg33VxCjpG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5x7dCMY120aFbg33VxCjpG",
+    "id" : "5x7dCMY120aFbg33VxCjpG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lost Without You",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/50867d5d18faf7ba549079f574a5aac750723d89?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5x7dCMY120aFbg33VxCjpG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+        "id" : "6HraHl4uwIQFixUu3J49BK",
+        "name" : "Crystal Skies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1nRMvOYyqvCfcVEo1rz4Id"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1nRMvOYyqvCfcVEo1rz4Id",
+      "id" : "1nRMvOYyqvCfcVEo1rz4Id",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d6f6b97f3466e971b35e8e5d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d6f6b97f3466e971b35e8e5d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d6f6b97f3466e971b35e8e5d",
+        "width" : 64
+      } ],
+      "name" : "Not Since When",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1nRMvOYyqvCfcVEo1rz4Id"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3L7JnVovGbYSUmRyqhXMYO",
+      "id" : "3L7JnVovGbYSUmRyqhXMYO",
+      "name" : "Fairlane",
+      "type" : "artist",
+      "uri" : "spotify:artist:3L7JnVovGbYSUmRyqhXMYO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4i8u1FZVapjZBcCyyrAnU3",
+      "id" : "4i8u1FZVapjZBcCyyrAnU3",
+      "name" : "Micah Martin",
+      "type" : "artist",
+      "uri" : "spotify:artist:4i8u1FZVapjZBcCyyrAnU3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 189554,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2173687"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7rZTsQgKFC9amit3T1j8X3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7rZTsQgKFC9amit3T1j8X3",
+    "id" : "7rZTsQgKFC9amit3T1j8X3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "All To You",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/076bdbd779ef544abb73d68f5f2dc136b0757f67?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:7rZTsQgKFC9amit3T1j8X3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+        "id" : "6HraHl4uwIQFixUu3J49BK",
+        "name" : "Crystal Skies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1nRMvOYyqvCfcVEo1rz4Id"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1nRMvOYyqvCfcVEo1rz4Id",
+      "id" : "1nRMvOYyqvCfcVEo1rz4Id",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d6f6b97f3466e971b35e8e5d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d6f6b97f3466e971b35e8e5d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d6f6b97f3466e971b35e8e5d",
+        "width" : 64
+      } ],
+      "name" : "Not Since When",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1nRMvOYyqvCfcVEo1rz4Id"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16yUpGkBRgc2eDMd3bB3Uw",
+      "id" : "16yUpGkBRgc2eDMd3bB3Uw",
+      "name" : "MitiS",
+      "type" : "artist",
+      "uri" : "spotify:artist:16yUpGkBRgc2eDMd3bB3Uw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vomb9Zaob10lPzxBcIiNb",
+      "id" : "0vomb9Zaob10lPzxBcIiNb",
+      "name" : "Linney",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vomb9Zaob10lPzxBcIiNb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 189295,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0036308"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5TSYawMYDnedU0UAR4ajrS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5TSYawMYDnedU0UAR4ajrS",
+    "id" : "5TSYawMYDnedU0UAR4ajrS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gone",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/beb3394aa8e42130f0fa6429bbbc8840ef3e451c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:5TSYawMYDnedU0UAR4ajrS"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16yUpGkBRgc2eDMd3bB3Uw",
+        "id" : "16yUpGkBRgc2eDMd3bB3Uw",
+        "name" : "MitiS",
+        "type" : "artist",
+        "uri" : "spotify:artist:16yUpGkBRgc2eDMd3bB3Uw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+        "id" : "6HraHl4uwIQFixUu3J49BK",
+        "name" : "Crystal Skies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/758Z4yF68hqw02dwuv0BOI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/758Z4yF68hqw02dwuv0BOI",
+      "id" : "758Z4yF68hqw02dwuv0BOI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423e924ee15d275a592307aa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423e924ee15d275a592307aa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423e924ee15d275a592307aa",
+        "width" : 64
+      } ],
+      "name" : "Wait",
+      "release_date" : "2020-04-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:758Z4yF68hqw02dwuv0BOI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16yUpGkBRgc2eDMd3bB3Uw",
+      "id" : "16yUpGkBRgc2eDMd3bB3Uw",
+      "name" : "MitiS",
+      "type" : "artist",
+      "uri" : "spotify:artist:16yUpGkBRgc2eDMd3bB3Uw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5E1FAGKopxyWqEREQblCDA",
+      "id" : "5E1FAGKopxyWqEREQblCDA",
+      "name" : "Monika Santucci",
+      "type" : "artist",
+      "uri" : "spotify:artist:5E1FAGKopxyWqEREQblCDA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 284689,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2010251"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5l9KtWJtZKMUE1Xgc51dcU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5l9KtWJtZKMUE1Xgc51dcU",
+    "id" : "5l9KtWJtZKMUE1Xgc51dcU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wait",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c842d1871d948cb6d7f65d9af7b0ce96a986b45c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5l9KtWJtZKMUE1Xgc51dcU"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+        "id" : "6HraHl4uwIQFixUu3J49BK",
+        "name" : "Crystal Skies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+        },
+        "href" : "https://api.spotify.com/v1/artists/06MSAITCPRhtuJMD4UL96s",
+        "id" : "06MSAITCPRhtuJMD4UL96s",
+        "name" : "Danny Olson",
+        "type" : "artist",
+        "uri" : "spotify:artist:06MSAITCPRhtuJMD4UL96s"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0nfU2YxUfRQxknJWo3mQit"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0nfU2YxUfRQxknJWo3mQit",
+        "id" : "0nfU2YxUfRQxknJWo3mQit",
+        "name" : "Jadelyn",
+        "type" : "artist",
+        "uri" : "spotify:artist:0nfU2YxUfRQxknJWo3mQit"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7mzTpyA0mRSC1yXGAsgAcS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7mzTpyA0mRSC1yXGAsgAcS",
+      "id" : "7mzTpyA0mRSC1yXGAsgAcS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27382633796a727f8a0901ae9b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0282633796a727f8a0901ae9b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485182633796a727f8a0901ae9b8",
+        "width" : 64
+      } ],
+      "name" : "Like Water",
+      "release_date" : "2021-05-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7mzTpyA0mRSC1yXGAsgAcS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/06MSAITCPRhtuJMD4UL96s",
+      "id" : "06MSAITCPRhtuJMD4UL96s",
+      "name" : "Danny Olson",
+      "type" : "artist",
+      "uri" : "spotify:artist:06MSAITCPRhtuJMD4UL96s"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nfU2YxUfRQxknJWo3mQit"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0nfU2YxUfRQxknJWo3mQit",
+      "id" : "0nfU2YxUfRQxknJWo3mQit",
+      "name" : "Jadelyn",
+      "type" : "artist",
+      "uri" : "spotify:artist:0nfU2YxUfRQxknJWo3mQit"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 270000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2163940"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0AbrbSTdgq56Yk7FfzscPF",
+    "id" : "0AbrbSTdgq56Yk7FfzscPF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Like Water",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/99db0f5c28e8ef7261b27fb131f6814e2a133681?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0AbrbSTdgq56Yk7FfzscPF"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+        "id" : "6HraHl4uwIQFixUu3J49BK",
+        "name" : "Crystal Skies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7uNRnXAfrV0cGSmMIDgHIn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7uNRnXAfrV0cGSmMIDgHIn",
+      "id" : "7uNRnXAfrV0cGSmMIDgHIn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27373341d4580a64b9d6dc0baf7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0273341d4580a64b9d6dc0baf7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485173341d4580a64b9d6dc0baf7",
+        "width" : 64
+      } ],
+      "name" : "Constellations",
+      "release_date" : "2019-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:7uNRnXAfrV0cGSmMIDgHIn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4aTYZNNuByNhd8QLrLMpo3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4aTYZNNuByNhd8QLrLMpo3",
+      "id" : "4aTYZNNuByNhd8QLrLMpo3",
+      "name" : "Gallie Fisher",
+      "type" : "artist",
+      "uri" : "spotify:artist:4aTYZNNuByNhd8QLrLMpo3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 300000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA1903731"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0fT5D9xLafMdtzS36N1vy6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0fT5D9xLafMdtzS36N1vy6",
+    "id" : "0fT5D9xLafMdtzS36N1vy6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Release Me (feat. Gallie Fisher)",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cc435761787c0e78e23490edd69da7c4ba746575?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0fT5D9xLafMdtzS36N1vy6"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+        "id" : "6HraHl4uwIQFixUu3J49BK",
+        "name" : "Crystal Skies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7uNRnXAfrV0cGSmMIDgHIn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7uNRnXAfrV0cGSmMIDgHIn",
+      "id" : "7uNRnXAfrV0cGSmMIDgHIn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27373341d4580a64b9d6dc0baf7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0273341d4580a64b9d6dc0baf7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485173341d4580a64b9d6dc0baf7",
+        "width" : 64
+      } ],
+      "name" : "Constellations",
+      "release_date" : "2019-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:7uNRnXAfrV0cGSmMIDgHIn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3l0H4QNiYYNdIsnZ4JgJAg",
+      "id" : "3l0H4QNiYYNdIsnZ4JgJAg",
+      "name" : "RUNN",
+      "type" : "artist",
+      "uri" : "spotify:artist:3l0H4QNiYYNdIsnZ4JgJAg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212571,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA1903733"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2CNDmxxFLmuD3qyiJgJz67"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2CNDmxxFLmuD3qyiJgJz67",
+    "id" : "2CNDmxxFLmuD3qyiJgJz67",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feels Right (feat. RUNN)",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/da440a80d5ae1c3361b3c7b67a5915073990215d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2CNDmxxFLmuD3qyiJgJz67"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+        "id" : "6HraHl4uwIQFixUu3J49BK",
+        "name" : "Crystal Skies",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6VpPSJTvfQ5YySy2yWOjsG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6VpPSJTvfQ5YySy2yWOjsG",
+      "id" : "6VpPSJTvfQ5YySy2yWOjsG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e234cf1876e30107f0fe964",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e234cf1876e30107f0fe964",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e234cf1876e30107f0fe964",
+        "width" : 64
+      } ],
+      "name" : "Never Change",
+      "release_date" : "2019-02-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6VpPSJTvfQ5YySy2yWOjsG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4aTYZNNuByNhd8QLrLMpo3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4aTYZNNuByNhd8QLrLMpo3",
+      "id" : "4aTYZNNuByNhd8QLrLMpo3",
+      "name" : "Gallie Fisher",
+      "type" : "artist",
+      "uri" : "spotify:artist:4aTYZNNuByNhd8QLrLMpo3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 249600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA1900220"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0TPJpTRhfjL3LNNpH3qrHE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0TPJpTRhfjL3LNNpH3qrHE",
+    "id" : "0TPJpTRhfjL3LNNpH3qrHE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Never Change (feat. Gallie Fisher)",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9485e8d09b21e92b913de86dab056d5a91785e0e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0TPJpTRhfjL3LNNpH3qrHE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2R7PeUrbSseLkirdasHPqg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2R7PeUrbSseLkirdasHPqg",
+      "id" : "2R7PeUrbSseLkirdasHPqg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738a6819e918c628007bc487ef",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028a6819e918c628007bc487ef",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518a6819e918c628007bc487ef",
+        "width" : 64
+      } ],
+      "name" : "Ashes (Remixes)",
+      "release_date" : "2016-12-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:2R7PeUrbSseLkirdasHPqg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ApUX1o6oSz321MMECyIYd",
+      "id" : "3ApUX1o6oSz321MMECyIYd",
+      "name" : "Quinn XCII",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "name" : "Crystal Skies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 278000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCACT1655291"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5LirGk5blsOuGu2Emb3YfQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5LirGk5blsOuGu2Emb3YfQ",
+    "id" : "5LirGk5blsOuGu2Emb3YfQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "With You - Crystal Skies Remix",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3c87fcf33d4c351e0d6c72865f4c11963e08e2a3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5LirGk5blsOuGu2Emb3YfQ"
+  } ]
+}

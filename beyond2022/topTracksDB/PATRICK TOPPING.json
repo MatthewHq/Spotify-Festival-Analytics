@@ -1,0 +1,763 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+        "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name" : "Patrick Topping",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Wx6VPrYYhN56cBE99izlc",
+      "id" : "1Wx6VPrYYhN56cBE99izlc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732d52b64a8ee2b4bfa55ec05b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022d52b64a8ee2b4bfa55ec05b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512d52b64a8ee2b4bfa55ec05b",
+        "width" : 64
+      } ],
+      "name" : "Be Sharp Say Nowt",
+      "release_date" : "2017-11-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:1Wx6VPrYYhN56cBE99izlc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 228571,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y1710203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6TvYtabYoc5plSB9kJpgOs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6TvYtabYoc5plSB9kJpgOs",
+    "id" : "6TvYtabYoc5plSB9kJpgOs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Be Sharp Say Nowt",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/90d09f580e5b51f631157211b56f200b2194da0e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6TvYtabYoc5plSB9kJpgOs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+        "id" : "3ABaec4jjl95VqmG1iD4k2",
+        "name" : "Green Velvet",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1hn0CRNZw1u16Jd2Vvopt4",
+      "id" : "1hn0CRNZw1u16Jd2Vvopt4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738da1f8135b9ddc3f4925958b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028da1f8135b9ddc3f4925958b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518da1f8135b9ddc3f4925958b",
+        "width" : 64
+      } ],
+      "name" : "The Chapters of Green Velvet",
+      "release_date" : "2014",
+      "release_date_precision" : "year",
+      "total_tracks" : 42,
+      "type" : "album",
+      "uri" : "spotify:album:1hn0CRNZw1u16Jd2Vvopt4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+      "id" : "3ABaec4jjl95VqmG1iD4k2",
+      "name" : "Green Velvet",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 436883,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USCEI1120731"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2IhRmHI7pDzhpF9c8iCT6x"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2IhRmHI7pDzhpF9c8iCT6x",
+    "id" : "2IhRmHI7pDzhpF9c8iCT6x",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Voicemail - Original Mix",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/734290bd4b02ca15b62a2493c9fb365db9a49cab?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2IhRmHI7pDzhpF9c8iCT6x"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+        "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name" : "Patrick Topping",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2cjxxZWWo97mnKuD31eRhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2cjxxZWWo97mnKuD31eRhX",
+      "id" : "2cjxxZWWo97mnKuD31eRhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ada0bec4a4b76b7f66aead6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ada0bec4a4b76b7f66aead6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ada0bec4a4b76b7f66aead6",
+        "width" : 64
+      } ],
+      "name" : "Boxed Off",
+      "release_date" : "2014-04-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:2cjxxZWWo97mnKuD31eRhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 366829,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y1445001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3RXpeuxTgxqMzqGXVLRiCy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3RXpeuxTgxqMzqGXVLRiCy",
+    "id" : "3RXpeuxTgxqMzqGXVLRiCy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Forget - Original Mix",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fc8d77edc6c7a7dca8b1bdec838bd32b2ec9430e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3RXpeuxTgxqMzqGXVLRiCy"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+        "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name" : "Patrick Topping",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+        "id" : "0jS6VTFGujWxinY5TSQwOG",
+        "name" : "Kevin Saunderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VEY7dg6GBsee7YSRNBkDb",
+      "id" : "5VEY7dg6GBsee7YSRNBkDb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d53b97e91809790c5b19da30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d53b97e91809790c5b19da30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d53b97e91809790c5b19da30",
+        "width" : 64
+      } ],
+      "name" : "Frisk",
+      "release_date" : "2020-01-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5VEY7dg6GBsee7YSRNBkDb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jS6VTFGujWxinY5TSQwOG",
+      "id" : "0jS6VTFGujWxinY5TSQwOG",
+      "name" : "Kevin Saunderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jS6VTFGujWxinY5TSQwOG"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 191350,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712000088"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4dB7bla8wMutu4Yq8stA7y",
+    "id" : "4dB7bla8wMutu4Yq8stA7y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Frisk",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f88c34731fff5773faf4fee5bd0ef43d4e771f6c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4dB7bla8wMutu4Yq8stA7y"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+        "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name" : "Patrick Topping",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1cETEUhWX6DlSx263Jn0eN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1cETEUhWX6DlSx263Jn0eN",
+      "id" : "1cETEUhWX6DlSx263Jn0eN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731d5722b8fcd845fe376dd4a0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021d5722b8fcd845fe376dd4a0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511d5722b8fcd845fe376dd4a0",
+        "width" : 64
+      } ],
+      "name" : "Turbo Time",
+      "release_date" : "2019-08-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:1cETEUhWX6DlSx263Jn0eN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 237656,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJX31963010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7ljWoSnNlZG1OerEAf7fxu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7ljWoSnNlZG1OerEAf7fxu",
+    "id" : "7ljWoSnNlZG1OerEAf7fxu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Turbo Time - Edit",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/da75d4726e035fbbcfec808aab68c57483a0a42e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7ljWoSnNlZG1OerEAf7fxu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+        "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name" : "Patrick Topping",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Wx6VPrYYhN56cBE99izlc",
+      "id" : "1Wx6VPrYYhN56cBE99izlc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732d52b64a8ee2b4bfa55ec05b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022d52b64a8ee2b4bfa55ec05b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512d52b64a8ee2b4bfa55ec05b",
+        "width" : 64
+      } ],
+      "name" : "Be Sharp Say Nowt",
+      "release_date" : "2017-11-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:1Wx6VPrYYhN56cBE99izlc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 444000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y1710201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3xN4zbuUZvGev7c9D0BbTM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3xN4zbuUZvGev7c9D0BbTM",
+    "id" : "3xN4zbuUZvGev7c9D0BbTM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Be Sharp Say Nowt - Original Mix",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fe306d0930829e9f1ba8c04d0aef8eae975378c0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3xN4zbuUZvGev7c9D0BbTM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+        "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name" : "Patrick Topping",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1cETEUhWX6DlSx263Jn0eN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1cETEUhWX6DlSx263Jn0eN",
+      "id" : "1cETEUhWX6DlSx263Jn0eN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731d5722b8fcd845fe376dd4a0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021d5722b8fcd845fe376dd4a0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511d5722b8fcd845fe376dd4a0",
+        "width" : 64
+      } ],
+      "name" : "Turbo Time",
+      "release_date" : "2019-08-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:1cETEUhWX6DlSx263Jn0eN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 391874,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJX31963007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0i7Wo7SR4tbchoENrlmLKf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0i7Wo7SR4tbchoENrlmLKf",
+    "id" : "0i7Wo7SR4tbchoENrlmLKf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Turbo Time",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5416ed82579cbacfd3e87b4f182739486e5aa6a1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0i7Wo7SR4tbchoENrlmLKf"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+        "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name" : "Patrick Topping",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21A7bhIL1m6CNZn8y57PIZ",
+        "id" : "21A7bhIL1m6CNZn8y57PIZ",
+        "name" : "Reinier Zonneveld",
+        "type" : "artist",
+        "uri" : "spotify:artist:21A7bhIL1m6CNZn8y57PIZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/113reBz1jA6rVxbXl55mlj",
+        "id" : "113reBz1jA6rVxbXl55mlj",
+        "name" : "Rebūke",
+        "type" : "artist",
+        "uri" : "spotify:artist:113reBz1jA6rVxbXl55mlj"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4VpjFIHLRYtGtzw6bDmOnu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4VpjFIHLRYtGtzw6bDmOnu",
+      "id" : "4VpjFIHLRYtGtzw6bDmOnu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f2cdd6b1bda793d1130c777c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f2cdd6b1bda793d1130c777c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f2cdd6b1bda793d1130c777c",
+        "width" : 64
+      } ],
+      "name" : "Planet Session Remix EP",
+      "release_date" : "2021-12-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:4VpjFIHLRYtGtzw6bDmOnu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21A7bhIL1m6CNZn8y57PIZ",
+      "id" : "21A7bhIL1m6CNZn8y57PIZ",
+      "name" : "Reinier Zonneveld",
+      "type" : "artist",
+      "uri" : "spotify:artist:21A7bhIL1m6CNZn8y57PIZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 369979,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJX32163068"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3NMHSH4fNW5MwyRvCQH0Lm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3NMHSH4fNW5MwyRvCQH0Lm",
+    "id" : "3NMHSH4fNW5MwyRvCQH0Lm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Planet Session - Reinier Zonneveld Remix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/89f2271cec389c8e8875cc2bf97d3b5ed141bf2c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3NMHSH4fNW5MwyRvCQH0Lm"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+        "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name" : "Patrick Topping",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21A7bhIL1m6CNZn8y57PIZ",
+        "id" : "21A7bhIL1m6CNZn8y57PIZ",
+        "name" : "Reinier Zonneveld",
+        "type" : "artist",
+        "uri" : "spotify:artist:21A7bhIL1m6CNZn8y57PIZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/113reBz1jA6rVxbXl55mlj",
+        "id" : "113reBz1jA6rVxbXl55mlj",
+        "name" : "Rebūke",
+        "type" : "artist",
+        "uri" : "spotify:artist:113reBz1jA6rVxbXl55mlj"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4VpjFIHLRYtGtzw6bDmOnu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4VpjFIHLRYtGtzw6bDmOnu",
+      "id" : "4VpjFIHLRYtGtzw6bDmOnu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f2cdd6b1bda793d1130c777c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f2cdd6b1bda793d1130c777c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f2cdd6b1bda793d1130c777c",
+        "width" : 64
+      } ],
+      "name" : "Planet Session Remix EP",
+      "release_date" : "2021-12-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:4VpjFIHLRYtGtzw6bDmOnu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/113reBz1jA6rVxbXl55mlj",
+      "id" : "113reBz1jA6rVxbXl55mlj",
+      "name" : "Rebūke",
+      "type" : "artist",
+      "uri" : "spotify:artist:113reBz1jA6rVxbXl55mlj"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 369672,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJX32163070"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/01OI8yGjvD8u4ZidDZHU1C"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/01OI8yGjvD8u4ZidDZHU1C",
+    "id" : "01OI8yGjvD8u4ZidDZHU1C",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lift Off - Rebuke Remix",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/362b290d88bff2f7d37c0e5da7d484310545eec1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:01OI8yGjvD8u4ZidDZHU1C"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0DH2O8Nvb5KxMaI9jCZUqW",
+        "id" : "0DH2O8Nvb5KxMaI9jCZUqW",
+        "name" : "Raumakustik",
+        "type" : "artist",
+        "uri" : "spotify:artist:0DH2O8Nvb5KxMaI9jCZUqW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5sK7YNApuJfcPVed2JETsw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5sK7YNApuJfcPVed2JETsw",
+      "id" : "5sK7YNApuJfcPVed2JETsw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27313a9b155bd79d2c1506bc4f2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0213a9b155bd79d2c1506bc4f2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485113a9b155bd79d2c1506bc4f2",
+        "width" : 64
+      } ],
+      "name" : "Dem A Pree",
+      "release_date" : "2016-09-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:5sK7YNApuJfcPVed2JETsw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0DH2O8Nvb5KxMaI9jCZUqW",
+      "id" : "0DH2O8Nvb5KxMaI9jCZUqW",
+      "name" : "Raumakustik",
+      "type" : "artist",
+      "uri" : "spotify:artist:0DH2O8Nvb5KxMaI9jCZUqW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yRimuQSC5Ks3T2Ts0iyZa",
+      "id" : "7yRimuQSC5Ks3T2Ts0iyZa",
+      "name" : "Patrick Topping",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 453543,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y1607402"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0hDDXaxqAkxqKlmk53yhvZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0hDDXaxqAkxqKlmk53yhvZ",
+    "id" : "0hDDXaxqAkxqKlmk53yhvZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dem A Pree - Patrick Topping Remix",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a7995ceaac6fb4d6a2086ad3f2d5ea50ff729600?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0hDDXaxqAkxqKlmk53yhvZ"
+  } ]
+}

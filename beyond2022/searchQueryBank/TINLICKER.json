@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=TINLICKER&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 107568
+      },
+      "genres" : [ "progressive house" ],
+      "href" : "https://api.spotify.com/v1/artists/5EmEZjq8eHEC6qFnT63Lza",
+      "id" : "5EmEZjq8eHEC6qFnT63Lza",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb69268f3aaea74641d27d668a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517469268f3aaea74641d27d668a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17869268f3aaea74641d27d668a",
+        "width" : 160
+      } ],
+      "name" : "Tinlicker",
+      "popularity" : 72,
+      "type" : "artist",
+      "uri" : "spotify:artist:5EmEZjq8eHEC6qFnT63Lza"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/71Xvq0Umkp9sKtiGU8uqhK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/71Xvq0Umkp9sKtiGU8uqhK",
+      "id" : "71Xvq0Umkp9sKtiGU8uqhK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734fa8723b596c28f90221150e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024fa8723b596c28f90221150e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514fa8723b596c28f90221150e",
+        "width" : 64
+      } ],
+      "name" : "Tinlicker Ian Urbina",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:71Xvq0Umkp9sKtiGU8uqhK"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

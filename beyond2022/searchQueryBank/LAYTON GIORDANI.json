@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=LAYTON+GIORDANI&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 40608
+      },
+      "genres" : [ "dark techno", "minimal techno", "tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/7mC3RkNNTV6p2j9w4F8Ip4",
+      "id" : "7mC3RkNNTV6p2j9w4F8Ip4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc7b2652e18ed246d2472c96c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c7b2652e18ed246d2472c96c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c7b2652e18ed246d2472c96c",
+        "width" : 160
+      } ],
+      "name" : "Layton Giordani",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6GwfMEkbusroQQULRUp9HO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6GwfMEkbusroQQULRUp9HO",
+      "id" : "6GwfMEkbusroQQULRUp9HO",
+      "images" : [ ],
+      "name" : "Layton Giordani",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:6GwfMEkbusroQQULRUp9HO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6b7bCd3QkCP9Tunjrch14k"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6b7bCd3QkCP9Tunjrch14k",
+      "id" : "6b7bCd3QkCP9Tunjrch14k",
+      "images" : [ ],
+      "name" : "Layton Giordani",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:6b7bCd3QkCP9Tunjrch14k"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

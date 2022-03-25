@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=ROGER+SANCHEZ&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 98335
+      },
+      "genres" : [ "deep house", "disco house", "diva house", "tribal house", "vocal house" ],
+      "href" : "https://api.spotify.com/v1/artists/1HT9k1ZSUL9IczSstOAgWJ",
+      "id" : "1HT9k1ZSUL9IczSstOAgWJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb16db642c25db5a35943328c3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517416db642c25db5a35943328c3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17816db642c25db5a35943328c3",
+        "width" : 160
+      } ],
+      "name" : "Roger Sanchez",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:1HT9k1ZSUL9IczSstOAgWJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Pwo4u30PQVTGNHID0ncPk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1Pwo4u30PQVTGNHID0ncPk",
+      "id" : "1Pwo4u30PQVTGNHID0ncPk",
+      "images" : [ ],
+      "name" : "ROGER SANCHEZ",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Pwo4u30PQVTGNHID0ncPk"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=TIMMY+TRUMPET&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 877456
+      },
+      "genres" : [ "australian dance", "big room", "dance pop", "edm", "melbourne bounce", "melbourne bounce international", "pop dance" ],
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb82ac9eee4c8a5f57412b4821",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517482ac9eee4c8a5f57412b4821",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17882ac9eee4c8a5f57412b4821",
+        "width" : 160
+      } ],
+      "name" : "Timmy Trumpet",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Yynks5oDAWChkLzx2qR3r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1197
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Yynks5oDAWChkLzx2qR3r",
+      "id" : "2Yynks5oDAWChkLzx2qR3r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27326fe9d98b24ca801d975d0ec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0226fe9d98b24ca801d975d0ec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485126fe9d98b24ca801d975d0ec",
+        "width" : 64
+      } ],
+      "name" : "Timmy Trumpet & Savage",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Yynks5oDAWChkLzx2qR3r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/42OVFXja74jNFdbLlc12n8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1037
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/42OVFXja74jNFdbLlc12n8",
+      "id" : "42OVFXja74jNFdbLlc12n8",
+      "images" : [ ],
+      "name" : "KCB & Timmy Trumpet",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:42OVFXja74jNFdbLlc12n8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54ClucHaj0whgtp28G8ktb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1249
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/54ClucHaj0whgtp28G8ktb",
+      "id" : "54ClucHaj0whgtp28G8ktb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27348f794b60cd3065c3984120f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0248f794b60cd3065c3984120f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485148f794b60cd3065c3984120f",
+        "width" : 64
+      } ],
+      "name" : "Timmy Trumpet & Chardy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:54ClucHaj0whgtp28G8ktb"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

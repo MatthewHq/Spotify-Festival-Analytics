@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CRYSTAL+SKIES&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 44019
+      },
+      "genres" : [ "edm", "future bass", "melodic dubstep", "pop dance", "pop edm" ],
+      "href" : "https://api.spotify.com/v1/artists/6HraHl4uwIQFixUu3J49BK",
+      "id" : "6HraHl4uwIQFixUu3J49BK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6337713a0ed078753a98ebfb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746337713a0ed078753a98ebfb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786337713a0ed078753a98ebfb",
+        "width" : 160
+      } ],
+      "name" : "Crystal Skies",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:6HraHl4uwIQFixUu3J49BK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0cSnmT963Dort3gocjxlSO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0cSnmT963Dort3gocjxlSO",
+      "id" : "0cSnmT963Dort3gocjxlSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe5956dcf7fd1d421d53c6cdb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e5956dcf7fd1d421d53c6cdb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e5956dcf7fd1d421d53c6cdb",
+        "width" : 160
+      } ],
+      "name" : "Crystal Skies",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0cSnmT963Dort3gocjxlSO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6jrgfTw833hRyXa7AZlHVK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6jrgfTw833hRyXa7AZlHVK",
+      "id" : "6jrgfTw833hRyXa7AZlHVK",
+      "images" : [ ],
+      "name" : "Crystal Skies",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6jrgfTw833hRyXa7AZlHVK"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

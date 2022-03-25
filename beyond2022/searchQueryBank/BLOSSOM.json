@@ -1,0 +1,571 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BLOSSOM&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 112394
+      },
+      "genres" : [ "adult standards", "jazz", "lounge", "soul", "swing", "vocal jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/5bWApG9Vdshhd1J50UnNf6",
+      "id" : "5bWApG9Vdshhd1J50UnNf6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0c866bfe96dc9b22a358f7ac",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740c866bfe96dc9b22a358f7ac",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780c866bfe96dc9b22a358f7ac",
+        "width" : 160
+      } ],
+      "name" : "Blossom Dearie",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:5bWApG9Vdshhd1J50UnNf6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 535252
+      },
+      "genres" : [ "alternative rock", "neo mellow", "permanent wave", "pop rock", "post-grunge", "rock", "tempe indie" ],
+      "href" : "https://api.spotify.com/v1/artists/6kXp61QMZFPcKMcRPqoiVj",
+      "id" : "6kXp61QMZFPcKMcRPqoiVj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5c0f1358900eef3ae120f159",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745c0f1358900eef3ae120f159",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785c0f1358900eef3ae120f159",
+        "width" : 160
+      } ],
+      "name" : "Gin Blossoms",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:6kXp61QMZFPcKMcRPqoiVj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tLgC2hURdDjOQ5zheUW0R"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 115
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3tLgC2hURdDjOQ5zheUW0R",
+      "id" : "3tLgC2hURdDjOQ5zheUW0R",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4818332fbc8a021f58b1cde0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744818332fbc8a021f58b1cde0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784818332fbc8a021f58b1cde0",
+        "width" : 160
+      } ],
+      "name" : "Blossom",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:3tLgC2hURdDjOQ5zheUW0R"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 377754
+      },
+      "genres" : [ "english indie rock", "modern rock", "rock" ],
+      "href" : "https://api.spotify.com/v1/artists/22RISwgVJyZu9lpqAcv1F5",
+      "id" : "22RISwgVJyZu9lpqAcv1F5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfa64c024bf9ca7bee4ab700d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fa64c024bf9ca7bee4ab700d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fa64c024bf9ca7bee4ab700d",
+        "width" : 160
+      } ],
+      "name" : "Blossoms",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:22RISwgVJyZu9lpqAcv1F5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5882
+      },
+      "genres" : [ "bass house" ],
+      "href" : "https://api.spotify.com/v1/artists/0FhgVFxDmcXH3blEWtt13V",
+      "id" : "0FhgVFxDmcXH3blEWtt13V",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0339752389a35e8d6fcd9608",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740339752389a35e8d6fcd9608",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780339752389a35e8d6fcd9608",
+        "width" : 160
+      } ],
+      "name" : "Blossom",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:0FhgVFxDmcXH3blEWtt13V"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 40
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb19e21f97e83c0844f4c46182",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517419e21f97e83c0844f4c46182",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17819e21f97e83c0844f4c46182",
+        "width" : 160
+      } ],
+      "name" : "blossom",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 39489
+      },
+      "genres" : [ "alternative country", "deep new americana", "folk", "indie folk", "midwest americana", "new americana", "roots rock" ],
+      "href" : "https://api.spotify.com/v1/artists/7kWwQAe9JnYNMk4kuEe73S",
+      "id" : "7kWwQAe9JnYNMk4kuEe73S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaeecf1a7746a4a64288c9f21",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aeecf1a7746a4a64288c9f21",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aeecf1a7746a4a64288c9f21",
+        "width" : 160
+      } ],
+      "name" : "The Cactus Blossoms",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:7kWwQAe9JnYNMk4kuEe73S"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14179
+      },
+      "genres" : [ "modern alternative pop" ],
+      "href" : "https://api.spotify.com/v1/artists/7lq7hz0Z6rG6v9zbJRRn4K",
+      "id" : "7lq7hz0Z6rG6v9zbJRRn4K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb23c711faf2d06f851fd7a479",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517423c711faf2d06f851fd7a479",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17823c711faf2d06f851fd7a479",
+        "width" : 160
+      } ],
+      "name" : "THE BLSSM",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:7lq7hz0Z6rG6v9zbJRRn4K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2663
+      },
+      "genres" : [ "bass house" ],
+      "href" : "https://api.spotify.com/v1/artists/1cNpMm9NSchdIe9RdGA1MC",
+      "id" : "1cNpMm9NSchdIe9RdGA1MC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb77680c71ca3851e6030186bd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517477680c71ca3851e6030186bd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17877680c71ca3851e6030186bd",
+        "width" : 160
+      } ],
+      "name" : "Capozzi",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:1cNpMm9NSchdIe9RdGA1MC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zoBoq6Qgprc0x8Ddc7U36"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2zoBoq6Qgprc0x8Ddc7U36",
+      "id" : "2zoBoq6Qgprc0x8Ddc7U36",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e629c9751bfba2a489de6245",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e629c9751bfba2a489de6245",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e629c9751bfba2a489de6245",
+        "width" : 64
+      } ],
+      "name" : "BLOSSOM",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2zoBoq6Qgprc0x8Ddc7U36"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0BrUMx34x84azYCP7QvEU0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8806
+      },
+      "genres" : [ "uk alternative pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0BrUMx34x84azYCP7QvEU0",
+      "id" : "0BrUMx34x84azYCP7QvEU0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb93a6b3b08d7cdf0455c26627",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517493a6b3b08d7cdf0455c26627",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17893a6b3b08d7cdf0455c26627",
+        "width" : 160
+      } ],
+      "name" : "Blossom Caldarone",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:0BrUMx34x84azYCP7QvEU0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0yizNEr2F1csK8wSkd5Nsx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4294
+      },
+      "genres" : [ "anthem emo", "pixie" ],
+      "href" : "https://api.spotify.com/v1/artists/0yizNEr2F1csK8wSkd5Nsx",
+      "id" : "0yizNEr2F1csK8wSkd5Nsx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf56870bd86a14f30bc8734f6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f56870bd86a14f30bc8734f6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f56870bd86a14f30bc8734f6",
+        "width" : 160
+      } ],
+      "name" : "Blossom",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:0yizNEr2F1csK8wSkd5Nsx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5joKsqhavCMjKv73vTSJjb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2153
+      },
+      "genres" : [ "electra", "portland indie" ],
+      "href" : "https://api.spotify.com/v1/artists/5joKsqhavCMjKv73vTSJjb",
+      "id" : "5joKsqhavCMjKv73vTSJjb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb746aa11b5f25079e79730ed",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b746aa11b5f25079e79730ed",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b746aa11b5f25079e79730ed",
+        "width" : 160
+      } ],
+      "name" : "Blossom",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:5joKsqhavCMjKv73vTSJjb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5d66sWR2eYa7f627BC2t6Q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 42
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5d66sWR2eYa7f627BC2t6Q",
+      "id" : "5d66sWR2eYa7f627BC2t6Q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd4b0acc403443d50bd68d6dc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d4b0acc403443d50bd68d6dc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d4b0acc403443d50bd68d6dc",
+        "width" : 160
+      } ],
+      "name" : "Bitter Blossom",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:5d66sWR2eYa7f627BC2t6Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ydnyVoz3L7e8WFAmz8xKF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0ydnyVoz3L7e8WFAmz8xKF",
+      "id" : "0ydnyVoz3L7e8WFAmz8xKF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb00027d551ea5ff02ff124254",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517400027d551ea5ff02ff124254",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17800027d551ea5ff02ff124254",
+        "width" : 160
+      } ],
+      "name" : "Blossom",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:0ydnyVoz3L7e8WFAmz8xKF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3SlDsnTkmnKksYwO5HExTt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7123
+      },
+      "genres" : [ "omaha indie" ],
+      "href" : "https://api.spotify.com/v1/artists/3SlDsnTkmnKksYwO5HExTt",
+      "id" : "3SlDsnTkmnKksYwO5HExTt",
+      "images" : [ {
+        "height" : 510,
+        "url" : "https://i.scdn.co/image/e2a9772a8add417eaf3063cf654869c3597d5ec8",
+        "width" : 510
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/3220d966909dfc51f05c94f659272b058b273674",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/d693f2252c942fbad99a2b917827e179db37ab26",
+        "width" : 64
+      } ],
+      "name" : "Icky Blossoms",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:3SlDsnTkmnKksYwO5HExTt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/41WQRApEVTSq2cgn93sr5J"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 223
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/41WQRApEVTSq2cgn93sr5J",
+      "id" : "41WQRApEVTSq2cgn93sr5J",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd3bfb3dff346308279876c92",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d3bfb3dff346308279876c92",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d3bfb3dff346308279876c92",
+        "width" : 160
+      } ],
+      "name" : "Blossom Aloe",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:41WQRApEVTSq2cgn93sr5J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 238
+      },
+      "genres" : [ "asmr" ],
+      "href" : "https://api.spotify.com/v1/artists/6HpWebq041QRizskcykHPH",
+      "id" : "6HpWebq041QRizskcykHPH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f8272c76e56d9b067c3c2f5d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f8272c76e56d9b067c3c2f5d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f8272c76e56d9b067c3c2f5d",
+        "width" : 64
+      } ],
+      "name" : "ASMR Blossom",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:6HpWebq041QRizskcykHPH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FGREdEAUNWBlLvNx72DAT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6072
+      },
+      "genres" : [ "classic garage rock", "classic psychedelic rock", "freakbeat", "psychedelic rock" ],
+      "href" : "https://api.spotify.com/v1/artists/7FGREdEAUNWBlLvNx72DAT",
+      "id" : "7FGREdEAUNWBlLvNx72DAT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730f04fe7887bea3a012414e92",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020f04fe7887bea3a012414e92",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510f04fe7887bea3a012414e92",
+        "width" : 64
+      } ],
+      "name" : "Blossom Toes",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:7FGREdEAUNWBlLvNx72DAT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44Jsgh7hrE7uqz90xooL69"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/44Jsgh7hrE7uqz90xooL69",
+      "id" : "44Jsgh7hrE7uqz90xooL69",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfa648cee134f09a181d529b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfa648cee134f09a181d529b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfa648cee134f09a181d529b",
+        "width" : 64
+      } ],
+      "name" : "Midi Blossom",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:44Jsgh7hrE7uqz90xooL69"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=BLOSSOM&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 404
+  }
+}

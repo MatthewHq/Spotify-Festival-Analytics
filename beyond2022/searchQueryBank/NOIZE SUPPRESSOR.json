@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=NOIZE+SUPPRESSOR&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69IwChH6kBVij0cmVHSOtt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36642
+      },
+      "genres" : [ "gabba", "happy hardcore", "hardcore techno", "uptempo hardcore" ],
+      "href" : "https://api.spotify.com/v1/artists/69IwChH6kBVij0cmVHSOtt",
+      "id" : "69IwChH6kBVij0cmVHSOtt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273868f340f80e13815ba9391bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02868f340f80e13815ba9391bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851868f340f80e13815ba9391bf",
+        "width" : 64
+      } ],
+      "name" : "Noize Suppressor",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:69IwChH6kBVij0cmVHSOtt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0HwAspVvDjurgHO6Xt5xmM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0HwAspVvDjurgHO6Xt5xmM",
+      "id" : "0HwAspVvDjurgHO6Xt5xmM",
+      "images" : [ ],
+      "name" : "Noize Suppressor",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0HwAspVvDjurgHO6Xt5xmM"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

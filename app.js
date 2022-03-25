@@ -2,25 +2,26 @@ import * as credManager from './credManager.js';
 import * as spotifyRequests from './spotifyRequests.js'
 import * as dbManage from './dbManage.js'
 import * as userSpotifyRequests from './userSpotifyRequests.js'
+import * as userDbManage from './userDbManage.js'
 
 
 async function main() {
     //MAIN PROCEDURE HERE ++++++++++++++++
 
     let festivalTitle = "beyond2022"
-    await clientTokenCreds()
-    setTimeout(async () => {
-        dbManage.iniFestival(festivalTitle)
-        await spotifyRequests.bulkArtistCache(festivalTitle)
-        // await dbManage.artistCollect(festivalTitle)
-        // await spotifyRequests.overWriteArtists(festivalTitle)
-        //     await spotifyRequests.bulkArtistTopTrack(festivalTitle)
-        //     await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
-        //     await dbManage.consolidateTopTracks(festivalTitle)
-        //     await dbManage.consolidateArtists(festivalTitle)
-        //     await dbManage.allArtistsToCSVcustom(festivalTitle)
-        //     await dbManage.allTracksToCSVcustom(festivalTitle)
-    }, 2000);
+    // await clientTokenCreds()
+    // setTimeout(async () => {
+    // dbManage.iniFestival(festivalTitle)
+    // await spotifyRequests.bulkArtistCache(festivalTitle)
+    // await dbManage.artistCollect(festivalTitle)
+    // await spotifyRequests.overWriteArtists(festivalTitle)
+    // await spotifyRequests.bulkArtistTopTrack(festivalTitle)
+    // await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
+    // await dbManage.consolidateTopTracks(festivalTitle)
+    // await dbManage.consolidateArtists(festivalTitle)
+    // await dbManage.allArtistsToCSVcustom(festivalTitle)
+    // await dbManage.allTracksToCSVcustom(festivalTitle)
+    // }, 2000);
     // END MAIN PROCEDURE HERE ++++++++++++++++++
 
 
@@ -30,11 +31,20 @@ async function main() {
     // userAccessTokenCreds()
     // userRefreshTokenCreds()
 
-    // setTimeout(async () => {
-    //     let test = await userSpotifyRequests.createPlaylist("MY CODED PLAYLIST", false, false, "THIS IS MY PLAYLIST mADE WITH MY CODE")
-    //     // console.log(test)
-    // }, 2000);
+    setTimeout(async () => {
+        // let playlistCreateResult = await userSpotifyRequests.createPlaylist("MY CODED PLAYLIST", false, false, "THIS IS MY PLAYLIST mADE WITH MY CODE")
+        // console.log(playlistCreateResult)
+
+
+        // let lineByLineToJSON = await userDbManage.lineByLineToJSON('./mainDB/userData/playlistTracks.txt')
+
+        await userSpotifyRequests.bulkToPlaylistAdd()
+
+    }, 2000);
     //END USER PROCEDURE HERE ++++++++++++++++++
+
+
+
 
 
 }

@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=OG+NIXIN&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6AzehpPyhn3Qrwg6pQfPXz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8515
+      },
+      "genres" : [ "dubstep", "gaming dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/6AzehpPyhn3Qrwg6pQfPXz",
+      "id" : "6AzehpPyhn3Qrwg6pQfPXz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1a8014be51667d98e6841f5d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741a8014be51667d98e6841f5d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781a8014be51667d98e6841f5d",
+        "width" : 160
+      } ],
+      "name" : "OG Nixin",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:6AzehpPyhn3Qrwg6pQfPXz"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

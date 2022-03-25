@@ -1,0 +1,808 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+        "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+        "name" : "SIPPY",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/05yXy0GVXm8w34eH69fMdY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/05yXy0GVXm8w34eH69fMdY",
+      "id" : "05yXy0GVXm8w34eH69fMdY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c0753b21e9a78ec434d05ac7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c0753b21e9a78ec434d05ac7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c0753b21e9a78ec434d05ac7",
+        "width" : 64
+      } ],
+      "name" : "Takin' Over",
+      "release_date" : "2021-10-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:05yXy0GVXm8w34eH69fMdY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NF0Inkg9acKhu5Nyt2JLK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NF0Inkg9acKhu5Nyt2JLK",
+      "id" : "3NF0Inkg9acKhu5Nyt2JLK",
+      "name" : "Nardean",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NF0Inkg9acKhu5Nyt2JLK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 139877,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GB2LD2110315"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/16laBcAyTKhLY50kHQ11b2",
+    "id" : "16laBcAyTKhLY50kHQ11b2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Takin' Over",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/98621a45fd1b31ac54da4d8f5226998862578011?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:16laBcAyTKhLY50kHQ11b2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        "href" : "https://api.spotify.com/v1/artists/64KEffDW9EtZ1y2vBYgq8T",
+        "id" : "64KEffDW9EtZ1y2vBYgq8T",
+        "name" : "Marshmello",
+        "type" : "artist",
+        "uri" : "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6yXPyhVxt3PHBwkinPFn6I",
+      "id" : "6yXPyhVxt3PHBwkinPFn6I",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d82de295af2bbdc06fb14068",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d82de295af2bbdc06fb14068",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d82de295af2bbdc06fb14068",
+        "width" : 64
+      } ],
+      "name" : "Shockwave",
+      "release_date" : "2021-06-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6yXPyhVxt3PHBwkinPFn6I"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/64KEffDW9EtZ1y2vBYgq8T",
+      "id" : "64KEffDW9EtZ1y2vBYgq8T",
+      "name" : "Marshmello",
+      "type" : "artist",
+      "uri" : "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 129701,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2173414"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Q7mn0KjoCZGYeuWR8pAmZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Q7mn0KjoCZGYeuWR8pAmZ",
+    "id" : "6Q7mn0KjoCZGYeuWR8pAmZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Candy Kid",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c852bf91255dc7fd7a5d61bbeda10bf2341b0b9e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6Q7mn0KjoCZGYeuWR8pAmZ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+        "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+        "name" : "SIPPY",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/57ucHWJmOjrC7PgBzHMiUP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/57ucHWJmOjrC7PgBzHMiUP",
+      "id" : "57ucHWJmOjrC7PgBzHMiUP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273768ac07285965bc66a4d4efc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02768ac07285965bc66a4d4efc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851768ac07285965bc66a4d4efc",
+        "width" : 64
+      } ],
+      "name" : "Going Insane",
+      "release_date" : "2021-05-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:57ucHWJmOjrC7PgBzHMiUP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 226285,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM82100164"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3kqfov5qf3VfQMsnq35su1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3kqfov5qf3VfQMsnq35su1",
+    "id" : "3kqfov5qf3VfQMsnq35su1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Going Insane",
+    "popularity" : 44,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3kqfov5qf3VfQMsnq35su1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0qPGd8tOMHlFZt8EA1uLFY",
+        "id" : "0qPGd8tOMHlFZt8EA1uLFY",
+        "name" : "RIOT",
+        "type" : "artist",
+        "uri" : "spotify:artist:0qPGd8tOMHlFZt8EA1uLFY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+        "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+        "name" : "SIPPY",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7FzBN7xBHKiBj0xR2bdrmm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7FzBN7xBHKiBj0xR2bdrmm",
+      "id" : "7FzBN7xBHKiBj0xR2bdrmm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a921894324d5ee5183c381c3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a921894324d5ee5183c381c3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a921894324d5ee5183c381c3",
+        "width" : 64
+      } ],
+      "name" : "Down With Your Love (SIPPY Remix)",
+      "release_date" : "2022-02-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7FzBN7xBHKiBj0xR2bdrmm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qPGd8tOMHlFZt8EA1uLFY",
+      "id" : "0qPGd8tOMHlFZt8EA1uLFY",
+      "name" : "RIOT",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qPGd8tOMHlFZt8EA1uLFY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 227200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2201312"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7xDxi7ZhHtnQ99owoCXQRi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7xDxi7ZhHtnQ99owoCXQRi",
+    "id" : "7xDxi7ZhHtnQ99owoCXQRi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Down With Your Love - SIPPY Remix",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ec5f2bd390bf7a1d03f6abca3201354a4b51d532?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7xDxi7ZhHtnQ99owoCXQRi"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+        "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+        "name" : "SIPPY",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NV5eY4Jzg4ldg2ikGnV4n",
+        "id" : "0NV5eY4Jzg4ldg2ikGnV4n",
+        "name" : "Virus Syndicate",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NV5eY4Jzg4ldg2ikGnV4n"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2cSO4UYABmZYQdFAZPVSIP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2cSO4UYABmZYQdFAZPVSIP",
+      "id" : "2cSO4UYABmZYQdFAZPVSIP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304bfd236b5c9edfb3c02d750",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204bfd236b5c9edfb3c02d750",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104bfd236b5c9edfb3c02d750",
+        "width" : 64
+      } ],
+      "name" : "Who's In Charge",
+      "release_date" : "2022-03-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2cSO4UYABmZYQdFAZPVSIP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NV5eY4Jzg4ldg2ikGnV4n",
+      "id" : "0NV5eY4Jzg4ldg2ikGnV4n",
+      "name" : "Virus Syndicate",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NV5eY4Jzg4ldg2ikGnV4n"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 171200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR2214334"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3MIcrZ8GZy7ckksxs3lGLd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3MIcrZ8GZy7ckksxs3lGLd",
+    "id" : "3MIcrZ8GZy7ckksxs3lGLd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Who's In Charge",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b289d919b991ceeefb329bc2c3bc77a3d2101e65?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3MIcrZ8GZy7ckksxs3lGLd"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7o7mC95EDbJKTcPAAs8C3r",
+        "id" : "7o7mC95EDbJKTcPAAs8C3r",
+        "name" : "Big Gigantic",
+        "type" : "artist",
+        "uri" : "spotify:artist:7o7mC95EDbJKTcPAAs8C3r"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6O0GS8bjHDCx7ZavQ2fqrH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6O0GS8bjHDCx7ZavQ2fqrH",
+      "id" : "6O0GS8bjHDCx7ZavQ2fqrH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738992386200d885d48762fdf4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028992386200d885d48762fdf4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518992386200d885d48762fdf4",
+        "width" : 64
+      } ],
+      "name" : "Leisure Season Vol. 1 Remixed",
+      "release_date" : "2022-02-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:6O0GS8bjHDCx7ZavQ2fqrH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7o7mC95EDbJKTcPAAs8C3r",
+      "id" : "7o7mC95EDbJKTcPAAs8C3r",
+      "name" : "Big Gigantic",
+      "type" : "artist",
+      "uri" : "spotify:artist:7o7mC95EDbJKTcPAAs8C3r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1tCaVerFstPJotxmXX6lFL",
+      "id" : "1tCaVerFstPJotxmXX6lFL",
+      "name" : "Jayceeoh",
+      "type" : "artist",
+      "uri" : "spotify:artist:1tCaVerFstPJotxmXX6lFL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 148800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM24S2200493"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3FC5t6oQgrVQ3LWYzZ3nsH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3FC5t6oQgrVQ3LWYzZ3nsH",
+    "id" : "3FC5t6oQgrVQ3LWYzZ3nsH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Like That (Sippy Remix)",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/537500e977ceec021f087f6bc087785c9338d42a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3FC5t6oQgrVQ3LWYzZ3nsH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04vdWVjgi45nrMAxeCEVQe",
+        "id" : "04vdWVjgi45nrMAxeCEVQe",
+        "name" : "Bear Grillz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04vdWVjgi45nrMAxeCEVQe"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2tyOHEHmXj2RoMjiRxNNbu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2tyOHEHmXj2RoMjiRxNNbu",
+      "id" : "2tyOHEHmXj2RoMjiRxNNbu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273faf70b6ca1c5a9f9550930e4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02faf70b6ca1c5a9f9550930e4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851faf70b6ca1c5a9f9550930e4",
+        "width" : 64
+      } ],
+      "name" : "Friends: The Album",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:2tyOHEHmXj2RoMjiRxNNbu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04vdWVjgi45nrMAxeCEVQe",
+      "id" : "04vdWVjgi45nrMAxeCEVQe",
+      "name" : "Bear Grillz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04vdWVjgi45nrMAxeCEVQe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 149725,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDM32029904"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1R9e79Eg1HAExwBCx19wTv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1R9e79Eg1HAExwBCx19wTv",
+    "id" : "1R9e79Eg1HAExwBCx19wTv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Blast Like",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9d0a46914bb71955cb23c6315edfac5c82582628?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1R9e79Eg1HAExwBCx19wTv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ihPQnVz8d2ePjGcXLbNf8",
+        "id" : "2ihPQnVz8d2ePjGcXLbNf8",
+        "name" : "Sam Lamar",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ihPQnVz8d2ePjGcXLbNf8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7yTBnyBdBZOMoxFIOH3gr5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7yTBnyBdBZOMoxFIOH3gr5",
+      "id" : "7yTBnyBdBZOMoxFIOH3gr5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27354a8dd911b3e463c0cf6b573",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0254a8dd911b3e463c0cf6b573",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485154a8dd911b3e463c0cf6b573",
+        "width" : 64
+      } ],
+      "name" : "EONS DELUXE",
+      "release_date" : "2021-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:7yTBnyBdBZOMoxFIOH3gr5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ihPQnVz8d2ePjGcXLbNf8",
+      "id" : "2ihPQnVz8d2ePjGcXLbNf8",
+      "name" : "Sam Lamar",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ihPQnVz8d2ePjGcXLbNf8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 185833,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM24S2105991"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5tETD1ix2X6QMzvKmvU8ME"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5tETD1ix2X6QMzvKmvU8ME",
+    "id" : "5tETD1ix2X6QMzvKmvU8ME",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Infinity (Sippy Remix)",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/61a42bb789f64ad470774f9f0c29933ed71defcc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5tETD1ix2X6QMzvKmvU8ME"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+        "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+        "name" : "SIPPY",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0sjnUg1Bv9J3WQ3inGpQRq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0sjnUg1Bv9J3WQ3inGpQRq",
+        "id" : "0sjnUg1Bv9J3WQ3inGpQRq",
+        "name" : "ZÍA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0sjnUg1Bv9J3WQ3inGpQRq"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Pf9krCOoJiKqlNsvhpNO8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Pf9krCOoJiKqlNsvhpNO8",
+      "id" : "4Pf9krCOoJiKqlNsvhpNO8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a187b8f04ffc30181067a486",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a187b8f04ffc30181067a486",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a187b8f04ffc30181067a486",
+        "width" : 64
+      } ],
+      "name" : "DEVIATE",
+      "release_date" : "2020-03-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4Pf9krCOoJiKqlNsvhpNO8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sjnUg1Bv9J3WQ3inGpQRq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0sjnUg1Bv9J3WQ3inGpQRq",
+      "id" : "0sjnUg1Bv9J3WQ3inGpQRq",
+      "name" : "ZÍA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0sjnUg1Bv9J3WQ3inGpQRq"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 233600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM82000072"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2G4MaMy3KT6tCsicJzvDbL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2G4MaMy3KT6tCsicJzvDbL",
+    "id" : "2G4MaMy3KT6tCsicJzvDbL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "DEVIATE",
+    "popularity" : 31,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2G4MaMy3KT6tCsicJzvDbL"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+        "id" : "69GGBxA162lTqCwzJG5jLp",
+        "name" : "The Chainsmokers",
+        "type" : "artist",
+        "uri" : "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/76yeOnINtQSXyoEHbkYmtY",
+        "id" : "76yeOnINtQSXyoEHbkYmtY",
+        "name" : "Drew Love",
+        "type" : "artist",
+        "uri" : "spotify:artist:76yeOnINtQSXyoEHbkYmtY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3i2JOacHRxFzMvvbNtaTjL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3i2JOacHRxFzMvvbNtaTjL",
+      "id" : "3i2JOacHRxFzMvvbNtaTjL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6a19b82beb8a4d5af2071a9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6a19b82beb8a4d5af2071a9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6a19b82beb8a4d5af2071a9",
+        "width" : 64
+      } ],
+      "name" : "Somebody (Remixes)",
+      "release_date" : "2018-04-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:3i2JOacHRxFzMvvbNtaTjL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+      "id" : "69GGBxA162lTqCwzJG5jLp",
+      "name" : "The Chainsmokers",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76yeOnINtQSXyoEHbkYmtY",
+      "id" : "76yeOnINtQSXyoEHbkYmtY",
+      "name" : "Drew Love",
+      "type" : "artist",
+      "uri" : "spotify:artist:76yeOnINtQSXyoEHbkYmtY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LLYqe8ogaK9wC1xHlvR5S",
+      "id" : "4LLYqe8ogaK9wC1xHlvR5S",
+      "name" : "SIPPY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LLYqe8ogaK9wC1xHlvR5S"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 208933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQX91801082"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5wsZ9fE3f06lrbYeS6A2Oq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5wsZ9fE3f06lrbYeS6A2Oq",
+    "id" : "5wsZ9fE3f06lrbYeS6A2Oq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Somebody - Sippy Remix",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fa39d034556ea95e063e807bbd8b50e3f2866326?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5wsZ9fE3f06lrbYeS6A2Oq"
+  } ]
+}

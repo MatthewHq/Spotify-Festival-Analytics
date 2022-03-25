@@ -1,0 +1,673 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2xvArKgRZnzHPydOvuFpoj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2xvArKgRZnzHPydOvuFpoj",
+      "id" : "2xvArKgRZnzHPydOvuFpoj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730196d8584caa0e7adce5263c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020196d8584caa0e7adce5263c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510196d8584caa0e7adce5263c",
+        "width" : 64
+      } ],
+      "name" : "still young",
+      "release_date" : "2022-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:2xvArKgRZnzHPydOvuFpoj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 111428,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFZ72216504"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7t7QeoEZ5BISoevyOT1hTO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7t7QeoEZ5BISoevyOT1hTO",
+    "id" : "7t7QeoEZ5BISoevyOT1hTO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "dinosaurs",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/61358926990f972f09f9b0b74e0704ff9a8888b0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7t7QeoEZ5BISoevyOT1hTO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5InUImSoXXfdF3gVJxRbdx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5InUImSoXXfdF3gVJxRbdx",
+      "id" : "5InUImSoXXfdF3gVJxRbdx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ebb355ef9afe261db37ec239",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ebb355ef9afe261db37ec239",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ebb355ef9afe261db37ec239",
+        "width" : 64
+      } ],
+      "name" : "survivors",
+      "release_date" : "2021-11-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:5InUImSoXXfdF3gVJxRbdx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 99333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZPLR2196140"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0EdrREk31e6qrJaFK78FQl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0EdrREk31e6qrJaFK78FQl",
+    "id" : "0EdrREk31e6qrJaFK78FQl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "survivors",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/903193d5bbba988b43b62bf196cf84c594d25062?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0EdrREk31e6qrJaFK78FQl"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4z9czArjz1zLevOOl56naj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4z9czArjz1zLevOOl56naj",
+      "id" : "4z9czArjz1zLevOOl56naj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b97831d46295346396338ecd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b97831d46295346396338ecd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b97831d46295346396338ecd",
+        "width" : 64
+      } ],
+      "name" : "pressure",
+      "release_date" : "2021-12-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4z9czArjz1zLevOOl56naj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 109333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZTAU2137653"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0hNzuTbvoGJ0KS47Kvt8od"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0hNzuTbvoGJ0KS47Kvt8od",
+    "id" : "0hNzuTbvoGJ0KS47Kvt8od",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "pressure",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d6557857d36f9bdccfa5d324905c852141666407?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0hNzuTbvoGJ0KS47Kvt8od"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5InUImSoXXfdF3gVJxRbdx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5InUImSoXXfdF3gVJxRbdx",
+      "id" : "5InUImSoXXfdF3gVJxRbdx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ebb355ef9afe261db37ec239",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ebb355ef9afe261db37ec239",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ebb355ef9afe261db37ec239",
+        "width" : 64
+      } ],
+      "name" : "survivors",
+      "release_date" : "2021-11-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:5InUImSoXXfdF3gVJxRbdx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 100173,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZPLR2196138"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lX1qdl1PaMhxA4hXrg5Dr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lX1qdl1PaMhxA4hXrg5Dr",
+    "id" : "2lX1qdl1PaMhxA4hXrg5Dr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "afterglow",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bf39d84dd67b6b6636f6ecd7ec624ac948ce7d65?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2lX1qdl1PaMhxA4hXrg5Dr"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5InUImSoXXfdF3gVJxRbdx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5InUImSoXXfdF3gVJxRbdx",
+      "id" : "5InUImSoXXfdF3gVJxRbdx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ebb355ef9afe261db37ec239",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ebb355ef9afe261db37ec239",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ebb355ef9afe261db37ec239",
+        "width" : 64
+      } ],
+      "name" : "survivors",
+      "release_date" : "2021-11-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:5InUImSoXXfdF3gVJxRbdx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 111000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZPLR2196142"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2beMOouikIlWyDIWajRsFH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2beMOouikIlWyDIWajRsFH",
+    "id" : "2beMOouikIlWyDIWajRsFH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "another lazy sunday",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7bd8bbcf8667c7b8f285febed1eb7f1b61e87876?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2beMOouikIlWyDIWajRsFH"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4d5bMirzMTvJBa7yLmUPjv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4d5bMirzMTvJBa7yLmUPjv",
+      "id" : "4d5bMirzMTvJBa7yLmUPjv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d161f6c8d095ec1b87ee73e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d161f6c8d095ec1b87ee73e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d161f6c8d095ec1b87ee73e2",
+        "width" : 64
+      } ],
+      "name" : "charms",
+      "release_date" : "2021-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:4d5bMirzMTvJBa7yLmUPjv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 114000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZNWX2108713"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7LxBTf9dKD3KqzWqqGTtdJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7LxBTf9dKD3KqzWqqGTtdJ",
+    "id" : "7LxBTf9dKD3KqzWqqGTtdJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "gratitude",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2cf6a0dd0d8c5618c848d8e363e907c246e23eb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7LxBTf9dKD3KqzWqqGTtdJ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5InUImSoXXfdF3gVJxRbdx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5InUImSoXXfdF3gVJxRbdx",
+      "id" : "5InUImSoXXfdF3gVJxRbdx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ebb355ef9afe261db37ec239",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ebb355ef9afe261db37ec239",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ebb355ef9afe261db37ec239",
+        "width" : 64
+      } ],
+      "name" : "survivors",
+      "release_date" : "2021-11-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:5InUImSoXXfdF3gVJxRbdx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 104800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZPLR2196139"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/764WcIkWDMrWsu7jkCYrIE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/764WcIkWDMrWsu7jkCYrIE",
+    "id" : "764WcIkWDMrWsu7jkCYrIE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "floating in space",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/78d99c0b0298212e247e533016f6e324e64c921e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:764WcIkWDMrWsu7jkCYrIE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2xvArKgRZnzHPydOvuFpoj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2xvArKgRZnzHPydOvuFpoj",
+      "id" : "2xvArKgRZnzHPydOvuFpoj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730196d8584caa0e7adce5263c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020196d8584caa0e7adce5263c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510196d8584caa0e7adce5263c",
+        "width" : 64
+      } ],
+      "name" : "still young",
+      "release_date" : "2022-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:2xvArKgRZnzHPydOvuFpoj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 98181,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFZ72216503"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5zbgKvEGN1O7SJ6sMwhBv8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5zbgKvEGN1O7SJ6sMwhBv8",
+    "id" : "5zbgKvEGN1O7SJ6sMwhBv8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "urban souls",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4004a03d812ba30cd9e35c627578015bca39cb97?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5zbgKvEGN1O7SJ6sMwhBv8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4d5bMirzMTvJBa7yLmUPjv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4d5bMirzMTvJBa7yLmUPjv",
+      "id" : "4d5bMirzMTvJBa7yLmUPjv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d161f6c8d095ec1b87ee73e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d161f6c8d095ec1b87ee73e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d161f6c8d095ec1b87ee73e2",
+        "width" : 64
+      } ],
+      "name" : "charms",
+      "release_date" : "2021-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:4d5bMirzMTvJBa7yLmUPjv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 79090,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZNWX2108712"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0x1AfYv5BgRrdVojUiwKTa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0x1AfYv5BgRrdVojUiwKTa",
+    "id" : "0x1AfYv5BgRrdVojUiwKTa",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "never be alone",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/14aa76e06718754c17902e154bcdf037cd9ac1bd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0x1AfYv5BgRrdVojUiwKTa"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+        "id" : "6r6R01WYKgmg2znexrcomi",
+        "name" : "blossom",
+        "type" : "artist",
+        "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4d5bMirzMTvJBa7yLmUPjv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4d5bMirzMTvJBa7yLmUPjv",
+      "id" : "4d5bMirzMTvJBa7yLmUPjv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d161f6c8d095ec1b87ee73e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d161f6c8d095ec1b87ee73e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d161f6c8d095ec1b87ee73e2",
+        "width" : 64
+      } ],
+      "name" : "charms",
+      "release_date" : "2021-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:4d5bMirzMTvJBa7yLmUPjv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r6R01WYKgmg2znexrcomi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6r6R01WYKgmg2znexrcomi",
+      "id" : "6r6R01WYKgmg2znexrcomi",
+      "name" : "blossom",
+      "type" : "artist",
+      "uri" : "spotify:artist:6r6R01WYKgmg2znexrcomi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 96000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZNWX2108711"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6TvGYrWKFFxw64l5GHIqAR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6TvGYrWKFFxw64l5GHIqAR",
+    "id" : "6TvGYrWKFFxw64l5GHIqAR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "save me...",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/71bc0b727d5c58ef2c5cd709c536e313a0790892?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6TvGYrWKFFxw64l5GHIqAR"
+  } ]
+}

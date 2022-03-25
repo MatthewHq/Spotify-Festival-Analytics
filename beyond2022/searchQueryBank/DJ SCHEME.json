@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=DJ+SCHEME&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 183768
+      },
+      "genres" : [ "meme rap", "underground hip hop", "vapor trap" ],
+      "href" : "https://api.spotify.com/v1/artists/1m7LSAMIB1BErIHYSOn32W",
+      "id" : "1m7LSAMIB1BErIHYSOn32W",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6edffcadf0dfbecb64bdadbb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746edffcadf0dfbecb64bdadbb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786edffcadf0dfbecb64bdadbb",
+        "width" : 160
+      } ],
+      "name" : "DJ Scheme",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:1m7LSAMIB1BErIHYSOn32W"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3n191rw9FJtgf7r3VkGuJk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1082
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3n191rw9FJtgf7r3VkGuJk",
+      "id" : "3n191rw9FJtgf7r3VkGuJk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe17733186bc9657b9d56d7fb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e17733186bc9657b9d56d7fb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e17733186bc9657b9d56d7fb",
+        "width" : 160
+      } ],
+      "name" : "DJ Schemes",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:3n191rw9FJtgf7r3VkGuJk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kcTNJr8gTZLSPaelE78KC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2kcTNJr8gTZLSPaelE78KC",
+      "id" : "2kcTNJr8gTZLSPaelE78KC",
+      "images" : [ ],
+      "name" : "DJ Scheme",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2kcTNJr8gTZLSPaelE78KC"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

@@ -1,0 +1,799 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+        "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+        "name" : "Netsky",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/47MGg5VHBSS5yHRuMGt6b0",
+        "id" : "47MGg5VHBSS5yHRuMGt6b0",
+        "name" : "Montell2099",
+        "type" : "artist",
+        "uri" : "spotify:artist:47MGg5VHBSS5yHRuMGt6b0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6k7ydahJXGQVdNPYPFfWTx",
+      "id" : "6k7ydahJXGQVdNPYPFfWTx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273962362a8c7f715058ac5b2d3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02962362a8c7f715058ac5b2d3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851962362a8c7f715058ac5b2d3",
+        "width" : 64
+      } ],
+      "name" : "Broken",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6k7ydahJXGQVdNPYPFfWTx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/47MGg5VHBSS5yHRuMGt6b0",
+      "id" : "47MGg5VHBSS5yHRuMGt6b0",
+      "name" : "Montell2099",
+      "type" : "artist",
+      "uri" : "spotify:artist:47MGg5VHBSS5yHRuMGt6b0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 199768,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEN582200070"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1J4EgK0zwGuLbZT9UBxtfn",
+    "id" : "1J4EgK0zwGuLbZT9UBxtfn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Broken",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5ade31e324aafc12f10674baf00f3d26d8244080?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1J4EgK0zwGuLbZT9UBxtfn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+        "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+        "name" : "Netsky",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kD4XTloruMrJ1vRs9Giks",
+      "id" : "2kD4XTloruMrJ1vRs9Giks",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27387e9ef0f7d94bb6b7c4a7e13",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0287e9ef0f7d94bb6b7c4a7e13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485187e9ef0f7d94bb6b7c4a7e13",
+        "width" : 64
+      } ],
+      "name" : "Second Nature",
+      "release_date" : "2020-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:2kD4XTloruMrJ1vRs9Giks"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202543,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCJY2000476"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/13rtgTDK9w1clbgXpGuW3y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/13rtgTDK9w1clbgXpGuW3y",
+    "id" : "13rtgTDK9w1clbgXpGuW3y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let Me Hold You",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b69d48cff2e49448f8743f825ec1eaf6238e8bc3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:13rtgTDK9w1clbgXpGuW3y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+        "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+        "name" : "Netsky",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kD4XTloruMrJ1vRs9Giks",
+      "id" : "2kD4XTloruMrJ1vRs9Giks",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27387e9ef0f7d94bb6b7c4a7e13",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0287e9ef0f7d94bb6b7c4a7e13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485187e9ef0f7d94bb6b7c4a7e13",
+        "width" : 64
+      } ],
+      "name" : "Second Nature",
+      "release_date" : "2020-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:2kD4XTloruMrJ1vRs9Giks"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19DWkWsLdFRuzN8naS8cUH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19DWkWsLdFRuzN8naS8cUH",
+      "id" : "19DWkWsLdFRuzN8naS8cUH",
+      "name" : "Daddy Waku",
+      "type" : "artist",
+      "uri" : "spotify:artist:19DWkWsLdFRuzN8naS8cUH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wlcoAg1EcZWqHkqo2RaTD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5wlcoAg1EcZWqHkqo2RaTD",
+      "id" : "5wlcoAg1EcZWqHkqo2RaTD",
+      "name" : "Chantal Kashala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5wlcoAg1EcZWqHkqo2RaTD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200930,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCJY2000291"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/21JRqTnNDTiMxzTCvzcfc3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/21JRqTnNDTiMxzTCvzcfc3",
+    "id" : "21JRqTnNDTiMxzTCvzcfc3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Everybody Loves The Sunshine",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9ec72d8c2f5cac1aa22bf498bd1a452acfcea277?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:21JRqTnNDTiMxzTCvzcfc3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+        "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+        "name" : "Netsky",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kD4XTloruMrJ1vRs9Giks",
+      "id" : "2kD4XTloruMrJ1vRs9Giks",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27387e9ef0f7d94bb6b7c4a7e13",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0287e9ef0f7d94bb6b7c4a7e13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485187e9ef0f7d94bb6b7c4a7e13",
+        "width" : 64
+      } ],
+      "name" : "Second Nature",
+      "release_date" : "2020-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:2kD4XTloruMrJ1vRs9Giks"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EPJlUEBy49EX1wuFOvtjK",
+      "id" : "4EPJlUEBy49EX1wuFOvtjK",
+      "name" : "Becky Hill",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EPJlUEBy49EX1wuFOvtjK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 223255,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCJY2000470"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ZE5BVCy5xVNsI4MaQRzUn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ZE5BVCy5xVNsI4MaQRzUn",
+    "id" : "0ZE5BVCy5xVNsI4MaQRzUn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hold On",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/877520da5ef118900938daeb522e969bbe662ff7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0ZE5BVCy5xVNsI4MaQRzUn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+        "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+        "name" : "Netsky",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5RpkF55XZzzpWO0CnqcWw8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5RpkF55XZzzpWO0CnqcWw8",
+      "id" : "5RpkF55XZzzpWO0CnqcWw8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dcd9ab0c53e56eef188ea988",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dcd9ab0c53e56eef188ea988",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dcd9ab0c53e56eef188ea988",
+        "width" : 64
+      } ],
+      "name" : "3",
+      "release_date" : "2016-06-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5RpkF55XZzzpWO0CnqcWw8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fyDppLDl1juIu1BcUT5zh",
+      "id" : "5fyDppLDl1juIu1BcUT5zh",
+      "name" : "Digital Farm Animals",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fyDppLDl1juIu1BcUT5zh"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 229106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1500708"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5IfSQQzGijWKd7dbkbqHuN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5IfSQQzGijWKd7dbkbqHuN",
+    "id" : "5IfSQQzGijWKd7dbkbqHuN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rio (feat. Digital Farm Animals)",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/affe8fbc960055910d3d69fdff68988e8b91e73f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5IfSQQzGijWKd7dbkbqHuN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+        "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+        "name" : "Netsky",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5RpkF55XZzzpWO0CnqcWw8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5RpkF55XZzzpWO0CnqcWw8",
+      "id" : "5RpkF55XZzzpWO0CnqcWw8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dcd9ab0c53e56eef188ea988",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dcd9ab0c53e56eef188ea988",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dcd9ab0c53e56eef188ea988",
+        "width" : 64
+      } ],
+      "name" : "3",
+      "release_date" : "2016-06-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5RpkF55XZzzpWO0CnqcWw8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7sfgqEdoeBTjd8lQsPT3Cy",
+      "id" : "7sfgqEdoeBTjd8lQsPT3Cy",
+      "name" : "Emeli Sandé",
+      "type" : "artist",
+      "uri" : "spotify:artist:7sfgqEdoeBTjd8lQsPT3Cy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1600044"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0AQAdESuhbfV2ldTpO2MYF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0AQAdESuhbfV2ldTpO2MYF",
+    "id" : "0AQAdESuhbfV2ldTpO2MYF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Thunder (feat. Emeli Sandé)",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dde1b17cc4615dbdefa5bb7a8ad2f9a5faa7058d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0AQAdESuhbfV2ldTpO2MYF"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+        "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+        "name" : "Netsky",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7vpee3EK774748ieWc7E76"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7vpee3EK774748ieWc7E76",
+      "id" : "7vpee3EK774748ieWc7E76",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27349f151e90965888b0d133a64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0249f151e90965888b0d133a64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485149f151e90965888b0d133a64",
+        "width" : 64
+      } ],
+      "name" : "I Don’t Even Know You Anymore",
+      "release_date" : "2019-02-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7vpee3EK774748ieWc7E76"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4GvEc3ANtPPjt1ZJllr5Zl",
+      "id" : "4GvEc3ANtPPjt1ZJllr5Zl",
+      "name" : "Bazzi",
+      "type" : "artist",
+      "uri" : "spotify:artist:4GvEc3ANtPPjt1ZJllr5Zl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 167600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG11900322"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5pzeevBDvU6GVXqUKoiYDX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5pzeevBDvU6GVXqUKoiYDX",
+    "id" : "5pzeevBDvU6GVXqUKoiYDX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Don’t Even Know You Anymore (feat. Bazzi & Lil Wayne)",
+    "popularity" : 56,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5pzeevBDvU6GVXqUKoiYDX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id" : "6M2wZ9GZgrQXHCFfjv46we",
+        "name" : "Dua Lipa",
+        "type" : "artist",
+        "uri" : "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/13CDulmfG84VyhVY2k3Hrd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/13CDulmfG84VyhVY2k3Hrd",
+      "id" : "13CDulmfG84VyhVY2k3Hrd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e491262e0bf5f0518340c5c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e491262e0bf5f0518340c5c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e491262e0bf5f0518340c5c7",
+        "width" : 64
+      } ],
+      "name" : "Be the One (Netsky Remix)",
+      "release_date" : "2017-02-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:13CDulmfG84VyhVY2k3Hrd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id" : "6M2wZ9GZgrQXHCFfjv46we",
+      "name" : "Dua Lipa",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 257828,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHT1700069"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0HmS9wjfe3IA3fQz5W9Ppp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0HmS9wjfe3IA3fQz5W9Ppp",
+    "id" : "0HmS9wjfe3IA3fQz5W9Ppp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Be the One - Netsky Remix",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f40c429e9defc312a3e145a3993e8e87aefd6dc8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0HmS9wjfe3IA3fQz5W9Ppp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+        "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+        "name" : "Netsky",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kD4XTloruMrJ1vRs9Giks",
+      "id" : "2kD4XTloruMrJ1vRs9Giks",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27387e9ef0f7d94bb6b7c4a7e13",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0287e9ef0f7d94bb6b7c4a7e13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485187e9ef0f7d94bb6b7c4a7e13",
+        "width" : 64
+      } ],
+      "name" : "Second Nature",
+      "release_date" : "2020-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:2kD4XTloruMrJ1vRs9Giks"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0QaSiI5TLA4N7mcsdxShDO",
+      "id" : "0QaSiI5TLA4N7mcsdxShDO",
+      "name" : "Sub Focus",
+      "type" : "artist",
+      "uri" : "spotify:artist:0QaSiI5TLA4N7mcsdxShDO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ttzNe6takaJaIxbJlkP7Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ttzNe6takaJaIxbJlkP7Z",
+      "id" : "3ttzNe6takaJaIxbJlkP7Z",
+      "name" : "Jozzy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ttzNe6takaJaIxbJlkP7Z"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 242758,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCJY2000472"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Ajfg6IOfQRgemqaTt3w0b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Ajfg6IOfQRgemqaTt3w0b",
+    "id" : "6Ajfg6IOfQRgemqaTt3w0b",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Destiny",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7a5166af48eb019ab6e310037fb6fd0e2e12699c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6Ajfg6IOfQRgemqaTt3w0b"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+        "id" : "7f5Zgnp2spUuuzKplmRkt7",
+        "name" : "Lost Frequencies",
+        "type" : "artist",
+        "uri" : "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4esWx1yixc5UiKgxrbOdfc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4esWx1yixc5UiKgxrbOdfc",
+      "id" : "4esWx1yixc5UiKgxrbOdfc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a1af0cd06bd802836fc146dc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a1af0cd06bd802836fc146dc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a1af0cd06bd802836fc146dc",
+        "width" : 64
+      } ],
+      "name" : "Less Is More (Deluxe)",
+      "release_date" : "2017-07-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4esWx1yixc5UiKgxrbOdfc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+      "id" : "7f5Zgnp2spUuuzKplmRkt7",
+      "name" : "Lost Frequencies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159545,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF711705510"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6f9zmUCIiLpgBgH4nEXUVq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6f9zmUCIiLpgBgH4nEXUVq",
+    "id" : "6f9zmUCIiLpgBgH4nEXUVq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Here With You",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2b50feef73a2aa336b46d732b3b194d92c1d3d74?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6f9zmUCIiLpgBgH4nEXUVq"
+  } ]
+}

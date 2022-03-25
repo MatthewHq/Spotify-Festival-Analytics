@@ -1,0 +1,99 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=HIGHLND&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2799
+      },
+      "genres" : [ "melodic dubstep", "pop edm" ],
+      "href" : "https://api.spotify.com/v1/artists/5CI6YfdGj33Dk91IiUge82",
+      "id" : "5CI6YfdGj33Dk91IiUge82",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebec999a00b1159e0accf2429f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ec999a00b1159e0accf2429f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ec999a00b1159e0accf2429f",
+        "width" : 160
+      } ],
+      "name" : "Highlnd",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:5CI6YfdGj33Dk91IiUge82"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/148WZG5tvJ3lXAxNIDBZ6B"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/148WZG5tvJ3lXAxNIDBZ6B",
+      "id" : "148WZG5tvJ3lXAxNIDBZ6B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebba448e31bdd01453b735d664",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ba448e31bdd01453b735d664",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ba448e31bdd01453b735d664",
+        "width" : 160
+      } ],
+      "name" : "Highlndr",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:148WZG5tvJ3lXAxNIDBZ6B"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mWLut7PmT7wDhWSJV9uN7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3mWLut7PmT7wDhWSJV9uN7",
+      "id" : "3mWLut7PmT7wDhWSJV9uN7",
+      "images" : [ ],
+      "name" : "Highlnd",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3mWLut7PmT7wDhWSJV9uN7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12s2CUfjJ9EFsFWmZjhaO5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/12s2CUfjJ9EFsFWmZjhaO5",
+      "id" : "12s2CUfjJ9EFsFWmZjhaO5",
+      "images" : [ ],
+      "name" : "Highlnd",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:12s2CUfjJ9EFsFWmZjhaO5"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

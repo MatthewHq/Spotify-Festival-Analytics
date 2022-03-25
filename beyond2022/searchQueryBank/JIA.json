@@ -1,0 +1,571 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=JIA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 460
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6cz6KGJs1Q28j0nknp9sck",
+      "id" : "6cz6KGJs1Q28j0nknp9sck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730109b78697eed7a9b2148622",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020109b78697eed7a9b2148622",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510109b78697eed7a9b2148622",
+        "width" : 64
+      } ],
+      "name" : "Jiao Ch'ien",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:6cz6KGJs1Q28j0nknp9sck"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2934563
+      },
+      "genres" : [ "k-pop" ],
+      "href" : "https://api.spotify.com/v1/artists/1kfWoWgCugPkyxQP8lkRlY",
+      "id" : "1kfWoWgCugPkyxQP8lkRlY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8170daa7c29074c2473b5517",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748170daa7c29074c2473b5517",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788170daa7c29074c2473b5517",
+        "width" : 160
+      } ],
+      "name" : "Jackson Wang",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:1kfWoWgCugPkyxQP8lkRlY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3MhX6ay8PY79VZ2lQa9z53"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3MhX6ay8PY79VZ2lQa9z53",
+      "id" : "3MhX6ay8PY79VZ2lQa9z53",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb42f708e8b15ce99baa60f95d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517442f708e8b15ce99baa60f95d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17842f708e8b15ce99baa60f95d",
+        "width" : 160
+      } ],
+      "name" : "JIA",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3MhX6ay8PY79VZ2lQa9z53"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4517
+      },
+      "genres" : [ "chinese classical performance", "classical cello" ],
+      "href" : "https://api.spotify.com/v1/artists/4DcpgOrxEYPTulZEeJhAJ5",
+      "id" : "4DcpgOrxEYPTulZEeJhAJ5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb14d737f0b38fbf7c30e28035",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517414d737f0b38fbf7c30e28035",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17814d737f0b38fbf7c30e28035",
+        "width" : 160
+      } ],
+      "name" : "Jian Wang",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:4DcpgOrxEYPTulZEeJhAJ5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B6tgZb2IDCm8zDLOanKBI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 165
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7B6tgZb2IDCm8zDLOanKBI",
+      "id" : "7B6tgZb2IDCm8zDLOanKBI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb303a2d9580968f87d22365da",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174303a2d9580968f87d22365da",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178303a2d9580968f87d22365da",
+        "width" : 160
+      } ],
+      "name" : "jia",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:7B6tgZb2IDCm8zDLOanKBI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WRa9FNcp94AiKrccogsC6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19341
+      },
+      "genres" : [ "chinese instrumental", "chinese traditional", "erhu" ],
+      "href" : "https://api.spotify.com/v1/artists/3WRa9FNcp94AiKrccogsC6",
+      "id" : "3WRa9FNcp94AiKrccogsC6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273135fde8c25ebd5ea617a6ee7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02135fde8c25ebd5ea617a6ee7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851135fde8c25ebd5ea617a6ee7",
+        "width" : 64
+      } ],
+      "name" : "Jia Peng Fang",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:3WRa9FNcp94AiKrccogsC6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bkTbaurxWVJdMv9YS7auk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1015
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1bkTbaurxWVJdMv9YS7auk",
+      "id" : "1bkTbaurxWVJdMv9YS7auk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe45a231963ae7568fa6f3115",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e45a231963ae7568fa6f3115",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e45a231963ae7568fa6f3115",
+        "width" : 160
+      } ],
+      "name" : "JIA",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:1bkTbaurxWVJdMv9YS7auk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 140214
+      },
+      "genres" : [ "mandopop", "taiwan pop" ],
+      "href" : "https://api.spotify.com/v1/artists/5qUYuf6cIHU241KxPyDMBp",
+      "id" : "5qUYuf6cIHU241KxPyDMBp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb029170d9c595c938d491a7b5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174029170d9c595c938d491a7b5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178029170d9c595c938d491a7b5",
+        "width" : 160
+      } ],
+      "name" : "Jia Jia",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:5qUYuf6cIHU241KxPyDMBp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 433089
+      },
+      "genres" : [ "chinese r&b", "mandopop", "taiwan pop" ],
+      "href" : "https://api.spotify.com/v1/artists/1GPoTgvXd5OqZMF1akOsV2",
+      "id" : "1GPoTgvXd5OqZMF1akOsV2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb928bb417977f0c469661bc2e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174928bb417977f0c469661bc2e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178928bb417977f0c469661bc2e",
+        "width" : 160
+      } ],
+      "name" : "Yoga Lin",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:1GPoTgvXd5OqZMF1akOsV2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tFQwcLq0TEETq542XAHqO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 553
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4tFQwcLq0TEETq542XAHqO",
+      "id" : "4tFQwcLq0TEETq542XAHqO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb01a7207eee408ec4411febe3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517401a7207eee408ec4411febe3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17801a7207eee408ec4411febe3",
+        "width" : 160
+      } ],
+      "name" : "JIAN",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:4tFQwcLq0TEETq542XAHqO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oaOuyspkSCv6muDKu7MLP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2684
+      },
+      "genres" : [ "chinese traditional" ],
+      "href" : "https://api.spotify.com/v1/artists/3oaOuyspkSCv6muDKu7MLP",
+      "id" : "3oaOuyspkSCv6muDKu7MLP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27321956ef39fd4228717e61a62",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0221956ef39fd4228717e61a62",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485121956ef39fd4228717e61a62",
+        "width" : 64
+      } ],
+      "name" : "Jiang Xiao-Qing",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:3oaOuyspkSCv6muDKu7MLP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LCVbwcdQuQrgnyQlgoNsM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 154
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4LCVbwcdQuQrgnyQlgoNsM",
+      "id" : "4LCVbwcdQuQrgnyQlgoNsM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0bd6346f9c7ab0731f03b665",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740bd6346f9c7ab0731f03b665",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780bd6346f9c7ab0731f03b665",
+        "width" : 160
+      } ],
+      "name" : "JIA seed",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:4LCVbwcdQuQrgnyQlgoNsM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4UxVKRFFn96O4m2VDkoXSw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 191
+      },
+      "genres" : [ "classical cello" ],
+      "href" : "https://api.spotify.com/v1/artists/4UxVKRFFn96O4m2VDkoXSw",
+      "id" : "4UxVKRFFn96O4m2VDkoXSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab6e9211df8ef29f3c7fcc8a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab6e9211df8ef29f3c7fcc8a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab6e9211df8ef29f3c7fcc8a",
+        "width" : 64
+      } ],
+      "name" : "Jiaxin Lloyd Webber",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:4UxVKRFFn96O4m2VDkoXSw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 53033
+      },
+      "genres" : [ "cantopop", "hk-pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0DwdA5ZgTJcIQ2uIhc110D",
+      "id" : "0DwdA5ZgTJcIQ2uIhc110D",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b9ecd607db7c90d4735ebba0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b9ecd607db7c90d4735ebba0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b9ecd607db7c90d4735ebba0",
+        "width" : 64
+      } ],
+      "name" : "Keung To",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:0DwdA5ZgTJcIQ2uIhc110D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5syvRgxQbnhK1JqcNWZeq0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 158
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5syvRgxQbnhK1JqcNWZeq0",
+      "id" : "5syvRgxQbnhK1JqcNWZeq0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27351889939ea975117a2d1a6c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0251889939ea975117a2d1a6c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485151889939ea975117a2d1a6c7",
+        "width" : 64
+      } ],
+      "name" : "JIAE",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:5syvRgxQbnhK1JqcNWZeq0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2951
+      },
+      "genres" : [ "focus beats" ],
+      "href" : "https://api.spotify.com/v1/artists/4jhs50wp7NjDYvEIUzRrF5",
+      "id" : "4jhs50wp7NjDYvEIUzRrF5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4089d98240e2573e130b48a3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744089d98240e2573e130b48a3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784089d98240e2573e130b48a3",
+        "width" : 160
+      } ],
+      "name" : "jiabeats",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:4jhs50wp7NjDYvEIUzRrF5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6wcIBaOvA9XNGgPujYZZ7L"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 111412
+      },
+      "genres" : [ "c-pop", "classic mandopop", "mandopop" ],
+      "href" : "https://api.spotify.com/v1/artists/6wcIBaOvA9XNGgPujYZZ7L",
+      "id" : "6wcIBaOvA9XNGgPujYZZ7L",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8afa3228d09277e137f37aa0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748afa3228d09277e137f37aa0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788afa3228d09277e137f37aa0",
+        "width" : 160
+      } ],
+      "name" : "Wakin Chau",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:6wcIBaOvA9XNGgPujYZZ7L"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aPcMW39Ev3ld9Pg42WavP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1188
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1aPcMW39Ev3ld9Pg42WavP",
+      "id" : "1aPcMW39Ev3ld9Pg42WavP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb93392ffd5f9b8ad10b0937b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517493392ffd5f9b8ad10b0937b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17893392ffd5f9b8ad10b0937b9",
+        "width" : 160
+      } ],
+      "name" : "JIAERN",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:1aPcMW39Ev3ld9Pg42WavP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2J5uUHVedV2SP5shmDPcQu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2499
+      },
+      "genres" : [ "c-pop", "cantopop", "classic cantopop" ],
+      "href" : "https://api.spotify.com/v1/artists/2J5uUHVedV2SP5shmDPcQu",
+      "id" : "2J5uUHVedV2SP5shmDPcQu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e1f2a05873555822ecedf452",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e1f2a05873555822ecedf452",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e1f2a05873555822ecedf452",
+        "width" : 64
+      } ],
+      "name" : "Jia Liang Luo",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:2J5uUHVedV2SP5shmDPcQu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/038eFF4f9kgnbGrrfy5YTF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 901
+      },
+      "genres" : [ "classify" ],
+      "href" : "https://api.spotify.com/v1/artists/038eFF4f9kgnbGrrfy5YTF",
+      "id" : "038eFF4f9kgnbGrrfy5YTF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733175e2d5ce5ca62e9ca289b2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023175e2d5ce5ca62e9ca289b2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513175e2d5ce5ca62e9ca289b2",
+        "width" : 64
+      } ],
+      "name" : "Tang Jia",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:038eFF4f9kgnbGrrfy5YTF"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=JIA&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1133
+  }
+}

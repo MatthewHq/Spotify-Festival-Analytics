@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=JOHN+O%27CALLAGHAN&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 95690
+      },
+      "genres" : [ "progressive house", "progressive trance", "trance", "uplifting trance" ],
+      "href" : "https://api.spotify.com/v1/artists/6H2JQ8igAAa5UBr2u496mb",
+      "id" : "6H2JQ8igAAa5UBr2u496mb",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/519b32a173131e0f3bd9ef4fd922aa8e5303abb0",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/993f959f766164a168c84faa05ce3ddf66f9720a",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/703f1a0b484a469144d3adcf05b3246be86e4270",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/f5f0120c3bb1762ad0063089dda6c4a5fff11aab",
+        "width" : 64
+      } ],
+      "name" : "John O'Callaghan",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:6H2JQ8igAAa5UBr2u496mb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5W6USNCUEgXaIey0LzikPs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5W6USNCUEgXaIey0LzikPs",
+      "id" : "5W6USNCUEgXaIey0LzikPs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbdab05a68181a2decc34d675",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bdab05a68181a2decc34d675",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bdab05a68181a2decc34d675",
+        "width" : 160
+      } ],
+      "name" : "John O'callaghan",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5W6USNCUEgXaIey0LzikPs"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

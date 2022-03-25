@@ -1,0 +1,808 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5eIbEEQnDM8yuDVB0bimSP",
+        "id" : "5eIbEEQnDM8yuDVB0bimSP",
+        "name" : "RL Grime",
+        "type" : "artist",
+        "uri" : "spotify:artist:5eIbEEQnDM8yuDVB0bimSP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+        "id" : "04p1jV00pBnrmh2rKl0jnT",
+        "name" : "Juelz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/20vGGp9bATvqdxAHkhbV60"
+      },
+      "href" : "https://api.spotify.com/v1/albums/20vGGp9bATvqdxAHkhbV60",
+      "id" : "20vGGp9bATvqdxAHkhbV60",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a97d0dc4fd71e56babea6c97",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a97d0dc4fd71e56babea6c97",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a97d0dc4fd71e56babea6c97",
+        "width" : 64
+      } ],
+      "name" : "Formula",
+      "release_date" : "2019-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:20vGGp9bATvqdxAHkhbV60"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5eIbEEQnDM8yuDVB0bimSP",
+      "id" : "5eIbEEQnDM8yuDVB0bimSP",
+      "name" : "RL Grime",
+      "type" : "artist",
+      "uri" : "spotify:artist:5eIbEEQnDM8yuDVB0bimSP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210389,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMUY41900143"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7h9y8oMm1GtwYNhAPh4OOI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7h9y8oMm1GtwYNhAPh4OOI",
+    "id" : "7h9y8oMm1GtwYNhAPh4OOI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Formula",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/28a48fc895d9844e4ca205159efc87fda6b0549f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7h9y8oMm1GtwYNhAPh4OOI"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+        "id" : "04p1jV00pBnrmh2rKl0jnT",
+        "name" : "Juelz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SzzJuc02s0uKGsS89eqF9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SzzJuc02s0uKGsS89eqF9",
+      "id" : "0SzzJuc02s0uKGsS89eqF9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739260f85fba8e1d958151addf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029260f85fba8e1d958151addf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519260f85fba8e1d958151addf",
+        "width" : 64
+      } ],
+      "name" : "Hideaway",
+      "release_date" : "2021-11-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0SzzJuc02s0uKGsS89eqF9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 143426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMUY42100231"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7wwin4Zrs6dB9waWnVZqZa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7wwin4Zrs6dB9waWnVZqZa",
+    "id" : "7wwin4Zrs6dB9waWnVZqZa",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hideaway",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c98f15e15588529f624f7d775bddbfeb54787ddf?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7wwin4Zrs6dB9waWnVZqZa"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+        "id" : "04p1jV00pBnrmh2rKl0jnT",
+        "name" : "Juelz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1r9fcqdsiCyRZJPuTUTG9e",
+      "id" : "1r9fcqdsiCyRZJPuTUTG9e",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab8c236995debd57e58aca98",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab8c236995debd57e58aca98",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab8c236995debd57e58aca98",
+        "width" : 64
+      } ],
+      "name" : "Pour All Night",
+      "release_date" : "2020-12-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1r9fcqdsiCyRZJPuTUTG9e"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Cw393gL2SjFDLgAWfmt0s",
+      "id" : "5Cw393gL2SjFDLgAWfmt0s",
+      "name" : "Thelonious",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Cw393gL2SjFDLgAWfmt0s"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209016,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2113019"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3SgNqKp4pugZ4k1vuyRcew",
+    "id" : "3SgNqKp4pugZ4k1vuyRcew",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pour All Night",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/142ee5870b434b7c0a5d0e315b74b7329928ce36?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3SgNqKp4pugZ4k1vuyRcew"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+        "id" : "04p1jV00pBnrmh2rKl0jnT",
+        "name" : "Juelz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/45IlRslbY2q1bvRMHSVDD9",
+      "id" : "45IlRslbY2q1bvRMHSVDD9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273542d62282ef7ed27f085abce",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02542d62282ef7ed27f085abce",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851542d62282ef7ed27f085abce",
+        "width" : 64
+      } ],
+      "name" : "Paradise Lost",
+      "release_date" : "2021-08-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:45IlRslbY2q1bvRMHSVDD9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210253,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2159131"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5MLNm8nsvpCWJ2YpurIGLp",
+    "id" : "5MLNm8nsvpCWJ2YpurIGLp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "All Through the Night",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/22d6e4378cdd24fc98fce7330e265bb12e60abb0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5MLNm8nsvpCWJ2YpurIGLp"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+        "id" : "04p1jV00pBnrmh2rKl0jnT",
+        "name" : "Juelz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0AlNB0yIoyxdKloLmK9AOR",
+        "id" : "0AlNB0yIoyxdKloLmK9AOR",
+        "name" : "Hex Cougar",
+        "type" : "artist",
+        "uri" : "spotify:artist:0AlNB0yIoyxdKloLmK9AOR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6xUwGauHFII4qhNBAldvQi",
+      "id" : "6xUwGauHFII4qhNBAldvQi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b6fadbb944376816ee0cd17d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b6fadbb944376816ee0cd17d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b6fadbb944376816ee0cd17d",
+        "width" : 64
+      } ],
+      "name" : "Ur Body",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6xUwGauHFII4qhNBAldvQi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0AlNB0yIoyxdKloLmK9AOR",
+      "id" : "0AlNB0yIoyxdKloLmK9AOR",
+      "name" : "Hex Cougar",
+      "type" : "artist",
+      "uri" : "spotify:artist:0AlNB0yIoyxdKloLmK9AOR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216338,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US3DF2227110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4KD6CYSCX2m3rxYdQQuyYP",
+    "id" : "4KD6CYSCX2m3rxYdQQuyYP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ur Body",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4fde199a6c1d17cca71bf62480b2f6e49770ddae?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4KD6CYSCX2m3rxYdQQuyYP"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2aOoD3zsuYforFcDvUpZoH",
+        "id" : "2aOoD3zsuYforFcDvUpZoH",
+        "name" : "KRANE",
+        "type" : "artist",
+        "uri" : "spotify:artist:2aOoD3zsuYforFcDvUpZoH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+        "id" : "04p1jV00pBnrmh2rKl0jnT",
+        "name" : "Juelz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/01mvWXVNW6Gz5Oxf6bQrtM",
+        "id" : "01mvWXVNW6Gz5Oxf6bQrtM",
+        "name" : "Heimanu",
+        "type" : "artist",
+        "uri" : "spotify:artist:01mvWXVNW6Gz5Oxf6bQrtM"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3klnFBO7TxwcQkzcuM5yVI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3klnFBO7TxwcQkzcuM5yVI",
+      "id" : "3klnFBO7TxwcQkzcuM5yVI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e15b3ae52db9f3d42ae5f529",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e15b3ae52db9f3d42ae5f529",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e15b3ae52db9f3d42ae5f529",
+        "width" : 64
+      } ],
+      "name" : "Moonbeams",
+      "release_date" : "2022-01-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3klnFBO7TxwcQkzcuM5yVI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2aOoD3zsuYforFcDvUpZoH",
+      "id" : "2aOoD3zsuYforFcDvUpZoH",
+      "name" : "KRANE",
+      "type" : "artist",
+      "uri" : "spotify:artist:2aOoD3zsuYforFcDvUpZoH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/01mvWXVNW6Gz5Oxf6bQrtM",
+      "id" : "01mvWXVNW6Gz5Oxf6bQrtM",
+      "name" : "Heimanu",
+      "type" : "artist",
+      "uri" : "spotify:artist:01mvWXVNW6Gz5Oxf6bQrtM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236883,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2161885"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1bgoe4DClcoRvDapWU68CK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1bgoe4DClcoRvDapWU68CK",
+    "id" : "1bgoe4DClcoRvDapWU68CK",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Moonbeams",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b227195d1458aa382e0d820691e788c3f4603cbe?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1bgoe4DClcoRvDapWU68CK"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+        },
+        "href" : "https://api.spotify.com/v1/artists/007nYTXRhZJUZGH7ct5Y3v",
+        "id" : "007nYTXRhZJUZGH7ct5Y3v",
+        "name" : "Tails",
+        "type" : "artist",
+        "uri" : "spotify:artist:007nYTXRhZJUZGH7ct5Y3v"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+        "id" : "04p1jV00pBnrmh2rKl0jnT",
+        "name" : "Juelz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2rYM0zyU8a2ZEzVIDAkFrO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2rYM0zyU8a2ZEzVIDAkFrO",
+      "id" : "2rYM0zyU8a2ZEzVIDAkFrO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27323e2640b1c8571cadfbeff91",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0223e2640b1c8571cadfbeff91",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485123e2640b1c8571cadfbeff91",
+        "width" : 64
+      } ],
+      "name" : "Cobra",
+      "release_date" : "2019-09-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2rYM0zyU8a2ZEzVIDAkFrO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+      },
+      "href" : "https://api.spotify.com/v1/artists/007nYTXRhZJUZGH7ct5Y3v",
+      "id" : "007nYTXRhZJUZGH7ct5Y3v",
+      "name" : "Tails",
+      "type" : "artist",
+      "uri" : "spotify:artist:007nYTXRhZJUZGH7ct5Y3v"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA6D21900239"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6z1LRCM39LEMh5UXvML0VM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6z1LRCM39LEMh5UXvML0VM",
+    "id" : "6z1LRCM39LEMh5UXvML0VM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Cobra",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5d167d6bbd249150b03d3f69024dfc09d603c860?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6z1LRCM39LEMh5UXvML0VM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        "href" : "https://api.spotify.com/v1/artists/19EW4WBhl0fvZUQgi7wV5M",
+        "id" : "19EW4WBhl0fvZUQgi7wV5M",
+        "name" : "QUIX",
+        "type" : "artist",
+        "uri" : "spotify:artist:19EW4WBhl0fvZUQgi7wV5M"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+        "id" : "04p1jV00pBnrmh2rKl0jnT",
+        "name" : "Juelz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/65IRxbQXISoNnz6XKH5FW8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/65IRxbQXISoNnz6XKH5FW8",
+      "id" : "65IRxbQXISoNnz6XKH5FW8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273599a6cc82bc789c768d62186",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02599a6cc82bc789c768d62186",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851599a6cc82bc789c768d62186",
+        "width" : 64
+      } ],
+      "name" : "Chicane",
+      "release_date" : "2020-08-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:65IRxbQXISoNnz6XKH5FW8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19EW4WBhl0fvZUQgi7wV5M",
+      "id" : "19EW4WBhl0fvZUQgi7wV5M",
+      "name" : "QUIX",
+      "type" : "artist",
+      "uri" : "spotify:artist:19EW4WBhl0fvZUQgi7wV5M"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 161586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2068684"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4OV56yPi9j1HiMXddhz2js"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4OV56yPi9j1HiMXddhz2js",
+    "id" : "4OV56yPi9j1HiMXddhz2js",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Chicane",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4dddfba0b069c5a853ecacb4f863f120f0b9d163?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4OV56yPi9j1HiMXddhz2js"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+        "id" : "04p1jV00pBnrmh2rKl0jnT",
+        "name" : "Juelz",
+        "type" : "artist",
+        "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Hw3Z382rD0poMelHCy7P5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Hw3Z382rD0poMelHCy7P5",
+      "id" : "1Hw3Z382rD0poMelHCy7P5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273626028ff694929dedd22a87a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02626028ff694929dedd22a87a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851626028ff694929dedd22a87a",
+        "width" : 64
+      } ],
+      "name" : "Inferno",
+      "release_date" : "2021-06-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1Hw3Z382rD0poMelHCy7P5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 184462,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2154404"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6V6FTMKsfda3NWGCyhIy0d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6V6FTMKsfda3NWGCyhIy0d",
+    "id" : "6V6FTMKsfda3NWGCyhIy0d",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Inferno",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/30aebde58ff64434b39cb61bd0bc57ae7cfa26e2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6V6FTMKsfda3NWGCyhIy0d"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4EukMPjtYsdi87lkU1hIxN",
+        "id" : "4EukMPjtYsdi87lkU1hIxN",
+        "name" : "Manila Killa",
+        "type" : "artist",
+        "uri" : "spotify:artist:4EukMPjtYsdi87lkU1hIxN"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7j2KhwVzSSgqy0BGteMrgo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7j2KhwVzSSgqy0BGteMrgo",
+      "id" : "7j2KhwVzSSgqy0BGteMrgo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ae9ab5f46dc1d8c863c68fe4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ae9ab5f46dc1d8c863c68fe4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ae9ab5f46dc1d8c863c68fe4",
+        "width" : 64
+      } ],
+      "name" : "1993 (Deluxe Edition)",
+      "release_date" : "2019-09-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:7j2KhwVzSSgqy0BGteMrgo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EukMPjtYsdi87lkU1hIxN",
+      "id" : "4EukMPjtYsdi87lkU1hIxN",
+      "name" : "Manila Killa",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EukMPjtYsdi87lkU1hIxN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4F18x5o9JJ3TbuXfyry04n",
+      "id" : "4F18x5o9JJ3TbuXfyry04n",
+      "name" : "GiGi Grombacher",
+      "type" : "artist",
+      "uri" : "spotify:artist:4F18x5o9JJ3TbuXfyry04n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04p1jV00pBnrmh2rKl0jnT",
+      "id" : "04p1jV00pBnrmh2rKl0jnT",
+      "name" : "Juelz",
+      "type" : "artist",
+      "uri" : "spotify:artist:04p1jV00pBnrmh2rKl0jnT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 195254,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZ8QY1800106"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0FaffoFvGQGf87TDe7AapQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0FaffoFvGQGf87TDe7AapQ",
+    "id" : "0FaffoFvGQGf87TDe7AapQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Atypical - Juelz Remix",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/33214f0dfd77e324e82d4998d03c5a13c13685f6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:0FaffoFvGQGf87TDe7AapQ"
+  } ]
+}

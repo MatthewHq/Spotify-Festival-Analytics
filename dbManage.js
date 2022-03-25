@@ -243,7 +243,7 @@ export async function allTracksToCSVcustom(festivalTitle) {
 
 
             trackObj.topTrackOrder = currTrack.topTrackOrder
-
+            trackObj.uri = currTrack.track.uri
 
             if (currTrack.audio_features != null) {
                 trackObj.danceability = currTrack.audio_features.danceability
@@ -290,6 +290,8 @@ export async function allTracksToCSVcustom(festivalTitle) {
         resolve(await promiseWriteFile(festivalTitle + "/mainDB/allTopTracks.CSV", datCSV))
     })
 }
+
+
 
 //makes an array of json data into a CSV
 function arrToCSV(data) {
