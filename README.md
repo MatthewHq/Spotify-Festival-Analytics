@@ -13,6 +13,8 @@ to be used for analyzing a festival lineup of artists and helping with where to 
     * Collects eligable items in batches of 100 (spotify's limit per call)
   * Token Expiration Efficiency
     * Will not make additional token requests until token expires  
+  * Spotify Playlist Creation!
+    *  After initially completing this project I came back to work on user authorization flow as opposed to client credential flow which allowed for creation of playlists. So after sorting out songs based on different criteria I can quickly generate festival lineup playlists to share!
 
 Note the example festival used here is "CRSSD FEST 2022"
 
