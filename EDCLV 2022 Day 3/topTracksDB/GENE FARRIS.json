@@ -1,0 +1,835 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04L4Y7Hkc1fULKhFbTnSSs",
+        "id" : "04L4Y7Hkc1fULKhFbTnSSs",
+        "name" : "ATFC",
+        "type" : "artist",
+        "uri" : "spotify:artist:04L4Y7Hkc1fULKhFbTnSSs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+        "id" : "49qOEODA3n8HiVUY4uwJbU",
+        "name" : "Gene Farris",
+        "type" : "artist",
+        "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2FYERtgM9kZqwShxZyHY5E",
+      "id" : "2FYERtgM9kZqwShxZyHY5E",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ff32bf7af353b6bea3859f82",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ff32bf7af353b6bea3859f82",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ff32bf7af353b6bea3859f82",
+        "width" : 64
+      } ],
+      "name" : "R U",
+      "release_date" : "2020-11-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2FYERtgM9kZqwShxZyHY5E"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04L4Y7Hkc1fULKhFbTnSSs",
+      "id" : "04L4Y7Hkc1fULKhFbTnSSs",
+      "name" : "ATFC",
+      "type" : "artist",
+      "uri" : "spotify:artist:04L4Y7Hkc1fULKhFbTnSSs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214285,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJAJ2002701"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0YOgkVf88IfKjV5dbEnK15",
+    "id" : "0YOgkVf88IfKjV5dbEnK15",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "R U",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e4de9c15a183f8ef2d2748e0e95a05330b245412?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0YOgkVf88IfKjV5dbEnK15"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04L4Y7Hkc1fULKhFbTnSSs",
+        "id" : "04L4Y7Hkc1fULKhFbTnSSs",
+        "name" : "ATFC",
+        "type" : "artist",
+        "uri" : "spotify:artist:04L4Y7Hkc1fULKhFbTnSSs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+        "id" : "49qOEODA3n8HiVUY4uwJbU",
+        "name" : "Gene Farris",
+        "type" : "artist",
+        "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2rziEPSZAdEOWWz8ULSyvQ",
+      "id" : "2rziEPSZAdEOWWz8ULSyvQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731b3ef47a83624a1960dfe04d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021b3ef47a83624a1960dfe04d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511b3ef47a83624a1960dfe04d",
+        "width" : 64
+      } ],
+      "name" : "Spirit of House",
+      "release_date" : "2020-02-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2rziEPSZAdEOWWz8ULSyvQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04L4Y7Hkc1fULKhFbTnSSs",
+      "id" : "04L4Y7Hkc1fULKhFbTnSSs",
+      "name" : "ATFC",
+      "type" : "artist",
+      "uri" : "spotify:artist:04L4Y7Hkc1fULKhFbTnSSs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 191500,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJAJ2000333"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/51yfv0kjNYGO69PjGXKWkX",
+    "id" : "51yfv0kjNYGO69PjGXKWkX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Spirit of House",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fa8e5aac0764ff86a3346268668939a7342d11f5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:51yfv0kjNYGO69PjGXKWkX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/04L4Y7Hkc1fULKhFbTnSSs",
+        "id" : "04L4Y7Hkc1fULKhFbTnSSs",
+        "name" : "ATFC",
+        "type" : "artist",
+        "uri" : "spotify:artist:04L4Y7Hkc1fULKhFbTnSSs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+        "id" : "49qOEODA3n8HiVUY4uwJbU",
+        "name" : "Gene Farris",
+        "type" : "artist",
+        "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5MY0KSq3Qsyq74THnxHW9S"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5MY0KSq3Qsyq74THnxHW9S",
+      "id" : "5MY0KSq3Qsyq74THnxHW9S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aef978f8c5562aa8b9305e1a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aef978f8c5562aa8b9305e1a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aef978f8c5562aa8b9305e1a",
+        "width" : 64
+      } ],
+      "name" : "The Payoff",
+      "release_date" : "2021-10-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:5MY0KSq3Qsyq74THnxHW9S"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04L4Y7Hkc1fULKhFbTnSSs",
+      "id" : "04L4Y7Hkc1fULKhFbTnSSs",
+      "name" : "ATFC",
+      "type" : "artist",
+      "uri" : "spotify:artist:04L4Y7Hkc1fULKhFbTnSSs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 134153,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJAJ2101838"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3bWCDOxTBtda3nlKYn4TwL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3bWCDOxTBtda3nlKYn4TwL",
+    "id" : "3bWCDOxTBtda3nlKYn4TwL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Payoff",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f44319830671c99ffa7d8216b499117654465082?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3bWCDOxTBtda3nlKYn4TwL"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7nRbEJhGU1wq3sEuQelrzb",
+        "id" : "7nRbEJhGU1wq3sEuQelrzb",
+        "name" : "GAWP",
+        "type" : "artist",
+        "uri" : "spotify:artist:7nRbEJhGU1wq3sEuQelrzb"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+        "id" : "49qOEODA3n8HiVUY4uwJbU",
+        "name" : "Gene Farris",
+        "type" : "artist",
+        "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2XSTBJcB8NuYqHI6XpuOlJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2XSTBJcB8NuYqHI6XpuOlJ",
+      "id" : "2XSTBJcB8NuYqHI6XpuOlJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731b17cb3bd76c644550523f05",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021b17cb3bd76c644550523f05",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511b17cb3bd76c644550523f05",
+        "width" : 64
+      } ],
+      "name" : "Aphrodisiac",
+      "release_date" : "2019-03-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2XSTBJcB8NuYqHI6XpuOlJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7nRbEJhGU1wq3sEuQelrzb",
+      "id" : "7nRbEJhGU1wq3sEuQelrzb",
+      "name" : "GAWP",
+      "type" : "artist",
+      "uri" : "spotify:artist:7nRbEJhGU1wq3sEuQelrzb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 358040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "UKS3T1900001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5wWEEmyAldm3hVN3Gnp7P8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5wWEEmyAldm3hVN3Gnp7P8",
+    "id" : "5wWEEmyAldm3hVN3Gnp7P8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Aphrodisiac",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ed43d36c921396e7f2027282022b63561f496a40?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5wWEEmyAldm3hVN3Gnp7P8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+        "id" : "49qOEODA3n8HiVUY4uwJbU",
+        "name" : "Gene Farris",
+        "type" : "artist",
+        "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/052B9SONfhoScw7dgYWw5o",
+        "id" : "052B9SONfhoScw7dgYWw5o",
+        "name" : "Biscits",
+        "type" : "artist",
+        "uri" : "spotify:artist:052B9SONfhoScw7dgYWw5o"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4D6c2d8NRspOxdCwfiB40q"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4D6c2d8NRspOxdCwfiB40q",
+      "id" : "4D6c2d8NRspOxdCwfiB40q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fd98a949723b316ede0dcab4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fd98a949723b316ede0dcab4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fd98a949723b316ede0dcab4",
+        "width" : 64
+      } ],
+      "name" : "Bass Go (Biscits Remix)",
+      "release_date" : "2020-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4D6c2d8NRspOxdCwfiB40q"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/052B9SONfhoScw7dgYWw5o",
+      "id" : "052B9SONfhoScw7dgYWw5o",
+      "name" : "Biscits",
+      "type" : "artist",
+      "uri" : "spotify:artist:052B9SONfhoScw7dgYWw5o"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 215040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRX281960562"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7n9klsNd7UnTw91y00v0V8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7n9klsNd7UnTw91y00v0V8",
+    "id" : "7n9klsNd7UnTw91y00v0V8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bass Go - Biscits Remix",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/573b0b7dcadaa184d888ed5a0fbd26d22b6ad2ac?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7n9klsNd7UnTw91y00v0V8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+        "id" : "49qOEODA3n8HiVUY4uwJbU",
+        "name" : "Gene Farris",
+        "type" : "artist",
+        "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46O13OgqRYyd31WuYKIqyE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46O13OgqRYyd31WuYKIqyE",
+      "id" : "46O13OgqRYyd31WuYKIqyE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734357834318842bfcc4642627",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024357834318842bfcc4642627",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514357834318842bfcc4642627",
+        "width" : 64
+      } ],
+      "name" : "We Work It (Remixes)",
+      "release_date" : "2018-12-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:46O13OgqRYyd31WuYKIqyE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7nRbEJhGU1wq3sEuQelrzb",
+      "id" : "7nRbEJhGU1wq3sEuQelrzb",
+      "name" : "GAWP",
+      "type" : "artist",
+      "uri" : "spotify:artist:7nRbEJhGU1wq3sEuQelrzb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 370560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBLV61808565"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3bOmXRj6YR61unJmLHF9o1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3bOmXRj6YR61unJmLHF9o1",
+    "id" : "3bOmXRj6YR61unJmLHF9o1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "We Work It - GAWP Remix",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e0dd4c8845d4c90e998c622ae515b7e94c73be6f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3bOmXRj6YR61unJmLHF9o1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4EdTAy3S5GrswFHCdpiKP3",
+        "id" : "4EdTAy3S5GrswFHCdpiKP3",
+        "name" : "Mason Maynard",
+        "type" : "artist",
+        "uri" : "spotify:artist:4EdTAy3S5GrswFHCdpiKP3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0OqaQSwLrwj267LiGgjDNR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0OqaQSwLrwj267LiGgjDNR",
+      "id" : "0OqaQSwLrwj267LiGgjDNR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27394d9226b559d19aabdfdc497",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0294d9226b559d19aabdfdc497",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485194d9226b559d19aabdfdc497",
+        "width" : 64
+      } ],
+      "name" : "Make It Hot",
+      "release_date" : "2021-09-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0OqaQSwLrwj267LiGgjDNR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EdTAy3S5GrswFHCdpiKP3",
+      "id" : "4EdTAy3S5GrswFHCdpiKP3",
+      "name" : "Mason Maynard",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EdTAy3S5GrswFHCdpiKP3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 165836,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72104628"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5fHf9SxDx3nAvciygol5g1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5fHf9SxDx3nAvciygol5g1",
+    "id" : "5fHf9SxDx3nAvciygol5g1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Make It Hot (feat. Gene Farris)",
+    "popularity" : 32,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5fHf9SxDx3nAvciygol5g1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+        "id" : "49qOEODA3n8HiVUY4uwJbU",
+        "name" : "Gene Farris",
+        "type" : "artist",
+        "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/34xezdBmxUXOcVEHSFSWK4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/34xezdBmxUXOcVEHSFSWK4",
+      "id" : "34xezdBmxUXOcVEHSFSWK4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27362d45850f79638eb635bf281",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0262d45850f79638eb635bf281",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485162d45850f79638eb635bf281",
+        "width" : 64
+      } ],
+      "name" : "Body Shake (VIP Mix)",
+      "release_date" : "2022-02-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:34xezdBmxUXOcVEHSFSWK4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219390,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBLV62131187"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2CMCU8CA6lnbRCOVPswn0d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2CMCU8CA6lnbRCOVPswn0d",
+    "id" : "2CMCU8CA6lnbRCOVPswn0d",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Body Shake - VIP Mix",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c63d16475d177c9ea4d130b71090428d76d2fc27?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2CMCU8CA6lnbRCOVPswn0d"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/14MtanGZe4G1fzC8raLFUK",
+        "id" : "14MtanGZe4G1fzC8raLFUK",
+        "name" : "Danny Howard",
+        "type" : "artist",
+        "uri" : "spotify:artist:14MtanGZe4G1fzC8raLFUK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+        "id" : "49qOEODA3n8HiVUY4uwJbU",
+        "name" : "Gene Farris",
+        "type" : "artist",
+        "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0PHE486RDtZziCdDTjCsFX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0PHE486RDtZziCdDTjCsFX",
+      "id" : "0PHE486RDtZziCdDTjCsFX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730c9d34276bb7b2b8c3f49e5a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020c9d34276bb7b2b8c3f49e5a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510c9d34276bb7b2b8c3f49e5a",
+        "width" : 64
+      } ],
+      "name" : "How Do We Feel?",
+      "release_date" : "2021-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0PHE486RDtZziCdDTjCsFX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/14MtanGZe4G1fzC8raLFUK",
+      "id" : "14MtanGZe4G1fzC8raLFUK",
+      "name" : "Danny Howard",
+      "type" : "artist",
+      "uri" : "spotify:artist:14MtanGZe4G1fzC8raLFUK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 183809,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJAJ2101287"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4p7vw8comrMayuKf9Ow3mV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4p7vw8comrMayuKf9Ow3mV",
+    "id" : "4p7vw8comrMayuKf9Ow3mV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "How Do We Feel?",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e584cc6b74dd30840ae2a0e8ac4380c5fe4de6f4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4p7vw8comrMayuKf9Ow3mV"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+        "id" : "49qOEODA3n8HiVUY4uwJbU",
+        "name" : "Gene Farris",
+        "type" : "artist",
+        "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1h9W3SLewbDzEdlFlvTe3A"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1h9W3SLewbDzEdlFlvTe3A",
+      "id" : "1h9W3SLewbDzEdlFlvTe3A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6f3f0620120b8d915b3617e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6f3f0620120b8d915b3617e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6f3f0620120b8d915b3617e",
+        "width" : 64
+      } ],
+      "name" : "Nursery",
+      "release_date" : "2020-04-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1h9W3SLewbDzEdlFlvTe3A"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49qOEODA3n8HiVUY4uwJbU",
+      "id" : "49qOEODA3n8HiVUY4uwJbU",
+      "name" : "Gene Farris",
+      "type" : "artist",
+      "uri" : "spotify:artist:49qOEODA3n8HiVUY4uwJbU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217741,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBJAJ2000750"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5oQOFeTsaGqfy5tUpu29PT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5oQOFeTsaGqfy5tUpu29PT",
+    "id" : "5oQOFeTsaGqfy5tUpu29PT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nursery",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1fc3a86ab26e64722eef02631b2f1113dfa1f6ad?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5oQOFeTsaGqfy5tUpu29PT"
+  } ]
+}

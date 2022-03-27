@@ -1,0 +1,475 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BEACH+HOUSE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1462048
+      },
+      "genres" : [ "baltimore indie", "dream pop", "dreamo", "modern dream pop" ],
+      "href" : "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+      "id" : "56ZTgzPBDge0OvCGgMO3OY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b3e38a46a56a423d8f741c09",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b3e38a46a56a423d8f741c09",
+        "width" : 160
+      } ],
+      "name" : "Beach House",
+      "popularity" : 77,
+      "type" : "artist",
+      "uri" : "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XJzBe8soC1wO2UKTBe1vS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1704
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0XJzBe8soC1wO2UKTBe1vS",
+      "id" : "0XJzBe8soC1wO2UKTBe1vS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273086ebca9218f2982fe2090dd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02086ebca9218f2982fe2090dd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851086ebca9218f2982fe2090dd",
+        "width" : 64
+      } ],
+      "name" : "Beach House Chillout Music Academy & Cool Chillout Zone",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:0XJzBe8soC1wO2UKTBe1vS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4cqg3h2mHuPg4iN0UeMzd1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2678
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4cqg3h2mHuPg4iN0UeMzd1",
+      "id" : "4cqg3h2mHuPg4iN0UeMzd1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b68f12df76030a943989ccbf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b68f12df76030a943989ccbf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b68f12df76030a943989ccbf",
+        "width" : 64
+      } ],
+      "name" : "Beach House Club",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:4cqg3h2mHuPg4iN0UeMzd1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ELpalguHmVAyP9FHDDt44"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 868
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4ELpalguHmVAyP9FHDDt44",
+      "id" : "4ELpalguHmVAyP9FHDDt44",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1c1bd7fb20baaf8dc7954f43",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741c1bd7fb20baaf8dc7954f43",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781c1bd7fb20baaf8dc7954f43",
+        "width" : 160
+      } ],
+      "name" : "Beach House Beats",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ELpalguHmVAyP9FHDDt44"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fl8ThQKFEdSUUIKRABVX2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1683
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5fl8ThQKFEdSUUIKRABVX2",
+      "id" : "5fl8ThQKFEdSUUIKRABVX2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eb44d857215aa6f9f470bcd6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eb44d857215aa6f9f470bcd6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eb44d857215aa6f9f470bcd6",
+        "width" : 64
+      } ],
+      "name" : "Ibiza Chill Out, Beach House Chillout Music Academy, Chillout",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:5fl8ThQKFEdSUUIKRABVX2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/38jm4j07aNsei9ZQ6OTsHr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/38jm4j07aNsei9ZQ6OTsHr",
+      "id" : "38jm4j07aNsei9ZQ6OTsHr",
+      "images" : [ ],
+      "name" : "Beach House",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:38jm4j07aNsei9ZQ6OTsHr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UWjqBL4rNQ6OFjfNYTkDi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 85
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5UWjqBL4rNQ6OFjfNYTkDi",
+      "id" : "5UWjqBL4rNQ6OFjfNYTkDi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273517a698f21bd774d2ddc61ef",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02517a698f21bd774d2ddc61ef",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851517a698f21bd774d2ddc61ef",
+        "width" : 64
+      } ],
+      "name" : "Beach House",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5UWjqBL4rNQ6OFjfNYTkDi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Av8OKOhigSZCwtF4NGL6m"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 47
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Av8OKOhigSZCwtF4NGL6m",
+      "id" : "0Av8OKOhigSZCwtF4NGL6m",
+      "images" : [ ],
+      "name" : "Beach House Brothers",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Av8OKOhigSZCwtF4NGL6m"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hKWZeK833KNDt5CTSDx99"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 54
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0hKWZeK833KNDt5CTSDx99",
+      "id" : "0hKWZeK833KNDt5CTSDx99",
+      "images" : [ ],
+      "name" : "Beach House",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0hKWZeK833KNDt5CTSDx99"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/07xkHwSLjdRziMFmJkdTOq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/07xkHwSLjdRziMFmJkdTOq",
+      "id" : "07xkHwSLjdRziMFmJkdTOq",
+      "images" : [ ],
+      "name" : "Jeff's Beach House",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:07xkHwSLjdRziMFmJkdTOq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4MppGXitHWfuZPLT7NbDWM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4MppGXitHWfuZPLT7NbDWM",
+      "id" : "4MppGXitHWfuZPLT7NbDWM",
+      "images" : [ ],
+      "name" : "Beach House Masters",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4MppGXitHWfuZPLT7NbDWM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5DEiItjWN4xtwIh32cpR4w"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5DEiItjWN4xtwIh32cpR4w",
+      "id" : "5DEiItjWN4xtwIh32cpR4w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736606e1d41162da110fcf9d0c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026606e1d41162da110fcf9d0c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516606e1d41162da110fcf9d0c",
+        "width" : 64
+      } ],
+      "name" : "House Beach Ensemble",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:5DEiItjWN4xtwIh32cpR4w"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnooxCzWAcrUliFGZvvFC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 291
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2XnooxCzWAcrUliFGZvvFC",
+      "id" : "2XnooxCzWAcrUliFGZvvFC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fd4702188dd15c16acd8fb98",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fd4702188dd15c16acd8fb98",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fd4702188dd15c16acd8fb98",
+        "width" : 64
+      } ],
+      "name" : "Ibiza 2012 Beach House",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnooxCzWAcrUliFGZvvFC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dpZRlf5Obc4JAa0HEmFpB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5dpZRlf5Obc4JAa0HEmFpB",
+      "id" : "5dpZRlf5Obc4JAa0HEmFpB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735a8cc2284980080b4739d8c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025a8cc2284980080b4739d8c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515a8cc2284980080b4739d8c7",
+        "width" : 64
+      } ],
+      "name" : "Beach House Horror",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5dpZRlf5Obc4JAa0HEmFpB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rrEopgh0tpfXX6DleQ22I"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2031
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6rrEopgh0tpfXX6DleQ22I",
+      "id" : "6rrEopgh0tpfXX6DleQ22I",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a4cb3beee552aa9e24fc0f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a4cb3beee552aa9e24fc0f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a4cb3beee552aa9e24fc0f0",
+        "width" : 64
+      } ],
+      "name" : "Saint Tropez Beach House Music Dj",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:6rrEopgh0tpfXX6DleQ22I"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13wZFhbM2xrEXfTrHmsWT3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/13wZFhbM2xrEXfTrHmsWT3",
+      "id" : "13wZFhbM2xrEXfTrHmsWT3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f12018801da0c97d153c122",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f12018801da0c97d153c122",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f12018801da0c97d153c122",
+        "width" : 64
+      } ],
+      "name" : "BEHIND the Beach House",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:13wZFhbM2xrEXfTrHmsWT3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5o8dtBFPw1dpaGA6BIdaZq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5o8dtBFPw1dpaGA6BIdaZq",
+      "id" : "5o8dtBFPw1dpaGA6BIdaZq",
+      "images" : [ ],
+      "name" : "Beach House Brothers",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5o8dtBFPw1dpaGA6BIdaZq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44ylpFI3ZlLo02uDvmXi8A"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 299
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/44ylpFI3ZlLo02uDvmXi8A",
+      "id" : "44ylpFI3ZlLo02uDvmXi8A",
+      "images" : [ ],
+      "name" : "Ibiza 2015 Beach House",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:44ylpFI3ZlLo02uDvmXi8A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/159i3hkOMnEhiQOoaWE7bf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/159i3hkOMnEhiQOoaWE7bf",
+      "id" : "159i3hkOMnEhiQOoaWE7bf",
+      "images" : [ ],
+      "name" : "Beach House Sounds",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:159i3hkOMnEhiQOoaWE7bf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yZazJIruGKgYjpRhzL62u"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1317
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6yZazJIruGKgYjpRhzL62u",
+      "id" : "6yZazJIruGKgYjpRhzL62u",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273059d2835b835567a38673ecd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02059d2835b835567a38673ecd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851059d2835b835567a38673ecd",
+        "width" : 64
+      } ],
+      "name" : "Beach Club House de Ibiza Café",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:6yZazJIruGKgYjpRhzL62u"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=BEACH+HOUSE&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 26
+  }
+}

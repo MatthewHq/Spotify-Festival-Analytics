@@ -1,0 +1,115 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=ERICDOA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 73023
+      },
+      "genres" : [ "glitchcore", "hyperpop" ],
+      "href" : "https://api.spotify.com/v1/artists/4hR6Bm9YYtktXzjmKhb1Cn",
+      "id" : "4hR6Bm9YYtktXzjmKhb1Cn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb82dde561d62a211e661e75d5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517482dde561d62a211e661e75d5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17882dde561d62a211e661e75d5",
+        "width" : 160
+      } ],
+      "name" : "ericdoa",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:4hR6Bm9YYtktXzjmKhb1Cn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0OiBt2PBU3LJJWfUKR8njf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 78
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0OiBt2PBU3LJJWfUKR8njf",
+      "id" : "0OiBt2PBU3LJJWfUKR8njf",
+      "images" : [ ],
+      "name" : "ericdoa",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:0OiBt2PBU3LJJWfUKR8njf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jKjcjjKUfkm41Gw1XWOYi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0jKjcjjKUfkm41Gw1XWOYi",
+      "id" : "0jKjcjjKUfkm41Gw1XWOYi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27336a0018f303a93d3e0637f8d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0236a0018f303a93d3e0637f8d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485136a0018f303a93d3e0637f8d",
+        "width" : 64
+      } ],
+      "name" : "Ericdoa",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:0jKjcjjKUfkm41Gw1XWOYi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6JIuJBeZmwBpOFgG1Fk81e"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6JIuJBeZmwBpOFgG1Fk81e",
+      "id" : "6JIuJBeZmwBpOFgG1Fk81e",
+      "images" : [ ],
+      "name" : "ericdoafan39",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:6JIuJBeZmwBpOFgG1Fk81e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Rj3uVnBuUACcRXWfh01vA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5Rj3uVnBuUACcRXWfh01vA",
+      "id" : "5Rj3uVnBuUACcRXWfh01vA",
+      "images" : [ ],
+      "name" : "Ericdoa",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Rj3uVnBuUACcRXWfh01vA"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5
+  }
+}

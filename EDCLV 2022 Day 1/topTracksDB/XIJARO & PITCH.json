@@ -1,0 +1,835 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+        "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+        "name" : "XiJaro & Pitch",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Ny5rgjblitALAHGH2ICG0",
+        "id" : "5Ny5rgjblitALAHGH2ICG0",
+        "name" : "Clara Yates",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Ny5rgjblitALAHGH2ICG0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4nLrNaXL1A8ak17QKM195O"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4nLrNaXL1A8ak17QKM195O",
+      "id" : "4nLrNaXL1A8ak17QKM195O",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e082b4645c32abb5873a87fc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e082b4645c32abb5873a87fc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e082b4645c32abb5873a87fc",
+        "width" : 64
+      } ],
+      "name" : "Rescue Me",
+      "release_date" : "2022-02-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4nLrNaXL1A8ak17QKM195O"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Ny5rgjblitALAHGH2ICG0",
+      "id" : "5Ny5rgjblitALAHGH2ICG0",
+      "name" : "Clara Yates",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Ny5rgjblitALAHGH2ICG0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 239714,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLE712200021"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6E8mspz7C4Sf6fmZgvnqFY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6E8mspz7C4Sf6fmZgvnqFY",
+    "id" : "6E8mspz7C4Sf6fmZgvnqFY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rescue Me",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ceebe67ad2e3932a039d86c5f2d9366e56ce8205?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6E8mspz7C4Sf6fmZgvnqFY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+        "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+        "name" : "XiJaro & Pitch",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4pbAf9YGHtyncoHiGnoIKe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4pbAf9YGHtyncoHiGnoIKe",
+      "id" : "4pbAf9YGHtyncoHiGnoIKe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a5cbe15ad0b95021cb1ec4f7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a5cbe15ad0b95021cb1ec4f7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a5cbe15ad0b95021cb1ec4f7",
+        "width" : 64
+      } ],
+      "name" : "Party On",
+      "release_date" : "2021-11-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4pbAf9YGHtyncoHiGnoIKe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202339,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712109028"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/61HB6vZxCpL9wuaxyZn7yh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/61HB6vZxCpL9wuaxyZn7yh",
+    "id" : "61HB6vZxCpL9wuaxyZn7yh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Party On",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/17be8fcc087fa89d22a497e151c57bf68bd1a39f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:61HB6vZxCpL9wuaxyZn7yh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1497VRGLDSi0Tb1sPill0K",
+        "id" : "1497VRGLDSi0Tb1sPill0K",
+        "name" : "Somna",
+        "type" : "artist",
+        "uri" : "spotify:artist:1497VRGLDSi0Tb1sPill0K"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/54Sgvc93MjdG7o2099JlN6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/54Sgvc93MjdG7o2099JlN6",
+      "id" : "54Sgvc93MjdG7o2099JlN6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dcaa5cb1498887c0f71a52a4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dcaa5cb1498887c0f71a52a4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dcaa5cb1498887c0f71a52a4",
+        "width" : 64
+      } ],
+      "name" : "Beside You [Deluxe]",
+      "release_date" : "2021-05-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 26,
+      "type" : "album",
+      "uri" : "spotify:album:54Sgvc93MjdG7o2099JlN6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1497VRGLDSi0Tb1sPill0K",
+      "id" : "1497VRGLDSi0Tb1sPill0K",
+      "name" : "Somna",
+      "type" : "artist",
+      "uri" : "spotify:artist:1497VRGLDSi0Tb1sPill0K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44RB2EcmMwG4gC8EH75Ix1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44RB2EcmMwG4gC8EH75Ix1",
+      "id" : "44RB2EcmMwG4gC8EH75Ix1",
+      "name" : "Jennifer Rene",
+      "type" : "artist",
+      "uri" : "spotify:artist:44RB2EcmMwG4gC8EH75Ix1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 239795,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLE712100269"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0K2C5JHVbS9UkqbAPoxTRj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0K2C5JHVbS9UkqbAPoxTRj",
+    "id" : "0K2C5JHVbS9UkqbAPoxTRj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Stars Collide - XiJaro & Pitch Remix",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/476a412af15db878b79d3d124978d1438f324c58?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:0K2C5JHVbS9UkqbAPoxTRj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+        "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+        "name" : "XiJaro & Pitch",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39Bgz7eimboB39LowY8fVZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39Bgz7eimboB39LowY8fVZ",
+        "id" : "39Bgz7eimboB39LowY8fVZ",
+        "name" : "Corrado Baggieri",
+        "type" : "artist",
+        "uri" : "spotify:artist:39Bgz7eimboB39LowY8fVZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/13KXif6vpSnhw7ZRbDf42g"
+      },
+      "href" : "https://api.spotify.com/v1/albums/13KXif6vpSnhw7ZRbDf42g",
+      "id" : "13KXif6vpSnhw7ZRbDf42g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27345c32690af5696e1bd3172b3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0245c32690af5696e1bd3172b3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485145c32690af5696e1bd3172b3",
+        "width" : 64
+      } ],
+      "name" : "Ode To The Fallen",
+      "release_date" : "2021-04-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:13KXif6vpSnhw7ZRbDf42g"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39Bgz7eimboB39LowY8fVZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39Bgz7eimboB39LowY8fVZ",
+      "id" : "39Bgz7eimboB39LowY8fVZ",
+      "name" : "Corrado Baggieri",
+      "type" : "artist",
+      "uri" : "spotify:artist:39Bgz7eimboB39LowY8fVZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231482,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLC732100203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2E7NgHq1f5aum2jqxylkjl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2E7NgHq1f5aum2jqxylkjl",
+    "id" : "2E7NgHq1f5aum2jqxylkjl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ode To The Fallen",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3d0b3856aebddfe591381a0d83ab2ad39f5df47d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2E7NgHq1f5aum2jqxylkjl"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5suoHSdDiYsjikHNVdYYKe",
+        "id" : "5suoHSdDiYsjikHNVdYYKe",
+        "name" : "Binary Finary",
+        "type" : "artist",
+        "uri" : "spotify:artist:5suoHSdDiYsjikHNVdYYKe"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/32MPkg3QiK5UjLnt38H5mz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/32MPkg3QiK5UjLnt38H5mz",
+        "id" : "32MPkg3QiK5UjLnt38H5mz",
+        "name" : "Kinética",
+        "type" : "artist",
+        "uri" : "spotify:artist:32MPkg3QiK5UjLnt38H5mz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+        "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+        "name" : "XiJaro & Pitch",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2FfjOqAwHktsZI4CA2THvX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2FfjOqAwHktsZI4CA2THvX",
+      "id" : "2FfjOqAwHktsZI4CA2THvX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736c3a30e5a889b838de3c56d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026c3a30e5a889b838de3c56d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516c3a30e5a889b838de3c56d1",
+        "width" : 64
+      } ],
+      "name" : "In Our Blood (XiJaro & Pitch Remix)",
+      "release_date" : "2021-01-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2FfjOqAwHktsZI4CA2THvX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5suoHSdDiYsjikHNVdYYKe",
+      "id" : "5suoHSdDiYsjikHNVdYYKe",
+      "name" : "Binary Finary",
+      "type" : "artist",
+      "uri" : "spotify:artist:5suoHSdDiYsjikHNVdYYKe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/32MPkg3QiK5UjLnt38H5mz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/32MPkg3QiK5UjLnt38H5mz",
+      "id" : "32MPkg3QiK5UjLnt38H5mz",
+      "name" : "Kinética",
+      "type" : "artist",
+      "uri" : "spotify:artist:32MPkg3QiK5UjLnt38H5mz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0RC0nC8QI7l4NXAOqDsamQ",
+      "id" : "0RC0nC8QI7l4NXAOqDsamQ",
+      "name" : "Audrey Gallagher",
+      "type" : "artist",
+      "uri" : "spotify:artist:0RC0nC8QI7l4NXAOqDsamQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD682100021"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3swIbjvy1Bs3ocAfJjMTcE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3swIbjvy1Bs3ocAfJjMTcE",
+    "id" : "3swIbjvy1Bs3ocAfJjMTcE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "In Our Blood - XiJaro & Pitch Remix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b5b819f94e8252e6d6ef739e98827edeb1ce159b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3swIbjvy1Bs3ocAfJjMTcE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4cc7cII4mEQqKtczWKQVjJ",
+        "id" : "4cc7cII4mEQqKtczWKQVjJ",
+        "name" : "Talla 2XLC",
+        "type" : "artist",
+        "uri" : "spotify:artist:4cc7cII4mEQqKtczWKQVjJ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Ny5rgjblitALAHGH2ICG0",
+        "id" : "5Ny5rgjblitALAHGH2ICG0",
+        "name" : "Clara Yates",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Ny5rgjblitALAHGH2ICG0"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+        "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+        "name" : "XiJaro & Pitch",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/43NK2xx9G77q0doXxwiH46"
+      },
+      "href" : "https://api.spotify.com/v1/albums/43NK2xx9G77q0doXxwiH46",
+      "id" : "43NK2xx9G77q0doXxwiH46",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ace192d047a9d5466a4f494d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ace192d047a9d5466a4f494d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ace192d047a9d5466a4f494d",
+        "width" : 64
+      } ],
+      "name" : "Back To Life (XiJaro & Pitch Remix)",
+      "release_date" : "2020-10-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:43NK2xx9G77q0doXxwiH46"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4cc7cII4mEQqKtczWKQVjJ",
+      "id" : "4cc7cII4mEQqKtczWKQVjJ",
+      "name" : "Talla 2XLC",
+      "type" : "artist",
+      "uri" : "spotify:artist:4cc7cII4mEQqKtczWKQVjJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Ny5rgjblitALAHGH2ICG0",
+      "id" : "5Ny5rgjblitALAHGH2ICG0",
+      "name" : "Clara Yates",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Ny5rgjblitALAHGH2ICG0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 208695,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEA312007397"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4DN04j1PlegbqauXZ8QwZa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4DN04j1PlegbqauXZ8QwZa",
+    "id" : "4DN04j1PlegbqauXZ8QwZa",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Back To Life - Xijaro & Pitch Original Mix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5b2ca6c65775bca39c0f861d02acd78d7ea58a78?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4DN04j1PlegbqauXZ8QwZa"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+        "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+        "name" : "XiJaro & Pitch",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0ml8pmtW6V2VYjOlUo1dQq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0ml8pmtW6V2VYjOlUo1dQq",
+      "id" : "0ml8pmtW6V2VYjOlUo1dQq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27326a4c25e224e03d042429e69",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0226a4c25e224e03d042429e69",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485126a4c25e224e03d042429e69",
+        "width" : 64
+      } ],
+      "name" : "Mina",
+      "release_date" : "2020-11-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0ml8pmtW6V2VYjOlUo1dQq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 206035,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD682003883"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2tgVQSkl8n2X8oP8mwe8ll"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2tgVQSkl8n2X8oP8mwe8ll",
+    "id" : "2tgVQSkl8n2X8oP8mwe8ll",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mina",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a69e96b68d1d9a2ebafb1cd3f8128e187215b094?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2tgVQSkl8n2X8oP8mwe8ll"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+        "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+        "name" : "XiJaro & Pitch",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7EXEzZ7o5XKdbzEW6etnHl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7EXEzZ7o5XKdbzEW6etnHl",
+        "id" : "7EXEzZ7o5XKdbzEW6etnHl",
+        "name" : "Yoshi & Razner",
+        "type" : "artist",
+        "uri" : "spotify:artist:7EXEzZ7o5XKdbzEW6etnHl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4EYHyf4x4Ii7XqYrUDJRYF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4EYHyf4x4Ii7XqYrUDJRYF",
+      "id" : "4EYHyf4x4Ii7XqYrUDJRYF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a233297321a42e99763acf2d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a233297321a42e99763acf2d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a233297321a42e99763acf2d",
+        "width" : 64
+      } ],
+      "name" : "Sic Parvis Magna (Yoshi & Razner Remix)",
+      "release_date" : "2021-12-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4EYHyf4x4Ii7XqYrUDJRYF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7EXEzZ7o5XKdbzEW6etnHl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7EXEzZ7o5XKdbzEW6etnHl",
+      "id" : "7EXEzZ7o5XKdbzEW6etnHl",
+      "name" : "Yoshi & Razner",
+      "type" : "artist",
+      "uri" : "spotify:artist:7EXEzZ7o5XKdbzEW6etnHl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 243642,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEA312107875"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0K6MhKD1jQDcN0GkykMYWt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0K6MhKD1jQDcN0GkykMYWt",
+    "id" : "0K6MhKD1jQDcN0GkykMYWt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sic Parvis Magna (Yoshi & Razner Original Mix)",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f9631d7ed05edc2632534220b7feff98dca22b14?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0K6MhKD1jQDcN0GkykMYWt"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+        "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+        "name" : "XiJaro & Pitch",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6RXSRD6bIG4pM0RY7zcivS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6RXSRD6bIG4pM0RY7zcivS",
+      "id" : "6RXSRD6bIG4pM0RY7zcivS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c401946988aba7fd9b3945a0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c401946988aba7fd9b3945a0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c401946988aba7fd9b3945a0",
+        "width" : 64
+      } ],
+      "name" : "Head Over Heels",
+      "release_date" : "2020-05-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6RXSRD6bIG4pM0RY7zcivS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 233043,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD682001233"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1PGRI6vurrURtX4JMgxB4D"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1PGRI6vurrURtX4JMgxB4D",
+    "id" : "1PGRI6vurrURtX4JMgxB4D",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Head Over Heels",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fbd00f642f54d67fd0fc7427540f29e5c44a8e03?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1PGRI6vurrURtX4JMgxB4D"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25mFVpuABa9GkGcj9eOPce"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25mFVpuABa9GkGcj9eOPce",
+        "id" : "25mFVpuABa9GkGcj9eOPce",
+        "name" : "Armin van Buuren ASOT Radio",
+        "type" : "artist",
+        "uri" : "spotify:artist:25mFVpuABa9GkGcj9eOPce"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46FAloB49srrRLSzYqs9pV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46FAloB49srrRLSzYqs9pV",
+      "id" : "46FAloB49srrRLSzYqs9pV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273734f9656262e7966ef9412a3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02734f9656262e7966ef9412a3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851734f9656262e7966ef9412a3",
+        "width" : 64
+      } ],
+      "name" : "ASOT 1056 - A State Of Trance Episode 1056",
+      "release_date" : "2022-02-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 52,
+      "type" : "album",
+      "uri" : "spotify:album:46FAloB49srrRLSzYqs9pV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "name" : "XiJaro & Pitch",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Ny5rgjblitALAHGH2ICG0",
+      "id" : "5Ny5rgjblitALAHGH2ICG0",
+      "name" : "Clara Yates",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Ny5rgjblitALAHGH2ICG0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 297100,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712201497"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1VKLYIpcDUkll28RZ5Prc8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1VKLYIpcDUkll28RZ5Prc8",
+    "id" : "1VKLYIpcDUkll28RZ5Prc8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rescue Me (ASOT 1056)",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2a2fc19fd1cd502cf52ec1a2f444c439b2bef8c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 35,
+    "type" : "track",
+    "uri" : "spotify:track:1VKLYIpcDUkll28RZ5Prc8"
+  } ]
+}

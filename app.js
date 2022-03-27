@@ -7,38 +7,39 @@ import * as userDbManage from './userDbManage.js'
 
 async function main() {
     //MAIN PROCEDURE HERE ++++++++++++++++
-    let festivalTitle = "Coachella 2022 Week 1 Sunday"
+    let festivalTitle = "EDCLV 2022 Day 3"
 
     // dbManage.iniFestival(festivalTitle)
 
-    // await clientTokenCreds()
-    // setTimeout(async () => {
+    await clientTokenCreds()
+    setTimeout(async () => {
 
-    // await spotifyRequests.bulkArtistCache(festivalTitle)
-    // await dbManage.artistCollect(festivalTitle)
+        // await spotifyRequests.bulkArtistCache(festivalTitle)
+        // await dbManage.artistCollect(festivalTitle)
 
-    // await spotifyRequests.overWriteArtists(festivalTitle)
-    // await spotifyRequests.bulkArtistTopTrack(festivalTitle)
+        // await spotifyRequests.overWriteArtists(festivalTitle)
+        // await spotifyRequests.bulkArtistTopTrack(festivalTitle)
 
-    // await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
-    // await dbManage.consolidateTopTracks(festivalTitle)
-    // await dbManage.consolidateArtists(festivalTitle)
-    // await dbManage.allArtistsToCSVcustom(festivalTitle)
-    // await dbManage.allTracksToCSVcustom(festivalTitle)
-    // }, 2000);
+        // await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
+        // await dbManage.consolidateTopTracks(festivalTitle)
+        // await dbManage.consolidateArtists(festivalTitle)
+        // await dbManage.allArtistsToCSVcustom(festivalTitle)
+        // await dbManage.allTracksToCSVcustom(festivalTitle)
+    }, 2000);
 
     // END MAIN PROCEDURE HERE ++++++++++++++++++
 
     //USER PROCEDURE HERE ++++++++++++++++++
     // userAccessTokenCreds()
-    userRefreshTokenCreds()
+
+    // userRefreshTokenCreds()
 
     setTimeout(async () => {
         // let playlistCreateResult = await userSpotifyRequests.createPlaylist("MY CODED PLAYLIST", false, false, "THIS IS MY PLAYLIST mADE WITH MY CODE")
         // console.log(playlistCreateResult)
 
 
-        let lineByLineToJSON = await userDbManage.lineByLineToJSON('./mainDB/userData/playlistTracks.txt')
+        // let lineByLineToJSON = await userDbManage.lineByLineToJSON('./mainDB/userData/playlistTracks.txt')
         await userSpotifyRequests.bulkToPlaylistAdd()
 
     }, 2000);

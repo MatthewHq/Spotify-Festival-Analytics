@@ -1,0 +1,871 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4I3DQTyFtVMl17DSsuPWrj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4I3DQTyFtVMl17DSsuPWrj",
+      "id" : "4I3DQTyFtVMl17DSsuPWrj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ba57e459289342bcc7cff1a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ba57e459289342bcc7cff1a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ba57e459289342bcc7cff1a1",
+        "width" : 64
+      } ],
+      "name" : "Next Chapter",
+      "release_date" : "2019-09-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4I3DQTyFtVMl17DSsuPWrj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2fSGqh4BJpl0T1LHtd9TQ8",
+      "id" : "2fSGqh4BJpl0T1LHtd9TQ8",
+      "name" : "Dani Poppitt",
+      "type" : "artist",
+      "uri" : "spotify:artist:2fSGqh4BJpl0T1LHtd9TQ8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 256000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM91900112"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4IwAEVmGfA1gYYVFPtlXyi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4IwAEVmGfA1gYYVFPtlXyi",
+    "id" : "4IwAEVmGfA1gYYVFPtlXyi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Without",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/87c9d51b42a34f28b1abdeba2cbcb59d15fb4866?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4IwAEVmGfA1gYYVFPtlXyi"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0tgjwsn1Lpjj8kKEvWm0KQ",
+        "id" : "0tgjwsn1Lpjj8kKEvWm0KQ",
+        "name" : "Doctor P",
+        "type" : "artist",
+        "uri" : "spotify:artist:0tgjwsn1Lpjj8kKEvWm0KQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3MxrpzVBvts8GL1xMrF3WH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3MxrpzVBvts8GL1xMrF3WH",
+      "id" : "3MxrpzVBvts8GL1xMrF3WH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273301d745dd98676eadb017b8d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02301d745dd98676eadb017b8d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851301d745dd98676eadb017b8d",
+        "width" : 64
+      } ],
+      "name" : "Arcade Fire",
+      "release_date" : "2021-09-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3MxrpzVBvts8GL1xMrF3WH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tgjwsn1Lpjj8kKEvWm0KQ",
+      "id" : "0tgjwsn1Lpjj8kKEvWm0KQ",
+      "name" : "Doctor P",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tgjwsn1Lpjj8kKEvWm0KQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 234206,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GX4Y82100006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6oXQKW4cXq2c1HaTycVIlF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6oXQKW4cXq2c1HaTycVIlF",
+    "id" : "6oXQKW4cXq2c1HaTycVIlF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Arcade Fire",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5c29d34cdf99df27e034a9b4e148593b5a134724?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6oXQKW4cXq2c1HaTycVIlF"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5bcHS2ka2clJ3PGdvUGuxD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5bcHS2ka2clJ3PGdvUGuxD",
+        "id" : "5bcHS2ka2clJ3PGdvUGuxD",
+        "name" : "Lost Wolves",
+        "type" : "artist",
+        "uri" : "spotify:artist:5bcHS2ka2clJ3PGdvUGuxD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ppkM4QtM781APpaX7H9t7",
+        "id" : "3ppkM4QtM781APpaX7H9t7",
+        "name" : "Dia Frampton",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ppkM4QtM781APpaX7H9t7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/56YSaB1UtypMxIZmR0XZTN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/56YSaB1UtypMxIZmR0XZTN",
+      "id" : "56YSaB1UtypMxIZmR0XZTN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bf330a63eb5db02369de0627",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bf330a63eb5db02369de0627",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bf330a63eb5db02369de0627",
+        "width" : 64
+      } ],
+      "name" : "Flames (Lost Wolves Remix)",
+      "release_date" : "2022-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:56YSaB1UtypMxIZmR0XZTN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bcHS2ka2clJ3PGdvUGuxD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5bcHS2ka2clJ3PGdvUGuxD",
+      "id" : "5bcHS2ka2clJ3PGdvUGuxD",
+      "name" : "Lost Wolves",
+      "type" : "artist",
+      "uri" : "spotify:artist:5bcHS2ka2clJ3PGdvUGuxD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ppkM4QtM781APpaX7H9t7",
+      "id" : "3ppkM4QtM781APpaX7H9t7",
+      "name" : "Dia Frampton",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ppkM4QtM781APpaX7H9t7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 267200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM92100160"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3jlm0CthL363lpsEJEvNix"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3jlm0CthL363lpsEJEvNix",
+    "id" : "3jlm0CthL363lpsEJEvNix",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Flames - Lost Wolves Remix",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/da954805613448d06a5b5ea480bc1a5fbbc49be6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3jlm0CthL363lpsEJEvNix"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GKA5lU2ENKafTV9t3NH1p"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GKA5lU2ENKafTV9t3NH1p",
+        "id" : "3GKA5lU2ENKafTV9t3NH1p",
+        "name" : "GLD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GKA5lU2ENKafTV9t3NH1p"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1JT0MzkVsceldoRga4Hgmc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1JT0MzkVsceldoRga4Hgmc",
+      "id" : "1JT0MzkVsceldoRga4Hgmc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736dcbe967e51ec3110d574a80",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026dcbe967e51ec3110d574a80",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516dcbe967e51ec3110d574a80",
+        "width" : 64
+      } ],
+      "name" : "Without (GLD Remix)",
+      "release_date" : "2019-12-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1JT0MzkVsceldoRga4Hgmc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2fSGqh4BJpl0T1LHtd9TQ8",
+      "id" : "2fSGqh4BJpl0T1LHtd9TQ8",
+      "name" : "Dani Poppitt",
+      "type" : "artist",
+      "uri" : "spotify:artist:2fSGqh4BJpl0T1LHtd9TQ8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GKA5lU2ENKafTV9t3NH1p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3GKA5lU2ENKafTV9t3NH1p",
+      "id" : "3GKA5lU2ENKafTV9t3NH1p",
+      "name" : "GLD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3GKA5lU2ENKafTV9t3NH1p"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 249795,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM91900147"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1FzFn04mu0hQ5EKYFuSbpc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1FzFn04mu0hQ5EKYFuSbpc",
+    "id" : "1FzFn04mu0hQ5EKYFuSbpc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Without - GLD Remix",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9a6a063aeee484c54d94ed8fd92728470581d558?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1FzFn04mu0hQ5EKYFuSbpc"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4zymhxzJ0UJc74tMHGyoWs",
+        "id" : "4zymhxzJ0UJc74tMHGyoWs",
+        "name" : "Dirtyphonics",
+        "type" : "artist",
+        "uri" : "spotify:artist:4zymhxzJ0UJc74tMHGyoWs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7cs1GEHnc2Gb7fcKLFw9t3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7cs1GEHnc2Gb7fcKLFw9t3",
+      "id" : "7cs1GEHnc2Gb7fcKLFw9t3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273706284a0c412875fdcf2510e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02706284a0c412875fdcf2510e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851706284a0c412875fdcf2510e",
+        "width" : 64
+      } ],
+      "name" : "Neckbreaker",
+      "release_date" : "2016-04-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7cs1GEHnc2Gb7fcKLFw9t3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zymhxzJ0UJc74tMHGyoWs",
+      "id" : "4zymhxzJ0UJc74tMHGyoWs",
+      "name" : "Dirtyphonics",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zymhxzJ0UJc74tMHGyoWs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 246857,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBUM91600021"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7vHagwe3VcVWGo4UavVvTY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7vHagwe3VcVWGo4UavVvTY",
+    "id" : "7vHagwe3VcVWGo4UavVvTY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Neckbreaker",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9fc84a405e7d40723c0ba1cf4dc88e209120ce5d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7vHagwe3VcVWGo4UavVvTY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6WVnsgbLJ2WkiA616PCdwu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6WVnsgbLJ2WkiA616PCdwu",
+      "id" : "6WVnsgbLJ2WkiA616PCdwu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273981a004a912e98dd980e4df4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02981a004a912e98dd980e4df4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851981a004a912e98dd980e4df4",
+        "width" : 64
+      } ],
+      "name" : "FuntCase Presents: DPMO, Vol. 4",
+      "release_date" : "2021-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:6WVnsgbLJ2WkiA616PCdwu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3uSdOouuT7NoUXdDSeJnky",
+      "id" : "3uSdOouuT7NoUXdDSeJnky",
+      "name" : "Chassi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3uSdOouuT7NoUXdDSeJnky"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 208000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GX4Y82100017"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7hsCrgrkLPFbvKWj5Q7osb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7hsCrgrkLPFbvKWj5Q7osb",
+    "id" : "7hsCrgrkLPFbvKWj5Q7osb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fear",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/37d8a1b0dabc62b75f439bcac8cd7dfbf1f63213?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:7hsCrgrkLPFbvKWj5Q7osb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UnlDAt0zlQ8EZwf0lDNFN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UnlDAt0zlQ8EZwf0lDNFN",
+      "id" : "4UnlDAt0zlQ8EZwf0lDNFN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ee3c74152c0bc4dd45cfb99d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ee3c74152c0bc4dd45cfb99d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ee3c74152c0bc4dd45cfb99d",
+        "width" : 64
+      } ],
+      "name" : "FuntCase Presents: DPMO, Vol. 2",
+      "release_date" : "2018-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:4UnlDAt0zlQ8EZwf0lDNFN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Uyqa2sdHm1bL5JK4IC4zc",
+      "id" : "1Uyqa2sdHm1bL5JK4IC4zc",
+      "name" : "Wooli",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Uyqa2sdHm1bL5JK4IC4zc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0DMEZLiozBGN9v24wCvbmO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0DMEZLiozBGN9v24wCvbmO",
+      "id" : "0DMEZLiozBGN9v24wCvbmO",
+      "name" : "Clipson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0DMEZLiozBGN9v24wCvbmO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM91800145"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5TK5OWfBqcdRvQVrmSjqDs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5TK5OWfBqcdRvQVrmSjqDs",
+    "id" : "5TK5OWfBqcdRvQVrmSjqDs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Man Don't Want War",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2a461a5d27c1e4ddf26775958ebfb7f3bdfe65c0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5TK5OWfBqcdRvQVrmSjqDs"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4xaF2VIGwhWyEMbM6GuLdm",
+        "id" : "4xaF2VIGwhWyEMbM6GuLdm",
+        "name" : "Teddy Killerz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4xaF2VIGwhWyEMbM6GuLdm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Pdhwac5oHsY95PeUq6VBS",
+        "id" : "2Pdhwac5oHsY95PeUq6VBS",
+        "name" : "Nymfo",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Pdhwac5oHsY95PeUq6VBS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3wbmkWeHpB3JUhedrCycIp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3wbmkWeHpB3JUhedrCycIp",
+      "id" : "3wbmkWeHpB3JUhedrCycIp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27306ef28dd707c122ed0b95740",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0206ef28dd707c122ed0b95740",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485106ef28dd707c122ed0b95740",
+        "width" : 64
+      } ],
+      "name" : "Boom! / Zombie",
+      "release_date" : "2018-11-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3wbmkWeHpB3JUhedrCycIp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xaF2VIGwhWyEMbM6GuLdm",
+      "id" : "4xaF2VIGwhWyEMbM6GuLdm",
+      "name" : "Teddy Killerz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xaF2VIGwhWyEMbM6GuLdm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 222226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRX201805149"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7JGD4buCKZkJSeBX0R4o9q"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7JGD4buCKZkJSeBX0R4o9q",
+    "id" : "7JGD4buCKZkJSeBX0R4o9q",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Boom!",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d3e317df2a6f4561ace037e1053cae78c627ced0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7JGD4buCKZkJSeBX0R4o9q"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ppkM4QtM781APpaX7H9t7",
+        "id" : "3ppkM4QtM781APpaX7H9t7",
+        "name" : "Dia Frampton",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ppkM4QtM781APpaX7H9t7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2W7vKbXGKtR8TN3ZhiP2en"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2W7vKbXGKtR8TN3ZhiP2en",
+      "id" : "2W7vKbXGKtR8TN3ZhiP2en",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ba7886bdb673f34be631e39e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ba7886bdb673f34be631e39e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ba7886bdb673f34be631e39e",
+        "width" : 64
+      } ],
+      "name" : "Flames",
+      "release_date" : "2021-06-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2W7vKbXGKtR8TN3ZhiP2en"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ppkM4QtM781APpaX7H9t7",
+      "id" : "3ppkM4QtM781APpaX7H9t7",
+      "name" : "Dia Frampton",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ppkM4QtM781APpaX7H9t7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM92100070"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4R6sNCYaJzyQ16ox7C518C"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4R6sNCYaJzyQ16ox7C518C",
+    "id" : "4R6sNCYaJzyQ16ox7C518C",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Flames",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/59eecc785acf2b051d953717fccd477dcddbc687?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4R6sNCYaJzyQ16ox7C518C"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+        "id" : "6v1BAWFVNPbPJlnFHWR78D",
+        "name" : "FuntCase",
+        "type" : "artist",
+        "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2xETb4zgW6EluhKGIk3dUV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2xETb4zgW6EluhKGIk3dUV",
+      "id" : "2xETb4zgW6EluhKGIk3dUV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bcd4fab671cc4598132ac167",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bcd4fab671cc4598132ac167",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bcd4fab671cc4598132ac167",
+        "width" : 64
+      } ],
+      "name" : "4 Barz of Fury (Barely Alive Remix)",
+      "release_date" : "2017-05-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2xETb4zgW6EluhKGIk3dUV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "name" : "FuntCase",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/15uvoIS6p9Gs3QZSjSqIMG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/15uvoIS6p9Gs3QZSjSqIMG",
+      "id" : "15uvoIS6p9Gs3QZSjSqIMG",
+      "name" : "Merky ACE",
+      "type" : "artist",
+      "uri" : "spotify:artist:15uvoIS6p9Gs3QZSjSqIMG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5c3akKV3CUqAVOnGZqf4S3",
+      "id" : "5c3akKV3CUqAVOnGZqf4S3",
+      "name" : "Barely Alive",
+      "type" : "artist",
+      "uri" : "spotify:artist:5c3akKV3CUqAVOnGZqf4S3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 264800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM91700056"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0cmSr12qmYZPjTZzm5BUay"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0cmSr12qmYZPjTZzm5BUay",
+    "id" : "0cmSr12qmYZPjTZzm5BUay",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "4 Barz of Fury - Barely Alive Remix",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1a5047966139a1ecb8d1d6eaf268fab926e0dfa0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0cmSr12qmYZPjTZzm5BUay"
+  } ]
+}

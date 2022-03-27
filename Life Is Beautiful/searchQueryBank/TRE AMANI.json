@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=TRE+AMANI&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3450
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/48Py72qV4J4hzvJXXRDNz0",
+      "id" : "48Py72qV4J4hzvJXXRDNz0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf4fb5750878181902dc75200",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f4fb5750878181902dc75200",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f4fb5750878181902dc75200",
+        "width" : 160
+      } ],
+      "name" : "Tre' Amani",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:48Py72qV4J4hzvJXXRDNz0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3u9uoysAiUOYjisv9abhvx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3u9uoysAiUOYjisv9abhvx",
+      "id" : "3u9uoysAiUOYjisv9abhvx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737cf739ffdc62cf3a6496edd5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027cf739ffdc62cf3a6496edd5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517cf739ffdc62cf3a6496edd5",
+        "width" : 64
+      } ],
+      "name" : "Amani 3re 9er",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3u9uoysAiUOYjisv9abhvx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JliB7s3kwcGuPMfg1NBvE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3JliB7s3kwcGuPMfg1NBvE",
+      "id" : "3JliB7s3kwcGuPMfg1NBvE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f2bd1d0429785ebfc0aff7f4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f2bd1d0429785ebfc0aff7f4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f2bd1d0429785ebfc0aff7f4",
+        "width" : 64
+      } ],
+      "name" : "Amani Tre Niner",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3JliB7s3kwcGuPMfg1NBvE"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

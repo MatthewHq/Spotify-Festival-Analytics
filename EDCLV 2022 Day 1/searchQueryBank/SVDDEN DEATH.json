@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SVDDEN+DEATH&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 148631
+      },
+      "genres" : [ "deathstep", "dubstep", "edm", "electro house", "riddim dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/2u01kCKA5wDvvztuH8lyT0",
+      "id" : "2u01kCKA5wDvvztuH8lyT0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe963f905506dcad071c96694",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e963f905506dcad071c96694",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e963f905506dcad071c96694",
+        "width" : 160
+      } ],
+      "name" : "SVDDEN DEATH",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:2u01kCKA5wDvvztuH8lyT0"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

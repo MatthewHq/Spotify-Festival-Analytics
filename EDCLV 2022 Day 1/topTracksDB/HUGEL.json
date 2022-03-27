@@ -1,0 +1,907 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/72zmP13MQQhZHt4Kl0FOTs",
+        "id" : "72zmP13MQQhZHt4Kl0FOTs",
+        "name" : "Cumbiafrica",
+        "type" : "artist",
+        "uri" : "spotify:artist:72zmP13MQQhZHt4Kl0FOTs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4zMIwkKxRg5oo8ekxOKqHW",
+      "id" : "4zMIwkKxRg5oo8ekxOKqHW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273588c08dcded5bc5a1c99aa71",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02588c08dcded5bc5a1c99aa71",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851588c08dcded5bc5a1c99aa71",
+        "width" : 64
+      } ],
+      "name" : "Morenita",
+      "release_date" : "2021-06-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4zMIwkKxRg5oo8ekxOKqHW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/72zmP13MQQhZHt4Kl0FOTs",
+      "id" : "72zmP13MQQhZHt4Kl0FOTs",
+      "name" : "Cumbiafrica",
+      "type" : "artist",
+      "uri" : "spotify:artist:72zmP13MQQhZHt4Kl0FOTs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 176491,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBHAD2102582"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0pIiCv0GdhtsOjCJ5Y7zHj",
+    "id" : "0pIiCv0GdhtsOjCJ5Y7zHj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Morenita",
+    "popularity" : 77,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cdd9b9588ba89d63a4cd05c35bebdcea3388637d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0pIiCv0GdhtsOjCJ5Y7zHj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0u6GtibW46tFX7koQ6uNJZ",
+        "id" : "0u6GtibW46tFX7koQ6uNJZ",
+        "name" : "Topic",
+        "type" : "artist",
+        "uri" : "spotify:artist:0u6GtibW46tFX7koQ6uNJZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Wg2b4Mp42gicxEeDNawf7",
+        "id" : "5Wg2b4Mp42gicxEeDNawf7",
+        "name" : "A7S",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Wg2b4Mp42gicxEeDNawf7"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7Kpv8JPOf6l8udsPJtKVe0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7Kpv8JPOf6l8udsPJtKVe0",
+      "id" : "7Kpv8JPOf6l8udsPJtKVe0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398756de088491dc904f48cf0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298756de088491dc904f48cf0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198756de088491dc904f48cf0",
+        "width" : 64
+      } ],
+      "name" : "Breaking Me (HUGEL Remix)",
+      "release_date" : "2020-04-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7Kpv8JPOf6l8udsPJtKVe0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0u6GtibW46tFX7koQ6uNJZ",
+      "id" : "0u6GtibW46tFX7koQ6uNJZ",
+      "name" : "Topic",
+      "type" : "artist",
+      "uri" : "spotify:artist:0u6GtibW46tFX7koQ6uNJZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Wg2b4Mp42gicxEeDNawf7",
+      "id" : "5Wg2b4Mp42gicxEeDNawf7",
+      "name" : "A7S",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Wg2b4Mp42gicxEeDNawf7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 171904,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "DEUM72001259"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0XX5PxqMoXAPxBZ0qYqSwI",
+    "id" : "0XX5PxqMoXAPxBZ0qYqSwI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Breaking Me - HUGEL Remix",
+    "popularity" : 69,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0XX5PxqMoXAPxBZ0qYqSwI"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6NFRBhq9SmNn1FAiRs9AEf",
+        "id" : "6NFRBhq9SmNn1FAiRs9AEf",
+        "name" : "Amber Van Day",
+        "type" : "artist",
+        "uri" : "spotify:artist:6NFRBhq9SmNn1FAiRs9AEf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6S7cBAToQ2mje6G1r2AKWS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6S7cBAToQ2mje6G1r2AKWS",
+      "id" : "6S7cBAToQ2mje6G1r2AKWS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737906aea23909ce4932ceae2a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027906aea23909ce4932ceae2a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517906aea23909ce4932ceae2a",
+        "width" : 64
+      } ],
+      "name" : "WTF (feat. Amber Van Day)",
+      "release_date" : "2018-11-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6S7cBAToQ2mje6G1r2AKWS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6NFRBhq9SmNn1FAiRs9AEf",
+      "id" : "6NFRBhq9SmNn1FAiRs9AEf",
+      "name" : "Amber Van Day",
+      "type" : "artist",
+      "uri" : "spotify:artist:6NFRBhq9SmNn1FAiRs9AEf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 160686,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "DEA621801857"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0gn93i7HJt0calph67R5Wu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0gn93i7HJt0calph67R5Wu",
+    "id" : "0gn93i7HJt0calph67R5Wu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "WTF (feat. Amber Van Day)",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b5319e47ee5aa76a002e8633c228dba0c43d1644?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0gn93i7HJt0calph67R5Wu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/61ipISvUVa5LkJlKZnm3Oo",
+        "id" : "61ipISvUVa5LkJlKZnm3Oo",
+        "name" : "Alle Farben",
+        "type" : "artist",
+        "uri" : "spotify:artist:61ipISvUVa5LkJlKZnm3Oo"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/56Qz2XwGj7FxnNKrfkWjnb",
+        "id" : "56Qz2XwGj7FxnNKrfkWjnb",
+        "name" : "FAST BOY",
+        "type" : "artist",
+        "uri" : "spotify:artist:56Qz2XwGj7FxnNKrfkWjnb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1wIYBR2x3po8AkWWjw260k"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1wIYBR2x3po8AkWWjw260k",
+      "id" : "1wIYBR2x3po8AkWWjw260k",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e7bf58db36795f12118ce20d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e7bf58db36795f12118ce20d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e7bf58db36795f12118ce20d",
+        "width" : 64
+      } ],
+      "name" : "Castle (feat. FAST BOY)",
+      "release_date" : "2022-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1wIYBR2x3po8AkWWjw260k"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/61ipISvUVa5LkJlKZnm3Oo",
+      "id" : "61ipISvUVa5LkJlKZnm3Oo",
+      "name" : "Alle Farben",
+      "type" : "artist",
+      "uri" : "spotify:artist:61ipISvUVa5LkJlKZnm3Oo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/56Qz2XwGj7FxnNKrfkWjnb",
+      "id" : "56Qz2XwGj7FxnNKrfkWjnb",
+      "name" : "FAST BOY",
+      "type" : "artist",
+      "uri" : "spotify:artist:56Qz2XwGj7FxnNKrfkWjnb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 146585,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEA622101107"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1DcaveBkLsJCehY22YY9sY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1DcaveBkLsJCehY22YY9sY",
+    "id" : "1DcaveBkLsJCehY22YY9sY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Castle (feat. FAST BOY)",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1fbf38c4d25249f86bfb59f94d07a3d226dba69a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1DcaveBkLsJCehY22YY9sY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/47BEc2RoW53owMyxacXWdV",
+        "id" : "47BEc2RoW53owMyxacXWdV",
+        "name" : "Yves V",
+        "type" : "artist",
+        "uri" : "spotify:artist:47BEc2RoW53owMyxacXWdV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/01mtRGu4b4Q6FigZ2PAyAn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/01mtRGu4b4Q6FigZ2PAyAn",
+      "id" : "01mtRGu4b4Q6FigZ2PAyAn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273abe52e784ffe73abb108316b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02abe52e784ffe73abb108316b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851abe52e784ffe73abb108316b",
+        "width" : 64
+      } ],
+      "name" : "Finally",
+      "release_date" : "2021-07-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:01mtRGu4b4Q6FigZ2PAyAn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/47BEc2RoW53owMyxacXWdV",
+      "id" : "47BEc2RoW53owMyxacXWdV",
+      "name" : "Yves V",
+      "type" : "artist",
+      "uri" : "spotify:artist:47BEc2RoW53owMyxacXWdV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181935,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ542101007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0GGUayyESI4F0FhnQPSV81"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0GGUayyESI4F0FhnQPSV81",
+    "id" : "0GGUayyESI4F0FhnQPSV81",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Finally",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b3360a6afbd1d639bbd3e1e56a9b0576a79fb97?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0GGUayyESI4F0FhnQPSV81"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gTcdmBwgyh3EORKIXCzlw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gTcdmBwgyh3EORKIXCzlw",
+        "id" : "2gTcdmBwgyh3EORKIXCzlw",
+        "name" : "El Profesor",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gTcdmBwgyh3EORKIXCzlw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7eNJTYvUFdzdTkiGTorSNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7eNJTYvUFdzdTkiGTorSNZ",
+      "id" : "7eNJTYvUFdzdTkiGTorSNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735793df79d97f8b4d32b15a7d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025793df79d97f8b4d32b15a7d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515793df79d97f8b4d32b15a7d",
+        "width" : 64
+      } ],
+      "name" : "Bella Ciao (HUGEL Remix)",
+      "release_date" : "2018-07-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7eNJTYvUFdzdTkiGTorSNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gTcdmBwgyh3EORKIXCzlw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gTcdmBwgyh3EORKIXCzlw",
+      "id" : "2gTcdmBwgyh3EORKIXCzlw",
+      "name" : "El Profesor",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gTcdmBwgyh3EORKIXCzlw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 164954,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR22F1800090"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/41hAKBCtTuRH2aItnktHJI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/41hAKBCtTuRH2aItnktHJI",
+    "id" : "41hAKBCtTuRH2aItnktHJI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bella Ciao - HUGEL Remix",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1d204090ebde22b245fcec52bece151eb7d3b86e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:41hAKBCtTuRH2aItnktHJI"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2NM1t8dMvgeu9Lfl06574g",
+        "id" : "2NM1t8dMvgeu9Lfl06574g",
+        "name" : "Mishaal",
+        "type" : "artist",
+        "uri" : "spotify:artist:2NM1t8dMvgeu9Lfl06574g"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22fLwOqQV0IYn4GTTfg4Ha",
+        "id" : "22fLwOqQV0IYn4GTTfg4Ha",
+        "name" : "LPW",
+        "type" : "artist",
+        "uri" : "spotify:artist:22fLwOqQV0IYn4GTTfg4Ha"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3ZQaTE0GhMpsJKCqo8vnpb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3ZQaTE0GhMpsJKCqo8vnpb",
+      "id" : "3ZQaTE0GhMpsJKCqo8vnpb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f17e3e915cb9cf1b85e3a7d7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f17e3e915cb9cf1b85e3a7d7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f17e3e915cb9cf1b85e3a7d7",
+        "width" : 64
+      } ],
+      "name" : "Can't Love Myself (feat. Mishaal & LPW)",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3ZQaTE0GhMpsJKCqo8vnpb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2NM1t8dMvgeu9Lfl06574g",
+      "id" : "2NM1t8dMvgeu9Lfl06574g",
+      "name" : "Mishaal",
+      "type" : "artist",
+      "uri" : "spotify:artist:2NM1t8dMvgeu9Lfl06574g"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22fLwOqQV0IYn4GTTfg4Ha",
+      "id" : "22fLwOqQV0IYn4GTTfg4Ha",
+      "name" : "LPW",
+      "type" : "artist",
+      "uri" : "spotify:artist:22fLwOqQV0IYn4GTTfg4Ha"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 156659,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "DEA622001432"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jvYUrFJeebfiHjyCvfiHE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jvYUrFJeebfiHjyCvfiHE",
+    "id" : "6jvYUrFJeebfiHjyCvfiHE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Can't Love Myself (feat. Mishaal & LPW)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/42fe901a3270d1e8f96efb7f6e3f349d321753c7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6jvYUrFJeebfiHjyCvfiHE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2eShCMLXmJ06B65OMOIOQ4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2eShCMLXmJ06B65OMOIOQ4",
+      "id" : "2eShCMLXmJ06B65OMOIOQ4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ca1ffff1f19076178e4b4b68",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ca1ffff1f19076178e4b4b68",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ca1ffff1f19076178e4b4b68",
+        "width" : 64
+      } ],
+      "name" : "Back to Life",
+      "release_date" : "2021-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2eShCMLXmJ06B65OMOIOQ4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 126972,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEA622100732"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ixjgNCGvFTXTO1fGqltw1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ixjgNCGvFTXTO1fGqltw1",
+    "id" : "6ixjgNCGvFTXTO1fGqltw1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Back to Life",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fd60ee4e650360b24f953efe134449f5f122437a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6ixjgNCGvFTXTO1fGqltw1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2h6hAChW74hB9HvrNoK1RY",
+        "id" : "2h6hAChW74hB9HvrNoK1RY",
+        "name" : "Quarterhead",
+        "type" : "artist",
+        "uri" : "spotify:artist:2h6hAChW74hB9HvrNoK1RY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UiYJyJVz6xIwlYOL6g4WI",
+      "id" : "6UiYJyJVz6xIwlYOL6g4WI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d8547aa61df3dc50d4ba3d10",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d8547aa61df3dc50d4ba3d10",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d8547aa61df3dc50d4ba3d10",
+        "width" : 64
+      } ],
+      "name" : "Eyes On You",
+      "release_date" : "2021-10-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6UiYJyJVz6xIwlYOL6g4WI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2h6hAChW74hB9HvrNoK1RY",
+      "id" : "2h6hAChW74hB9HvrNoK1RY",
+      "name" : "Quarterhead",
+      "type" : "artist",
+      "uri" : "spotify:artist:2h6hAChW74hB9HvrNoK1RY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202515,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2119922"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1evX3NUBE7QujnSmky2ox4",
+    "id" : "1evX3NUBE7QujnSmky2ox4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Eyes On You",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e5ca610068a1fd7d60bb7dde70a60b6103fd2289?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1evX3NUBE7QujnSmky2ox4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+        "id" : "5PlfkPxwCpRRWQJBxCa0By",
+        "name" : "HUGEL",
+        "type" : "artist",
+        "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7rUJV3QhhZJVRucw5BK09x",
+        "id" : "7rUJV3QhhZJVRucw5BK09x",
+        "name" : "Jude & Frank",
+        "type" : "artist",
+        "uri" : "spotify:artist:7rUJV3QhhZJVRucw5BK09x"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1IRtNLR91uUQxQzh9veJhh",
+        "id" : "1IRtNLR91uUQxQzh9veJhh",
+        "name" : "Twolate",
+        "type" : "artist",
+        "uri" : "spotify:artist:1IRtNLR91uUQxQzh9veJhh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7vxhUdJugQ2iMlF9DEzygr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7vxhUdJugQ2iMlF9DEzygr",
+      "id" : "7vxhUdJugQ2iMlF9DEzygr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f64fe62a61d016a043e6e60e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f64fe62a61d016a043e6e60e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f64fe62a61d016a043e6e60e",
+        "width" : 64
+      } ],
+      "name" : "La candela viva",
+      "release_date" : "2022-01-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7vxhUdJugQ2iMlF9DEzygr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PlfkPxwCpRRWQJBxCa0By",
+      "id" : "5PlfkPxwCpRRWQJBxCa0By",
+      "name" : "HUGEL",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7rUJV3QhhZJVRucw5BK09x",
+      "id" : "7rUJV3QhhZJVRucw5BK09x",
+      "name" : "Jude & Frank",
+      "type" : "artist",
+      "uri" : "spotify:artist:7rUJV3QhhZJVRucw5BK09x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1IRtNLR91uUQxQzh9veJhh",
+      "id" : "1IRtNLR91uUQxQzh9veJhh",
+      "name" : "Twolate",
+      "type" : "artist",
+      "uri" : "spotify:artist:1IRtNLR91uUQxQzh9veJhh"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 174600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEA622101297"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6EJuJAg1Ydjkoj9SCwMUyN",
+    "id" : "6EJuJAg1Ydjkoj9SCwMUyN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "La candela viva",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/64846c06cc679f03f416a0f7a8df8ccdb2c5f1e3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6EJuJAg1Ydjkoj9SCwMUyN"
+  } ]
+}

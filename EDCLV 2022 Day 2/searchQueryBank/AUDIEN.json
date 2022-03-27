@@ -1,0 +1,511 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=AUDIEN&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 164431
+      },
+      "genres" : [ "edm", "electro house", "electropop", "pop dance", "pop edm", "progressive electro house", "progressive house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/4xnMDfgEmXZEEDdITKcGuE",
+      "id" : "4xnMDfgEmXZEEDdITKcGuE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb275d687af88bb66830756ff6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174275d687af88bb66830756ff6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178275d687af88bb66830756ff6",
+        "width" : 160
+      } ],
+      "name" : "Audien",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:4xnMDfgEmXZEEDdITKcGuE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jVMgeZjWBDDXP4uleUcPO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 509
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2jVMgeZjWBDDXP4uleUcPO",
+      "id" : "2jVMgeZjWBDDXP4uleUcPO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0914cf103d12a90438daaca2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740914cf103d12a90438daaca2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780914cf103d12a90438daaca2",
+        "width" : 160
+      } ],
+      "name" : "Audience of Rain",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:2jVMgeZjWBDDXP4uleUcPO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/29V9Fa2adwX7nNFktfjkI3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 788
+      },
+      "genres" : [ "instrumental worship", "piano worship" ],
+      "href" : "https://api.spotify.com/v1/artists/29V9Fa2adwX7nNFktfjkI3",
+      "id" : "29V9Fa2adwX7nNFktfjkI3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273678dc59102cccbeff1e87b3f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02678dc59102cccbeff1e87b3f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851678dc59102cccbeff1e87b3f",
+        "width" : 64
+      } ],
+      "name" : "One Audience Piano",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:29V9Fa2adwX7nNFktfjkI3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Zdr2HpUrWzxK6KAD8r4mw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2804
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3Zdr2HpUrWzxK6KAD8r4mw",
+      "id" : "3Zdr2HpUrWzxK6KAD8r4mw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c7bd7723b3e65cb49915ab7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c7bd7723b3e65cb49915ab7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c7bd7723b3e65cb49915ab7",
+        "width" : 64
+      } ],
+      "name" : "Audience",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:3Zdr2HpUrWzxK6KAD8r4mw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B1Ms9qEAHWZ7hJLZg4zbY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 71
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7B1Ms9qEAHWZ7hJLZg4zbY",
+      "id" : "7B1Ms9qEAHWZ7hJLZg4zbY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f18fed76618942a2a30518be",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f18fed76618942a2a30518be",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f18fed76618942a2a30518be",
+        "width" : 64
+      } ],
+      "name" : "Cool Audience",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:7B1Ms9qEAHWZ7hJLZg4zbY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0G1SUtHzLwGa2N3a9ZZd5q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 974
+      },
+      "genres" : [ "progressive post-hardcore" ],
+      "href" : "https://api.spotify.com/v1/artists/0G1SUtHzLwGa2N3a9ZZd5q",
+      "id" : "0G1SUtHzLwGa2N3a9ZZd5q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b63cec1a6541a752774de205",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b63cec1a6541a752774de205",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b63cec1a6541a752774de205",
+        "width" : 64
+      } ],
+      "name" : "Audience Of One",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:0G1SUtHzLwGa2N3a9ZZd5q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BVSd9NhgMhHSjdhEab8p9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 124
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6BVSd9NhgMhHSjdhEab8p9",
+      "id" : "6BVSd9NhgMhHSjdhEab8p9",
+      "images" : [ ],
+      "name" : "Audience Applause",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:6BVSd9NhgMhHSjdhEab8p9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5LwmjVtmsdrSn4ou9FLwLF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 215
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5LwmjVtmsdrSn4ou9FLwLF",
+      "id" : "5LwmjVtmsdrSn4ou9FLwLF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3cde1b987e8f986e03c9596d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743cde1b987e8f986e03c9596d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783cde1b987e8f986e03c9596d",
+        "width" : 160
+      } ],
+      "name" : "Audiense",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:5LwmjVtmsdrSn4ou9FLwLF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mJp1WI5BPVZUcci4yz8Ma"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1mJp1WI5BPVZUcci4yz8Ma",
+      "id" : "1mJp1WI5BPVZUcci4yz8Ma",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301370c54871e9cfa8501f193",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201370c54871e9cfa8501f193",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101370c54871e9cfa8501f193",
+        "width" : 64
+      } ],
+      "name" : "audiencekayak",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:1mJp1WI5BPVZUcci4yz8Ma"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76EktmleJhk24s9oRHJq8b"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 345
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/76EktmleJhk24s9oRHJq8b",
+      "id" : "76EktmleJhk24s9oRHJq8b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27384ccd6e6475b68071d871d6e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0284ccd6e6475b68071d871d6e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485184ccd6e6475b68071d871d6e",
+        "width" : 64
+      } ],
+      "name" : "Audiencia de Uno",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:76EktmleJhk24s9oRHJq8b"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/780fVcQ7vzGqsHU46FCTo6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 123
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/780fVcQ7vzGqsHU46FCTo6",
+      "id" : "780fVcQ7vzGqsHU46FCTo6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273efb915061d6c1284865b679b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02efb915061d6c1284865b679b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851efb915061d6c1284865b679b",
+        "width" : 64
+      } ],
+      "name" : "Audience",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:780fVcQ7vzGqsHU46FCTo6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kmtttRopxkZH1DaY6b7IJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 403
+      },
+      "genres" : [ "deep chill" ],
+      "href" : "https://api.spotify.com/v1/artists/6kmtttRopxkZH1DaY6b7IJ",
+      "id" : "6kmtttRopxkZH1DaY6b7IJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb12e0a47eb07db400fa1f4f0a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517412e0a47eb07db400fa1f4f0a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17812e0a47eb07db400fa1f4f0a",
+        "width" : 160
+      } ],
+      "name" : "Life Audience",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:6kmtttRopxkZH1DaY6b7IJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gzUOqYsWP18Yt2srJgySe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 47
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2gzUOqYsWP18Yt2srJgySe",
+      "id" : "2gzUOqYsWP18Yt2srJgySe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2664c1f6ce68f16b9ed9280",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2664c1f6ce68f16b9ed9280",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2664c1f6ce68f16b9ed9280",
+        "width" : 64
+      } ],
+      "name" : "Audiens",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:2gzUOqYsWP18Yt2srJgySe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1UgBiAdLJYE279fRZas7f2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1UgBiAdLJYE279fRZas7f2",
+      "id" : "1UgBiAdLJYE279fRZas7f2",
+      "images" : [ ],
+      "name" : "Audience",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1UgBiAdLJYE279fRZas7f2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1m7iyV2uAlU9nxqKpciumk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33
+      },
+      "genres" : [ "chillstep" ],
+      "href" : "https://api.spotify.com/v1/artists/1m7iyV2uAlU9nxqKpciumk",
+      "id" : "1m7iyV2uAlU9nxqKpciumk",
+      "images" : [ ],
+      "name" : "Audience & Adrenaline",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:1m7iyV2uAlU9nxqKpciumk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02SFUHKligljrEnZss81Ov"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/02SFUHKligljrEnZss81Ov",
+      "id" : "02SFUHKligljrEnZss81Ov",
+      "images" : [ ],
+      "name" : "Audience",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:02SFUHKligljrEnZss81Ov"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gMPtZAU1EpmJOIxLdCfO4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2gMPtZAU1EpmJOIxLdCfO4",
+      "id" : "2gMPtZAU1EpmJOIxLdCfO4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737db361c1727630ce6dadaae3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027db361c1727630ce6dadaae3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517db361c1727630ce6dadaae3",
+        "width" : 64
+      } ],
+      "name" : "Audience of the One",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2gMPtZAU1EpmJOIxLdCfO4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2xNUqMY2ZacD1PDErcHUrC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2xNUqMY2ZacD1PDErcHUrC",
+      "id" : "2xNUqMY2ZacD1PDErcHUrC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733527e33c1b8062a2c127947e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023527e33c1b8062a2c127947e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513527e33c1b8062a2c127947e",
+        "width" : 64
+      } ],
+      "name" : "Audience",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2xNUqMY2ZacD1PDErcHUrC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5uFfDyBq6StC6uyDQGLXru"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 135
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5uFfDyBq6StC6uyDQGLXru",
+      "id" : "5uFfDyBq6StC6uyDQGLXru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734fc69cd1dd6a6265975b9cf4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024fc69cd1dd6a6265975b9cf4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514fc69cd1dd6a6265975b9cf4",
+        "width" : 64
+      } ],
+      "name" : "Audiences",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5uFfDyBq6StC6uyDQGLXru"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MaTaTkg2HwmNES32t8DdZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5MaTaTkg2HwmNES32t8DdZ",
+      "id" : "5MaTaTkg2HwmNES32t8DdZ",
+      "images" : [ ],
+      "name" : "Audience,30 May 2017 — Tanghalang Nicanor Abelardo",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:5MaTaTkg2HwmNES32t8DdZ"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=AUDIEN&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 142
+  }
+}

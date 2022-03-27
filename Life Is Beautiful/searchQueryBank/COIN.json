@@ -1,0 +1,559 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=COIN&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 506753
+      },
+      "genres" : [ "indie pop", "indie poptimism", "modern rock", "pop", "pop rock" ],
+      "href" : "https://api.spotify.com/v1/artists/0ZxZlO7oWCSYMXhehpyMvE",
+      "id" : "0ZxZlO7oWCSYMXhehpyMvE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd746ea0dbc6fbaa163353727",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d746ea0dbc6fbaa163353727",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d746ea0dbc6fbaa163353727",
+        "width" : 160
+      } ],
+      "name" : "COIN",
+      "popularity" : 71,
+      "type" : "artist",
+      "uri" : "spotify:artist:0ZxZlO7oWCSYMXhehpyMvE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jwKvpzuYVBfMty4Fvu4YB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 249
+      },
+      "genres" : [ "vgm instrumental" ],
+      "href" : "https://api.spotify.com/v1/artists/4jwKvpzuYVBfMty4Fvu4YB",
+      "id" : "4jwKvpzuYVBfMty4Fvu4YB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebae770a00840058c82122942f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ae770a00840058c82122942f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ae770a00840058c82122942f",
+        "width" : 160
+      } ],
+      "name" : "Coin Op. Studios",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:4jwKvpzuYVBfMty4Fvu4YB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3K271pW3tGlt28OPf4pkiY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3K271pW3tGlt28OPf4pkiY",
+      "id" : "3K271pW3tGlt28OPf4pkiY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27331661e95a857e93f236c9a6a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0231661e95a857e93f236c9a6a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485131661e95a857e93f236c9a6a",
+        "width" : 64
+      } ],
+      "name" : "The Knight Of Coins",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:3K271pW3tGlt28OPf4pkiY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Otxn6V7BD5SDApM6ooIl5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 46
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Otxn6V7BD5SDApM6ooIl5",
+      "id" : "6Otxn6V7BD5SDApM6ooIl5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389131cee2c2dd32788183dca",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289131cee2c2dd32788183dca",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189131cee2c2dd32788183dca",
+        "width" : 64
+      } ],
+      "name" : "COIN",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Otxn6V7BD5SDApM6ooIl5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20IDzRi0wyLOh0Bj40v4Sj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3103
+      },
+      "genres" : [ "baroque cello", "classical cello", "classical performance" ],
+      "href" : "https://api.spotify.com/v1/artists/20IDzRi0wyLOh0Bj40v4Sj",
+      "id" : "20IDzRi0wyLOh0Bj40v4Sj",
+      "images" : [ {
+        "height" : 480,
+        "url" : "https://i.scdn.co/image/e6e38b56c3fbeb639f9a649a1db6ead43b0e8d15",
+        "width" : 391
+      }, {
+        "height" : 246,
+        "url" : "https://i.scdn.co/image/db38ee8c6b325dd8f5c27be6030fd7dbf853199e",
+        "width" : 200
+      }, {
+        "height" : 79,
+        "url" : "https://i.scdn.co/image/f4379315f5d757d0067c2bf7b68536af76c17c5c",
+        "width" : 64
+      } ],
+      "name" : "Christophe Coin",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:20IDzRi0wyLOh0Bj40v4Sj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Q2eYruTmhpxUu3g3y12pT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 50
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Q2eYruTmhpxUu3g3y12pT",
+      "id" : "6Q2eYruTmhpxUu3g3y12pT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf220360ccc922a3ddc8d75da",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f220360ccc922a3ddc8d75da",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f220360ccc922a3ddc8d75da",
+        "width" : 160
+      } ],
+      "name" : "COIN",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Q2eYruTmhpxUu3g3y12pT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5T3g6A8mQin4ISKlPwBdIJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3594
+      },
+      "genres" : [ "west australian hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/5T3g6A8mQin4ISKlPwBdIJ",
+      "id" : "5T3g6A8mQin4ISKlPwBdIJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb118af7f95f3f46894160d10d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174118af7f95f3f46894160d10d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178118af7f95f3f46894160d10d",
+        "width" : 160
+      } ],
+      "name" : "Coin Banks",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:5T3g6A8mQin4ISKlPwBdIJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GzOC23DYJckyX0PuQWpaV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 543
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3GzOC23DYJckyX0PuQWpaV",
+      "id" : "3GzOC23DYJckyX0PuQWpaV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c21d1325de1ea024ff09a16c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c21d1325de1ea024ff09a16c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c21d1325de1ea024ff09a16c",
+        "width" : 64
+      } ],
+      "name" : "Gold Coin",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:3GzOC23DYJckyX0PuQWpaV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yPT40afuMfnsYhha4ccBq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4yPT40afuMfnsYhha4ccBq",
+      "id" : "4yPT40afuMfnsYhha4ccBq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c54e786a5ff3513c496da584",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c54e786a5ff3513c496da584",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c54e786a5ff3513c496da584",
+        "width" : 64
+      } ],
+      "name" : "COIN",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4yPT40afuMfnsYhha4ccBq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Fs5ferYzrKTK2drf6JE9A"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4Fs5ferYzrKTK2drf6JE9A",
+      "id" : "4Fs5ferYzrKTK2drf6JE9A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d499989cfaa9b6742897398c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d499989cfaa9b6742897398c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d499989cfaa9b6742897398c",
+        "width" : 64
+      } ],
+      "name" : "Coin Bandits",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Fs5ferYzrKTK2drf6JE9A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qVojSFg4tpKIpH9GxvzUJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 53
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0qVojSFg4tpKIpH9GxvzUJ",
+      "id" : "0qVojSFg4tpKIpH9GxvzUJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0ca1bdbea9be23baff206636",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740ca1bdbea9be23baff206636",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780ca1bdbea9be23baff206636",
+        "width" : 160
+      } ],
+      "name" : "Two Coïns",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:0qVojSFg4tpKIpH9GxvzUJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ei5J9RK8D0VOltghfpTMh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5ei5J9RK8D0VOltghfpTMh",
+      "id" : "5ei5J9RK8D0VOltghfpTMh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ff17727d58c5c5b6b6bb61e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ff17727d58c5c5b6b6bb61e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ff17727d58c5c5b6b6bb61e2",
+        "width" : 64
+      } ],
+      "name" : "COIN",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ei5J9RK8D0VOltghfpTMh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21ZrUwCPuok2HGHtuUVCGL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9459
+      },
+      "genres" : [ "choral", "classical performance", "classical soprano", "opera" ],
+      "href" : "https://api.spotify.com/v1/artists/21ZrUwCPuok2HGHtuUVCGL",
+      "id" : "21ZrUwCPuok2HGHtuUVCGL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf587b25e82b1aca9cf686c47",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f587b25e82b1aca9cf686c47",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f587b25e82b1aca9cf686c47",
+        "width" : 160
+      } ],
+      "name" : "Sandrine Piau",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:21ZrUwCPuok2HGHtuUVCGL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YhKKRzEvNNjXQNk7yqIcf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1YhKKRzEvNNjXQNk7yqIcf",
+      "id" : "1YhKKRzEvNNjXQNk7yqIcf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27393fcb3b6cb4e9de2e8747dd1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0293fcb3b6cb4e9de2e8747dd1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485193fcb3b6cb4e9de2e8747dd1",
+        "width" : 64
+      } ],
+      "name" : "COIN",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1YhKKRzEvNNjXQNk7yqIcf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51d9idRVYLckvD4AGHFZsk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 380
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/51d9idRVYLckvD4AGHFZsk",
+      "id" : "51d9idRVYLckvD4AGHFZsk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf4a8c8ddce45025e63a9a82b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f4a8c8ddce45025e63a9a82b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f4a8c8ddce45025e63a9a82b",
+        "width" : 160
+      } ],
+      "name" : "Coincidí",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:51d9idRVYLckvD4AGHFZsk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FoT66EOmHb1IBpyz4Lise"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3211
+      },
+      "genres" : [ "ethnotronica", "organic electronic", "organic house" ],
+      "href" : "https://api.spotify.com/v1/artists/4FoT66EOmHb1IBpyz4Lise",
+      "id" : "4FoT66EOmHb1IBpyz4Lise",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb36b6bb470386bc67902a5e5a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517436b6bb470386bc67902a5e5a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17836b6bb470386bc67902a5e5a",
+        "width" : 160
+      } ],
+      "name" : "Holed Coin",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:4FoT66EOmHb1IBpyz4Lise"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Kqdn2IF0jjCTM4bNI9rWL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 103
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3Kqdn2IF0jjCTM4bNI9rWL",
+      "id" : "3Kqdn2IF0jjCTM4bNI9rWL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebffeaac1d41945544ee96e41e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ffeaac1d41945544ee96e41e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ffeaac1d41945544ee96e41e",
+        "width" : 160
+      } ],
+      "name" : "COIN$",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:3Kqdn2IF0jjCTM4bNI9rWL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1L7VYB2qq9CbrUPiMbPiIP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3786
+      },
+      "genres" : [ "nigerian hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/1L7VYB2qq9CbrUPiMbPiIP",
+      "id" : "1L7VYB2qq9CbrUPiMbPiIP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb058697e2ba31da5e113b2896",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174058697e2ba31da5e113b2896",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178058697e2ba31da5e113b2896",
+        "width" : 160
+      } ],
+      "name" : "Ruffcoin",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:1L7VYB2qq9CbrUPiMbPiIP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2bzF0PFjZz6Ug71yRioclc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 410
+      },
+      "genres" : [ "experimental hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/2bzF0PFjZz6Ug71yRioclc",
+      "id" : "2bzF0PFjZz6Ug71yRioclc",
+      "images" : [ ],
+      "name" : "Coin Locker Kid",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:2bzF0PFjZz6Ug71yRioclc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 64467
+      },
+      "genres" : [ "classic country pop", "nashville sound" ],
+      "href" : "https://api.spotify.com/v1/artists/66Pq6HMX0YqsJgtUZrFwmo",
+      "id" : "66Pq6HMX0YqsJgtUZrFwmo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebed96d75e9c9119088b5b1643",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ed96d75e9c9119088b5b1643",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ed96d75e9c9119088b5b1643",
+        "width" : 160
+      } ],
+      "name" : "Connie Smith",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:66Pq6HMX0YqsJgtUZrFwmo"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=COIN&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 406
+  }
+}

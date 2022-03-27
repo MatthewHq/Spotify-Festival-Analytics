@@ -1,0 +1,131 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=PAUL+VAN+DYK&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 381608
+      },
+      "genres" : [ "german techno", "progressive house", "trance", "uplifting trance" ],
+      "href" : "https://api.spotify.com/v1/artists/7wU1naftD3lNq7rNsiDvOR",
+      "id" : "7wU1naftD3lNq7rNsiDvOR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf35904b11572a8e8203064de",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f35904b11572a8e8203064de",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f35904b11572a8e8203064de",
+        "width" : 160
+      } ],
+      "name" : "Paul van Dyk",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:7wU1naftD3lNq7rNsiDvOR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yKoipvwYml3WoWYneb3Kf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4yKoipvwYml3WoWYneb3Kf",
+      "id" : "4yKoipvwYml3WoWYneb3Kf",
+      "images" : [ ],
+      "name" : "Paul van Dyk & Alex M.O.R.P.H.",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4yKoipvwYml3WoWYneb3Kf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1BoU6G2pQMokUi4EFSqcCg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1BoU6G2pQMokUi4EFSqcCg",
+      "id" : "1BoU6G2pQMokUi4EFSqcCg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a62c4c703449ac038af40d0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a62c4c703449ac038af40d0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a62c4c703449ac038af40d0",
+        "width" : 64
+      } ],
+      "name" : "Paul van Dyk SESSIONS",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1BoU6G2pQMokUi4EFSqcCg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0HzxoQfqik1pQsGFr6Xh96"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0HzxoQfqik1pQsGFr6Xh96",
+      "id" : "0HzxoQfqik1pQsGFr6Xh96",
+      "images" : [ ],
+      "name" : "Paul van Dyk & Guiseppe Ottaviani",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:0HzxoQfqik1pQsGFr6Xh96"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4rnPgrdySa8hTd1CpsL7Xy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 52
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4rnPgrdySa8hTd1CpsL7Xy",
+      "id" : "4rnPgrdySa8hTd1CpsL7Xy",
+      "images" : [ ],
+      "name" : "Tilt vs Paul Van Dyk",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4rnPgrdySa8hTd1CpsL7Xy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7DkwExkfRqQGwTXu94DAB6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 214
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7DkwExkfRqQGwTXu94DAB6",
+      "id" : "7DkwExkfRqQGwTXu94DAB6",
+      "images" : [ ],
+      "name" : "Paul van Dyk & Starkillers & Austin Leeds feat. Ashley Tomberlin",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:7DkwExkfRqQGwTXu94DAB6"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=RENEGADE+SYSTEM&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1393
+      },
+      "genres" : [ "tech trance" ],
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe28dbd72767596e867afe10a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e28dbd72767596e867afe10a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e28dbd72767596e867afe10a",
+        "width" : 160
+      } ],
+      "name" : "Renegade System",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/41UvQJe3nMMuwwizHshW3P"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/41UvQJe3nMMuwwizHshW3P",
+      "id" : "41UvQJe3nMMuwwizHshW3P",
+      "images" : [ ],
+      "name" : "Renegade Soul System",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:41UvQJe3nMMuwwizHshW3P"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sFabCpGcEVrAMIVlAtwby"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5sFabCpGcEVrAMIVlAtwby",
+      "id" : "5sFabCpGcEVrAMIVlAtwby",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383ee6b99cfa3859f6c1fafe3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283ee6b99cfa3859f6c1fafe3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183ee6b99cfa3859f6c1fafe3",
+        "width" : 64
+      } ],
+      "name" : "System_Renegade",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5sFabCpGcEVrAMIVlAtwby"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

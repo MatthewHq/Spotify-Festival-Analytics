@@ -1,0 +1,889 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+        "id" : "6fcTRFpz0yH79qSKfof7lp",
+        "name" : "Seven Lions",
+        "type" : "artist",
+        "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+        "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+        "name" : "Dylan Matthew",
+        "type" : "artist",
+        "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0pm25h4mEG11O8CJkNXJwH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0pm25h4mEG11O8CJkNXJwH",
+      "id" : "0pm25h4mEG11O8CJkNXJwH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273109b7795a5873721200060f3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02109b7795a5873721200060f3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851109b7795a5873721200060f3",
+        "width" : 64
+      } ],
+      "name" : "First Time (feat. Dylan Matthew)",
+      "release_date" : "2018-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0pm25h4mEG11O8CJkNXJwH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+      "id" : "6fcTRFpz0yH79qSKfof7lp",
+      "name" : "Seven Lions",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+      "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+      "name" : "Dylan Matthew",
+      "type" : "artist",
+      "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 297782,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA1802950"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/27YD36FUikKxbp3bKSiKGZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/27YD36FUikKxbp3bKSiKGZ",
+    "id" : "27YD36FUikKxbp3bKSiKGZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "First Time (feat. Dylan Matthew)",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/00e252395613eec0f24ab56970097a002112bd5d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:27YD36FUikKxbp3bKSiKGZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YomxhmDglPvD93W3T6l1V",
+      "id" : "4YomxhmDglPvD93W3T6l1V",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273700ed221054220bb30eb2d96",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02700ed221054220bb30eb2d96",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851700ed221054220bb30eb2d96",
+        "width" : 64
+      } ],
+      "name" : "Fallen Embers",
+      "release_date" : "2021-07-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4YomxhmDglPvD93W3T6l1V"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5pdyjBIaY5o1yOyexGIUc6",
+      "id" : "5pdyjBIaY5o1yOyexGIUc6",
+      "name" : "Lights",
+      "type" : "artist",
+      "uri" : "spotify:artist:5pdyjBIaY5o1yOyexGIUc6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236317,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2003968"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4A1eCJDtbh7jty6VixOQhy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4A1eCJDtbh7jty6VixOQhy",
+    "id" : "4A1eCJDtbh7jty6VixOQhy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hearts on Fire",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/87f010eac6cf4475d3179088c1cf5aff17000c15?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4A1eCJDtbh7jty6VixOQhy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+        "id" : "7lZauDnRoAC3kmaYae2opv",
+        "name" : "Dabin",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4zUW6lwQf3wHRdYawFEEWQ",
+      "id" : "4zUW6lwQf3wHRdYawFEEWQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6fb143505e59d45569bbc40",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6fb143505e59d45569bbc40",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6fb143505e59d45569bbc40",
+        "width" : 64
+      } ],
+      "name" : "Between Broken",
+      "release_date" : "2021-10-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4zUW6lwQf3wHRdYawFEEWQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YpLN8ZByubASuWnxWokRT",
+      "id" : "4YpLN8ZByubASuWnxWokRT",
+      "name" : "Trella",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YpLN8ZByubASuWnxWokRT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 243027,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2138062"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5LuQvkBG365ue36BMujtSz",
+    "id" : "5LuQvkBG365ue36BMujtSz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Starbright",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/68a83d6a7de071f05b5c9e70eba167f60652effe?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5LuQvkBG365ue36BMujtSz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+        "id" : "7lZauDnRoAC3kmaYae2opv",
+        "name" : "Dabin",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2gUJErMHt6BoUBIFdlU5rN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2gUJErMHt6BoUBIFdlU5rN",
+      "id" : "2gUJErMHt6BoUBIFdlU5rN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27311b7621f71aab1085a2b1ee7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0211b7621f71aab1085a2b1ee7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485111b7621f71aab1085a2b1ee7",
+        "width" : 64
+      } ],
+      "name" : "Wild Youth",
+      "release_date" : "2019-03-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2gUJErMHt6BoUBIFdlU5rN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ppkM4QtM781APpaX7H9t7",
+      "id" : "3ppkM4QtM781APpaX7H9t7",
+      "name" : "Dia Frampton",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ppkM4QtM781APpaX7H9t7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1914481"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0lw9uF9EXHY06DtbTWa2l9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0lw9uF9EXHY06DtbTWa2l9",
+    "id" : "0lw9uF9EXHY06DtbTWa2l9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bloom",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/89ed8fd5567ecfd495e5201a89e3bc5cf4e619b8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0lw9uF9EXHY06DtbTWa2l9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+        "id" : "7lZauDnRoAC3kmaYae2opv",
+        "name" : "Dabin",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4zUW6lwQf3wHRdYawFEEWQ",
+      "id" : "4zUW6lwQf3wHRdYawFEEWQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6fb143505e59d45569bbc40",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6fb143505e59d45569bbc40",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6fb143505e59d45569bbc40",
+        "width" : 64
+      } ],
+      "name" : "Between Broken",
+      "release_date" : "2021-10-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4zUW6lwQf3wHRdYawFEEWQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sKeaby6GMSJWgYueZaSjE",
+      "id" : "3sKeaby6GMSJWgYueZaSjE",
+      "name" : "Mokita",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sKeaby6GMSJWgYueZaSjE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 258678,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2110408"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4q7jvS0znF9gBVk7WblXnm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4q7jvS0znF9gBVk7WblXnm",
+    "id" : "4q7jvS0znF9gBVk7WblXnm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Drown",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f4a922318d4a4d154ff93bf72f3920479a36d24f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4q7jvS0znF9gBVk7WblXnm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+        "id" : "7lZauDnRoAC3kmaYae2opv",
+        "name" : "Dabin",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2gUJErMHt6BoUBIFdlU5rN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2gUJErMHt6BoUBIFdlU5rN",
+      "id" : "2gUJErMHt6BoUBIFdlU5rN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27311b7621f71aab1085a2b1ee7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0211b7621f71aab1085a2b1ee7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485111b7621f71aab1085a2b1ee7",
+        "width" : 64
+      } ],
+      "name" : "Wild Youth",
+      "release_date" : "2019-03-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2gUJErMHt6BoUBIFdlU5rN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3l0H4QNiYYNdIsnZ4JgJAg",
+      "id" : "3l0H4QNiYYNdIsnZ4JgJAg",
+      "name" : "RUNN",
+      "type" : "artist",
+      "uri" : "spotify:artist:3l0H4QNiYYNdIsnZ4JgJAg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 365419,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1908819"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0XtnjngdyPgVxb9qXBUeJh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0XtnjngdyPgVxb9qXBUeJh",
+    "id" : "0XtnjngdyPgVxb9qXBUeJh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Alive",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/428292dbc5718dd7533ced73566602172a3343cd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0XtnjngdyPgVxb9qXBUeJh"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+        "id" : "7lZauDnRoAC3kmaYae2opv",
+        "name" : "Dabin",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5pdyjBIaY5o1yOyexGIUc6",
+        "id" : "5pdyjBIaY5o1yOyexGIUc6",
+        "name" : "Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:5pdyjBIaY5o1yOyexGIUc6"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2V9a4XGtFOYI8UyAwHnYjn",
+      "id" : "2V9a4XGtFOYI8UyAwHnYjn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735235356530037f36494840a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025235356530037f36494840a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515235356530037f36494840a1",
+        "width" : 64
+      } ],
+      "name" : "Hearts on Fire (The Remixes)",
+      "release_date" : "2021-02-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:2V9a4XGtFOYI8UyAwHnYjn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5pdyjBIaY5o1yOyexGIUc6",
+      "id" : "5pdyjBIaY5o1yOyexGIUc6",
+      "name" : "Lights",
+      "type" : "artist",
+      "uri" : "spotify:artist:5pdyjBIaY5o1yOyexGIUc6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210860,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2004193"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6a1e2CD4FjOhk6bDnzlg15"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6a1e2CD4FjOhk6bDnzlg15",
+    "id" : "6a1e2CD4FjOhk6bDnzlg15",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hearts on Fire - Timmy Trumpet Remix",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/995a96eeda01248513a28e9492353081e5fb677e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6a1e2CD4FjOhk6bDnzlg15"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+        "id" : "7lZauDnRoAC3kmaYae2opv",
+        "name" : "Dabin",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4zUW6lwQf3wHRdYawFEEWQ",
+      "id" : "4zUW6lwQf3wHRdYawFEEWQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f6fb143505e59d45569bbc40",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f6fb143505e59d45569bbc40",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f6fb143505e59d45569bbc40",
+        "width" : 64
+      } ],
+      "name" : "Between Broken",
+      "release_date" : "2021-10-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4zUW6lwQf3wHRdYawFEEWQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/757FXqX0Osk2pqtgv4E5v4",
+      "id" : "757FXqX0Osk2pqtgv4E5v4",
+      "name" : "Nurko",
+      "type" : "artist",
+      "uri" : "spotify:artist:757FXqX0Osk2pqtgv4E5v4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4SOtk3HtPYKqxnVuxNBMti",
+      "id" : "4SOtk3HtPYKqxnVuxNBMti",
+      "name" : "Donovan Woods",
+      "type" : "artist",
+      "uri" : "spotify:artist:4SOtk3HtPYKqxnVuxNBMti"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 182988,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2116656"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6uWjyVRDBaTnYGleHuQ19Q"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6uWjyVRDBaTnYGleHuQ19Q",
+    "id" : "6uWjyVRDBaTnYGleHuQ19Q",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "When This Is Over",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/93f172ef90c102fb6d5bc3a3ab2faf4a1db22d25?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6uWjyVRDBaTnYGleHuQ19Q"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+        "id" : "7lZauDnRoAC3kmaYae2opv",
+        "name" : "Dabin",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2gUJErMHt6BoUBIFdlU5rN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2gUJErMHt6BoUBIFdlU5rN",
+      "id" : "2gUJErMHt6BoUBIFdlU5rN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27311b7621f71aab1085a2b1ee7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0211b7621f71aab1085a2b1ee7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485111b7621f71aab1085a2b1ee7",
+        "width" : 64
+      } ],
+      "name" : "Wild Youth",
+      "release_date" : "2019-03-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2gUJErMHt6BoUBIFdlU5rN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0OE65qjIKHqSyU7YWpOQrv",
+      "id" : "0OE65qjIKHqSyU7YWpOQrv",
+      "name" : "Claire Ridgely",
+      "type" : "artist",
+      "uri" : "spotify:artist:0OE65qjIKHqSyU7YWpOQrv"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219190,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1914478"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7iYMW4Ww40RAbfeccmzMQa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7iYMW4Ww40RAbfeccmzMQa",
+    "id" : "7iYMW4Ww40RAbfeccmzMQa",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Part-Time Lover",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8943fcf602f4c3b7679b2c5fa0362b62a3f34697?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7iYMW4Ww40RAbfeccmzMQa"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+        "id" : "6fcTRFpz0yH79qSKfof7lp",
+        "name" : "Seven Lions",
+        "type" : "artist",
+        "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+        "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+        "name" : "Dylan Matthew",
+        "type" : "artist",
+        "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2HmTeckOs7Bx2gsGWFK47l"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2HmTeckOs7Bx2gsGWFK47l",
+      "id" : "2HmTeckOs7Bx2gsGWFK47l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27365483988d840a064d68b6970",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0265483988d840a064d68b6970",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485165483988d840a064d68b6970",
+        "width" : 64
+      } ],
+      "name" : "First Time (feat. Dylan Matthew) [Acoustic]",
+      "release_date" : "2019-01-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2HmTeckOs7Bx2gsGWFK47l"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fcTRFpz0yH79qSKfof7lp",
+      "id" : "6fcTRFpz0yH79qSKfof7lp",
+      "name" : "Seven Lions",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fcTRFpz0yH79qSKfof7lp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lZauDnRoAC3kmaYae2opv",
+      "id" : "7lZauDnRoAC3kmaYae2opv",
+      "name" : "Dabin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lZauDnRoAC3kmaYae2opv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+      "id" : "6d0ZjIp5L7Ygy2l02HskRX",
+      "name" : "Dylan Matthew",
+      "type" : "artist",
+      "uri" : "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 251932,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEWA1900090"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4s9Na0ywXodZXScgvXmJop"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4s9Na0ywXodZXScgvXmJop",
+    "id" : "4s9Na0ywXodZXScgvXmJop",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "First Time (feat. Dylan Matthew) - Acoustic",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/489931789685669b3f6b93f8d762f5cfdf4d32d0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4s9Na0ywXodZXScgvXmJop"
+  } ]
+}

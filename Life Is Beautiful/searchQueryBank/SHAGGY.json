@@ -1,0 +1,515 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SHAGGY&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1694387
+      },
+      "genres" : [ "pop rap", "reggae fusion" ],
+      "href" : "https://api.spotify.com/v1/artists/5EvFsr3kj42KNv97ZEnqij",
+      "id" : "5EvFsr3kj42KNv97ZEnqij",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4f49b447350fa63936242776",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744f49b447350fa63936242776",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784f49b447350fa63936242776",
+        "width" : 160
+      } ],
+      "name" : "Shaggy",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:5EvFsr3kj42KNv97ZEnqij"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dEDgYlCp3Ag2V9qzyWR9c"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 79394
+      },
+      "genres" : [ "rap rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3dEDgYlCp3Ag2V9qzyWR9c",
+      "id" : "3dEDgYlCp3Ag2V9qzyWR9c",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27386dd02b22e8728718e09c9b6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0286dd02b22e8728718e09c9b6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485186dd02b22e8728718e09c9b6",
+        "width" : 64
+      } ],
+      "name" : "Shaggy 2 Dope",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:3dEDgYlCp3Ag2V9qzyWR9c"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 552921
+      },
+      "genres" : [ "modern reggae", "reggae", "roots reggae" ],
+      "href" : "https://api.spotify.com/v1/artists/0CIwCGmQMqHqiblnZlFia1",
+      "id" : "0CIwCGmQMqHqiblnZlFia1",
+      "images" : [ {
+        "height" : 667,
+        "url" : "https://i.scdn.co/image/f0c668706dd6f8c81f7ea91a8ecc094c21d8fa68",
+        "width" : 1000
+      }, {
+        "height" : 427,
+        "url" : "https://i.scdn.co/image/c186139e45dfafece946c13c9f2e2921c922b69d",
+        "width" : 640
+      }, {
+        "height" : 133,
+        "url" : "https://i.scdn.co/image/66b551d5c93756ac07c35e63016073dae869c21a",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/e8f433eb6bb413e0d1fe6de43d8f38eb1d715c24",
+        "width" : 64
+      } ],
+      "name" : "Stephen Marley",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:0CIwCGmQMqHqiblnZlFia1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3guHFRFQCOwL57HrVFW4Q2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 396
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3guHFRFQCOwL57HrVFW4Q2",
+      "id" : "3guHFRFQCOwL57HrVFW4Q2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb73c7f832e9efdefd8fac0ffd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517473c7f832e9efdefd8fac0ffd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17873c7f832e9efdefd8fac0ffd",
+        "width" : 160
+      } ],
+      "name" : "Shaggy No Scoob",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:3guHFRFQCOwL57HrVFW4Q2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11903
+      },
+      "genres" : [ "indonesian indie" ],
+      "href" : "https://api.spotify.com/v1/artists/0AjuoWaVVGH41iEhASaj2r",
+      "id" : "0AjuoWaVVGH41iEhASaj2r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2531ef47736b866d86072d4e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742531ef47736b866d86072d4e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782531ef47736b866d86072d4e",
+        "width" : 160
+      } ],
+      "name" : "Shaggydog",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:0AjuoWaVVGH41iEhASaj2r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KzPy2xY5tI9AD8eYUOBWT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0KzPy2xY5tI9AD8eYUOBWT",
+      "id" : "0KzPy2xY5tI9AD8eYUOBWT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739bc7a6f07c50d7cef374809e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029bc7a6f07c50d7cef374809e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519bc7a6f07c50d7cef374809e",
+        "width" : 64
+      } ],
+      "name" : "Shaggy Smoke",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:0KzPy2xY5tI9AD8eYUOBWT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34iflOx98a3hdcYdZiTds1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 118
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/34iflOx98a3hdcYdZiTds1",
+      "id" : "34iflOx98a3hdcYdZiTds1",
+      "images" : [ ],
+      "name" : "Shaggy",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:34iflOx98a3hdcYdZiTds1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QUGcHARV2dI46Cu670GRU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1047
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4QUGcHARV2dI46Cu670GRU",
+      "id" : "4QUGcHARV2dI46Cu670GRU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb2e0704e1a9de3665aba6fbd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b2e0704e1a9de3665aba6fbd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b2e0704e1a9de3665aba6fbd",
+        "width" : 160
+      } ],
+      "name" : "ShaggyTheAirhead",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:4QUGcHARV2dI46Cu670GRU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sCF6Qz0FSawaVyMSVweAS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 611
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5sCF6Qz0FSawaVyMSVweAS",
+      "id" : "5sCF6Qz0FSawaVyMSVweAS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc1df08599c606d06453d8c75",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c1df08599c606d06453d8c75",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c1df08599c606d06453d8c75",
+        "width" : 160
+      } ],
+      "name" : "Shaggy Soldiers",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:5sCF6Qz0FSawaVyMSVweAS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NpyWnfq1UvE0at4sAIxgV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 452
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3NpyWnfq1UvE0at4sAIxgV",
+      "id" : "3NpyWnfq1UvE0at4sAIxgV",
+      "images" : [ ],
+      "name" : "Shaggy Feat. Tessanne Chin",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:3NpyWnfq1UvE0at4sAIxgV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gO3u6fWapdYXDOqrIcg5n"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 584
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4gO3u6fWapdYXDOqrIcg5n",
+      "id" : "4gO3u6fWapdYXDOqrIcg5n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8f54f5e45ae0e0ec0ee450df",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748f54f5e45ae0e0ec0ee450df",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788f54f5e45ae0e0ec0ee450df",
+        "width" : 160
+      } ],
+      "name" : "OffThaPorch Shaggy",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:4gO3u6fWapdYXDOqrIcg5n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5VhiCIPxBD0EmkTLnhGVIF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 111
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5VhiCIPxBD0EmkTLnhGVIF",
+      "id" : "5VhiCIPxBD0EmkTLnhGVIF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba5e6da37b3e79387b705a00b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a5e6da37b3e79387b705a00b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a5e6da37b3e79387b705a00b",
+        "width" : 160
+      } ],
+      "name" : "Shaggy Ddy",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:5VhiCIPxBD0EmkTLnhGVIF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6pg19GcCxSZCWzeyIvCfzH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 638
+      },
+      "genres" : [ "russian trap metal" ],
+      "href" : "https://api.spotify.com/v1/artists/6pg19GcCxSZCWzeyIvCfzH",
+      "id" : "6pg19GcCxSZCWzeyIvCfzH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ef99606f16b8b9e313d7e529",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ef99606f16b8b9e313d7e529",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ef99606f16b8b9e313d7e529",
+        "width" : 64
+      } ],
+      "name" : "SHAGGYTHEDEAD",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:6pg19GcCxSZCWzeyIvCfzH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0k5akt7Xvzg8AXBtOtdtKs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0k5akt7Xvzg8AXBtOtdtKs",
+      "id" : "0k5akt7Xvzg8AXBtOtdtKs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4cba2736b480e311e02ab414",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744cba2736b480e311e02ab414",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784cba2736b480e311e02ab414",
+        "width" : 160
+      } ],
+      "name" : "Shaggy Palms",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:0k5akt7Xvzg8AXBtOtdtKs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5J9d6IjHaRBULvD0FTwaEX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 178
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5J9d6IjHaRBULvD0FTwaEX",
+      "id" : "5J9d6IjHaRBULvD0FTwaEX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fb0ce0b77ea11159c07a8f1e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fb0ce0b77ea11159c07a8f1e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fb0ce0b77ea11159c07a8f1e",
+        "width" : 64
+      } ],
+      "name" : "Shaggy Sweet",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:5J9d6IjHaRBULvD0FTwaEX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BmuWzozib0CJp2vsJMRtR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35
+      },
+      "genres" : [ "trap boricua" ],
+      "href" : "https://api.spotify.com/v1/artists/3BmuWzozib0CJp2vsJMRtR",
+      "id" : "3BmuWzozib0CJp2vsJMRtR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2bc05491fc2f8b223c5b1455",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742bc05491fc2f8b223c5b1455",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782bc05491fc2f8b223c5b1455",
+        "width" : 160
+      } ],
+      "name" : "Shaggy Dew!",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:3BmuWzozib0CJp2vsJMRtR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7G4XSny507alpLLeEaFxWC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 148
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7G4XSny507alpLLeEaFxWC",
+      "id" : "7G4XSny507alpLLeEaFxWC",
+      "images" : [ ],
+      "name" : "Maxi Priest & Shaggy",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:7G4XSny507alpLLeEaFxWC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51tvr7skdkef5VWzVRToHQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 268
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/51tvr7skdkef5VWzVRToHQ",
+      "id" : "51tvr7skdkef5VWzVRToHQ",
+      "images" : [ ],
+      "name" : "Shaggy (feat. Olivia)",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:51tvr7skdkef5VWzVRToHQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5HzCwMT6LlOJqOPWhkRJkQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5HzCwMT6LlOJqOPWhkRJkQ",
+      "id" : "5HzCwMT6LlOJqOPWhkRJkQ",
+      "images" : [ ],
+      "name" : "Shaggyboy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5HzCwMT6LlOJqOPWhkRJkQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OjFYRzMa5iBpYqJfWVCYg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 213
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2OjFYRzMa5iBpYqJfWVCYg",
+      "id" : "2OjFYRzMa5iBpYqJfWVCYg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738e018eb1602c52b1c4710013",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028e018eb1602c52b1c4710013",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518e018eb1602c52b1c4710013",
+        "width" : 64
+      } ],
+      "name" : "Shaggy Sharoof",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:2OjFYRzMa5iBpYqJfWVCYg"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=SHAGGY&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 220
+  }
+}

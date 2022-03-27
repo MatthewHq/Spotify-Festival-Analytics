@@ -1,0 +1,727 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4emtSeXgUfhoDQpiQsuTbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4emtSeXgUfhoDQpiQsuTbg",
+        "id" : "4emtSeXgUfhoDQpiQsuTbg",
+        "name" : "Alex Neri",
+        "type" : "artist",
+        "uri" : "spotify:artist:4emtSeXgUfhoDQpiQsuTbg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2RJuG0gKa0bEQEuGqhu6fx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2RJuG0gKa0bEQEuGqhu6fx",
+        "id" : "2RJuG0gKa0bEQEuGqhu6fx",
+        "name" : "Marco Solforetti",
+        "type" : "artist",
+        "uri" : "spotify:artist:2RJuG0gKa0bEQEuGqhu6fx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1J8JYqCBf5o9Sp9MAFXbze"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1J8JYqCBf5o9Sp9MAFXbze",
+      "id" : "1J8JYqCBf5o9Sp9MAFXbze",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a5c21e665bb5f087c48a7c5e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a5c21e665bb5f087c48a7c5e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a5c21e665bb5f087c48a7c5e",
+        "width" : 64
+      } ],
+      "name" : "Warm Vibes",
+      "release_date" : "2008-02-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1J8JYqCBf5o9Sp9MAFXbze"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 589606,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ITH860700018"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7CKsgEdJNFTDqWgk3XD1XB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7CKsgEdJNFTDqWgk3XD1XB",
+    "id" : "7CKsgEdJNFTDqWgk3XD1XB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Vacaciones En Chile - Original Mix",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e29016613769a7d9a31b3f197a05077f91c7292e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7CKsgEdJNFTDqWgk3XD1XB"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6bf2w2BrNNPuXjDwIrGtHi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6bf2w2BrNNPuXjDwIrGtHi",
+      "id" : "6bf2w2BrNNPuXjDwIrGtHi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d43bb7c98f2680b28d231530",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d43bb7c98f2680b28d231530",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d43bb7c98f2680b28d231530",
+        "width" : 64
+      } ],
+      "name" : "Rave Soul",
+      "release_date" : "2021-11-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:6bf2w2BrNNPuXjDwIrGtHi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 339599,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR62000338"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1SJLIU3mxpix3M06o8dvs5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1SJLIU3mxpix3M06o8dvs5",
+    "id" : "1SJLIU3mxpix3M06o8dvs5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rave Soul",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1310d24e2573406ebea0a6a34b7bf59b89a24ce7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1SJLIU3mxpix3M06o8dvs5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6bf2w2BrNNPuXjDwIrGtHi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6bf2w2BrNNPuXjDwIrGtHi",
+      "id" : "6bf2w2BrNNPuXjDwIrGtHi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d43bb7c98f2680b28d231530",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d43bb7c98f2680b28d231530",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d43bb7c98f2680b28d231530",
+        "width" : 64
+      } ],
+      "name" : "Rave Soul",
+      "release_date" : "2021-11-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:6bf2w2BrNNPuXjDwIrGtHi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 361835,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR62000336"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7IX4uPSWopBdmr89Iyi6wz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7IX4uPSWopBdmr89Iyi6wz",
+    "id" : "7IX4uPSWopBdmr89Iyi6wz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rave Atlas",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9fd071bb9fbaeb7ab9f89bbf1c74a5ce4853f9c5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7IX4uPSWopBdmr89Iyi6wz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/31JfRsobhAxQi0kdYtDPBv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/31JfRsobhAxQi0kdYtDPBv",
+      "id" : "31JfRsobhAxQi0kdYtDPBv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273def877f2f1e35ab3b372778d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02def877f2f1e35ab3b372778d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851def877f2f1e35ab3b372778d",
+        "width" : 64
+      } ],
+      "name" : "Awakened",
+      "release_date" : "2017-02-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:31JfRsobhAxQi0kdYtDPBv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 361214,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61700014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6vXXY3GHT44ZJX8c4HN4Wu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6vXXY3GHT44ZJX8c4HN4Wu",
+    "id" : "6vXXY3GHT44ZJX8c4HN4Wu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Times",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a24743ba903f9294ccbdd740630e6b1534d36c22?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6vXXY3GHT44ZJX8c4HN4Wu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/31JfRsobhAxQi0kdYtDPBv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/31JfRsobhAxQi0kdYtDPBv",
+      "id" : "31JfRsobhAxQi0kdYtDPBv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273def877f2f1e35ab3b372778d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02def877f2f1e35ab3b372778d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851def877f2f1e35ab3b372778d",
+        "width" : 64
+      } ],
+      "name" : "Awakened",
+      "release_date" : "2017-02-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:31JfRsobhAxQi0kdYtDPBv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 430742,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61700015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1FKjMLIiICZKea6zRU7qCO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1FKjMLIiICZKea6zRU7qCO",
+    "id" : "1FKjMLIiICZKea6zRU7qCO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Awakened",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1e25aa2559e610abc2b2f2716bd947a8be2cf218?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1FKjMLIiICZKea6zRU7qCO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/11aPF3sc8lDWNqPVInm4Zx",
+        "id" : "11aPF3sc8lDWNqPVInm4Zx",
+        "name" : "Kevin de Vries",
+        "type" : "artist",
+        "uri" : "spotify:artist:11aPF3sc8lDWNqPVInm4Zx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dZVhNvHkPgSdn229EORPC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dZVhNvHkPgSdn229EORPC",
+      "id" : "7dZVhNvHkPgSdn229EORPC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737d96f7c2fac657188ad528c1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027d96f7c2fac657188ad528c1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517d96f7c2fac657188ad528c1",
+        "width" : 64
+      } ],
+      "name" : "Utopia EP",
+      "release_date" : "2020-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:7dZVhNvHkPgSdn229EORPC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11aPF3sc8lDWNqPVInm4Zx",
+      "id" : "11aPF3sc8lDWNqPVInm4Zx",
+      "name" : "Kevin de Vries",
+      "type" : "artist",
+      "uri" : "spotify:artist:11aPF3sc8lDWNqPVInm4Zx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 439210,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLCK41069235"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5nt8opvt32XjKdgc77rZrY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5nt8opvt32XjKdgc77rZrY",
+    "id" : "5nt8opvt32XjKdgc77rZrY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dystopia - Original Mix",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8693c46b674e21d9435f7e2f2c1b910e68761d65?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5nt8opvt32XjKdgc77rZrY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/77p02BEKpW4kugFKACArFe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/77p02BEKpW4kugFKACArFe",
+      "id" : "77p02BEKpW4kugFKACArFe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273afcae95152f1823e5aa59540",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02afcae95152f1823e5aa59540",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851afcae95152f1823e5aa59540",
+        "width" : 64
+      } ],
+      "name" : "Figures & Echoes",
+      "release_date" : "2018-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:77p02BEKpW4kugFKACArFe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 398309,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61700151"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1UVCFWuwDZDvleffhLHET2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1UVCFWuwDZDvleffhLHET2",
+    "id" : "1UVCFWuwDZDvleffhLHET2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Acid Runner",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e48ccb016bd346f3564943a61ef8292578852702?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1UVCFWuwDZDvleffhLHET2"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6bf2w2BrNNPuXjDwIrGtHi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6bf2w2BrNNPuXjDwIrGtHi",
+      "id" : "6bf2w2BrNNPuXjDwIrGtHi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d43bb7c98f2680b28d231530",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d43bb7c98f2680b28d231530",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d43bb7c98f2680b28d231530",
+        "width" : 64
+      } ],
+      "name" : "Rave Soul",
+      "release_date" : "2021-11-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:6bf2w2BrNNPuXjDwIrGtHi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 391084,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR62000337"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2zfj80xNBD3rOmnPwKiHET"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2zfj80xNBD3rOmnPwKiHET",
+    "id" : "2zfj80xNBD3rOmnPwKiHET",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Again",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f91e812db023d7ec870b2cf53c502dd6ececd955?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2zfj80xNBD3rOmnPwKiHET"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/11aPF3sc8lDWNqPVInm4Zx",
+        "id" : "11aPF3sc8lDWNqPVInm4Zx",
+        "name" : "Kevin de Vries",
+        "type" : "artist",
+        "uri" : "spotify:artist:11aPF3sc8lDWNqPVInm4Zx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dZVhNvHkPgSdn229EORPC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dZVhNvHkPgSdn229EORPC",
+      "id" : "7dZVhNvHkPgSdn229EORPC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737d96f7c2fac657188ad528c1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027d96f7c2fac657188ad528c1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517d96f7c2fac657188ad528c1",
+        "width" : 64
+      } ],
+      "name" : "Utopia EP",
+      "release_date" : "2020-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:7dZVhNvHkPgSdn229EORPC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11aPF3sc8lDWNqPVInm4Zx",
+      "id" : "11aPF3sc8lDWNqPVInm4Zx",
+      "name" : "Kevin de Vries",
+      "type" : "artist",
+      "uri" : "spotify:artist:11aPF3sc8lDWNqPVInm4Zx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 373650,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLCK41069236"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3YWIQ15NGgZjWSoooLHPXB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3YWIQ15NGgZjWSoooLHPXB",
+    "id" : "3YWIQ15NGgZjWSoooLHPXB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lotus - Original Mix",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c853ce953ec7605aabc54adc723fb4748787f17e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3YWIQ15NGgZjWSoooLHPXB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+        "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+        "name" : "Ilario Alicante",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/77p02BEKpW4kugFKACArFe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/77p02BEKpW4kugFKACArFe",
+      "id" : "77p02BEKpW4kugFKACArFe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273afcae95152f1823e5aa59540",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02afcae95152f1823e5aa59540",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851afcae95152f1823e5aa59540",
+        "width" : 64
+      } ],
+      "name" : "Figures & Echoes",
+      "release_date" : "2018-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:77p02BEKpW4kugFKACArFe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "name" : "Ilario Alicante",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 427380,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61700150"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ETCyE9LbD4gDXRX6LlnFe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ETCyE9LbD4gDXRX6LlnFe",
+    "id" : "3ETCyE9LbD4gDXRX6LlnFe",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Figure of Ra",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e32813766486fc23b23f266370f667bc6efd0784?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3ETCyE9LbD4gDXRX6LlnFe"
+  } ]
+}

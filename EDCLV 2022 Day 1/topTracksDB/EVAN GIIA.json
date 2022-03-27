@@ -1,0 +1,844 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+        "id" : "7wg1qvie3KqDNQbAkTdbX0",
+        "name" : "Louis The Child",
+        "type" : "artist",
+        "uri" : "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ikID9RZZMvkuBGDWrqajq",
+        "id" : "1ikID9RZZMvkuBGDWrqajq",
+        "name" : "Kasbo",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ikID9RZZMvkuBGDWrqajq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+        "id" : "0D6BtvIkN3P9GHTa8KR24t",
+        "name" : "EVAN GIIA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3wsZl7oZ9obf53nPRj6FaA",
+      "id" : "3wsZl7oZ9obf53nPRj6FaA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733520cd1cb56b434b7cf96458",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023520cd1cb56b434b7cf96458",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513520cd1cb56b434b7cf96458",
+        "width" : 64
+      } ],
+      "name" : "Blow The Roof (with Kasbo & EVAN GIIA)",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3wsZl7oZ9obf53nPRj6FaA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+      "id" : "7wg1qvie3KqDNQbAkTdbX0",
+      "name" : "Louis The Child",
+      "type" : "artist",
+      "uri" : "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ikID9RZZMvkuBGDWrqajq",
+      "id" : "1ikID9RZZMvkuBGDWrqajq",
+      "name" : "Kasbo",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ikID9RZZMvkuBGDWrqajq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 184919,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM72202076"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6sooxXwLEwh812Ve4L5ovr",
+    "id" : "6sooxXwLEwh812Ve4L5ovr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Blow The Roof (with Kasbo & EVAN GIIA)",
+    "popularity" : 66,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6sooxXwLEwh812Ve4L5ovr"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+        "id" : "0D6BtvIkN3P9GHTa8KR24t",
+        "name" : "EVAN GIIA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1y8qDhdUaUKxlvDLJ2tHgC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1y8qDhdUaUKxlvDLJ2tHgC",
+      "id" : "1y8qDhdUaUKxlvDLJ2tHgC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739f3ce9d1c873caf604ff3c1b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029f3ce9d1c873caf604ff3c1b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519f3ce9d1c873caf604ff3c1b",
+        "width" : 64
+      } ],
+      "name" : "WESTWORLD",
+      "release_date" : "2018-03-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1y8qDhdUaUKxlvDLJ2tHgC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209223,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMLD61408346"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ZP2iPx7t4epRBAKWvRPt1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ZP2iPx7t4epRBAKWvRPt1",
+    "id" : "6ZP2iPx7t4epRBAKWvRPt1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "WESTWORLD",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/40527c40b109b81e47dacad8cf65efa2575f748c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6ZP2iPx7t4epRBAKWvRPt1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7nJNuftnqwrFGFs3ZRRe0u",
+        "id" : "7nJNuftnqwrFGFs3ZRRe0u",
+        "name" : "MEMBA",
+        "type" : "artist",
+        "uri" : "spotify:artist:7nJNuftnqwrFGFs3ZRRe0u"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+        "id" : "0D6BtvIkN3P9GHTa8KR24t",
+        "name" : "EVAN GIIA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5He2R0dw92kc4N9tg4v7zc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5He2R0dw92kc4N9tg4v7zc",
+      "id" : "5He2R0dw92kc4N9tg4v7zc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27358999746485f1e87029a1176",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0258999746485f1e87029a1176",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485158999746485f1e87029a1176",
+        "width" : 64
+      } ],
+      "name" : "For Aisha (Featured in \"The Sky Is Pink\")",
+      "release_date" : "2019-10-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5He2R0dw92kc4N9tg4v7zc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7nJNuftnqwrFGFs3ZRRe0u",
+      "id" : "7nJNuftnqwrFGFs3ZRRe0u",
+      "name" : "MEMBA",
+      "type" : "artist",
+      "uri" : "spotify:artist:7nJNuftnqwrFGFs3ZRRe0u"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gFFvbbdzYzzWltI2HkZEV",
+      "id" : "2gFFvbbdzYzzWltI2HkZEV",
+      "name" : "Nooran Sisters",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gFFvbbdzYzzWltI2HkZEV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 357931,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM24S1925583"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6rfahvufEQDIVTHJIU2QQB",
+    "id" : "6rfahvufEQDIVTHJIU2QQB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "For Aisha (Featured in \"The Sky Is Pink\")",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/15c38ef9bd6185e00de4adde893133c8ec4aa167?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6rfahvufEQDIVTHJIU2QQB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4WeG0aBWeG21nyEes89ylX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4WeG0aBWeG21nyEes89ylX",
+      "id" : "4WeG0aBWeG21nyEes89ylX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27341bf146570c2d6b47f036a69",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0241bf146570c2d6b47f036a69",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485141bf146570c2d6b47f036a69",
+        "width" : 64
+      } ],
+      "name" : "Olympia (Remixes)",
+      "release_date" : "2021-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:4WeG0aBWeG21nyEes89ylX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FwJwEswyIUAljqgjNSHgP",
+      "id" : "2FwJwEswyIUAljqgjNSHgP",
+      "name" : "Snakehips",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FwJwEswyIUAljqgjNSHgP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 179080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72005589"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3kEh9TMdS1HZACClTCP7jp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3kEh9TMdS1HZACClTCP7jp",
+    "id" : "3kEh9TMdS1HZACClTCP7jp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Burning - Snakehips Remix",
+    "popularity" : 56,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3kEh9TMdS1HZACClTCP7jp"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+        "id" : "0D6BtvIkN3P9GHTa8KR24t",
+        "name" : "EVAN GIIA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7rbt6uKJac4Uw5MRJEpUdC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7rbt6uKJac4Uw5MRJEpUdC",
+      "id" : "7rbt6uKJac4Uw5MRJEpUdC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730fc76192f5a65a6f51f0a789",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020fc76192f5a65a6f51f0a789",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510fc76192f5a65a6f51f0a789",
+        "width" : 64
+      } ],
+      "name" : "tiny life (Duskus Remix)",
+      "release_date" : "2020-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7rbt6uKJac4Uw5MRJEpUdC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59MDSNIYoOY0WRYuodzJPD",
+      "id" : "59MDSNIYoOY0WRYuodzJPD",
+      "name" : "Duskus",
+      "type" : "artist",
+      "uri" : "spotify:artist:59MDSNIYoOY0WRYuodzJPD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178914,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG12004139"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6xkVpH24a622AA47vO8ezP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6xkVpH24a622AA47vO8ezP",
+    "id" : "6xkVpH24a622AA47vO8ezP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "tiny life - Duskus Remix",
+    "popularity" : 52,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6xkVpH24a622AA47vO8ezP"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4AA8eXtzqh5ykxtafLaPOi",
+        "id" : "4AA8eXtzqh5ykxtafLaPOi",
+        "name" : "What So Not",
+        "type" : "artist",
+        "uri" : "spotify:artist:4AA8eXtzqh5ykxtafLaPOi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+        "id" : "0D6BtvIkN3P9GHTa8KR24t",
+        "name" : "EVAN GIIA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1BEJWAUubpBGTMS6V0UVck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1BEJWAUubpBGTMS6V0UVck",
+      "id" : "1BEJWAUubpBGTMS6V0UVck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27373327d705291484ec30cf677",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0273327d705291484ec30cf677",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485173327d705291484ec30cf677",
+        "width" : 64
+      } ],
+      "name" : "Messin’ Me Up (feat. EVAN GIIA)",
+      "release_date" : "2021-10-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1BEJWAUubpBGTMS6V0UVck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AA8eXtzqh5ykxtafLaPOi",
+      "id" : "4AA8eXtzqh5ykxtafLaPOi",
+      "name" : "What So Not",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AA8eXtzqh5ykxtafLaPOi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2100748"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0cXSkPDfxh7rufiDSnLV3C"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0cXSkPDfxh7rufiDSnLV3C",
+    "id" : "0cXSkPDfxh7rufiDSnLV3C",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Messin' Me Up (feat. EVAN GIIA)",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9c98072e35abe79abb721491e87ec90732d42d45?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0cXSkPDfxh7rufiDSnLV3C"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+        "id" : "0D6BtvIkN3P9GHTa8KR24t",
+        "name" : "EVAN GIIA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/71lqyPEsdWsJhqYhylY1vy",
+      "id" : "71lqyPEsdWsJhqYhylY1vy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730939592f8e8bcda077977929",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020939592f8e8bcda077977929",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510939592f8e8bcda077977929",
+        "width" : 64
+      } ],
+      "name" : "In Motion",
+      "release_date" : "2021-07-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:71lqyPEsdWsJhqYhylY1vy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/08v1r0jqDyvSo2LtSqHxcy",
+      "id" : "08v1r0jqDyvSo2LtSqHxcy",
+      "name" : "Reo Cragun",
+      "type" : "artist",
+      "uri" : "spotify:artist:08v1r0jqDyvSo2LtSqHxcy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7nJNuftnqwrFGFs3ZRRe0u",
+      "id" : "7nJNuftnqwrFGFs3ZRRe0u",
+      "name" : "MEMBA",
+      "type" : "artist",
+      "uri" : "spotify:artist:7nJNuftnqwrFGFs3ZRRe0u"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181020,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG12102442"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/53d5dxYPtRLPmqPe9VpZ67",
+    "id" : "53d5dxYPtRLPmqPe9VpZ67",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "In Motion (feat. Reo Cragun)",
+    "popularity" : 50,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:53d5dxYPtRLPmqPe9VpZ67"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+        "id" : "0D6BtvIkN3P9GHTa8KR24t",
+        "name" : "EVAN GIIA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/31iBXNvQ2m1GTORusY05gW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/31iBXNvQ2m1GTORusY05gW",
+      "id" : "31iBXNvQ2m1GTORusY05gW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27359df2b9d56ad5ec69355c063",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0259df2b9d56ad5ec69355c063",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485159df2b9d56ad5ec69355c063",
+        "width" : 64
+      } ],
+      "name" : "WHAT U NEED?",
+      "release_date" : "2019-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:31iBXNvQ2m1GTORusY05gW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 188500,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USA2P1822440"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6pCajY0c1lTrrWPtj6TJjF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6pCajY0c1lTrrWPtj6TJjF",
+    "id" : "6pCajY0c1lTrrWPtj6TJjF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "WHAT U NEED?",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e4fb21dea8ae38fbba8073fe9e2b87b6b8a87131?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6pCajY0c1lTrrWPtj6TJjF"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7nJNuftnqwrFGFs3ZRRe0u",
+        "id" : "7nJNuftnqwrFGFs3ZRRe0u",
+        "name" : "MEMBA",
+        "type" : "artist",
+        "uri" : "spotify:artist:7nJNuftnqwrFGFs3ZRRe0u"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20U0ZkzluaLiHuPaG6eGRd",
+        "id" : "20U0ZkzluaLiHuPaG6eGRd",
+        "name" : "TITUS",
+        "type" : "artist",
+        "uri" : "spotify:artist:20U0ZkzluaLiHuPaG6eGRd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+        "id" : "0D6BtvIkN3P9GHTa8KR24t",
+        "name" : "EVAN GIIA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2pzQUy20fbPtB0li7GPYyv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2pzQUy20fbPtB0li7GPYyv",
+      "id" : "2pzQUy20fbPtB0li7GPYyv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e31deb09c1ad9d9e6f0b02e8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e31deb09c1ad9d9e6f0b02e8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e31deb09c1ad9d9e6f0b02e8",
+        "width" : 64
+      } ],
+      "name" : "Pull Up",
+      "release_date" : "2017-04-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2pzQUy20fbPtB0li7GPYyv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7nJNuftnqwrFGFs3ZRRe0u",
+      "id" : "7nJNuftnqwrFGFs3ZRRe0u",
+      "name" : "MEMBA",
+      "type" : "artist",
+      "uri" : "spotify:artist:7nJNuftnqwrFGFs3ZRRe0u"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20U0ZkzluaLiHuPaG6eGRd",
+      "id" : "20U0ZkzluaLiHuPaG6eGRd",
+      "name" : "TITUS",
+      "type" : "artist",
+      "uri" : "spotify:artist:20U0ZkzluaLiHuPaG6eGRd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216698,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAR071600364"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/15tmP0QsT9Vv8eQBbj7ZZi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/15tmP0QsT9Vv8eQBbj7ZZi",
+    "id" : "15tmP0QsT9Vv8eQBbj7ZZi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pull Up",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ec75bd374b4cad4e11b8865f3f73d0cfec3acc92?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:15tmP0QsT9Vv8eQBbj7ZZi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+        "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+        "name" : "Gorgon City",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3r4dG6bUfL4jasKeo50kLE",
+      "id" : "3r4dG6bUfL4jasKeo50kLE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bafa195f89e8bea7b7846589",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bafa195f89e8bea7b7846589",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bafa195f89e8bea7b7846589",
+        "width" : 64
+      } ],
+      "name" : "Olympia",
+      "release_date" : "2021-06-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:3r4dG6bUfL4jasKeo50kLE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VNQWV2y1E97Eqo2D5UTjx",
+      "id" : "4VNQWV2y1E97Eqo2D5UTjx",
+      "name" : "Gorgon City",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VNQWV2y1E97Eqo2D5UTjx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0D6BtvIkN3P9GHTa8KR24t",
+      "id" : "0D6BtvIkN3P9GHTa8KR24t",
+      "name" : "EVAN GIIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0D6BtvIkN3P9GHTa8KR24t"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 180293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72004276"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Anlcdi30ZhKEO9KVlyd8z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Anlcdi30ZhKEO9KVlyd8z",
+    "id" : "5Anlcdi30ZhKEO9KVlyd8z",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Burning",
+    "popularity" : 45,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:5Anlcdi30ZhKEO9KVlyd8z"
+  } ]
+}

@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=ENRICO+SANGIULIANO&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 138869
+      },
+      "genres" : [ "dark techno", "italian techno", "minimal techno" ],
+      "href" : "https://api.spotify.com/v1/artists/1u7DsNFbakULvxnDGtMm90",
+      "id" : "1u7DsNFbakULvxnDGtMm90",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebad297b6d6dc6f8c921126422",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ad297b6d6dc6f8c921126422",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ad297b6d6dc6f8c921126422",
+        "width" : 160
+      } ],
+      "name" : "Enrico Sangiuliano",
+      "popularity" : 55,
+      "type" : "artist",
+      "uri" : "spotify:artist:1u7DsNFbakULvxnDGtMm90"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51GoX6IVz4iILlSKwn5Ok4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/51GoX6IVz4iILlSKwn5Ok4",
+      "id" : "51GoX6IVz4iILlSKwn5Ok4",
+      "images" : [ ],
+      "name" : "Enrico Sangiuliano",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:51GoX6IVz4iILlSKwn5Ok4"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=GOOD+TIMES+AHEAD&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 300909
+      },
+      "genres" : [ "bass trap", "brostep", "edm", "electro house", "electronic trap", "pop dance", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb49fe0e09f20c62077e0f3d4e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517449fe0e09f20c62077e0f3d4e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17849fe0e09f20c62077e0f3d4e",
+        "width" : 160
+      } ],
+      "name" : "Good Times Ahead",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

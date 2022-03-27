@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=RICHIE+HAWTIN&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 230833
+      },
+      "genres" : [ "acid house", "canadian electronic", "detroit techno", "microhouse", "minimal techno", "tech house", "techno" ],
+      "href" : "https://api.spotify.com/v1/artists/3AhwIUus3pIaA3CvYBEtpy",
+      "id" : "3AhwIUus3pIaA3CvYBEtpy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5a57427ddf73996ba445c54c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745a57427ddf73996ba445c54c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785a57427ddf73996ba445c54c",
+        "width" : 160
+      } ],
+      "name" : "Richie Hawtin",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:3AhwIUus3pIaA3CvYBEtpy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9292
+      },
+      "genres" : [ "ambient techno" ],
+      "href" : "https://api.spotify.com/v1/artists/6qRKwyDhiTu2n9cOhbHict",
+      "id" : "6qRKwyDhiTu2n9cOhbHict",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb682ca2c9a6209bee3282ff96",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174682ca2c9a6209bee3282ff96",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178682ca2c9a6209bee3282ff96",
+        "width" : 160
+      } ],
+      "name" : "F.U.S.E.",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:6qRKwyDhiTu2n9cOhbHict"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

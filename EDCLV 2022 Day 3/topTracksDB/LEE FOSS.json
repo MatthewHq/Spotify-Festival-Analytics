@@ -1,0 +1,979 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4mnGRL7lErjyRJsoCwgJT4",
+      "id" : "4mnGRL7lErjyRJsoCwgJT4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e397e06e46c475ee97e56cb4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e397e06e46c475ee97e56cb4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e397e06e46c475ee97e56cb4",
+        "width" : 64
+      } ],
+      "name" : "My Humps",
+      "release_date" : "2021-10-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4mnGRL7lErjyRJsoCwgJT4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 186124,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y2151161"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3BbD2sqk7P7Rc9V0KF9o4s",
+    "id" : "3BbD2sqk7P7Rc9V0KF9o4s",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "My Humps",
+    "popularity" : 32,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3BbD2sqk7P7Rc9V0KF9o4s"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5EehXjjMktLuJmbRsM7YfB",
+        "id" : "5EehXjjMktLuJmbRsM7YfB",
+        "name" : "Disciples",
+        "type" : "artist",
+        "uri" : "spotify:artist:5EehXjjMktLuJmbRsM7YfB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ky8xBRraNNzxzXEw6Ga0c",
+        "id" : "3ky8xBRraNNzxzXEw6Ga0c",
+        "name" : "Anabel Englund",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ky8xBRraNNzxzXEw6Ga0c"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4gaWk8Dxttn5CvKAN5kRYR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4gaWk8Dxttn5CvKAN5kRYR",
+      "id" : "4gaWk8Dxttn5CvKAN5kRYR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733cdbdf6b3dd4d324ab4263c8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023cdbdf6b3dd4d324ab4263c8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513cdbdf6b3dd4d324ab4263c8",
+        "width" : 64
+      } ],
+      "name" : "Only the Gods / Better on My Own (feat. Anabel Englund)",
+      "release_date" : "2020-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4gaWk8Dxttn5CvKAN5kRYR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5EehXjjMktLuJmbRsM7YfB",
+      "id" : "5EehXjjMktLuJmbRsM7YfB",
+      "name" : "Disciples",
+      "type" : "artist",
+      "uri" : "spotify:artist:5EehXjjMktLuJmbRsM7YfB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ky8xBRraNNzxzXEw6Ga0c",
+      "id" : "3ky8xBRraNNzxzXEw6Ga0c",
+      "name" : "Anabel Englund",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ky8xBRraNNzxzXEw6Ga0c"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 277690,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAYE2000161"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6oSWam6C5d0HyUS4bVNVqN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6oSWam6C5d0HyUS4bVNVqN",
+    "id" : "6oSWam6C5d0HyUS4bVNVqN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Only The Gods (feat. Anabel Englund)",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/83a50862c251c09347b7eb742695dae32b4a8141?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6oSWam6C5d0HyUS4bVNVqN"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+        "id" : "5Igpc9iLZ3YGtKeYfSrrOE",
+        "name" : "Chris Lake",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7oB8aUReYcebkHHBhCztQB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7oB8aUReYcebkHHBhCztQB",
+      "id" : "7oB8aUReYcebkHHBhCztQB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f775f67f21014c96b7812baf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f775f67f21014c96b7812baf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f775f67f21014c96b7812baf",
+        "width" : 64
+      } ],
+      "name" : "Lies, Deception, And Fantasy",
+      "release_date" : "2019-06-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7oB8aUReYcebkHHBhCztQB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Igpc9iLZ3YGtKeYfSrrOE",
+      "id" : "5Igpc9iLZ3YGtKeYfSrrOE",
+      "name" : "Chris Lake",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 271013,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y1955802"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/66CC0YuVDBVbfMymqFrIRq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/66CC0YuVDBVbfMymqFrIRq",
+    "id" : "66CC0YuVDBVbfMymqFrIRq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lies, Deception, And Fantasy",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/aac514b4f8ea4bfe06e58417228265d7d79c9fb5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:66CC0YuVDBVbfMymqFrIRq"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3IG3Ub4ra8AuSxCFDVkVco",
+        "id" : "3IG3Ub4ra8AuSxCFDVkVco",
+        "name" : "Franky Wah",
+        "type" : "artist",
+        "uri" : "spotify:artist:3IG3Ub4ra8AuSxCFDVkVco"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Jjs8bJVBiSdsxuvjoAKRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Jjs8bJVBiSdsxuvjoAKRR",
+        "id" : "5Jjs8bJVBiSdsxuvjoAKRR",
+        "name" : "SPNCR",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Jjs8bJVBiSdsxuvjoAKRR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/31GTEgN9MC8KuZL7zdRimm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/31GTEgN9MC8KuZL7zdRimm",
+      "id" : "31GTEgN9MC8KuZL7zdRimm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f014514eb8005f69b8efbac",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f014514eb8005f69b8efbac",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f014514eb8005f69b8efbac",
+        "width" : 64
+      } ],
+      "name" : "Name of Love",
+      "release_date" : "2021-05-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:31GTEgN9MC8KuZL7zdRimm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IG3Ub4ra8AuSxCFDVkVco",
+      "id" : "3IG3Ub4ra8AuSxCFDVkVco",
+      "name" : "Franky Wah",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IG3Ub4ra8AuSxCFDVkVco"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Jjs8bJVBiSdsxuvjoAKRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Jjs8bJVBiSdsxuvjoAKRR",
+      "id" : "5Jjs8bJVBiSdsxuvjoAKRR",
+      "name" : "SPNCR",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Jjs8bJVBiSdsxuvjoAKRR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 195483,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUDCB1701775"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7jBeqtv9JMIbZnawM1iTJx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7jBeqtv9JMIbZnawM1iTJx",
+    "id" : "7jBeqtv9JMIbZnawM1iTJx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Name of Love",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9822c42c873160471124b621b84d7670deb3a078?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7jBeqtv9JMIbZnawM1iTJx"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1WcwbtAnG5HWNbPPK84ued",
+        "id" : "1WcwbtAnG5HWNbPPK84ued",
+        "name" : "Hayley May",
+        "type" : "artist",
+        "uri" : "spotify:artist:1WcwbtAnG5HWNbPPK84ued"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3YLzNH6gHFJM0c28DLIAMJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3YLzNH6gHFJM0c28DLIAMJ",
+      "id" : "3YLzNH6gHFJM0c28DLIAMJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735e89069ef35b296c9f968270",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025e89069ef35b296c9f968270",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515e89069ef35b296c9f968270",
+        "width" : 64
+      } ],
+      "name" : "Summertime Chi",
+      "release_date" : "2020-08-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3YLzNH6gHFJM0c28DLIAMJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1WcwbtAnG5HWNbPPK84ued",
+      "id" : "1WcwbtAnG5HWNbPPK84ued",
+      "name" : "Hayley May",
+      "type" : "artist",
+      "uri" : "spotify:artist:1WcwbtAnG5HWNbPPK84ued"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231584,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y2058602"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3HlPJZPGeUwU3MdTCpuzvj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3HlPJZPGeUwU3MdTCpuzvj",
+    "id" : "3HlPJZPGeUwU3MdTCpuzvj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Summertime Chi",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5b7c558a05fedab16ff867596c2880144dbfe07d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3HlPJZPGeUwU3MdTCpuzvj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3IG3Ub4ra8AuSxCFDVkVco",
+        "id" : "3IG3Ub4ra8AuSxCFDVkVco",
+        "name" : "Franky Wah",
+        "type" : "artist",
+        "uri" : "spotify:artist:3IG3Ub4ra8AuSxCFDVkVco"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7lQOxDl96wmNoqGoW4kgv4",
+        "id" : "7lQOxDl96wmNoqGoW4kgv4",
+        "name" : "Torren Foot",
+        "type" : "artist",
+        "uri" : "spotify:artist:7lQOxDl96wmNoqGoW4kgv4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1bG3fhPoh5QojgACPLroRf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1bG3fhPoh5QojgACPLroRf",
+      "id" : "1bG3fhPoh5QojgACPLroRf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e08eca0510325e91a90f6b29",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e08eca0510325e91a90f6b29",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e08eca0510325e91a90f6b29",
+        "width" : 64
+      } ],
+      "name" : "Name of Love (feat. SPNCR) [Torren Foot Remix]",
+      "release_date" : "2021-06-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1bG3fhPoh5QojgACPLroRf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IG3Ub4ra8AuSxCFDVkVco",
+      "id" : "3IG3Ub4ra8AuSxCFDVkVco",
+      "name" : "Franky Wah",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IG3Ub4ra8AuSxCFDVkVco"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lQOxDl96wmNoqGoW4kgv4",
+      "id" : "7lQOxDl96wmNoqGoW4kgv4",
+      "name" : "Torren Foot",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lQOxDl96wmNoqGoW4kgv4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Jjs8bJVBiSdsxuvjoAKRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Jjs8bJVBiSdsxuvjoAKRR",
+      "id" : "5Jjs8bJVBiSdsxuvjoAKRR",
+      "name" : "SPNCR",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Jjs8bJVBiSdsxuvjoAKRR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217079,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUDCB1701796"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ayT0xyrOM9GjV3RmHvpGh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ayT0xyrOM9GjV3RmHvpGh",
+    "id" : "3ayT0xyrOM9GjV3RmHvpGh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Name of Love (feat. SPNCR) [Torren Foot Remix]",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ff48bfd3ff1a4ab2578aa4864153e39260757955?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3ayT0xyrOM9GjV3RmHvpGh"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7mJYO2qwtt4sUj2JJLO58V"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7mJYO2qwtt4sUj2JJLO58V",
+        "id" : "7mJYO2qwtt4sUj2JJLO58V",
+        "name" : "Pleasure State",
+        "type" : "artist",
+        "uri" : "spotify:artist:7mJYO2qwtt4sUj2JJLO58V"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yqxFtPHKcGcv6SXZNdyT9",
+        "id" : "1yqxFtPHKcGcv6SXZNdyT9",
+        "name" : "MK",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6AxNv7eRrvleq2cpSc8Nrg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6AxNv7eRrvleq2cpSc8Nrg",
+      "id" : "6AxNv7eRrvleq2cpSc8Nrg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733bfffdcc02c213ac1e60cf90",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023bfffdcc02c213ac1e60cf90",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513bfffdcc02c213ac1e60cf90",
+        "width" : 64
+      } ],
+      "name" : "Electricity EP",
+      "release_date" : "2012-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:6AxNv7eRrvleq2cpSc8Nrg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mJYO2qwtt4sUj2JJLO58V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7mJYO2qwtt4sUj2JJLO58V",
+      "id" : "7mJYO2qwtt4sUj2JJLO58V",
+      "name" : "Pleasure State",
+      "type" : "artist",
+      "uri" : "spotify:artist:7mJYO2qwtt4sUj2JJLO58V"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yqxFtPHKcGcv6SXZNdyT9",
+      "id" : "1yqxFtPHKcGcv6SXZNdyT9",
+      "name" : "MK",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ky8xBRraNNzxzXEw6Ga0c",
+      "id" : "3ky8xBRraNNzxzXEw6Ga0c",
+      "name" : "Anabel Englund",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ky8xBRraNNzxzXEw6Ga0c"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 335389,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y1227001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/10fYerkpuLv3Fvh8EP7gf1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/10fYerkpuLv3Fvh8EP7gf1",
+    "id" : "10fYerkpuLv3Fvh8EP7gf1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Electricity - Original Mix",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ce2a6bece8e9d797bb4947d63812f1d0852dd964?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:10fYerkpuLv3Fvh8EP7gf1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3cnAJv9gydgm52KFIsdvO8",
+        "id" : "3cnAJv9gydgm52KFIsdvO8",
+        "name" : "Ferreck Dawn",
+        "type" : "artist",
+        "uri" : "spotify:artist:3cnAJv9gydgm52KFIsdvO8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ygzsSsplPHHBohrRm1Xls"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ygzsSsplPHHBohrRm1Xls",
+      "id" : "2ygzsSsplPHHBohrRm1Xls",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e532444f1a8bd4c1f9c554f9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e532444f1a8bd4c1f9c554f9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e532444f1a8bd4c1f9c554f9",
+        "width" : 64
+      } ],
+      "name" : "The Void",
+      "release_date" : "2021-01-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2ygzsSsplPHHBohrRm1Xls"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3cnAJv9gydgm52KFIsdvO8",
+      "id" : "3cnAJv9gydgm52KFIsdvO8",
+      "name" : "Ferreck Dawn",
+      "type" : "artist",
+      "uri" : "spotify:artist:3cnAJv9gydgm52KFIsdvO8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6z9EDgWh3ZJZKIJI5Q71Cq",
+      "id" : "6z9EDgWh3ZJZKIJI5Q71Cq",
+      "name" : "Alex Mills",
+      "type" : "artist",
+      "uri" : "spotify:artist:6z9EDgWh3ZJZKIJI5Q71Cq"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 203589,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y2159501"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6dPv87Rh1VEavjyWCr84Bu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6dPv87Rh1VEavjyWCr84Bu",
+    "id" : "6dPv87Rh1VEavjyWCr84Bu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Void",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d584b0d8fce3fb18a906038737c4141328687fd0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6dPv87Rh1VEavjyWCr84Bu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ky8xBRraNNzxzXEw6Ga0c",
+        "id" : "3ky8xBRraNNzxzXEw6Ga0c",
+        "name" : "Anabel Englund",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ky8xBRraNNzxzXEw6Ga0c"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5GKhB4gABGpsXSBXYnvNFv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5GKhB4gABGpsXSBXYnvNFv",
+      "id" : "5GKhB4gABGpsXSBXYnvNFv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f4656f3e39f9a486ef00da2e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f4656f3e39f9a486ef00da2e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f4656f3e39f9a486ef00da2e",
+        "width" : 64
+      } ],
+      "name" : "Warm Disco",
+      "release_date" : "2020-05-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5GKhB4gABGpsXSBXYnvNFv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ky8xBRraNNzxzXEw6Ga0c",
+      "id" : "3ky8xBRraNNzxzXEw6Ga0c",
+      "name" : "Anabel Englund",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ky8xBRraNNzxzXEw6Ga0c"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 246967,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS12000268"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1s37NcntsTnvtgxoYMOq2n"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1s37NcntsTnvtgxoYMOq2n",
+    "id" : "1s37NcntsTnvtgxoYMOq2n",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Warm Disco",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/71b63d08449dc1de3de0d0fcdb8937406b7fa996?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1s37NcntsTnvtgxoYMOq2n"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7DhdJhd6DrxeJlUajwttd1",
+        "id" : "7DhdJhd6DrxeJlUajwttd1",
+        "name" : "Martin Ikin",
+        "type" : "artist",
+        "uri" : "spotify:artist:7DhdJhd6DrxeJlUajwttd1"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1WcwbtAnG5HWNbPPK84ued",
+        "id" : "1WcwbtAnG5HWNbPPK84ued",
+        "name" : "Hayley May",
+        "type" : "artist",
+        "uri" : "spotify:artist:1WcwbtAnG5HWNbPPK84ued"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3qc4ixgUqAD8kBY7YPSJ5X"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3qc4ixgUqAD8kBY7YPSJ5X",
+      "id" : "3qc4ixgUqAD8kBY7YPSJ5X",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a325a228cc7dc3ef20dd7bd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a325a228cc7dc3ef20dd7bd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a325a228cc7dc3ef20dd7bd",
+        "width" : 64
+      } ],
+      "name" : "Gravity",
+      "release_date" : "2020-07-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:3qc4ixgUqAD8kBY7YPSJ5X"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7DhdJhd6DrxeJlUajwttd1",
+      "id" : "7DhdJhd6DrxeJlUajwttd1",
+      "name" : "Martin Ikin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7DhdJhd6DrxeJlUajwttd1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1WcwbtAnG5HWNbPPK84ued",
+      "id" : "1WcwbtAnG5HWNbPPK84ued",
+      "name" : "Hayley May",
+      "type" : "artist",
+      "uri" : "spotify:artist:1WcwbtAnG5HWNbPPK84ued"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 194285,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y2058203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2NRf8tMctKxEA0LpNxlSOP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2NRf8tMctKxEA0LpNxlSOP",
+    "id" : "2NRf8tMctKxEA0LpNxlSOP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gravity - Edit",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e399f0a11575ea3e15da3f3e532b2fa1b397a742?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2NRf8tMctKxEA0LpNxlSOP"
+  } ]
+}

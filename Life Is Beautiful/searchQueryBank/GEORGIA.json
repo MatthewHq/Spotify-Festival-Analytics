@@ -1,0 +1,579 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=GEORGIA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15525
+      },
+      "genres" : [ "uk pop" ],
+      "href" : "https://api.spotify.com/v1/artists/5mYakBbBzPMQTfkVMIgiDM",
+      "id" : "5mYakBbBzPMQTfkVMIgiDM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0bc681483ed1cfb26c7b3d6d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740bc681483ed1cfb26c7b3d6d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780bc681483ed1cfb26c7b3d6d",
+        "width" : 160
+      } ],
+      "name" : "Georgia Ku",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:5mYakBbBzPMQTfkVMIgiDM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4702156
+      },
+      "genres" : [ "contemporary country", "country", "country pop", "country road", "modern country rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+      "id" : "3b8QkneNDz4JHKKKlLgYZg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aa2d9bd207a62adc3edf6631",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aa2d9bd207a62adc3edf6631",
+        "width" : 160
+      } ],
+      "name" : "Florida Georgia Line",
+      "popularity" : 80,
+      "type" : "artist",
+      "uri" : "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bx7ap1pzYmWXvyhrITc5s"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5bx7ap1pzYmWXvyhrITc5s",
+      "id" : "5bx7ap1pzYmWXvyhrITc5s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bd6a29a860f454e9c13f72de",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bd6a29a860f454e9c13f72de",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bd6a29a860f454e9c13f72de",
+        "width" : 64
+      } ],
+      "name" : "GEORGIA",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5bx7ap1pzYmWXvyhrITc5s"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 55284
+      },
+      "genres" : [ "electropop", "uk alternative pop" ],
+      "href" : "https://api.spotify.com/v1/artists/06knYh538h5SI7OAEF8ek3",
+      "id" : "06knYh538h5SI7OAEF8ek3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb45a495af2ba61efcf72f17cb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517445a495af2ba61efcf72f17cb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17845a495af2ba61efcf72f17cb",
+        "width" : 160
+      } ],
+      "name" : "Georgia",
+      "popularity" : 55,
+      "type" : "artist",
+      "uri" : "spotify:artist:06knYh538h5SI7OAEF8ek3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 157322
+      },
+      "genres" : [ "album rock", "blues rock", "classic rock", "country rock", "hard rock", "rock", "southern rock" ],
+      "href" : "https://api.spotify.com/v1/artists/2hnzQ6eCFkxUIPsVcsdj8A",
+      "id" : "2hnzQ6eCFkxUIPsVcsdj8A",
+      "images" : [ {
+        "height" : 674,
+        "url" : "https://i.scdn.co/image/7566a85bd529cdfcd242491eb4a15ab3d3011061",
+        "width" : 1000
+      }, {
+        "height" : 431,
+        "url" : "https://i.scdn.co/image/ed4b0e93cf700e9eead769f8d2f76f16e8d173bf",
+        "width" : 639
+      }, {
+        "height" : 135,
+        "url" : "https://i.scdn.co/image/abd5512976300a0ff0f793c8b7800f1e90be0fbe",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/27febc5f73427f38b36e28958b7c3a535b5d64b6",
+        "width" : 64
+      } ],
+      "name" : "The Georgia Satellites",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:2hnzQ6eCFkxUIPsVcsdj8A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 49091
+      },
+      "genres" : [ "alternative hip hop", "indie jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/2RdnkH5txHb9c4vGwq0I31",
+      "id" : "2RdnkH5txHb9c4vGwq0I31",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf5e477def650852bf5c68c63",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f5e477def650852bf5c68c63",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f5e477def650852bf5c68c63",
+        "width" : 160
+      } ],
+      "name" : "Georgia Anne Muldrow",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:2RdnkH5txHb9c4vGwq0I31"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27601
+      },
+      "genres" : [ "alt z", "gen z singer-songwriter" ],
+      "href" : "https://api.spotify.com/v1/artists/0SBVbPO2gePQlaDiIfaKDl",
+      "id" : "0SBVbPO2gePQlaDiIfaKDl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9c99a087986d0789e88d4be9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749c99a087986d0789e88d4be9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789c99a087986d0789e88d4be9",
+        "width" : 160
+      } ],
+      "name" : "Georgia Webster",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:0SBVbPO2gePQlaDiIfaKDl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ "instrumental lullaby" ],
+      "href" : "https://api.spotify.com/v1/artists/2OynITaK8BC9oXr5Q7vd7V",
+      "id" : "2OynITaK8BC9oXr5Q7vd7V",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4adbe66ea409cdffd648616a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744adbe66ea409cdffd648616a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784adbe66ea409cdffd648616a",
+        "width" : 160
+      } ],
+      "name" : "Georgia Faingold",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:2OynITaK8BC9oXr5Q7vd7V"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Sf6NYl5JYaX33TOvzbD5U"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5129
+      },
+      "genres" : [ "indiecoustica" ],
+      "href" : "https://api.spotify.com/v1/artists/1Sf6NYl5JYaX33TOvzbD5U",
+      "id" : "1Sf6NYl5JYaX33TOvzbD5U",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb446599221e5dc14476454897",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174446599221e5dc14476454897",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178446599221e5dc14476454897",
+        "width" : 160
+      } ],
+      "name" : "Olivia Georgia",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Sf6NYl5JYaX33TOvzbD5U"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6E8uXyNsUKeGOgRqAOcgBa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8764
+      },
+      "genres" : [ "deep adult standards" ],
+      "href" : "https://api.spotify.com/v1/artists/6E8uXyNsUKeGOgRqAOcgBa",
+      "id" : "6E8uXyNsUKeGOgRqAOcgBa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f263bde11677d0a1d1832c5f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f263bde11677d0a1d1832c5f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f263bde11677d0a1d1832c5f",
+        "width" : 64
+      } ],
+      "name" : "Georgia Gibbs",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:6E8uXyNsUKeGOgRqAOcgBa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 47635
+      },
+      "genres" : [ "contemporary gospel", "gospel", "praise" ],
+      "href" : "https://api.spotify.com/v1/artists/1CdyK67jEL4DXXsmp8vFfN",
+      "id" : "1CdyK67jEL4DXXsmp8vFfN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa1cd0a8f3071db7108bf443",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa1cd0a8f3071db7108bf443",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa1cd0a8f3071db7108bf443",
+        "width" : 64
+      } ],
+      "name" : "The Georgia Mass Choir",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:1CdyK67jEL4DXXsmp8vFfN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 945
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0aZGNGBOglfjuaQ7sFG6Rq",
+      "id" : "0aZGNGBOglfjuaQ7sFG6Rq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd971706df1aa5791412caac7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d971706df1aa5791412caac7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d971706df1aa5791412caac7",
+        "width" : 160
+      } ],
+      "name" : "Georgia Blackwell",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:0aZGNGBOglfjuaQ7sFG6Rq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gG86DjoxWcWl5fkltnt6J"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4175
+      },
+      "genres" : [ "gen z singer-songwriter" ],
+      "href" : "https://api.spotify.com/v1/artists/4gG86DjoxWcWl5fkltnt6J",
+      "id" : "4gG86DjoxWcWl5fkltnt6J",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2b5d717dced781c5c96c710f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742b5d717dced781c5c96c710f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782b5d717dced781c5c96c710f",
+        "width" : 160
+      } ],
+      "name" : "Georgia Greene",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:4gG86DjoxWcWl5fkltnt6J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6gqm3kndpKzaMDSoGeqGNM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 311
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6gqm3kndpKzaMDSoGeqGNM",
+      "id" : "6gqm3kndpKzaMDSoGeqGNM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba43f8c177b01ff6587e86779",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a43f8c177b01ff6587e86779",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a43f8c177b01ff6587e86779",
+        "width" : 160
+      } ],
+      "name" : "Mike Georgiades",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:6gqm3kndpKzaMDSoGeqGNM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1117
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3I7KBuz60UYfMzBbPcqrU4",
+      "id" : "3I7KBuz60UYfMzBbPcqrU4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe14a89835470d5f4cf38768d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e14a89835470d5f4cf38768d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e14a89835470d5f4cf38768d",
+        "width" : 160
+      } ],
+      "name" : "Georgia Harmer",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:3I7KBuz60UYfMzBbPcqrU4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 65
+      },
+      "genres" : [ "study beats", "trap beats" ],
+      "href" : "https://api.spotify.com/v1/artists/7oR5FuTIzTDDGzh8c4bEsT",
+      "id" : "7oR5FuTIzTDDGzh8c4bEsT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dafa29661d09c3565d5b9b7e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dafa29661d09c3565d5b9b7e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dafa29661d09c3565d5b9b7e",
+        "width" : 64
+      } ],
+      "name" : "Geórgia Neve",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:7oR5FuTIzTDDGzh8c4bEsT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eqecmnZFVZA4oPKk3HTBf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 109
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7eqecmnZFVZA4oPKk3HTBf",
+      "id" : "7eqecmnZFVZA4oPKk3HTBf",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/9f2a585fad0e429ccea2a48e0303a65d3326c99d",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/76a66bb61b64e91b6bf0bc599c7e33f54b0f6935",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/babd78fcc15cb4dd992285cc3ebe1ad79f991b0b",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/d1815313c8065f6ef2ef396e3dc4d25b1da98aa9",
+        "width" : 64
+      } ],
+      "name" : "John Georgiadis",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:7eqecmnZFVZA4oPKk3HTBf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 250
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Hd8Cz0ljrjCJLnQaym8Wz",
+      "id" : "0Hd8Cz0ljrjCJLnQaym8Wz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0dc1515ed30dec0586625c49",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740dc1515ed30dec0586625c49",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780dc1515ed30dec0586625c49",
+        "width" : 160
+      } ],
+      "name" : "Georgia Alexandra",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Hd8Cz0ljrjCJLnQaym8Wz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5260
+      },
+      "genres" : [ "modern blues rock", "modern hard rock", "nwocr" ],
+      "href" : "https://api.spotify.com/v1/artists/0sukMbleG21A52WNk4O81d",
+      "id" : "0sukMbleG21A52WNk4O81d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1aa9677c787dd52ab0c1d07c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741aa9677c787dd52ab0c1d07c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781aa9677c787dd52ab0c1d07c",
+        "width" : 160
+      } ],
+      "name" : "The Georgia Thunderbolts",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0sukMbleG21A52WNk4O81d"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2O0h682EGdSff234pcv201"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3897
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2O0h682EGdSff234pcv201",
+      "id" : "2O0h682EGdSff234pcv201",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb447f77293d3c2da0c30f7bba",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174447f77293d3c2da0c30f7bba",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178447f77293d3c2da0c30f7bba",
+        "width" : 160
+      } ],
+      "name" : "Georgia Twinn",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:2O0h682EGdSff234pcv201"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=GEORGIA&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1217
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=MEDUZA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 513687
+      },
+      "genres" : [ "edm", "pop", "pop dance", "pop house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/0xRXCcSX89eobfrshSVdyu",
+      "id" : "0xRXCcSX89eobfrshSVdyu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0250d43f727734741aad6423",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740250d43f727734741aad6423",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780250d43f727734741aad6423",
+        "width" : 160
+      } ],
+      "name" : "MEDUZA",
+      "popularity" : 79,
+      "type" : "artist",
+      "uri" : "spotify:artist:0xRXCcSX89eobfrshSVdyu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2xpNP5anvffZqOx20k3OVt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 144
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2xpNP5anvffZqOx20k3OVt",
+      "id" : "2xpNP5anvffZqOx20k3OVt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc65465d530d8487423100748",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c65465d530d8487423100748",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c65465d530d8487423100748",
+        "width" : 160
+      } ],
+      "name" : "Meduza",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:2xpNP5anvffZqOx20k3OVt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 156376
+      },
+      "genres" : [ "classic swedish pop", "danspunk" ],
+      "href" : "https://api.spotify.com/v1/artists/3cMEiDsx9VpGvF71hUGswS",
+      "id" : "3cMEiDsx9VpGvF71hUGswS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe487484c6432752c697228b2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e487484c6432752c697228b2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e487484c6432752c697228b2",
+        "width" : 160
+      } ],
+      "name" : "Eddie Meduza",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:3cMEiDsx9VpGvF71hUGswS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1IlAvrm6el394zqYwSzMwS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1IlAvrm6el394zqYwSzMwS",
+      "id" : "1IlAvrm6el394zqYwSzMwS",
+      "images" : [ ],
+      "name" : "MEDUZA",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1IlAvrm6el394zqYwSzMwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ia6kg06W79xeQ2xwNlTD5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 682
+      },
+      "genres" : [ "ukrainian post-punk" ],
+      "href" : "https://api.spotify.com/v1/artists/0Ia6kg06W79xeQ2xwNlTD5",
+      "id" : "0Ia6kg06W79xeQ2xwNlTD5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b18eb8b791368746267cb578",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b18eb8b791368746267cb578",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b18eb8b791368746267cb578",
+        "width" : 64
+      } ],
+      "name" : "Stepan I Meduza",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ia6kg06W79xeQ2xwNlTD5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64lEgBZdRGgKlv4VnEhKOn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 457
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/64lEgBZdRGgKlv4VnEhKOn",
+      "id" : "64lEgBZdRGgKlv4VnEhKOn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732905ad95cdfba61808682172",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022905ad95cdfba61808682172",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512905ad95cdfba61808682172",
+        "width" : 64
+      } ],
+      "name" : "Meduza",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:64lEgBZdRGgKlv4VnEhKOn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FAYKRx22cj7NTCt5QteQK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 640
+      },
+      "genres" : [ "norrbotten indie" ],
+      "href" : "https://api.spotify.com/v1/artists/4FAYKRx22cj7NTCt5QteQK",
+      "id" : "4FAYKRx22cj7NTCt5QteQK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273291b10953b8af2e8ae0e8b1e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02291b10953b8af2e8ae0e8b1e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851291b10953b8af2e8ae0e8b1e",
+        "width" : 64
+      } ],
+      "name" : "Meduza",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:4FAYKRx22cj7NTCt5QteQK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GY6iNPOhGxnxusqugn2vx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7GY6iNPOhGxnxusqugn2vx",
+      "id" : "7GY6iNPOhGxnxusqugn2vx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734a2216932f8c21a2c371501b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024a2216932f8c21a2c371501b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514a2216932f8c21a2c371501b",
+        "width" : 64
+      } ],
+      "name" : "MEDUZASHOCK",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7GY6iNPOhGxnxusqugn2vx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BS8lVgVEr7uhzfb6AeaDM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6BS8lVgVEr7uhzfb6AeaDM",
+      "id" : "6BS8lVgVEr7uhzfb6AeaDM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b44127cf4a49782e7b8f946a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b44127cf4a49782e7b8f946a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b44127cf4a49782e7b8f946a",
+        "width" : 64
+      } ],
+      "name" : "Meduzaboga",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6BS8lVgVEr7uhzfb6AeaDM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Qi0MFUgF46L9cALVt4aNr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Qi0MFUgF46L9cALVt4aNr",
+      "id" : "2Qi0MFUgF46L9cALVt4aNr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273699ded74cec8500ea23d277f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02699ded74cec8500ea23d277f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851699ded74cec8500ea23d277f",
+        "width" : 64
+      } ],
+      "name" : "MeDuZa",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Qi0MFUgF46L9cALVt4aNr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2oWQWESKv6m39VrffeNNuI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 135
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2oWQWESKv6m39VrffeNNuI",
+      "id" : "2oWQWESKv6m39VrffeNNuI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b5cca248e32c3524e73ab96",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b5cca248e32c3524e73ab96",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b5cca248e32c3524e73ab96",
+        "width" : 64
+      } ],
+      "name" : "Med'uza",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:2oWQWESKv6m39VrffeNNuI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2EuzVdW61EQBHdlzwgNSbV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2EuzVdW61EQBHdlzwgNSbV",
+      "id" : "2EuzVdW61EQBHdlzwgNSbV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e94773a2a3e48a7054f931d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e94773a2a3e48a7054f931d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e94773a2a3e48a7054f931d1",
+        "width" : 64
+      } ],
+      "name" : "Alessio Meduza",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:2EuzVdW61EQBHdlzwgNSbV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZviNqAuz3uO3j4wQ706PQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 169
+      },
+      "genres" : [ "punk rock mexicano" ],
+      "href" : "https://api.spotify.com/v1/artists/2ZviNqAuz3uO3j4wQ706PQ",
+      "id" : "2ZviNqAuz3uO3j4wQ706PQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb49845b14f78c4b76d3c7117c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517449845b14f78c4b76d3c7117c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17849845b14f78c4b76d3c7117c",
+        "width" : 160
+      } ],
+      "name" : "Meduza",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZviNqAuz3uO3j4wQ706PQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mPajMgLrqGkbzMmwVMIOd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7mPajMgLrqGkbzMmwVMIOd",
+      "id" : "7mPajMgLrqGkbzMmwVMIOd",
+      "images" : [ ],
+      "name" : "La Meduza",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:7mPajMgLrqGkbzMmwVMIOd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6GbI5kDVp4bhSdQDtf9lF9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6GbI5kDVp4bhSdQDtf9lF9",
+      "id" : "6GbI5kDVp4bhSdQDtf9lF9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1dc287336253622c08b6746f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741dc287336253622c08b6746f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781dc287336253622c08b6746f",
+        "width" : 160
+      } ],
+      "name" : "Meduzah",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6GbI5kDVp4bhSdQDtf9lF9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xINA9zCcGZcKDKzXI0Oo7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6xINA9zCcGZcKDKzXI0Oo7",
+      "id" : "6xINA9zCcGZcKDKzXI0Oo7",
+      "images" : [ ],
+      "name" : "La Meduza",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6xINA9zCcGZcKDKzXI0Oo7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NpGy35gBl7EmEs0MwB7g8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2NpGy35gBl7EmEs0MwB7g8",
+      "id" : "2NpGy35gBl7EmEs0MwB7g8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dac2fc5a560a28abdd8968c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dac2fc5a560a28abdd8968c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dac2fc5a560a28abdd8968c4",
+        "width" : 64
+      } ],
+      "name" : "Meduzalem",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2NpGy35gBl7EmEs0MwB7g8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0A3gvXfk5DSsTFGOZP293C"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0A3gvXfk5DSsTFGOZP293C",
+      "id" : "0A3gvXfk5DSsTFGOZP293C",
+      "images" : [ ],
+      "name" : "Meduza (FR)",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0A3gvXfk5DSsTFGOZP293C"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2q5ZcwH03hRkr7YF3BqxOI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2q5ZcwH03hRkr7YF3BqxOI",
+      "id" : "2q5ZcwH03hRkr7YF3BqxOI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcfe2f2cf6759213a8ad6dac1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cfe2f2cf6759213a8ad6dac1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cfe2f2cf6759213a8ad6dac1",
+        "width" : 160
+      } ],
+      "name" : "Mc Meduza",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:2q5ZcwH03hRkr7YF3BqxOI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ijX9TadjUani7EBFOpnLA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7ijX9TadjUani7EBFOpnLA",
+      "id" : "7ijX9TadjUani7EBFOpnLA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27393bf0ce25a5fe17ae4d15fec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0293bf0ce25a5fe17ae4d15fec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485193bf0ce25a5fe17ae4d15fec",
+        "width" : 64
+      } ],
+      "name" : "Meduza",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7ijX9TadjUani7EBFOpnLA"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=MEDUZA&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 53
+  }
+}

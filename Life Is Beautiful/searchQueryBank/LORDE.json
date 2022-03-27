@@ -1,0 +1,487 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=LORDE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9207464
+      },
+      "genres" : [ "art pop", "electropop", "metropopolis", "nz pop", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+      "id" : "163tK9Wjr9P9DmM0AVK7lm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c4902f080d3620b3e6da80c3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c4902f080d3620b3e6da80c3",
+        "width" : 160
+      } ],
+      "name" : "Lorde",
+      "popularity" : 81,
+      "type" : "artist",
+      "uri" : "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1R4wjvEOI6wnaGBVjn2rr2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2482
+      },
+      "genres" : [ "sacramento hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/1R4wjvEOI6wnaGBVjn2rr2",
+      "id" : "1R4wjvEOI6wnaGBVjn2rr2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27386b75ae4e9182b0517dec3ad",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0286b75ae4e9182b0517dec3ad",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485186b75ae4e9182b0517dec3ad",
+        "width" : 64
+      } ],
+      "name" : "LordeTheTopScore",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:1R4wjvEOI6wnaGBVjn2rr2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7268OpyCBksrM4ayQwlcJH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1006
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7268OpyCBksrM4ayQwlcJH",
+      "id" : "7268OpyCBksrM4ayQwlcJH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738d5c2072006152f4c7f1e67a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028d5c2072006152f4c7f1e67a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518d5c2072006152f4c7f1e67a",
+        "width" : 64
+      } ],
+      "name" : "Lorde Columbia",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:7268OpyCBksrM4ayQwlcJH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hb9hQLDvGNeZY0T6zhnve"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1538
+      },
+      "genres" : [ "milwaukee hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/3hb9hQLDvGNeZY0T6zhnve",
+      "id" : "3hb9hQLDvGNeZY0T6zhnve",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebadf687e2d3505cb81b13710b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174adf687e2d3505cb81b13710b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178adf687e2d3505cb81b13710b",
+        "width" : 160
+      } ],
+      "name" : "Lorde Fredd33",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:3hb9hQLDvGNeZY0T6zhnve"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6JINZdc7A864q4L5N4p2y4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1172
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6JINZdc7A864q4L5N4p2y4",
+      "id" : "6JINZdc7A864q4L5N4p2y4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27368cd20a773c1b15274797970",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0268cd20a773c1b15274797970",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485168cd20a773c1b15274797970",
+        "width" : 64
+      } ],
+      "name" : "Lordel",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:6JINZdc7A864q4L5N4p2y4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6shY6D0A4NFmB8m15oV479"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 517
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6shY6D0A4NFmB8m15oV479",
+      "id" : "6shY6D0A4NFmB8m15oV479",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb31529b81937a50e3adb4dda5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517431529b81937a50e3adb4dda5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17831529b81937a50e3adb4dda5",
+        "width" : 160
+      } ],
+      "name" : "Lorde Sanctus",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:6shY6D0A4NFmB8m15oV479"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FBVODzMuGhfCtaoQwUKO2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3FBVODzMuGhfCtaoQwUKO2",
+      "id" : "3FBVODzMuGhfCtaoQwUKO2",
+      "images" : [ ],
+      "name" : "LordetopScore",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:3FBVODzMuGhfCtaoQwUKO2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3B6f8ORX5EmUFCuzBaGlXs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3B6f8ORX5EmUFCuzBaGlXs",
+      "id" : "3B6f8ORX5EmUFCuzBaGlXs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaf36e7d5fe9c606eb9547e48",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174af36e7d5fe9c606eb9547e48",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178af36e7d5fe9c606eb9547e48",
+        "width" : 160
+      } ],
+      "name" : "Lordessence",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:3B6f8ORX5EmUFCuzBaGlXs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FqtXEtRgBEEtLSdF2XXgE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2FqtXEtRgBEEtLSdF2XXgE",
+      "id" : "2FqtXEtRgBEEtLSdF2XXgE",
+      "images" : [ ],
+      "name" : "Jim Lordeman",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:2FqtXEtRgBEEtLSdF2XXgE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6VH4xMcotiFLyNphBaqtrK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6VH4xMcotiFLyNphBaqtrK",
+      "id" : "6VH4xMcotiFLyNphBaqtrK",
+      "images" : [ ],
+      "name" : "LORDE THE TOPSCORE",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6VH4xMcotiFLyNphBaqtrK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/42rv6uypzRtT64I0B8GCZe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 483
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/42rv6uypzRtT64I0B8GCZe",
+      "id" : "42rv6uypzRtT64I0B8GCZe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebec56fc1598b9bafc439c2129",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ec56fc1598b9bafc439c2129",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ec56fc1598b9bafc439c2129",
+        "width" : 160
+      } ],
+      "name" : "YungSnapLorde",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:42rv6uypzRtT64I0B8GCZe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IjfWL8qQc5U2Zf2tWJ7n3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 78
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4IjfWL8qQc5U2Zf2tWJ7n3",
+      "id" : "4IjfWL8qQc5U2Zf2tWJ7n3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8b5407570f9781a632989c25",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748b5407570f9781a632989c25",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788b5407570f9781a632989c25",
+        "width" : 160
+      } ],
+      "name" : "LORDE VICE",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:4IjfWL8qQc5U2Zf2tWJ7n3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/271skZj0x0ONEo5Jz635HJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/271skZj0x0ONEo5Jz635HJ",
+      "id" : "271skZj0x0ONEo5Jz635HJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb96e131f4ea5a4931a38ad8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb96e131f4ea5a4931a38ad8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb96e131f4ea5a4931a38ad8",
+        "width" : 64
+      } ],
+      "name" : "Lordevickz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:271skZj0x0ONEo5Jz635HJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39xsTOGLOcrdRZ1Gy8frrc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 94
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/39xsTOGLOcrdRZ1Gy8frrc",
+      "id" : "39xsTOGLOcrdRZ1Gy8frrc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcd5c6bc567849a7fa38e6e5e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cd5c6bc567849a7fa38e6e5e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cd5c6bc567849a7fa38e6e5e",
+        "width" : 160
+      } ],
+      "name" : "Lordesteezus",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:39xsTOGLOcrdRZ1Gy8frrc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6QZrvm3n1Zu3i8z1BBK0Kh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6QZrvm3n1Zu3i8z1BBK0Kh",
+      "id" : "6QZrvm3n1Zu3i8z1BBK0Kh",
+      "images" : [ ],
+      "name" : "Lordeuroz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6QZrvm3n1Zu3i8z1BBK0Kh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xELsxazXWfWxLF19hXMf1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 934
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6xELsxazXWfWxLF19hXMf1",
+      "id" : "6xELsxazXWfWxLF19hXMf1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27328298bffb3d728d8e5683264",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0228298bffb3d728d8e5683264",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485128298bffb3d728d8e5683264",
+        "width" : 64
+      } ],
+      "name" : "Lordes",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:6xELsxazXWfWxLF19hXMf1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4mwIMjyuGOoYS2cG25JzoE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4mwIMjyuGOoYS2cG25JzoE",
+      "id" : "4mwIMjyuGOoYS2cG25JzoE",
+      "images" : [ ],
+      "name" : "Lordell",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4mwIMjyuGOoYS2cG25JzoE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4uokTIPJMgLqvYmYYXY8JK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4uokTIPJMgLqvYmYYXY8JK",
+      "id" : "4uokTIPJMgLqvYmYYXY8JK",
+      "images" : [ ],
+      "name" : "Lorde Sanctus",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4uokTIPJMgLqvYmYYXY8JK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2xGE0iztyOT6WfLZJGOCoI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2xGE0iztyOT6WfLZJGOCoI",
+      "id" : "2xGE0iztyOT6WfLZJGOCoI",
+      "images" : [ ],
+      "name" : "Lordee",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2xGE0iztyOT6WfLZJGOCoI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3DZh4SbS6WP78yja0uYhmz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3DZh4SbS6WP78yja0uYhmz",
+      "id" : "3DZh4SbS6WP78yja0uYhmz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d9eb7365eb3e531bfb246edc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d9eb7365eb3e531bfb246edc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d9eb7365eb3e531bfb246edc",
+        "width" : 64
+      } ],
+      "name" : "Lorde D",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3DZh4SbS6WP78yja0uYhmz"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=LORDE&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 182
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=QRION&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27197
+      },
+      "genres" : [ "japanese edm", "japanese house", "progressive house" ],
+      "href" : "https://api.spotify.com/v1/artists/0bGDTQ78MVgI5Snqo9KJZw",
+      "id" : "0bGDTQ78MVgI5Snqo9KJZw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb87a685b770270f079e0918e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b87a685b770270f079e0918e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b87a685b770270f079e0918e",
+        "width" : 160
+      } ],
+      "name" : "Qrion",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:0bGDTQ78MVgI5Snqo9KJZw"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

@@ -1,0 +1,880 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ENS85nZShljwNgg4wFD7D",
+        "id" : "5ENS85nZShljwNgg4wFD7D",
+        "name" : "Gabry Ponte",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ENS85nZShljwNgg4wFD7D"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6cEuCEZu7PAE9ZSzLLc2oQ",
+        "id" : "6cEuCEZu7PAE9ZSzLLc2oQ",
+        "name" : "R3HAB",
+        "type" : "artist",
+        "uri" : "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3FPgLHoo4FzTPtY8j2HNeQ",
+      "id" : "3FPgLHoo4FzTPtY8j2HNeQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f239985f752a2fe6997da7fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f239985f752a2fe6997da7fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f239985f752a2fe6997da7fe",
+        "width" : 64
+      } ],
+      "name" : "Call Me (with R3HAB & Timmy Trumpet)",
+      "release_date" : "2022-01-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3FPgLHoo4FzTPtY8j2HNeQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ENS85nZShljwNgg4wFD7D",
+      "id" : "5ENS85nZShljwNgg4wFD7D",
+      "name" : "Gabry Ponte",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ENS85nZShljwNgg4wFD7D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6cEuCEZu7PAE9ZSzLLc2oQ",
+      "id" : "6cEuCEZu7PAE9ZSzLLc2oQ",
+      "name" : "R3HAB",
+      "type" : "artist",
+      "uri" : "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178309,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ITV952100051"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1dt220OBbkTsYz1NLVKIaw",
+    "id" : "1dt220OBbkTsYz1NLVKIaw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Call Me (with R3HAB & Timmy Trumpet)",
+    "popularity" : 78,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dc062ae54e84aee5c2265ebeb19f8bb919d6061c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1dt220OBbkTsYz1NLVKIaw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/35LVfE1wsiXr4tdKnYliJ8",
+      "id" : "35LVfE1wsiXr4tdKnYliJ8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27316386b212b50920183e11711",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0216386b212b50920183e11711",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485116386b212b50920183e11711",
+        "width" : 64
+      } ],
+      "name" : "Mad World",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:35LVfE1wsiXr4tdKnYliJ8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ENS85nZShljwNgg4wFD7D",
+      "id" : "5ENS85nZShljwNgg4wFD7D",
+      "name" : "Gabry Ponte",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ENS85nZShljwNgg4wFD7D"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 153303,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEIW12000434"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6WsaEpK2Bky9ZGCCaQPyg4",
+    "id" : "6WsaEpK2Bky9ZGCCaQPyg4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mad World",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b7618342841c79d1ad066f54843d1de8abb57edc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6WsaEpK2Bky9ZGCCaQPyg4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2XuqIiYNrr15UYsmll2B3z",
+      "id" : "2XuqIiYNrr15UYsmll2B3z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735e8da38f79f9b4b0a79ebd9b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025e8da38f79f9b4b0a79ebd9b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515e8da38f79f9b4b0a79ebd9b",
+        "width" : 64
+      } ],
+      "name" : "Freaks",
+      "release_date" : "2014-03-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2XuqIiYNrr15UYsmll2B3z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GbrJTB56Xs4XQGlmVbaCf",
+      "id" : "1GbrJTB56Xs4XQGlmVbaCf",
+      "name" : "Savage",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GbrJTB56Xs4XQGlmVbaCf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 169160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUNV01400450"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4f3NHOxgC8Bg21IJBg4cZ3",
+    "id" : "4f3NHOxgC8Bg21IJBg4cZ3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Freaks - Radio Edit",
+    "popularity" : 71,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4f3NHOxgC8Bg21IJBg4cZ3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73jBynjsVtofjRpdpRAJGk",
+        "id" : "73jBynjsVtofjRpdpRAJGk",
+        "name" : "Dimitri Vegas & Like Mike",
+        "type" : "artist",
+        "uri" : "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6XwwFnewNgWp81MYMK8zLq",
+        "id" : "6XwwFnewNgWp81MYMK8zLq",
+        "name" : "Edward Maya",
+        "type" : "artist",
+        "uri" : "spotify:artist:6XwwFnewNgWp81MYMK8zLq"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6NarQFpErQAqgw7Lzv9SXp",
+      "id" : "6NarQFpErQAqgw7Lzv9SXp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389f901aa83f8da944e189cd1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289f901aa83f8da944e189cd1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189f901aa83f8da944e189cd1",
+        "width" : 64
+      } ],
+      "name" : "Feel Your Love",
+      "release_date" : "2021-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6NarQFpErQAqgw7Lzv9SXp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/73jBynjsVtofjRpdpRAJGk",
+      "id" : "73jBynjsVtofjRpdpRAJGk",
+      "name" : "Dimitri Vegas & Like Mike",
+      "type" : "artist",
+      "uri" : "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6XwwFnewNgWp81MYMK8zLq",
+      "id" : "6XwwFnewNgWp81MYMK8zLq",
+      "name" : "Edward Maya",
+      "type" : "artist",
+      "uri" : "spotify:artist:6XwwFnewNgWp81MYMK8zLq"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEG852100042"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4h4c2nt7wTFLn0OYVDWOHC",
+    "id" : "4h4c2nt7wTFLn0OYVDWOHC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feel Your Love",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f44eafb36aeb8dc4e486e677c2dae4514d5950dd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4h4c2nt7wTFLn0OYVDWOHC"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/13NpuESz6tlK819yBs0PuS",
+        "id" : "13NpuESz6tlK819yBs0PuS",
+        "name" : "Azteck",
+        "type" : "artist",
+        "uri" : "spotify:artist:13NpuESz6tlK819yBs0PuS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+        "id" : "2gZzTzeACSwFqkMroVxmnm",
+        "name" : "Darren Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18gPaM10W8ih7qQp4mhdxV",
+      "id" : "18gPaM10W8ih7qQp4mhdxV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731c104d5ce5c1c1e0c53cd23b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021c104d5ce5c1c1e0c53cd23b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511c104d5ce5c1c1e0c53cd23b",
+        "width" : 64
+      } ],
+      "name" : "Dance Tonight",
+      "release_date" : "2021-12-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:18gPaM10W8ih7qQp4mhdxV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13NpuESz6tlK819yBs0PuS",
+      "id" : "13NpuESz6tlK819yBs0PuS",
+      "name" : "Azteck",
+      "type" : "artist",
+      "uri" : "spotify:artist:13NpuESz6tlK819yBs0PuS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+      "id" : "2gZzTzeACSwFqkMroVxmnm",
+      "name" : "Darren Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 177000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEIW12100387"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1dN8YYO1s6an0mb3MIWrox",
+    "id" : "1dN8YYO1s6an0mb3MIWrox",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dance Tonight",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/92b191bfd06922e65386165fc3c7f712dcbc89a6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1dN8YYO1s6an0mb3MIWrox"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4O8EiXZbelscSDs7TgOXHc",
+        "id" : "4O8EiXZbelscSDs7TgOXHc",
+        "name" : "loafers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4O8EiXZbelscSDs7TgOXHc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5mKNjpx3SmjNqtxQTmuo9Z",
+        "id" : "5mKNjpx3SmjNqtxQTmuo9Z",
+        "name" : "The High",
+        "type" : "artist",
+        "uri" : "spotify:artist:5mKNjpx3SmjNqtxQTmuo9Z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7uuHadEOX65HwVIpnPdaUF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7uuHadEOX65HwVIpnPdaUF",
+      "id" : "7uuHadEOX65HwVIpnPdaUF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b3fceafbf8828c8bf043b432",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b3fceafbf8828c8bf043b432",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b3fceafbf8828c8bf043b432",
+        "width" : 64
+      } ],
+      "name" : "How To Save A Life (feat. loafers & The High)",
+      "release_date" : "2021-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7uuHadEOX65HwVIpnPdaUF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4O8EiXZbelscSDs7TgOXHc",
+      "id" : "4O8EiXZbelscSDs7TgOXHc",
+      "name" : "loafers",
+      "type" : "artist",
+      "uri" : "spotify:artist:4O8EiXZbelscSDs7TgOXHc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5mKNjpx3SmjNqtxQTmuo9Z",
+      "id" : "5mKNjpx3SmjNqtxQTmuo9Z",
+      "name" : "The High",
+      "type" : "artist",
+      "uri" : "spotify:artist:5mKNjpx3SmjNqtxQTmuo9Z"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 197746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR9W12139804"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/63gWjcGKmpz90e8AHxF680"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/63gWjcGKmpz90e8AHxF680",
+    "id" : "63gWjcGKmpz90e8AHxF680",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "How To Save A Life (feat. loafers & The High)",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/885d7b8f636a37115029c9237de19082574d8a6d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:63gWjcGKmpz90e8AHxF680"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz",
+        "id" : "4D75GcNG95ebPtNvoNVXhz",
+        "name" : "Afrojack",
+        "type" : "artist",
+        "uri" : "spotify:artist:4D75GcNG95ebPtNvoNVXhz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/15v2LmWavzASn38XSzS0dO",
+      "id" : "15v2LmWavzASn38XSzS0dO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730ba36962a0a6e92ff8d6399e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020ba36962a0a6e92ff8d6399e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510ba36962a0a6e92ff8d6399e",
+        "width" : 64
+      } ],
+      "name" : "Stay Mine",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:15v2LmWavzASn38XSzS0dO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz",
+      "id" : "4D75GcNG95ebPtNvoNVXhz",
+      "name" : "Afrojack",
+      "type" : "artist",
+      "uri" : "spotify:artist:4D75GcNG95ebPtNvoNVXhz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178010,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ542100432"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7IhWJM8cN04zRQ2PNM91xc",
+    "id" : "7IhWJM8cN04zRQ2PNM91xc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Stay Mine",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b27cbc16f7b3d3a7247122c1a9f0225b7b65ca30?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7IhWJM8cN04zRQ2PNM91xc"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PtCud9dIdOv4exrzdZZ1C",
+        "id" : "3PtCud9dIdOv4exrzdZZ1C",
+        "name" : "MAKJ",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PtCud9dIdOv4exrzdZZ1C"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1qE2TBCw74GZJoyQWHdhau"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1qE2TBCw74GZJoyQWHdhau",
+      "id" : "1qE2TBCw74GZJoyQWHdhau",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735f0e0f532f1f682928797a9b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025f0e0f532f1f682928797a9b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515f0e0f532f1f682928797a9b",
+        "width" : 64
+      } ],
+      "name" : "Party Till We Die (feat. Andrew W.K.)",
+      "release_date" : "2016-09-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1qE2TBCw74GZJoyQWHdhau"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PtCud9dIdOv4exrzdZZ1C",
+      "id" : "3PtCud9dIdOv4exrzdZZ1C",
+      "name" : "MAKJ",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PtCud9dIdOv4exrzdZZ1C"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJR4xviDKHoelt9WKHlBa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJR4xviDKHoelt9WKHlBa",
+      "id" : "4YJR4xviDKHoelt9WKHlBa",
+      "name" : "Andrew W.K.",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJR4xviDKHoelt9WKHlBa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 158554,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ541600873"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5AEs83CYoPApEjYEJGbTuJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5AEs83CYoPApEjYEJGbTuJ",
+    "id" : "5AEs83CYoPApEjYEJGbTuJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Party Till We Die (feat. Andrew W.K.)",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5f9c4168b3266bfff66e15e775b762d9d1fb7703?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5AEs83CYoPApEjYEJGbTuJ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2QJkwrO6mHtWT4HZbIq1mj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2QJkwrO6mHtWT4HZbIq1mj",
+      "id" : "2QJkwrO6mHtWT4HZbIq1mj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27312ee765fe3ccc7f4fd558cba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0212ee765fe3ccc7f4fd558cba",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485112ee765fe3ccc7f4fd558cba",
+        "width" : 64
+      } ],
+      "name" : "Oracle",
+      "release_date" : "2016-12-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2QJkwrO6mHtWT4HZbIq1mj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 180154,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ541601139"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0O3hacFfr7hp4fIeomi4ex"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0O3hacFfr7hp4fIeomi4ex",
+    "id" : "0O3hacFfr7hp4fIeomi4ex",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Oracle",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3eb27357d9b80e8e997f20a0b831efcfe901931f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0O3hacFfr7hp4fIeomi4ex"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0BWrMuYT4cUK7plryyGn33"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0BWrMuYT4cUK7plryyGn33",
+      "id" : "0BWrMuYT4cUK7plryyGn33",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738abca0cd53e73267c48e8f30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028abca0cd53e73267c48e8f30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518abca0cd53e73267c48e8f30",
+        "width" : 64
+      } ],
+      "name" : "Lights Go Down",
+      "release_date" : "2022-03-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0BWrMuYT4cUK7plryyGn33"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 182908,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ542200214"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Zk6kPRbg6oABCd1wcA224"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Zk6kPRbg6oABCd1wcA224",
+    "id" : "6Zk6kPRbg6oABCd1wcA224",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lights Go Down",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5557647a3e0c9925d49b6757bf0559cb4ea6d954?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6Zk6kPRbg6oABCd1wcA224"
+  } ]
+}

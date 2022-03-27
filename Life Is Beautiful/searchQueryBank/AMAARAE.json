@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=AMAARAE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 116454
+      },
+      "genres" : [ "afro r&b", "ghanaian alternative", "ghanaian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/21UPYSRWFKwtqvSAnFnSvS",
+      "id" : "21UPYSRWFKwtqvSAnFnSvS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6904c06cb71d8a28325559ed",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746904c06cb71d8a28325559ed",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786904c06cb71d8a28325559ed",
+        "width" : 160
+      } ],
+      "name" : "Amaarae",
+      "popularity" : 73,
+      "type" : "artist",
+      "uri" : "spotify:artist:21UPYSRWFKwtqvSAnFnSvS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 34545
+      },
+      "genres" : [ "dominican pop", "rap dominicano", "trap queen" ],
+      "href" : "https://api.spotify.com/v1/artists/6cdcTRFv0nFBQZPmTLWhRh",
+      "id" : "6cdcTRFv0nFBQZPmTLWhRh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebdffaa6ed4a9497fe762bbbec",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174dffaa6ed4a9497fe762bbbec",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178dffaa6ed4a9497fe762bbbec",
+        "width" : 160
+      } ],
+      "name" : "Amara La Negra",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:6cdcTRFv0nFBQZPmTLWhRh"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

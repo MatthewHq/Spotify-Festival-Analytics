@@ -1,0 +1,70 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5nsJOm6NzXEDp8rcihaJJs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5nsJOm6NzXEDp8rcihaJJs",
+        "id" : "5nsJOm6NzXEDp8rcihaJJs",
+        "name" : "Amaluna",
+        "type" : "artist",
+        "uri" : "spotify:artist:5nsJOm6NzXEDp8rcihaJJs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6QXMeauJDeQgbbQaJ3kA3J"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6QXMeauJDeQgbbQaJ3kA3J",
+      "id" : "6QXMeauJDeQgbbQaJ3kA3J",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731846ca0d60bef728e1fa5f81",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021846ca0d60bef728e1fa5f81",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511846ca0d60bef728e1fa5f81",
+        "width" : 64
+      } ],
+      "name" : "Lunar Phase",
+      "release_date" : "2020-01-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:6QXMeauJDeQgbbQaJ3kA3J"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4qZkbvcIR78hf7pxIAyYpi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4qZkbvcIR78hf7pxIAyYpi",
+      "id" : "4qZkbvcIR78hf7pxIAyYpi",
+      "name" : "Khromata",
+      "type" : "artist",
+      "uri" : "spotify:artist:4qZkbvcIR78hf7pxIAyYpi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 259221,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKR6V1930691"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Amo0C2CVjcuRWFYx1RBlu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Amo0C2CVjcuRWFYx1RBlu",
+    "id" : "7Amo0C2CVjcuRWFYx1RBlu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Is This Your First Record?",
+    "popularity" : 7,
+    "preview_url" : "https://p.scdn.co/mp3-preview/35e04799fc6f0a818712120bc5963cf4ccab0ddf?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7Amo0C2CVjcuRWFYx1RBlu"
+  } ]
+}

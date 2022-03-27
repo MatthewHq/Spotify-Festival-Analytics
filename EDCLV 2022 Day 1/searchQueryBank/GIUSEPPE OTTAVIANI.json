@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=GIUSEPPE+OTTAVIANI&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 96270
+      },
+      "genres" : [ "italian trance", "progressive house", "progressive trance", "trance", "uplifting trance" ],
+      "href" : "https://api.spotify.com/v1/artists/5B9q1NRokzWYB7nSgnlHyv",
+      "id" : "5B9q1NRokzWYB7nSgnlHyv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb03074337cada59add284e048",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517403074337cada59add284e048",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17803074337cada59add284e048",
+        "width" : 160
+      } ],
+      "name" : "Giuseppe Ottaviani",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:5B9q1NRokzWYB7nSgnlHyv"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

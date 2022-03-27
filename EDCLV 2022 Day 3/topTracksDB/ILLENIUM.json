@@ -1,0 +1,862 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+        "id" : "69GGBxA162lTqCwzJG5jLp",
+        "name" : "The Chainsmokers",
+        "type" : "artist",
+        "uri" : "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/01GR4NL5O5CZM51k0aejKD",
+      "id" : "01GR4NL5O5CZM51k0aejKD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735e90ff76fd49a23f7333de76",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025e90ff76fd49a23f7333de76",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515e90ff76fd49a23f7333de76",
+        "width" : 64
+      } ],
+      "name" : "World War Joy",
+      "release_date" : "2019-12-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:01GR4NL5O5CZM51k0aejKD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+      "id" : "69GGBxA162lTqCwzJG5jLp",
+      "name" : "The Chainsmokers",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cZQSpDsxgKIX2yW5OR9Ot",
+      "id" : "1cZQSpDsxgKIX2yW5OR9Ot",
+      "name" : "Lennon Stella",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cZQSpDsxgKIX2yW5OR9Ot"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209880,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQX91901353"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3g0mEQx3NTanacLseoP0Gw",
+    "id" : "3g0mEQx3NTanacLseoP0Gw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Takeaway",
+    "popularity" : 80,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0e5f8def9f425221c72560ce52141e3d0acf83f3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3g0mEQx3NTanacLseoP0Gw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+        "id" : "2ZRQcIgzPCVaT9XKhXZIzh",
+        "name" : "Gryffin",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1fP5UnRB0WNWNHSZRHsRCR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1fP5UnRB0WNWNHSZRHsRCR",
+      "id" : "1fP5UnRB0WNWNHSZRHsRCR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736362397987db1fbf17f3d9b5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026362397987db1fbf17f3d9b5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516362397987db1fbf17f3d9b5",
+        "width" : 64
+      } ],
+      "name" : "Feel Good (feat. Daya)",
+      "release_date" : "2017-03-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1fP5UnRB0WNWNHSZRHsRCR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+      "id" : "2ZRQcIgzPCVaT9XKhXZIzh",
+      "name" : "Gryffin",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Dd3NScHWwnW6obMFbl1BH",
+      "id" : "6Dd3NScHWwnW6obMFbl1BH",
+      "name" : "Daya",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Dd3NScHWwnW6obMFbl1BH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 248156,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM71701083"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Ev562zA4pmUsBqjxsxxdx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Ev562zA4pmUsBqjxsxxdx",
+    "id" : "0Ev562zA4pmUsBqjxsxxdx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feel Good (feat. Daya)",
+    "popularity" : 72,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0Ev562zA4pmUsBqjxsxxdx"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4iDroUFo89Y7YBsdDTBmTD",
+        "id" : "4iDroUFo89Y7YBsdDTBmTD",
+        "name" : "Sueco",
+        "type" : "artist",
+        "uri" : "spotify:artist:4iDroUFo89Y7YBsdDTBmTD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+        "id" : "6Xgp2XMz1fhVYe7i6yNAax",
+        "name" : "Trippie Redd",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6C4DfusL8qEXmt6MFhAMU6",
+      "id" : "6C4DfusL8qEXmt6MFhAMU6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27388914878d6980c0075913292",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0288914878d6980c0075913292",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485188914878d6980c0075913292",
+        "width" : 64
+      } ],
+      "name" : "Story Of My Life (feat. Trippie Redd)",
+      "release_date" : "2021-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6C4DfusL8qEXmt6MFhAMU6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4iDroUFo89Y7YBsdDTBmTD",
+      "id" : "4iDroUFo89Y7YBsdDTBmTD",
+      "name" : "Sueco",
+      "type" : "artist",
+      "uri" : "spotify:artist:4iDroUFo89Y7YBsdDTBmTD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+      "id" : "6Xgp2XMz1fhVYe7i6yNAax",
+      "name" : "Trippie Redd",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 191124,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB12105282"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1g7j5AxiNKTGjryhFIlAsA",
+    "id" : "1g7j5AxiNKTGjryhFIlAsA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Story Of My Life (feat. Trippie Redd)",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/648a028315e3921a93e1c92307bffc0bef507c65?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1g7j5AxiNKTGjryhFIlAsA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YomxhmDglPvD93W3T6l1V",
+      "id" : "4YomxhmDglPvD93W3T6l1V",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273700ed221054220bb30eb2d96",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02700ed221054220bb30eb2d96",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851700ed221054220bb30eb2d96",
+        "width" : 64
+      } ],
+      "name" : "Fallen Embers",
+      "release_date" : "2021-07-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4YomxhmDglPvD93W3T6l1V"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ASri4ePR7RlsvIQgWPJpS",
+      "id" : "6ASri4ePR7RlsvIQgWPJpS",
+      "name" : "iann dior",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ASri4ePR7RlsvIQgWPJpS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 165779,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2104690"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4s9eMbBfWUDtBEFHC7sNp7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4s9eMbBfWUDtBEFHC7sNp7",
+    "id" : "4s9eMbBfWUDtBEFHC7sNp7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "First Time",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c7886df98073067b38dee061f11cc8ecfa185b16?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4s9eMbBfWUDtBEFHC7sNp7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4LZ4De2MoO3lP6QaNCfvcu",
+        "id" : "4LZ4De2MoO3lP6QaNCfvcu",
+        "name" : "Said The Sky",
+        "type" : "artist",
+        "uri" : "spotify:artist:4LZ4De2MoO3lP6QaNCfvcu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2NRBI2mvyZIYpHMEcDmN6A",
+      "id" : "2NRBI2mvyZIYpHMEcDmN6A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398f6ae2f0dff4d8241da5ea4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298f6ae2f0dff4d8241da5ea4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198f6ae2f0dff4d8241da5ea4",
+        "width" : 64
+      } ],
+      "name" : "Sentiment",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:2NRBI2mvyZIYpHMEcDmN6A"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LZ4De2MoO3lP6QaNCfvcu",
+      "id" : "4LZ4De2MoO3lP6QaNCfvcu",
+      "name" : "Said The Sky",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LZ4De2MoO3lP6QaNCfvcu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp",
+      "id" : "5JMLG56F1X5mFmWNmS0iAp",
+      "name" : "Chelsea Cutler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216125,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2281411"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3lG6pvrzze5fH20SKQFYon"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3lG6pvrzze5fH20SKQFYon",
+    "id" : "3lG6pvrzze5fH20SKQFYon",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Walk Me Home",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/974665043a257deef1c309ce5da9b156df54eb7f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:3lG6pvrzze5fH20SKQFYon"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FKchcZpQOkqFvXBj1aCvb",
+        "id" : "5FKchcZpQOkqFvXBj1aCvb",
+        "name" : "Excision",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FKchcZpQOkqFvXBj1aCvb"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Uobr6LgQpBbk6k4QGAb3V",
+        "id" : "3Uobr6LgQpBbk6k4QGAb3V",
+        "name" : "I Prevail",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Uobr6LgQpBbk6k4QGAb3V"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0oNatPfTF5GM7KnSQ2hRPG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0oNatPfTF5GM7KnSQ2hRPG",
+      "id" : "0oNatPfTF5GM7KnSQ2hRPG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273944e4be7729f7d5233cd0348",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02944e4be7729f7d5233cd0348",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851944e4be7729f7d5233cd0348",
+        "width" : 64
+      } ],
+      "name" : "Feel Something (With I Prevail)",
+      "release_date" : "2020-04-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0oNatPfTF5GM7KnSQ2hRPG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FKchcZpQOkqFvXBj1aCvb",
+      "id" : "5FKchcZpQOkqFvXBj1aCvb",
+      "name" : "Excision",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FKchcZpQOkqFvXBj1aCvb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Uobr6LgQpBbk6k4QGAb3V",
+      "id" : "3Uobr6LgQpBbk6k4QGAb3V",
+      "name" : "I Prevail",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Uobr6LgQpBbk6k4QGAb3V"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 221000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG12000942"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5dAtKXyrQoQW054LZqJ5dP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5dAtKXyrQoQW054LZqJ5dP",
+    "id" : "5dAtKXyrQoQW054LZqJ5dP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feel Something (With I Prevail)",
+    "popularity" : 69,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5dAtKXyrQoQW054LZqJ5dP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/60xcVwuQJAOyu11xf9mObS",
+      "id" : "60xcVwuQJAOyu11xf9mObS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273529c6fa82d23f65076c1579b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02529c6fa82d23f65076c1579b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851529c6fa82d23f65076c1579b",
+        "width" : 64
+      } ],
+      "name" : "ASCEND",
+      "release_date" : "2019-08-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:60xcVwuQJAOyu11xf9mObS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50JJSqHUf2RQ9xsHs0KMHg",
+      "id" : "50JJSqHUf2RQ9xsHs0KMHg",
+      "name" : "Jon Bellion",
+      "type" : "artist",
+      "uri" : "spotify:artist:50JJSqHUf2RQ9xsHs0KMHg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216668,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG11901088"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3LxG9HkMMFP0MZuiw3O2rF",
+    "id" : "3LxG9HkMMFP0MZuiw3O2rF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Good Things Fall Apart (with Jon Bellion)",
+    "popularity" : 68,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3LxG9HkMMFP0MZuiw3O2rF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/60xcVwuQJAOyu11xf9mObS",
+      "id" : "60xcVwuQJAOyu11xf9mObS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273529c6fa82d23f65076c1579b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02529c6fa82d23f65076c1579b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851529c6fa82d23f65076c1579b",
+        "width" : 64
+      } ],
+      "name" : "ASCEND",
+      "release_date" : "2019-08-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:60xcVwuQJAOyu11xf9mObS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NPpFNZtSTHheNBaWC82rB",
+      "id" : "3NPpFNZtSTHheNBaWC82rB",
+      "name" : "X Ambassadors",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NPpFNZtSTHheNBaWC82rB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 220730,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG11901636"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/70YPzqSEwJvAIQ6nMs1cjY",
+    "id" : "70YPzqSEwJvAIQ6nMs1cjY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "In Your Arms (with X Ambassadors)",
+    "popularity" : 69,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:70YPzqSEwJvAIQ6nMs1cjY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+        "id" : "69GGBxA162lTqCwzJG5jLp",
+        "name" : "The Chainsmokers",
+        "type" : "artist",
+        "uri" : "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5yhNY3zM1Vx1oaL3GYTWIZ",
+      "id" : "5yhNY3zM1Vx1oaL3GYTWIZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27317e91c66eac95d844e8595da",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0217e91c66eac95d844e8595da",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485117e91c66eac95d844e8595da",
+        "width" : 64
+      } ],
+      "name" : "Don't Let Me Down (Remixes) (feat. Daya)",
+      "release_date" : "2016-05-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:5yhNY3zM1Vx1oaL3GYTWIZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+      "id" : "69GGBxA162lTqCwzJG5jLp",
+      "name" : "The Chainsmokers",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Dd3NScHWwnW6obMFbl1BH",
+      "id" : "6Dd3NScHWwnW6obMFbl1BH",
+      "name" : "Daya",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Dd3NScHWwnW6obMFbl1BH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQX91601626"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/15BlympuVSfZFROojEMY2M"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/15BlympuVSfZFROojEMY2M",
+    "id" : "15BlympuVSfZFROojEMY2M",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Don't Let Me Down (feat. Daya) - Illenium Remix",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cf4f616ceb617b66d6eaef77aef6034314c80050?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:15BlympuVSfZFROojEMY2M"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YomxhmDglPvD93W3T6l1V",
+      "id" : "4YomxhmDglPvD93W3T6l1V",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273700ed221054220bb30eb2d96",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02700ed221054220bb30eb2d96",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851700ed221054220bb30eb2d96",
+        "width" : 64
+      } ],
+      "name" : "Fallen Embers",
+      "release_date" : "2021-07-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4YomxhmDglPvD93W3T6l1V"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0kErUwb6xgWfkdn0RyZWHZ",
+      "id" : "0kErUwb6xgWfkdn0RyZWHZ",
+      "name" : "Annika Wells",
+      "type" : "artist",
+      "uri" : "spotify:artist:0kErUwb6xgWfkdn0RyZWHZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 222400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2003022"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7ksAGloyLZyKThB86rErvT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7ksAGloyLZyKThB86rErvT",
+    "id" : "7ksAGloyLZyKThB86rErvT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nightlight",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/75df94c2f36efc5bdafb5a739849c6ef29387a74?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7ksAGloyLZyKThB86rErvT"
+  } ]
+}

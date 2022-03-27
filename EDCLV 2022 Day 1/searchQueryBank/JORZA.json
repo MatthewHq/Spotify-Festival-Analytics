@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=JORZA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QQUtKcJQ0bkubS0Titmi4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 373
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2QQUtKcJQ0bkubS0Titmi4",
+      "id" : "2QQUtKcJQ0bkubS0Titmi4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb46d38345bbcf02ebcf056f9b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517446d38345bbcf02ebcf056f9b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17846d38345bbcf02ebcf056f9b",
+        "width" : 160
+      } ],
+      "name" : "Jorza",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:2QQUtKcJQ0bkubS0Titmi4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67DeqjLgj5H1Ak7VjxZyEr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/67DeqjLgj5H1Ak7VjxZyEr",
+      "id" : "67DeqjLgj5H1Ak7VjxZyEr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3077017ea423d1639c44555c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743077017ea423d1639c44555c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783077017ea423d1639c44555c",
+        "width" : 160
+      } ],
+      "name" : "Jorzan",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:67DeqjLgj5H1Ak7VjxZyEr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 34044
+      },
+      "genres" : [ "adult standards", "big band", "blues", "lounge", "rhythm and blues", "rock-and-roll", "swing", "vocal jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/2nRbxpnBMMbtMBWH5QdqH2",
+      "id" : "2nRbxpnBMMbtMBWH5QdqH2",
+      "images" : [ {
+        "height" : 479,
+        "url" : "https://i.scdn.co/image/a4967666a99d0034ed706a8be9cc4412c945f383",
+        "width" : 350
+      }, {
+        "height" : 274,
+        "url" : "https://i.scdn.co/image/df8612a829bdb987f6a1d5b1a2480e958a03e820",
+        "width" : 200
+      }, {
+        "height" : 88,
+        "url" : "https://i.scdn.co/image/13ee4f7de08a7e3fa7de1d7cfa24cbf7275c8fea",
+        "width" : 64
+      } ],
+      "name" : "Louis Jordan",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:2nRbxpnBMMbtMBWH5QdqH2"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

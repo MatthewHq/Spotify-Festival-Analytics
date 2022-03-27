@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=JSTJR&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12343
+      },
+      "genres" : [ "moombahton" ],
+      "href" : "https://api.spotify.com/v1/artists/5SNvvu3C0tFHMXcih3NdiP",
+      "id" : "5SNvvu3C0tFHMXcih3NdiP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc774251aa87e4257d394b0fd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c774251aa87e4257d394b0fd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c774251aa87e4257d394b0fd",
+        "width" : 160
+      } ],
+      "name" : "JSTJR",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:5SNvvu3C0tFHMXcih3NdiP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/65wppXKeZ1jY9P4rlVG5QM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/65wppXKeZ1jY9P4rlVG5QM",
+      "id" : "65wppXKeZ1jY9P4rlVG5QM",
+      "images" : [ ],
+      "name" : "Jstjr",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:65wppXKeZ1jY9P4rlVG5QM"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

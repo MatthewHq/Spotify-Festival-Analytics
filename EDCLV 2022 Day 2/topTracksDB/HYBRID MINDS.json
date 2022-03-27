@@ -1,0 +1,790 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+        "id" : "05lF0DUkLJqiW5o70SScyR",
+        "name" : "Hybrid Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/10F2GXUHZjSzWpOcX0aoNR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/10F2GXUHZjSzWpOcX0aoNR",
+      "id" : "10F2GXUHZjSzWpOcX0aoNR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27366432ff148a938e02bcd61a9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0266432ff148a938e02bcd61a9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485166432ff148a938e02bcd61a9",
+        "width" : 64
+      } ],
+      "name" : "Elements",
+      "release_date" : "2017-06-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:10F2GXUHZjSzWpOcX0aoNR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1MW1wqNtF2hNgsPfGDhrHB",
+      "id" : "1MW1wqNtF2hNgsPfGDhrHB",
+      "name" : "Catching Cairo",
+      "type" : "artist",
+      "uri" : "spotify:artist:1MW1wqNtF2hNgsPfGDhrHB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 313562,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKFJY1600001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2jtlU6H5C9WFB0x72f6YGo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2jtlU6H5C9WFB0x72f6YGo",
+    "id" : "2jtlU6H5C9WFB0x72f6YGo",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Touch",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/31bad1df39ac2e389bf3ab27eccca8e20985bc54?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2jtlU6H5C9WFB0x72f6YGo"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+        "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+        "name" : "Netsky",
+        "type" : "artist",
+        "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2kD4XTloruMrJ1vRs9Giks",
+      "id" : "2kD4XTloruMrJ1vRs9Giks",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27387e9ef0f7d94bb6b7c4a7e13",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0287e9ef0f7d94bb6b7c4a7e13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485187e9ef0f7d94bb6b7c4a7e13",
+        "width" : 64
+      } ],
+      "name" : "Second Nature",
+      "release_date" : "2020-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:2kD4XTloruMrJ1vRs9Giks"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TgQ66WuWkoQ2xYxaSTnVP",
+      "id" : "5TgQ66WuWkoQ2xYxaSTnVP",
+      "name" : "Netsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202543,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCJY2000476"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/13rtgTDK9w1clbgXpGuW3y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/13rtgTDK9w1clbgXpGuW3y",
+    "id" : "13rtgTDK9w1clbgXpGuW3y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let Me Hold You",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b69d48cff2e49448f8743f825ec1eaf6238e8bc3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:13rtgTDK9w1clbgXpGuW3y"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+        "id" : "05lF0DUkLJqiW5o70SScyR",
+        "name" : "Hybrid Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3pFPBG84k5bQVbL9apf2PD",
+        "id" : "3pFPBG84k5bQVbL9apf2PD",
+        "name" : "Grace Grundy",
+        "type" : "artist",
+        "uri" : "spotify:artist:3pFPBG84k5bQVbL9apf2PD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0sYcA8hhlj5cgbDtJ1kYxs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0sYcA8hhlj5cgbDtJ1kYxs",
+      "id" : "0sYcA8hhlj5cgbDtJ1kYxs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736381100e3edac068dc3cc1a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026381100e3edac068dc3cc1a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516381100e3edac068dc3cc1a5",
+        "width" : 64
+      } ],
+      "name" : "Bad To Me (feat. Grace Grundy)",
+      "release_date" : "2021-05-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0sYcA8hhlj5cgbDtJ1kYxs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3pFPBG84k5bQVbL9apf2PD",
+      "id" : "3pFPBG84k5bQVbL9apf2PD",
+      "name" : "Grace Grundy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3pFPBG84k5bQVbL9apf2PD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 251034,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QM6MZ2180622"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6UNESFieJ7rXvEKO1V2Fw8",
+    "id" : "6UNESFieJ7rXvEKO1V2Fw8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bad To Me (feat. Grace Grundy)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bcf86c026f8ad34ee6c3589e0c494a0d41425d80?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6UNESFieJ7rXvEKO1V2Fw8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+        "id" : "05lF0DUkLJqiW5o70SScyR",
+        "name" : "Hybrid Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7vgZqCNS2Nah7tlpo7ZjC4",
+        "id" : "7vgZqCNS2Nah7tlpo7ZjC4",
+        "name" : "Alexa Harley",
+        "type" : "artist",
+        "uri" : "spotify:artist:7vgZqCNS2Nah7tlpo7ZjC4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UB8OPtRWe2lytzeaogYfS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UB8OPtRWe2lytzeaogYfS",
+      "id" : "6UB8OPtRWe2lytzeaogYfS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273201b17f3059a97eba3fce3d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02201b17f3059a97eba3fce3d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851201b17f3059a97eba3fce3d5",
+        "width" : 64
+      } ],
+      "name" : "Solitude - UKF Drum & Bass 2017",
+      "release_date" : "2017-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6UB8OPtRWe2lytzeaogYfS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7vgZqCNS2Nah7tlpo7ZjC4",
+      "id" : "7vgZqCNS2Nah7tlpo7ZjC4",
+      "name" : "Alexa Harley",
+      "type" : "artist",
+      "uri" : "spotify:artist:7vgZqCNS2Nah7tlpo7ZjC4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 223500,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB2LD1700394"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Bh7FGeAvAluOZZqeKm1aD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Bh7FGeAvAluOZZqeKm1aD",
+    "id" : "0Bh7FGeAvAluOZZqeKm1aD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Solitude",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/58f665377336cd0aaf505650e700dce0c86cb736?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0Bh7FGeAvAluOZZqeKm1aD"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2WX2uTcsvV5OnS0inACecP",
+        "id" : "2WX2uTcsvV5OnS0inACecP",
+        "name" : "Birdy",
+        "type" : "artist",
+        "uri" : "spotify:artist:2WX2uTcsvV5OnS0inACecP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+        "id" : "05lF0DUkLJqiW5o70SScyR",
+        "name" : "Hybrid Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6AzHtagUVgiMF8KkN9W1on"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6AzHtagUVgiMF8KkN9W1on",
+      "id" : "6AzHtagUVgiMF8KkN9W1on",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f9a1382b46290d7f3a873a01",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f9a1382b46290d7f3a873a01",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f9a1382b46290d7f3a873a01",
+        "width" : 64
+      } ],
+      "name" : "Deep End (Hybrid Minds Remix)",
+      "release_date" : "2021-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6AzHtagUVgiMF8KkN9W1on"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2WX2uTcsvV5OnS0inACecP",
+      "id" : "2WX2uTcsvV5OnS0inACecP",
+      "name" : "Birdy",
+      "type" : "artist",
+      "uri" : "spotify:artist:2WX2uTcsvV5OnS0inACecP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHS2101403"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/45vPjSJ5NyIfBWIjilEhcy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/45vPjSJ5NyIfBWIjilEhcy",
+    "id" : "45vPjSJ5NyIfBWIjilEhcy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Deep End - Hybrid Minds Remix",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/06b6e04f62629d6df0c39781fc1b8c6113f1c7fe?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:45vPjSJ5NyIfBWIjilEhcy"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+        "id" : "05lF0DUkLJqiW5o70SScyR",
+        "name" : "Hybrid Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3w6tCisQHurw8IMhnTyXwM",
+      "id" : "3w6tCisQHurw8IMhnTyXwM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b987001059698fc33dab2ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b987001059698fc33dab2ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b987001059698fc33dab2ac9",
+        "width" : 64
+      } ],
+      "name" : "Reflections",
+      "release_date" : "2021-10-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:3w6tCisQHurw8IMhnTyXwM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LOM7NzyrZvlGSYPFDsnTk",
+      "id" : "4LOM7NzyrZvlGSYPFDsnTk",
+      "name" : "Dylan",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LOM7NzyrZvlGSYPFDsnTk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231724,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMDA62107485"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1OO7bKqN3XRDb0W6B3wM6i",
+    "id" : "1OO7bKqN3XRDb0W6B3wM6i",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Blame You (feat. Dylan)",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c53ba6a11dd35b031bb6359a22d1583329c2f72f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1OO7bKqN3XRDb0W6B3wM6i"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+        "id" : "05lF0DUkLJqiW5o70SScyR",
+        "name" : "Hybrid Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7CbWVIAsEloRyDHiUtDk3b"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7CbWVIAsEloRyDHiUtDk3b",
+      "id" : "7CbWVIAsEloRyDHiUtDk3b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734f936b72f36f77fa94c4383d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024f936b72f36f77fa94c4383d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514f936b72f36f77fa94c4383d",
+        "width" : 64
+      } ],
+      "name" : "Cinnamon (Hybrid Minds Remix)",
+      "release_date" : "2016-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7CbWVIAsEloRyDHiUtDk3b"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 302117,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB2LD0902542"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/12ht4aSdUsYVkShl14kCCW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/12ht4aSdUsYVkShl14kCCW",
+    "id" : "12ht4aSdUsYVkShl14kCCW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Cinnamon - Hybrid Minds Remix",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8aa714d95a1f7dc19ca690e1164c81f091d6a5de?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:12ht4aSdUsYVkShl14kCCW"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7MqnCTCAX6SsIYYdJCQj9B",
+        "id" : "7MqnCTCAX6SsIYYdJCQj9B",
+        "name" : "Pendulum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7MqnCTCAX6SsIYYdJCQj9B"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Ruhvi1Po4DrvhX6oxxGpE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Ruhvi1Po4DrvhX6oxxGpE",
+      "id" : "0Ruhvi1Po4DrvhX6oxxGpE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273481aa3449c21a8d219c3c414",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02481aa3449c21a8d219c3c414",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851481aa3449c21a8d219c3c414",
+        "width" : 64
+      } ],
+      "name" : "Elemental",
+      "release_date" : "2021-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:0Ruhvi1Po4DrvhX6oxxGpE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MqnCTCAX6SsIYYdJCQj9B",
+      "id" : "7MqnCTCAX6SsIYYdJCQj9B",
+      "name" : "Pendulum",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MqnCTCAX6SsIYYdJCQj9B"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM6MZ2186471"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3AXmSZIHOho1ylePzcTBto"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3AXmSZIHOho1ylePzcTBto",
+    "id" : "3AXmSZIHOho1ylePzcTBto",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Louder Than Words",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6b40a876369517753bf0892018fda9c940f625b9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3AXmSZIHOho1ylePzcTBto"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+        "id" : "05lF0DUkLJqiW5o70SScyR",
+        "name" : "Hybrid Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/10F2GXUHZjSzWpOcX0aoNR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/10F2GXUHZjSzWpOcX0aoNR",
+      "id" : "10F2GXUHZjSzWpOcX0aoNR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27366432ff148a938e02bcd61a9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0266432ff148a938e02bcd61a9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485166432ff148a938e02bcd61a9",
+        "width" : 64
+      } ],
+      "name" : "Elements",
+      "release_date" : "2017-06-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:10F2GXUHZjSzWpOcX0aoNR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7vxdIF630QOTloFsFLZzgI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7vxdIF630QOTloFsFLZzgI",
+      "id" : "7vxdIF630QOTloFsFLZzgI",
+      "name" : "Rocky Nti",
+      "type" : "artist",
+      "uri" : "spotify:artist:7vxdIF630QOTloFsFLZzgI"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 281379,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKFJY1700005"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6SxCmFXCfDM5kdYTR1QZSo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6SxCmFXCfDM5kdYTR1QZSo",
+    "id" : "6SxCmFXCfDM5kdYTR1QZSo",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pretend",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/87d8c8f37e336b008a36d29950af1474cfaa040d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6SxCmFXCfDM5kdYTR1QZSo"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+        "id" : "05lF0DUkLJqiW5o70SScyR",
+        "name" : "Hybrid Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0k3dnuEr9LghUE4jxS0PT4",
+        "id" : "0k3dnuEr9LghUE4jxS0PT4",
+        "name" : "Fred V",
+        "type" : "artist",
+        "uri" : "spotify:artist:0k3dnuEr9LghUE4jxS0PT4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6px2l6DvudSYsp8FSddKKj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6px2l6DvudSYsp8FSddKKj",
+      "id" : "6px2l6DvudSYsp8FSddKKj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a0ab4e0e0563db02c5fb39a7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a0ab4e0e0563db02c5fb39a7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a0ab4e0e0563db02c5fb39a7",
+        "width" : 64
+      } ],
+      "name" : "Drowning In You",
+      "release_date" : "2019-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6px2l6DvudSYsp8FSddKKj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "name" : "Hybrid Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0k3dnuEr9LghUE4jxS0PT4",
+      "id" : "0k3dnuEr9LghUE4jxS0PT4",
+      "name" : "Fred V",
+      "type" : "artist",
+      "uri" : "spotify:artist:0k3dnuEr9LghUE4jxS0PT4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217931,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKFJY1900004"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0bqJDrb7zRLOiCnUm7MXZW",
+    "id" : "0bqJDrb7zRLOiCnUm7MXZW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Drowning In You",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0e920bb3e539c85fdaf25332765e3efa7e8ffc2a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0bqJDrb7zRLOiCnUm7MXZW"
+  } ]
+}

@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=LEXI+JAYDE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 58022
+      },
+      "genres" : [ "alt z", "social media pop" ],
+      "href" : "https://api.spotify.com/v1/artists/69761NObDw2KwmmFgZmxzC",
+      "id" : "69761NObDw2KwmmFgZmxzC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb86237af1f6e06cc2b4b46b85",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517486237af1f6e06cc2b4b46b85",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17886237af1f6e06cc2b4b46b85",
+        "width" : 160
+      } ],
+      "name" : "Lexi Jayde",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:69761NObDw2KwmmFgZmxzC"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

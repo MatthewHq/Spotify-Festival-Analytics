@@ -1,0 +1,539 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=GRIMES&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1628735
+      },
+      "genres" : [ "art pop", "canadian electropop", "dance pop", "electropop", "grave wave", "indietronica", "metropopolis", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id" : "053q0ukIDRgzwTr4vNSwab",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb34771f759ca81a422f5f2b57",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517434771f759ca81a422f5f2b57",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17834771f759ca81a422f5f2b57",
+        "width" : 160
+      } ],
+      "name" : "Grimes",
+      "popularity" : 73,
+      "type" : "artist",
+      "uri" : "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 28466
+      },
+      "genres" : [ "country pop", "country road", "modern country rock", "red dirt", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/21NiIObyfGUR3UPql6UrkP",
+      "id" : "21NiIObyfGUR3UPql6UrkP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3d993ddf217c3aede9463d12",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743d993ddf217c3aede9463d12",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783d993ddf217c3aede9463d12",
+        "width" : 160
+      } ],
+      "name" : "Curtis Grimes",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:21NiIObyfGUR3UPql6UrkP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PTrX29vKxqFe59hnYb8hx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29053
+      },
+      "genres" : [ "cali rap", "deep underground hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/5PTrX29vKxqFe59hnYb8hx",
+      "id" : "5PTrX29vKxqFe59hnYb8hx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcd51078e0a051a14ac5c0737",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cd51078e0a051a14ac5c0737",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cd51078e0a051a14ac5c0737",
+        "width" : 160
+      } ],
+      "name" : "Marty Grimes",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:5PTrX29vKxqFe59hnYb8hx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15590
+      },
+      "genres" : [ "compositional ambient" ],
+      "href" : "https://api.spotify.com/v1/artists/3NkEUEwXXgy5IQixHpsHQ9",
+      "id" : "3NkEUEwXXgy5IQixHpsHQ9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcbcd1f4cbfdfb3a8619cff91",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cbcd1f4cbfdfb3a8619cff91",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cbcd1f4cbfdfb3a8619cff91",
+        "width" : 160
+      } ],
+      "name" : "Rachel Grimes",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:3NkEUEwXXgy5IQixHpsHQ9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6u2j7TsJG9au5E6mxPBXMs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 484
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6u2j7TsJG9au5E6mxPBXMs",
+      "id" : "6u2j7TsJG9au5E6mxPBXMs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7248ae9726d9988e242e811e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747248ae9726d9988e242e811e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787248ae9726d9988e242e811e",
+        "width" : 160
+      } ],
+      "name" : "Olivia Grimes",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:6u2j7TsJG9au5E6mxPBXMs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5718
+      },
+      "genres" : [ "liverpool indie" ],
+      "href" : "https://api.spotify.com/v1/artists/1YQf1satVqyqSOp5FUvDKx",
+      "id" : "1YQf1satVqyqSOp5FUvDKx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3fa0017163ecb72255f1961f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743fa0017163ecb72255f1961f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783fa0017163ecb72255f1961f",
+        "width" : 160
+      } ],
+      "name" : "Chelcee Grimes",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:1YQf1satVqyqSOp5FUvDKx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6akUh8U7osZCsikGcQTDUG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 151
+      },
+      "genres" : [ "uk dnb" ],
+      "href" : "https://api.spotify.com/v1/artists/6akUh8U7osZCsikGcQTDUG",
+      "id" : "6akUh8U7osZCsikGcQTDUG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734441a8c989c08740de2984d7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024441a8c989c08740de2984d7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514441a8c989c08740de2984d7",
+        "width" : 64
+      } ],
+      "name" : "Grimesy",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:6akUh8U7osZCsikGcQTDUG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QucvFqzb1bwlDVzE0NF8c"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 827
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0QucvFqzb1bwlDVzE0NF8c",
+      "id" : "0QucvFqzb1bwlDVzE0NF8c",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebebb858e4f8ef0163829ed268",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ebb858e4f8ef0163829ed268",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ebb858e4f8ef0163829ed268",
+        "width" : 160
+      } ],
+      "name" : "Ged Grimes",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:0QucvFqzb1bwlDVzE0NF8c"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VPajxKM9qYa0lhluirq68"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22581
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4VPajxKM9qYa0lhluirq68",
+      "id" : "4VPajxKM9qYa0lhluirq68",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb765b0299d551372c4123886c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174765b0299d551372c4123886c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178765b0299d551372c4123886c",
+        "width" : 160
+      } ],
+      "name" : "Alicia Grimes",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:4VPajxKM9qYa0lhluirq68"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bAn4Uy3DF1nCpev9XAlGC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 110
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1bAn4Uy3DF1nCpev9XAlGC",
+      "id" : "1bAn4Uy3DF1nCpev9XAlGC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb4c4a6d1b8575d4b62671057",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b4c4a6d1b8575d4b62671057",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b4c4a6d1b8575d4b62671057",
+        "width" : 160
+      } ],
+      "name" : "Grimeshine",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:1bAn4Uy3DF1nCpev9XAlGC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43cusVUo86usUh2lnhO59I"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 158
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/43cusVUo86usUh2lnhO59I",
+      "id" : "43cusVUo86usUh2lnhO59I",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aca513b120931cd0ad6512f3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aca513b120931cd0ad6512f3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aca513b120931cd0ad6512f3",
+        "width" : 64
+      } ],
+      "name" : "Tammy Grimes",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:43cusVUo86usUh2lnhO59I"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5DLkREixAcHVDxdBDW8N8d"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 61
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5DLkREixAcHVDxdBDW8N8d",
+      "id" : "5DLkREixAcHVDxdBDW8N8d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ac63dbdf25a4d9b48ad0d96f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ac63dbdf25a4d9b48ad0d96f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ac63dbdf25a4d9b48ad0d96f",
+        "width" : 64
+      } ],
+      "name" : "Samantha Grimes",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:5DLkREixAcHVDxdBDW8N8d"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zvgA8rKweMQ46BgMUjBZI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2zvgA8rKweMQ46BgMUjBZI",
+      "id" : "2zvgA8rKweMQ46BgMUjBZI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe4fde990d42b024cfbadc90c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e4fde990d42b024cfbadc90c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e4fde990d42b024cfbadc90c",
+        "width" : 160
+      } ],
+      "name" : "Franc Grimes",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:2zvgA8rKweMQ46BgMUjBZI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BU7NJsgNiIZ9JEDc1HeJS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3737
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5BU7NJsgNiIZ9JEDc1HeJS",
+      "id" : "5BU7NJsgNiIZ9JEDc1HeJS",
+      "images" : [ {
+        "height" : 664,
+        "url" : "https://i.scdn.co/image/e45e5fbb9164979e98589ca264b202e26160f81a",
+        "width" : 1000
+      }, {
+        "height" : 425,
+        "url" : "https://i.scdn.co/image/d3f8364d8015c2bfbc5a52c750612190bba4d236",
+        "width" : 640
+      }, {
+        "height" : 133,
+        "url" : "https://i.scdn.co/image/77a74da91bad95c43cbe8a340f225f03ed06f2cb",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/ce54aea84ee8479974913ff1aaf910ecf1e5396e",
+        "width" : 64
+      } ],
+      "name" : "Scott Grimes",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:5BU7NJsgNiIZ9JEDc1HeJS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nyZShtfCdYdlpNgMsGKzA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4358
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6nyZShtfCdYdlpNgMsGKzA",
+      "id" : "6nyZShtfCdYdlpNgMsGKzA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3920182138ba462254a630b6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743920182138ba462254a630b6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783920182138ba462254a630b6",
+        "width" : 160
+      } ],
+      "name" : "Myndless Grimes",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:6nyZShtfCdYdlpNgMsGKzA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/32qFjfrKqM9rLXhTbtqblU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5588
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/32qFjfrKqM9rLXhTbtqblU",
+      "id" : "32qFjfrKqM9rLXhTbtqblU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb70701e4eb3a8a478a5b770d5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517470701e4eb3a8a478a5b770d5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17870701e4eb3a8a478a5b770d5",
+        "width" : 160
+      } ],
+      "name" : "Johny Grimes",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:32qFjfrKqM9rLXhTbtqblU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ovBdJLwhSTfasqJlCxvtx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 60
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ovBdJLwhSTfasqJlCxvtx",
+      "id" : "1ovBdJLwhSTfasqJlCxvtx",
+      "images" : [ ],
+      "name" : "David Grimes",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ovBdJLwhSTfasqJlCxvtx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gwHKbnE227VO3Acq8WIe0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1gwHKbnE227VO3Acq8WIe0",
+      "id" : "1gwHKbnE227VO3Acq8WIe0",
+      "images" : [ ],
+      "name" : "Grimes",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1gwHKbnE227VO3Acq8WIe0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2haJ4hGDdCMW7SHoqQ7A8q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 686
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2haJ4hGDdCMW7SHoqQ7A8q",
+      "id" : "2haJ4hGDdCMW7SHoqQ7A8q",
+      "images" : [ ],
+      "name" : "Trashique (GRIMES X HANA)",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:2haJ4hGDdCMW7SHoqQ7A8q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5LA9LIAokldXUvgwy0Pumh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 93
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5LA9LIAokldXUvgwy0Pumh",
+      "id" : "5LA9LIAokldXUvgwy0Pumh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f29c0831c51c0f8ef31ba4ba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f29c0831c51c0f8ef31ba4ba",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f29c0831c51c0f8ef31ba4ba",
+        "width" : 64
+      } ],
+      "name" : "Kate Grimes",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:5LA9LIAokldXUvgwy0Pumh"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=GRIMES&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 297
+  }
+}

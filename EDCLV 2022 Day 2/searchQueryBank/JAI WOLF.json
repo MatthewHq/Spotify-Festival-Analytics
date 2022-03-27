@@ -1,0 +1,87 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=JAI+WOLF&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 262977
+      },
+      "genres" : [ "edm", "electropop", "future bass", "indie poptimism", "pop dance", "pop edm", "tropical house", "vapor soul", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/24V5UY0nChKpnb1TBPJhCw",
+      "id" : "24V5UY0nChKpnb1TBPJhCw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe8e5902d8c4aacb792109f67",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e8e5902d8c4aacb792109f67",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e8e5902d8c4aacb792109f67",
+        "width" : 160
+      } ],
+      "name" : "Jai Wolf",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:24V5UY0nChKpnb1TBPJhCw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WmqN2P9ciPsG8j5QedqPK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4WmqN2P9ciPsG8j5QedqPK",
+      "id" : "4WmqN2P9ciPsG8j5QedqPK",
+      "images" : [ ],
+      "name" : "Jaime Wolfson",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4WmqN2P9ciPsG8j5QedqPK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2efkkFeeI59W2yWn0PDz4F"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2efkkFeeI59W2yWn0PDz4F",
+      "id" : "2efkkFeeI59W2yWn0PDz4F",
+      "images" : [ ],
+      "name" : "Jaime Wolfson",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2efkkFeeI59W2yWn0PDz4F"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7fRynM8py1EbZNpK8ZX7F9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7fRynM8py1EbZNpK8ZX7F9",
+      "id" : "7fRynM8py1EbZNpK8ZX7F9",
+      "images" : [ ],
+      "name" : "Jaike Spotted Wolf",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7fRynM8py1EbZNpK8ZX7F9"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

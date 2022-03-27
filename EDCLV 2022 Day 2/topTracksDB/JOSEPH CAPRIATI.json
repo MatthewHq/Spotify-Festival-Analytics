@@ -1,0 +1,754 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6OQOvP7RAdmAKVXXQqD0Se",
+        "id" : "6OQOvP7RAdmAKVXXQqD0Se",
+        "name" : "Pan-Pot",
+        "type" : "artist",
+        "uri" : "spotify:artist:6OQOvP7RAdmAKVXXQqD0Se"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ESSPoCmi5sY43k4kBHXRJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ESSPoCmi5sY43k4kBHXRJ",
+      "id" : "1ESSPoCmi5sY43k4kBHXRJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27379a15e62ed1eda56e57adb8a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0279a15e62ed1eda56e57adb8a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485179a15e62ed1eda56e57adb8a",
+        "width" : 64
+      } ],
+      "name" : "The Other Remixes",
+      "release_date" : "2015-12-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1ESSPoCmi5sY43k4kBHXRJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6OQOvP7RAdmAKVXXQqD0Se",
+      "id" : "6OQOvP7RAdmAKVXXQqD0Se",
+      "name" : "Pan-Pot",
+      "type" : "artist",
+      "uri" : "spotify:artist:6OQOvP7RAdmAKVXXQqD0Se"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 528571,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DESR41400056"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4lc5oFyk3SUxwj3ilptwNU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4lc5oFyk3SUxwj3ilptwNU",
+    "id" : "4lc5oFyk3SUxwj3ilptwNU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fugitives - Joseph Capriati Remix",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3682d37086fcde1ae09b792502809ffd2cf255ae?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4lc5oFyk3SUxwj3ilptwNU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3bVYqr2NfmwmL4YJisWhJI",
+        "id" : "3bVYqr2NfmwmL4YJisWhJI",
+        "name" : "Dubfire",
+        "type" : "artist",
+        "uri" : "spotify:artist:3bVYqr2NfmwmL4YJisWhJI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NBGssQpgDczTsVEp4pCbR",
+        "id" : "0NBGssQpgDczTsVEp4pCbR",
+        "name" : "Oliver Huntemann",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NBGssQpgDczTsVEp4pCbR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7qrEe8lx1SfGuI95UQQCSf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7qrEe8lx1SfGuI95UQQCSf",
+      "id" : "7qrEe8lx1SfGuI95UQQCSf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736c925176ddac1e6f5f66e4fc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026c925176ddac1e6f5f66e4fc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516c925176ddac1e6f5f66e4fc",
+        "width" : 64
+      } ],
+      "name" : "Retrospectivo 2008 - 2016",
+      "release_date" : "2016-10-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7qrEe8lx1SfGuI95UQQCSf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bVYqr2NfmwmL4YJisWhJI",
+      "id" : "3bVYqr2NfmwmL4YJisWhJI",
+      "name" : "Dubfire",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bVYqr2NfmwmL4YJisWhJI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NBGssQpgDczTsVEp4pCbR",
+      "id" : "0NBGssQpgDczTsVEp4pCbR",
+      "name" : "Oliver Huntemann",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NBGssQpgDczTsVEp4pCbR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    } ],
+    "disc_number" : 2,
+    "duration_ms" : 453673,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEL021602013"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2vsqy8cfvZjFb67BnqLbE4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2vsqy8cfvZjFb67BnqLbE4",
+    "id" : "2vsqy8cfvZjFb67BnqLbE4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Terra - Joseph Capriati Remix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cd66b1dcffa305773622ecf197cd8037e895783e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2vsqy8cfvZjFb67BnqLbE4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+        "id" : "7onsqSWPufMm5ZnUCECDpf",
+        "name" : "Joseph Capriati",
+        "type" : "artist",
+        "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5nKSUL4GyQGB9KQmKH2xnp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5nKSUL4GyQGB9KQmKH2xnp",
+      "id" : "5nKSUL4GyQGB9KQmKH2xnp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e2ecf5fe9181940346c1a4a0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e2ecf5fe9181940346c1a4a0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e2ecf5fe9181940346c1a4a0",
+        "width" : 64
+      } ],
+      "name" : "Self Portrait (Remixes)",
+      "release_date" : "2015-11-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:5nKSUL4GyQGB9KQmKH2xnp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 368640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61500108"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1NRw8YzC52CT95Cr6DAZoQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1NRw8YzC52CT95Cr6DAZoQ",
+    "id" : "1NRw8YzC52CT95Cr6DAZoQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Awake - Julian Jeweil Remix",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/747b36c3ba2a9543db2e5f7e9121f0194de29042?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1NRw8YzC52CT95Cr6DAZoQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+        "id" : "7onsqSWPufMm5ZnUCECDpf",
+        "name" : "Joseph Capriati",
+        "type" : "artist",
+        "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3fSff3bKd7pS7kLYiNakMV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3fSff3bKd7pS7kLYiNakMV",
+      "id" : "3fSff3bKd7pS7kLYiNakMV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ceebf431065bb1b8bd54a2c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ceebf431065bb1b8bd54a2c9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ceebf431065bb1b8bd54a2c9",
+        "width" : 64
+      } ],
+      "name" : "Self Portrait",
+      "release_date" : "2013-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:3fSff3bKd7pS7kLYiNakMV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 558374,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUR61200135"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2v05Kt0WDRv2fRTMYCcWxT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2v05Kt0WDRv2fRTMYCcWxT",
+    "id" : "2v05Kt0WDRv2fRTMYCcWxT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Awake",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/14e53edfaae911e44e58f603a5e6c4dbae5f1c64?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2v05Kt0WDRv2fRTMYCcWxT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+        "id" : "7onsqSWPufMm5ZnUCECDpf",
+        "name" : "Joseph Capriati",
+        "type" : "artist",
+        "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1cM461Elp1uML63BTwmFpb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1cM461Elp1uML63BTwmFpb",
+      "id" : "1cM461Elp1uML63BTwmFpb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d90c076de9547c518d36ca7d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d90c076de9547c518d36ca7d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d90c076de9547c518d36ca7d",
+        "width" : 64
+      } ],
+      "name" : "Metamorfosi Remixes Vol 2",
+      "release_date" : "2021-04-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:1cM461Elp1uML63BTwmFpb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19SmlbABtI4bXz864MLqOS",
+      "id" : "19SmlbABtI4bXz864MLqOS",
+      "name" : "Carl Cox",
+      "type" : "artist",
+      "uri" : "spotify:artist:19SmlbABtI4bXz864MLqOS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 496094,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ITTQF2100010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2dALZj2pmTCAYPKvkLtl6w"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2dALZj2pmTCAYPKvkLtl6w",
+    "id" : "2dALZj2pmTCAYPKvkLtl6w",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Goa - Carl Cox Remix",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/802fd0a41bd6a883b2573e8cb352c1ef957500de?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2dALZj2pmTCAYPKvkLtl6w"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0bDVQCKj9ElT4JrzcvYnoR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0bDVQCKj9ElT4JrzcvYnoR",
+      "id" : "0bDVQCKj9ElT4JrzcvYnoR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b5e3a2de10a71a55a90ceac4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b5e3a2de10a71a55a90ceac4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b5e3a2de10a71a55a90ceac4",
+        "width" : 64
+      } ],
+      "name" : "Realm Of Consciousness Pt.V",
+      "release_date" : "2021-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:0bDVQCKj9ElT4JrzcvYnoR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 601044,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEEC33500313"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/20CRVhKtTwpsN3FBqP7rti"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/20CRVhKtTwpsN3FBqP7rti",
+    "id" : "20CRVhKtTwpsN3FBqP7rti",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sogno Profondo",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/78c10a2808489d1b68db26e7262c5ea0592875d2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:20CRVhKtTwpsN3FBqP7rti"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+        "id" : "7onsqSWPufMm5ZnUCECDpf",
+        "name" : "Joseph Capriati",
+        "type" : "artist",
+        "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7JJD1cI4eX8WKkU95EaUHs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7JJD1cI4eX8WKkU95EaUHs",
+      "id" : "7JJD1cI4eX8WKkU95EaUHs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273db84277a1eac1bdf72b0d09b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02db84277a1eac1bdf72b0d09b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851db84277a1eac1bdf72b0d09b",
+        "width" : 64
+      } ],
+      "name" : "New Horizons",
+      "release_date" : "2020-08-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7JJD1cI4eX8WKkU95EaUHs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1X8A68bKIKdFWmOWYs3Fch"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1X8A68bKIKdFWmOWYs3Fch",
+      "id" : "1X8A68bKIKdFWmOWYs3Fch",
+      "name" : "James Senese",
+      "type" : "artist",
+      "uri" : "spotify:artist:1X8A68bKIKdFWmOWYs3Fch"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213761,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ITTQF2000010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4CNJyKJs1g5SRe6vkAvpLb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4CNJyKJs1g5SRe6vkAvpLb",
+    "id" : "4CNJyKJs1g5SRe6vkAvpLb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "New Horizons - Edit",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e44a7d642566957207d3b16317362003b4008b8c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4CNJyKJs1g5SRe6vkAvpLb"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4OW0w5K2UNaWtbpRqzWqI0",
+        "id" : "4OW0w5K2UNaWtbpRqzWqI0",
+        "name" : "Joey Beltram",
+        "type" : "artist",
+        "uri" : "spotify:artist:4OW0w5K2UNaWtbpRqzWqI0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/53QoUbM28T65OXixyszX3l"
+      },
+      "href" : "https://api.spotify.com/v1/albums/53QoUbM28T65OXixyszX3l",
+      "id" : "53QoUbM28T65OXixyszX3l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273573dec06dbf72f0eeb92f782",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02573dec06dbf72f0eeb92f782",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851573dec06dbf72f0eeb92f782",
+        "width" : 64
+      } ],
+      "name" : "Slice 2010",
+      "release_date" : "2010-03-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:53QoUbM28T65OXixyszX3l"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4OW0w5K2UNaWtbpRqzWqI0",
+      "id" : "4OW0w5K2UNaWtbpRqzWqI0",
+      "name" : "Joey Beltram",
+      "type" : "artist",
+      "uri" : "spotify:artist:4OW0w5K2UNaWtbpRqzWqI0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 459226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUXN21730902"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7BgqxywPXX2o7nUUn9fWhJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7BgqxywPXX2o7nUUn9fWhJ",
+    "id" : "7BgqxywPXX2o7nUUn9fWhJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Slice 2010 - Joseph Capriati Remix",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8a4b3db981989f01159c8fdf81e842fba2afc807?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7BgqxywPXX2o7nUUn9fWhJ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3oseTGHpkBUiU53izOE8BE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3oseTGHpkBUiU53izOE8BE",
+      "id" : "3oseTGHpkBUiU53izOE8BE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de3e1da39a11fd66b43dc225",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de3e1da39a11fd66b43dc225",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de3e1da39a11fd66b43dc225",
+        "width" : 64
+      } ],
+      "name" : "A-Sides",
+      "release_date" : "2012-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:3oseTGHpkBUiU53izOE8BE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 590820,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBYNV1100406"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0og4kj4zNZEn0lINNSLDRQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0og4kj4zNZEn0lINNSLDRQ",
+    "id" : "0og4kj4zNZEn0lINNSLDRQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Solar System",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a75ce866eeec2b47199094640d4276b7b92ae4c4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0og4kj4zNZEn0lINNSLDRQ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1btv9qmIpbp7q1ixCYNdHu",
+        "id" : "1btv9qmIpbp7q1ixCYNdHu",
+        "name" : "Adam Beyer",
+        "type" : "artist",
+        "uri" : "spotify:artist:1btv9qmIpbp7q1ixCYNdHu"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+        "id" : "7onsqSWPufMm5ZnUCECDpf",
+        "name" : "Joseph Capriati",
+        "type" : "artist",
+        "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2XcwpT0OjtpmA3j7SZXTE4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2XcwpT0OjtpmA3j7SZXTE4",
+      "id" : "2XcwpT0OjtpmA3j7SZXTE4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736defbb17f29cff043ccb0e66",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026defbb17f29cff043ccb0e66",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516defbb17f29cff043ccb0e66",
+        "width" : 64
+      } ],
+      "name" : "Parallels",
+      "release_date" : "2016-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2XcwpT0OjtpmA3j7SZXTE4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1btv9qmIpbp7q1ixCYNdHu",
+      "id" : "1btv9qmIpbp7q1ixCYNdHu",
+      "name" : "Adam Beyer",
+      "type" : "artist",
+      "uri" : "spotify:artist:1btv9qmIpbp7q1ixCYNdHu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "name" : "Joseph Capriati",
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 462442,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DETB31666011"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3aKVkh1fYltQJo1BiO1VM7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3aKVkh1fYltQJo1BiO1VM7",
+    "id" : "3aKVkh1fYltQJo1BiO1VM7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Parallels",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/33dd579be834d7f62f57ecb0fe5662fc7e6b4b9d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3aKVkh1fYltQJo1BiO1VM7"
+  } ]
+}

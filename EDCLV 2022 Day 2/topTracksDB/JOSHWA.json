@@ -1,0 +1,817 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+        "id" : "44T94QQEc60Jf7kqGY6Rip",
+        "name" : "Lee Foss",
+        "type" : "artist",
+        "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4mnGRL7lErjyRJsoCwgJT4",
+      "id" : "4mnGRL7lErjyRJsoCwgJT4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e397e06e46c475ee97e56cb4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e397e06e46c475ee97e56cb4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e397e06e46c475ee97e56cb4",
+        "width" : 64
+      } ],
+      "name" : "My Humps",
+      "release_date" : "2021-10-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4mnGRL7lErjyRJsoCwgJT4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44T94QQEc60Jf7kqGY6Rip",
+      "id" : "44T94QQEc60Jf7kqGY6Rip",
+      "name" : "Lee Foss",
+      "type" : "artist",
+      "uri" : "spotify:artist:44T94QQEc60Jf7kqGY6Rip"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 186124,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y2151161"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3BbD2sqk7P7Rc9V0KF9o4s",
+    "id" : "3BbD2sqk7P7Rc9V0KF9o4s",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "My Humps",
+    "popularity" : 32,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3BbD2sqk7P7Rc9V0KF9o4s"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4FCzCS0KEgb0rgySWINItO",
+        "id" : "4FCzCS0KEgb0rgySWINItO",
+        "name" : "CID",
+        "type" : "artist",
+        "uri" : "spotify:artist:4FCzCS0KEgb0rgySWINItO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5QyO0fxIi4l2LFQkbWUGWw",
+      "id" : "5QyO0fxIi4l2LFQkbWUGWw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27374e77f4d9f62002f17f90927",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0274e77f4d9f62002f17f90927",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485174e77f4d9f62002f17f90927",
+        "width" : 64
+      } ],
+      "name" : "How We Do",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5QyO0fxIi4l2LFQkbWUGWw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4FCzCS0KEgb0rgySWINItO",
+      "id" : "4FCzCS0KEgb0rgySWINItO",
+      "name" : "CID",
+      "type" : "artist",
+      "uri" : "spotify:artist:4FCzCS0KEgb0rgySWINItO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 187968,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y2251241"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0oDnZigAyI2RTxareDIuXO",
+    "id" : "0oDnZigAyI2RTxareDIuXO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "How We Do",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1e5eb2367a9d35654934d57ed498aec641c5ad94?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0oDnZigAyI2RTxareDIuXO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+        "id" : "7kNqXtgeIwFtelmRjWv205",
+        "name" : "John Summit",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pT84mlmySh9CkiGfJA9xV",
+        "id" : "4pT84mlmySh9CkiGfJA9xV",
+        "name" : "Echoes",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pT84mlmySh9CkiGfJA9xV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/51JpJXT6QTsz1Fp672erqG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/51JpJXT6QTsz1Fp672erqG",
+      "id" : "51JpJXT6QTsz1Fp672erqG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fb577703f6dbc66ea000b241",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fb577703f6dbc66ea000b241",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fb577703f6dbc66ea000b241",
+        "width" : 64
+      } ],
+      "name" : "Human (feat. Echoes) [Joshwa Remix]",
+      "release_date" : "2022-02-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:51JpJXT6QTsz1Fp672erqG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kNqXtgeIwFtelmRjWv205",
+      "id" : "7kNqXtgeIwFtelmRjWv205",
+      "name" : "John Summit",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kNqXtgeIwFtelmRjWv205"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pT84mlmySh9CkiGfJA9xV",
+      "id" : "4pT84mlmySh9CkiGfJA9xV",
+      "name" : "Echoes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pT84mlmySh9CkiGfJA9xV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 215870,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAYE2200006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/23DTsnKCwj5Gf2J1aZXMNh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/23DTsnKCwj5Gf2J1aZXMNh",
+    "id" : "23DTsnKCwj5Gf2J1aZXMNh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Human (feat. Echoes) - Joshwa Remix",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5b8910fd382cc201dc28742035a0d006b1529520?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:23DTsnKCwj5Gf2J1aZXMNh"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Krv6spDHbLWdNMtyTdRpX",
+        "id" : "5Krv6spDHbLWdNMtyTdRpX",
+        "name" : "Ossey James",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Krv6spDHbLWdNMtyTdRpX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0ipSLNiyPij1uJ8mbcRyFy",
+      "id" : "0ipSLNiyPij1uJ8mbcRyFy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731e6ef788c405e9e097f88b65",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021e6ef788c405e9e097f88b65",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511e6ef788c405e9e097f88b65",
+        "width" : 64
+      } ],
+      "name" : "Party's Jumpin",
+      "release_date" : "2021-08-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0ipSLNiyPij1uJ8mbcRyFy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Krv6spDHbLWdNMtyTdRpX",
+      "id" : "5Krv6spDHbLWdNMtyTdRpX",
+      "name" : "Ossey James",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Krv6spDHbLWdNMtyTdRpX"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 175238,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBK6Y2151101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/11mmDbwTvh67lHK8jEv53i",
+    "id" : "11mmDbwTvh67lHK8jEv53i",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Party's Jumpin",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7ceb6fdc1b9ebcedd77fca96f602fdd022b5f941?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:11mmDbwTvh67lHK8jEv53i"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6YDB8EqiwJvkIzXUtYgpA8",
+        "id" : "6YDB8EqiwJvkIzXUtYgpA8",
+        "name" : "Martin Badder",
+        "type" : "artist",
+        "uri" : "spotify:artist:6YDB8EqiwJvkIzXUtYgpA8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/53L1l0dtLblkuQZ7KaQAEF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/53L1l0dtLblkuQZ7KaQAEF",
+      "id" : "53L1l0dtLblkuQZ7KaQAEF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732b45a581d100238ef96edd7d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022b45a581d100238ef96edd7d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512b45a581d100238ef96edd7d",
+        "width" : 64
+      } ],
+      "name" : "Off Limits",
+      "release_date" : "2021-11-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:53L1l0dtLblkuQZ7KaQAEF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6YDB8EqiwJvkIzXUtYgpA8",
+      "id" : "6YDB8EqiwJvkIzXUtYgpA8",
+      "name" : "Martin Badder",
+      "type" : "artist",
+      "uri" : "spotify:artist:6YDB8EqiwJvkIzXUtYgpA8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 157968,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBHAD2102643"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4rbprhajs0YAoGNKefuS77"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4rbprhajs0YAoGNKefuS77",
+    "id" : "4rbprhajs0YAoGNKefuS77",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Off Limits",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a5d067f1ab665635700b4a4745701be37ef87f7f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4rbprhajs0YAoGNKefuS77"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/62YKkfs1Qvgmf3Cofi4ts7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/62YKkfs1Qvgmf3Cofi4ts7",
+      "id" : "62YKkfs1Qvgmf3Cofi4ts7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273486e15cf612a481a3ebb13c1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02486e15cf612a481a3ebb13c1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851486e15cf612a481a3ebb13c1",
+        "width" : 64
+      } ],
+      "name" : "Cloud 9",
+      "release_date" : "2022-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:62YKkfs1Qvgmf3Cofi4ts7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200930,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB8KE2200259"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6htMsGNmVTAuo17L6qnrsn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6htMsGNmVTAuo17L6qnrsn",
+    "id" : "6htMsGNmVTAuo17L6qnrsn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Cloud 9",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e3fe25bfb55854e968dde6a7cc00aeae2108c62b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6htMsGNmVTAuo17L6qnrsn"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/28MMqow2baBSf0AGjEBjad"
+      },
+      "href" : "https://api.spotify.com/v1/albums/28MMqow2baBSf0AGjEBjad",
+      "id" : "28MMqow2baBSf0AGjEBjad",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738f28137a4774b112f38899a7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028f28137a4774b112f38899a7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518f28137a4774b112f38899a7",
+        "width" : 64
+      } ],
+      "name" : "Always Yours",
+      "release_date" : "2021-09-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:28MMqow2baBSf0AGjEBjad"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 179000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ542101369"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/52U7K8Wb6QEfESjdZ9syFL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/52U7K8Wb6QEfESjdZ9syFL",
+    "id" : "52U7K8Wb6QEfESjdZ9syFL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Always Yours",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f64a2bfb9429f92fecfa5b4227225e017cc7656d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:52U7K8Wb6QEfESjdZ9syFL"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0wu9h1BxsSopqw244jO0U4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0wu9h1BxsSopqw244jO0U4",
+      "id" : "0wu9h1BxsSopqw244jO0U4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f85343e3ac1c5a391848c820",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f85343e3ac1c5a391848c820",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f85343e3ac1c5a391848c820",
+        "width" : 64
+      } ],
+      "name" : "La Vida",
+      "release_date" : "2020-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0wu9h1BxsSopqw244jO0U4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 161106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ542000751"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1gW6EOhbHSn6nFug3zpyHK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1gW6EOhbHSn6nFug3zpyHK",
+    "id" : "1gW6EOhbHSn6nFug3zpyHK",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "La Vida",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1474957a502d11a172db1363b7289560647aa39d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1gW6EOhbHSn6nFug3zpyHK"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3iSq7kYQOAjugsv9RjCFue"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3iSq7kYQOAjugsv9RjCFue",
+        "id" : "3iSq7kYQOAjugsv9RjCFue",
+        "name" : "George Mensah",
+        "type" : "artist",
+        "uri" : "spotify:artist:3iSq7kYQOAjugsv9RjCFue"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+        "id" : "1PzAgFVk9v8cxn9flrqrv5",
+        "name" : "Joshwa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2VwD0TLHD8utxqoUob4ryf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2VwD0TLHD8utxqoUob4ryf",
+      "id" : "2VwD0TLHD8utxqoUob4ryf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e77c532b38226e4af9a11c30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e77c532b38226e4af9a11c30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e77c532b38226e4af9a11c30",
+        "width" : 64
+      } ],
+      "name" : "Can't Sleep (Joshwa Remix)",
+      "release_date" : "2021-05-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2VwD0TLHD8utxqoUob4ryf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iSq7kYQOAjugsv9RjCFue"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iSq7kYQOAjugsv9RjCFue",
+      "id" : "3iSq7kYQOAjugsv9RjCFue",
+      "name" : "George Mensah",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iSq7kYQOAjugsv9RjCFue"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 173862,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB8KE2153267"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2zifc4UlS12aiyapjiJ3HN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2zifc4UlS12aiyapjiJ3HN",
+    "id" : "2zifc4UlS12aiyapjiJ3HN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Can't Sleep - Joshwa Remix",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f790fba74b4e8e5e10a8fad9c6b4d7377cf5b5b2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2zifc4UlS12aiyapjiJ3HN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07VdEUK5mf0rifGeNqs0Wg",
+        "id" : "07VdEUK5mf0rifGeNqs0Wg",
+        "name" : "Kevin McKay",
+        "type" : "artist",
+        "uri" : "spotify:artist:07VdEUK5mf0rifGeNqs0Wg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ZJYlK5jNLrZ0hU6SXaogE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ZJYlK5jNLrZ0hU6SXaogE",
+      "id" : "6ZJYlK5jNLrZ0hU6SXaogE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27357679d904364bf110775d663",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0257679d904364bf110775d663",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485157679d904364bf110775d663",
+        "width" : 64
+      } ],
+      "name" : "Summer Of Love",
+      "release_date" : "2020-09-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:6ZJYlK5jNLrZ0hU6SXaogE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/07VdEUK5mf0rifGeNqs0Wg",
+      "id" : "07VdEUK5mf0rifGeNqs0Wg",
+      "name" : "Kevin McKay",
+      "type" : "artist",
+      "uri" : "spotify:artist:07VdEUK5mf0rifGeNqs0Wg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PzAgFVk9v8cxn9flrqrv5",
+      "id" : "1PzAgFVk9v8cxn9flrqrv5",
+      "name" : "Joshwa",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PzAgFVk9v8cxn9flrqrv5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DIvkVGJmk8Luy53ChhCjj",
+      "id" : "1DIvkVGJmk8Luy53ChhCjj",
+      "name" : "Earth n Days",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DIvkVGJmk8Luy53ChhCjj"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 151451,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBPQS2000146"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/18PDYXybOPlwCiwlaqNw1h"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/18PDYXybOPlwCiwlaqNw1h",
+    "id" : "18PDYXybOPlwCiwlaqNw1h",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Such a Good Feeling - Earth n Days Remix",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/27f66039362ea3566771396fe489b08c4878f29f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:18PDYXybOPlwCiwlaqNw1h"
+  } ]
+}

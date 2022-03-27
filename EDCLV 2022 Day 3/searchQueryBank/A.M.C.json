@@ -1,0 +1,515 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=A.M.C&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24408
+      },
+      "genres" : [ "bass house", "drum and bass", "jump up" ],
+      "href" : "https://api.spotify.com/v1/artists/5DygptUY6coQHpmgFfISzQ",
+      "id" : "5DygptUY6coQHpmgFfISzQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb9639c4071d917787a3ed6e7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b9639c4071d917787a3ed6e7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b9639c4071d917787a3ed6e7",
+        "width" : 160
+      } ],
+      "name" : "A.M.C",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:5DygptUY6coQHpmgFfISzQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4503304
+      },
+      "genres" : [ "classical", "classical era" ],
+      "href" : "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+      "id" : "4NJhFmfw43RLBLjQvxDuRS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb65174e0dfe4f23369a27c993",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517465174e0dfe4f23369a27c993",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17865174e0dfe4f23369a27c993",
+        "width" : 160
+      } ],
+      "name" : "Wolfgang Amadeus Mozart",
+      "popularity" : 79,
+      "type" : "artist",
+      "uri" : "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4eOHFP71uCm3FZh7z2AG5s"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4eOHFP71uCm3FZh7z2AG5s",
+      "id" : "4eOHFP71uCm3FZh7z2AG5s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27398b76173ae86edda2189dd6b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0298b76173ae86edda2189dd6b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485198b76173ae86edda2189dd6b",
+        "width" : 64
+      } ],
+      "name" : "a.m.c.",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:4eOHFP71uCm3FZh7z2AG5s"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1276583
+      },
+      "genres" : [ "classical", "impressionism", "post-romantic era" ],
+      "href" : "https://api.spotify.com/v1/artists/1Uff91EOsvd99rtAupatMP",
+      "id" : "1Uff91EOsvd99rtAupatMP",
+      "images" : [ {
+        "height" : 458,
+        "url" : "https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882",
+        "width" : 387
+      }, {
+        "height" : 237,
+        "url" : "https://i.scdn.co/image/d9bf00a7a314028df902da1d026a9844a3365d61",
+        "width" : 200
+      }, {
+        "height" : 76,
+        "url" : "https://i.scdn.co/image/155965c396369f20273bc6ba6a14f4185ffad805",
+        "width" : 64
+      } ],
+      "name" : "Claude Debussy",
+      "popularity" : 73,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Uff91EOsvd99rtAupatMP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75bC8PvLPs9PqU5cJAXDw1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/75bC8PvLPs9PqU5cJAXDw1",
+      "id" : "75bC8PvLPs9PqU5cJAXDw1",
+      "images" : [ ],
+      "name" : "A.M.C",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:75bC8PvLPs9PqU5cJAXDw1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1s1yzZIZRjmH6pRPoNaB0q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1s1yzZIZRjmH6pRPoNaB0q",
+      "id" : "1s1yzZIZRjmH6pRPoNaB0q",
+      "images" : [ ],
+      "name" : "A.M.C.",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:1s1yzZIZRjmH6pRPoNaB0q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1101901
+      },
+      "genres" : [ "orchestral soundtrack", "soundtrack" ],
+      "href" : "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+      "id" : "3dRfiJ2650SZu6GbydcHNb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517486b13e4d2e65ebf694384ef4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17886b13e4d2e65ebf694384ef4",
+        "width" : 160
+      } ],
+      "name" : "John Williams",
+      "popularity" : 75,
+      "type" : "artist",
+      "uri" : "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3UD9DghcKNdoIFvhnjyFXU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3UD9DghcKNdoIFvhnjyFXU",
+      "id" : "3UD9DghcKNdoIFvhnjyFXU",
+      "images" : [ ],
+      "name" : "A.M.C & Loko",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3UD9DghcKNdoIFvhnjyFXU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 492435
+      },
+      "genres" : [ "cali rap", "hip hop", "rap", "southern hip hop", "trap", "underground hip hop", "west coast trap" ],
+      "href" : "https://api.spotify.com/v1/artists/3s8alQfNnY0roAHaJh7Xxt",
+      "id" : "3s8alQfNnY0roAHaJh7Xxt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb527a62857aa555de8ff0a66a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174527a62857aa555de8ff0a66a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178527a62857aa555de8ff0a66a",
+        "width" : 160
+      } ],
+      "name" : "Dom Kennedy",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:3s8alQfNnY0roAHaJh7Xxt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1QQT5ZhEophYCbUSR6AP4T"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 64
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1QQT5ZhEophYCbUSR6AP4T",
+      "id" : "1QQT5ZhEophYCbUSR6AP4T",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273daddc74e5fb608f37d1d3956",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02daddc74e5fb608f37d1d3956",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851daddc74e5fb608f37d1d3956",
+        "width" : 64
+      } ],
+      "name" : "A.M.C & Six Blade",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:1QQT5ZhEophYCbUSR6AP4T"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 505558
+      },
+      "genres" : [ "chamber ensemble", "classical cello", "classical performance" ],
+      "href" : "https://api.spotify.com/v1/artists/5Dl3HXZjG6ZOWT5cV375lk",
+      "id" : "5Dl3HXZjG6ZOWT5cV375lk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fb0fcd51414e7bbe85e00b6f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fb0fcd51414e7bbe85e00b6f",
+        "width" : 160
+      } ],
+      "name" : "Yo-Yo Ma",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Dl3HXZjG6ZOWT5cV375lk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1miHtONf0W6rQb45w1gfMd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 57
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1miHtONf0W6rQb45w1gfMd",
+      "id" : "1miHtONf0W6rQb45w1gfMd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27372dd8b388a37043364349b68",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0272dd8b388a37043364349b68",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485172dd8b388a37043364349b68",
+        "width" : 64
+      } ],
+      "name" : "A.M.C.E. Santa Cecilia de Elda",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:1miHtONf0W6rQb45w1gfMd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4353392
+      },
+      "genres" : [ "classical", "classical era", "early romantic era", "german romanticism" ],
+      "href" : "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+      "id" : "2wOqMjp9TyABvtHdOSOTUS",
+      "images" : [ {
+        "height" : 750,
+        "url" : "https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346",
+        "width" : 1000
+      }, {
+        "height" : 480,
+        "url" : "https://i.scdn.co/image/693030b2c7ee75d1fc095d9e6a7fe391a6b10f27",
+        "width" : 640
+      }, {
+        "height" : 150,
+        "url" : "https://i.scdn.co/image/348252c0e6722a55a05484b052ef010e71ca30ce",
+        "width" : 200
+      }, {
+        "height" : 48,
+        "url" : "https://i.scdn.co/image/621f978b2a436b0392478baccb8778d3a9842e38",
+        "width" : 64
+      } ],
+      "name" : "Ludwig van Beethoven",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5IbacajK7OmTd0lvHCUsj6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5IbacajK7OmTd0lvHCUsj6",
+      "id" : "5IbacajK7OmTd0lvHCUsj6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377bbd0c01e675095b70c399b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277bbd0c01e675095b70c399b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177bbd0c01e675095b70c399b",
+        "width" : 64
+      } ],
+      "name" : "Amc Aman",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:5IbacajK7OmTd0lvHCUsj6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 644394
+      },
+      "genres" : [ "alternative dance", "alternative r&b", "chillwave", "indie soul", "indietronica", "new rave" ],
+      "href" : "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp",
+      "id" : "6O4EGCCb6DoIiR6B1QCQgp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb806b7dabf277e77a52d075cb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174806b7dabf277e77a52d075cb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178806b7dabf277e77a52d075cb",
+        "width" : 160
+      } ],
+      "name" : "Toro y Moi",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0z4BEQybdUN87PAynfwKhc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0z4BEQybdUN87PAynfwKhc",
+      "id" : "0z4BEQybdUN87PAynfwKhc",
+      "images" : [ ],
+      "name" : "A.M.C feat. Ajelown Owais",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0z4BEQybdUN87PAynfwKhc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3587318
+      },
+      "genres" : [ "baroque", "classical", "early music", "german baroque" ],
+      "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+      "id" : "5aIqB5nVVvmFsvSdExz408",
+      "images" : [ {
+        "height" : 479,
+        "url" : "https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88",
+        "width" : 479
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/53ec9642cf116eca56d88284c40bb1497585e28e",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/438b280a22e63f994fd39feb031683fb861a31cb",
+        "width" : 64
+      } ],
+      "name" : "Johann Sebastian Bach",
+      "popularity" : 81,
+      "type" : "artist",
+      "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cak9GqLp9o24fcJVW2izm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5cak9GqLp9o24fcJVW2izm",
+      "id" : "5cak9GqLp9o24fcJVW2izm",
+      "images" : [ ],
+      "name" : "A.M.C & BMK",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5cak9GqLp9o24fcJVW2izm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 243204
+      },
+      "genres" : [ "british orchestra", "classical", "classical performance", "orchestra" ],
+      "href" : "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+      "id" : "5yxyJsFanEAuwSM5kOuZKc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf113c063e071771545263b9a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f113c063e071771545263b9a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f113c063e071771545263b9a",
+        "width" : 160
+      } ],
+      "name" : "London Symphony Orchestra",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 615408
+      },
+      "genres" : [ "disney", "hollywood", "pop", "post-teen pop", "social media pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6SvFyXN6qzhw95Bj4HoevV",
+      "id" : "6SvFyXN6qzhw95Bj4HoevV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739c600a135f22ec1f1f2a5de7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029c600a135f22ec1f1f2a5de7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519c600a135f22ec1f1f2a5de7",
+        "width" : 64
+      } ],
+      "name" : "China Anne McClain",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:6SvFyXN6qzhw95Bj4HoevV"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=A.M.C&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 10010
+  }
+}

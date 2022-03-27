@@ -1,0 +1,43 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=IMANBEK&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 138102
+      },
+      "genres" : [ "dance pop", "edm", "electro house", "pop dance", "slap house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/5rGrDvrLOV2VV8SCFVGWlj",
+      "id" : "5rGrDvrLOV2VV8SCFVGWlj",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/ab6772690000c46c09bedc30a908e616665228df",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6772690000dd2209bedc30a908e616665228df",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/ab6772690000bac309bedc30a908e616665228df",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67726900008f7409bedc30a908e616665228df",
+        "width" : 64
+      } ],
+      "name" : "Imanbek",
+      "popularity" : 79,
+      "type" : "artist",
+      "uri" : "spotify:artist:5rGrDvrLOV2VV8SCFVGWlj"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

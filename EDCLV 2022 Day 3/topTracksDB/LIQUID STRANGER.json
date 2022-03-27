@@ -1,0 +1,799 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+        "id" : "4YJsSCuag8W1TFTgSeEc2k",
+        "name" : "Liquid Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3ZWcx0FGgPqxpxcQ87cuZM",
+      "id" : "3ZWcx0FGgPqxpxcQ87cuZM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b8916bf004a5f1b1e7cd06f1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b8916bf004a5f1b1e7cd06f1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b8916bf004a5f1b1e7cd06f1",
+        "width" : 64
+      } ],
+      "name" : "Jungle Juice",
+      "release_date" : "2019-09-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3ZWcx0FGgPqxpxcQ87cuZM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 274966,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAEI1912838"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1VxQboO0KAsIm8MjSShBJv",
+    "id" : "1VxQboO0KAsIm8MjSShBJv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Jungle Juice",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1837bc4fbd46db0b3ec9317a4fd26178a3e8d222?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1VxQboO0KAsIm8MjSShBJv"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+        "id" : "4YJsSCuag8W1TFTgSeEc2k",
+        "name" : "Liquid Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JJclMMPi2YgEKjJY9AjbB",
+        "id" : "5JJclMMPi2YgEKjJY9AjbB",
+        "name" : "Mr. Bill",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JJclMMPi2YgEKjJY9AjbB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5AoXSiM511L4To0AN5oZVB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5AoXSiM511L4To0AN5oZVB",
+        "id" : "5AoXSiM511L4To0AN5oZVB",
+        "name" : "Space Jesus",
+        "type" : "artist",
+        "uri" : "spotify:artist:5AoXSiM511L4To0AN5oZVB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4znkABCZxx5B6hwVUIstIV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4znkABCZxx5B6hwVUIstIV",
+      "id" : "4znkABCZxx5B6hwVUIstIV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734c9e097cba4de9e85d7ea005",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024c9e097cba4de9e85d7ea005",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514c9e097cba4de9e85d7ea005",
+        "width" : 64
+      } ],
+      "name" : "Weird & Wonderful",
+      "release_date" : "2017-02-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4znkABCZxx5B6hwVUIstIV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5AoXSiM511L4To0AN5oZVB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5AoXSiM511L4To0AN5oZVB",
+      "id" : "5AoXSiM511L4To0AN5oZVB",
+      "name" : "Space Jesus",
+      "type" : "artist",
+      "uri" : "spotify:artist:5AoXSiM511L4To0AN5oZVB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230205,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQY51707725"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4HiuT2pdJzwdSKf72aSdhs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4HiuT2pdJzwdSKf72aSdhs",
+    "id" : "4HiuT2pdJzwdSKf72aSdhs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Spaceboss",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/61b8f51a17a2a9c42d6033fa92293b4b789bed05?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4HiuT2pdJzwdSKf72aSdhs"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+        "id" : "4YJsSCuag8W1TFTgSeEc2k",
+        "name" : "Liquid Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3Gg6RFUbthCb0a6y3Nxssq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3Gg6RFUbthCb0a6y3Nxssq",
+      "id" : "3Gg6RFUbthCb0a6y3Nxssq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734824272999240aeb2eaf19b1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024824272999240aeb2eaf19b1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514824272999240aeb2eaf19b1",
+        "width" : 64
+      } ],
+      "name" : "Dissolve",
+      "release_date" : "2016-07-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3Gg6RFUbthCb0a6y3Nxssq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 392592,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1662786"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Qm14E0Scc9hpGPwhowHEP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Qm14E0Scc9hpGPwhowHEP",
+    "id" : "0Qm14E0Scc9hpGPwhowHEP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dissolve",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/178e6938e4b7940512463373979f0b7fd8130046?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0Qm14E0Scc9hpGPwhowHEP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Hrqjumb6WHg2aAUHJHLND",
+        "id" : "3Hrqjumb6WHg2aAUHJHLND",
+        "name" : "LSDREAM",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Hrqjumb6WHg2aAUHJHLND"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/60obah4obhSZaLOfxOAwj5",
+      "id" : "60obah4obhSZaLOfxOAwj5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ee2c1d5fb7b992218b17f69a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ee2c1d5fb7b992218b17f69a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ee2c1d5fb7b992218b17f69a",
+        "width" : 64
+      } ],
+      "name" : "PEACE LOVE & WUBZ",
+      "release_date" : "2021-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:60obah4obhSZaLOfxOAwj5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Hrqjumb6WHg2aAUHJHLND",
+      "id" : "3Hrqjumb6WHg2aAUHJHLND",
+      "name" : "LSDREAM",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Hrqjumb6WHg2aAUHJHLND"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 254834,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2136967"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1LCFPiP7R6toCsO3AYAWBj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1LCFPiP7R6toCsO3AYAWBj",
+    "id" : "1LCFPiP7R6toCsO3AYAWBj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "POTIONS",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/29b326314403c70db86269947373f0ccd0b8aead?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1LCFPiP7R6toCsO3AYAWBj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+        "id" : "4YJsSCuag8W1TFTgSeEc2k",
+        "name" : "Liquid Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6j78LtFLqDG65Ju57NUM5N",
+        "id" : "6j78LtFLqDG65Ju57NUM5N",
+        "name" : "Wreckno",
+        "type" : "artist",
+        "uri" : "spotify:artist:6j78LtFLqDG65Ju57NUM5N"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4icJQ3JuZV3PW6RVVVvU1A"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4icJQ3JuZV3PW6RVVVvU1A",
+      "id" : "4icJQ3JuZV3PW6RVVVvU1A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738d79b599c3b6a7426fa463e9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028d79b599c3b6a7426fa463e9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518d79b599c3b6a7426fa463e9",
+        "width" : 64
+      } ],
+      "name" : "Holla",
+      "release_date" : "2022-02-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4icJQ3JuZV3PW6RVVVvU1A"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6j78LtFLqDG65Ju57NUM5N",
+      "id" : "6j78LtFLqDG65Ju57NUM5N",
+      "name" : "Wreckno",
+      "type" : "artist",
+      "uri" : "spotify:artist:6j78LtFLqDG65Ju57NUM5N"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 182266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USA2P2202946"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ZXKxQWkDCm8RI0JWnBaam"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ZXKxQWkDCm8RI0JWnBaam",
+    "id" : "5ZXKxQWkDCm8RI0JWnBaam",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Holla",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/300b6eca3ee88c584b86faecae835e938055e35d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5ZXKxQWkDCm8RI0JWnBaam"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+        "id" : "4YJsSCuag8W1TFTgSeEc2k",
+        "name" : "Liquid Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5Zha7oyiDkyQSngoGO1J20"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5Zha7oyiDkyQSngoGO1J20",
+      "id" : "5Zha7oyiDkyQSngoGO1J20",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733ded9b26090c25b9db7b8812",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023ded9b26090c25b9db7b8812",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513ded9b26090c25b9db7b8812",
+        "width" : 64
+      } ],
+      "name" : "Berserk",
+      "release_date" : "2022-03-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:5Zha7oyiDkyQSngoGO1J20"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2204888"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2XFw9Ym5nzGhxcEUaEL4c9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2XFw9Ym5nzGhxcEUaEL4c9",
+    "id" : "2XFw9Ym5nzGhxcEUaEL4c9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Berserk",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d7b0d34558003c5f3b73b917b02b906c81c35334?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2XFw9Ym5nzGhxcEUaEL4c9"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3GfhCqX1y0EdVBaCGdyNXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3GfhCqX1y0EdVBaCGdyNXH",
+      "id" : "3GfhCqX1y0EdVBaCGdyNXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736dde2fbab93c3c16700697e0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026dde2fbab93c3c16700697e0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516dde2fbab93c3c16700697e0",
+        "width" : 64
+      } ],
+      "name" : "CONVOY",
+      "release_date" : "2018-04-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:3GfhCqX1y0EdVBaCGdyNXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5AoXSiM511L4To0AN5oZVB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5AoXSiM511L4To0AN5oZVB",
+      "id" : "5AoXSiM511L4To0AN5oZVB",
+      "name" : "Space Jesus",
+      "type" : "artist",
+      "uri" : "spotify:artist:5AoXSiM511L4To0AN5oZVB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 396537,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1805191"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3zjx24dKimAUvpxBLucXRq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3zjx24dKimAUvpxBLucXRq",
+    "id" : "3zjx24dKimAUvpxBLucXRq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dragonhawks",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7f8f9a342300bda338bf8f38ec2714f10dd58c78?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 23,
+    "type" : "track",
+    "uri" : "spotify:track:3zjx24dKimAUvpxBLucXRq"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+        "id" : "4YJsSCuag8W1TFTgSeEc2k",
+        "name" : "Liquid Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5AoXSiM511L4To0AN5oZVB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5AoXSiM511L4To0AN5oZVB",
+        "id" : "5AoXSiM511L4To0AN5oZVB",
+        "name" : "Space Jesus",
+        "type" : "artist",
+        "uri" : "spotify:artist:5AoXSiM511L4To0AN5oZVB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7H2m8CGFrK6oVBXs3WppBE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7H2m8CGFrK6oVBXs3WppBE",
+      "id" : "7H2m8CGFrK6oVBXs3WppBE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735ec99d3f5f43be66e8079d04",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025ec99d3f5f43be66e8079d04",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515ec99d3f5f43be66e8079d04",
+        "width" : 64
+      } ],
+      "name" : "Don't Stop / Won't Stop",
+      "release_date" : "2016-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7H2m8CGFrK6oVBXs3WppBE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 376815,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1662788"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5guWImRfbFiL6huf2CE3N5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5guWImRfbFiL6huf2CE3N5",
+    "id" : "5guWImRfbFiL6huf2CE3N5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Don't Stop",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ab746b096acb288f1a64e6d1536a5c2cac8eb601?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5guWImRfbFiL6huf2CE3N5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+        "id" : "4YJsSCuag8W1TFTgSeEc2k",
+        "name" : "Liquid Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5LlchhdHni8HgsO0Fx4Oxy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5LlchhdHni8HgsO0Fx4Oxy",
+      "id" : "5LlchhdHni8HgsO0Fx4Oxy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27315247f06be948c823300c179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0215247f06be948c823300c179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485115247f06be948c823300c179",
+        "width" : 64
+      } ],
+      "name" : "Gunslinger Feat. Pistol",
+      "release_date" : "2018-08-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5LlchhdHni8HgsO0Fx4Oxy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PvhKhgjBvuK1CjS8lEpEo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PvhKhgjBvuK1CjS8lEpEo",
+      "id" : "5PvhKhgjBvuK1CjS8lEpEo",
+      "name" : "Pistol",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PvhKhgjBvuK1CjS8lEpEo"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 361702,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1823552"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7vl5ZhqeiVkdgF5yixjQqY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7vl5ZhqeiVkdgF5yixjQqY",
+    "id" : "7vl5ZhqeiVkdgF5yixjQqY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gunslinger Feat. Pistol",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2a95724c002f853a9f9213b1b0d7688324f20f97?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7vl5ZhqeiVkdgF5yixjQqY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7muzHifhMdnfN1xncRLOqk",
+        "id" : "7muzHifhMdnfN1xncRLOqk",
+        "name" : "Flux Pavilion",
+        "type" : "artist",
+        "uri" : "spotify:artist:7muzHifhMdnfN1xncRLOqk"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+        "id" : "4YJsSCuag8W1TFTgSeEc2k",
+        "name" : "Liquid Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6mI4iIDX1XoU1cVOmMKmAn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6mI4iIDX1XoU1cVOmMKmAn",
+      "id" : "6mI4iIDX1XoU1cVOmMKmAn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27372dbd24bc68d6c8164dc55c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0272dbd24bc68d6c8164dc55c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485172dbd24bc68d6c8164dc55c0",
+        "width" : 64
+      } ],
+      "name" : "I Will Stay (Remix)",
+      "release_date" : "2021-08-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6mI4iIDX1XoU1cVOmMKmAn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7muzHifhMdnfN1xncRLOqk",
+      "id" : "7muzHifhMdnfN1xncRLOqk",
+      "name" : "Flux Pavilion",
+      "type" : "artist",
+      "uri" : "spotify:artist:7muzHifhMdnfN1xncRLOqk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1zrBQvkTNhFFby4V5UiK2L"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1zrBQvkTNhFFby4V5UiK2L",
+      "id" : "1zrBQvkTNhFFby4V5UiK2L",
+      "name" : "Turin Brakes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1zrBQvkTNhFFby4V5UiK2L"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 283278,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM92100107"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5hH0JzQONmSG2CfKVEaEbp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5hH0JzQONmSG2CfKVEaEbp",
+    "id" : "5hH0JzQONmSG2CfKVEaEbp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Will Stay - Remix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/edca7333a62b317607fbeb477b976c7d7a2fb51d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5hH0JzQONmSG2CfKVEaEbp"
+  } ]
+}

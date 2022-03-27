@@ -1,0 +1,718 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+        "id" : "3Ka3k9K2WStR52UJVtbJZW",
+        "name" : "Mild Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Eh8MVthc1OiqAQOgQClVl",
+      "id" : "2Eh8MVthc1OiqAQOgQClVl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273946d7a6bceef77dce9cc0516",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02946d7a6bceef77dce9cc0516",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851946d7a6bceef77dce9cc0516",
+        "width" : 64
+      } ],
+      "name" : "MOOD",
+      "release_date" : "2020-03-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:2Eh8MVthc1OiqAQOgQClVl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 277681,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1822115"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2aT8QoKvwvhgx9PURO4DEP",
+    "id" : "2aT8QoKvwvhgx9PURO4DEP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "SWIM",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0142d2135165e192bbadc96f2513bd702548e2f7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2aT8QoKvwvhgx9PURO4DEP"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+        "id" : "3Ka3k9K2WStR52UJVtbJZW",
+        "name" : "Mild Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2N5BJEXSPup1i4j2xiGZFP",
+        "id" : "2N5BJEXSPup1i4j2xiGZFP",
+        "name" : "Frameworks",
+        "type" : "artist",
+        "uri" : "spotify:artist:2N5BJEXSPup1i4j2xiGZFP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1nPrTtEBU85rcPfVwHUOyQ",
+      "id" : "1nPrTtEBU85rcPfVwHUOyQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d60c5f61510ffec358a06ea8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d60c5f61510ffec358a06ea8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d60c5f61510ffec358a06ea8",
+        "width" : 64
+      } ],
+      "name" : "NO SKIN",
+      "release_date" : "2021-07-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1nPrTtEBU85rcPfVwHUOyQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2N5BJEXSPup1i4j2xiGZFP",
+      "id" : "2N5BJEXSPup1i4j2xiGZFP",
+      "name" : "Frameworks",
+      "type" : "artist",
+      "uri" : "spotify:artist:2N5BJEXSPup1i4j2xiGZFP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 278124,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2100531"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ObzkSnoXbfcJxOjwG09u0",
+    "id" : "0ObzkSnoXbfcJxOjwG09u0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "NO SKIN",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7775039f8f95cbc337e763e9361a8d0e6bd18dc7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0ObzkSnoXbfcJxOjwG09u0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+        "id" : "3Ka3k9K2WStR52UJVtbJZW",
+        "name" : "Mild Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1TgGIBh9vR7h9s4fIe6SnW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1TgGIBh9vR7h9s4fIe6SnW",
+      "id" : "1TgGIBh9vR7h9s4fIe6SnW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ba168ecfcba43a5cd28216d0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ba168ecfcba43a5cd28216d0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ba168ecfcba43a5cd28216d0",
+        "width" : 64
+      } ],
+      "name" : "MOOD (Remixes)",
+      "release_date" : "2020-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1TgGIBh9vR7h9s4fIe6SnW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7ItbAZITSFxSy5LJChXe18",
+      "id" : "7ItbAZITSFxSy5LJChXe18",
+      "name" : "ford.",
+      "type" : "artist",
+      "uri" : "spotify:artist:7ItbAZITSFxSy5LJChXe18"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212214,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1822348"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6FOOwpGF5GLCotjnic8evC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6FOOwpGF5GLCotjnic8evC",
+    "id" : "6FOOwpGF5GLCotjnic8evC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "SWIM - ford. Remix",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0a36a193e836f16a11bcd78cf191da3c181d2a36?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6FOOwpGF5GLCotjnic8evC"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+        "id" : "3Ka3k9K2WStR52UJVtbJZW",
+        "name" : "Mild Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/44T3g6iiEfy2Sre3LPsBbA",
+      "id" : "44T3g6iiEfy2Sre3LPsBbA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731d6d24f5e1b5cc5b3fda9981",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021d6d24f5e1b5cc5b3fda9981",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511d6d24f5e1b5cc5b3fda9981",
+        "width" : 64
+      } ],
+      "name" : "MACHINE",
+      "release_date" : "2021-09-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:44T3g6iiEfy2Sre3LPsBbA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 197018,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2100648"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0nGqpM1FC31Pnofc8K4b1h",
+    "id" : "0nGqpM1FC31Pnofc8K4b1h",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "MACHINE",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7e4440977697c78e55bdbc2284a8e1377fe26863?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0nGqpM1FC31Pnofc8K4b1h"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+        "id" : "3Ka3k9K2WStR52UJVtbJZW",
+        "name" : "Mild Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/02TfV5DbvB82aAL0zVgZGj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/02TfV5DbvB82aAL0zVgZGj",
+      "id" : "02TfV5DbvB82aAL0zVgZGj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b8de1243bd4706abc6d29ed3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b8de1243bd4706abc6d29ed3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b8de1243bd4706abc6d29ed3",
+        "width" : 64
+      } ],
+      "name" : "HAUNTED",
+      "release_date" : "2021-10-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:02TfV5DbvB82aAL0zVgZGj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 315000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2100743"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0kWaEuv3fZXOPeBNMG6iGc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0kWaEuv3fZXOPeBNMG6iGc",
+    "id" : "0kWaEuv3fZXOPeBNMG6iGc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "HAUNTED",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d85db64f9c7d37edbb48ad85b421d289768449ee?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0kWaEuv3fZXOPeBNMG6iGc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+        "id" : "3Ka3k9K2WStR52UJVtbJZW",
+        "name" : "Mild Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Eh8MVthc1OiqAQOgQClVl",
+      "id" : "2Eh8MVthc1OiqAQOgQClVl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273946d7a6bceef77dce9cc0516",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02946d7a6bceef77dce9cc0516",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851946d7a6bceef77dce9cc0516",
+        "width" : 64
+      } ],
+      "name" : "MOOD",
+      "release_date" : "2020-03-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:2Eh8MVthc1OiqAQOgQClVl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 177089,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1822467"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1DRLIUG8HFTBfJOFYaByZn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1DRLIUG8HFTBfJOFYaByZn",
+    "id" : "1DRLIUG8HFTBfJOFYaByZn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "FORMATIONS",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b01d3d112a9a7942f0b5b1d53aea75a259148a8d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1DRLIUG8HFTBfJOFYaByZn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+        "id" : "3Ka3k9K2WStR52UJVtbJZW",
+        "name" : "Mild Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Eh8MVthc1OiqAQOgQClVl",
+      "id" : "2Eh8MVthc1OiqAQOgQClVl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273946d7a6bceef77dce9cc0516",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02946d7a6bceef77dce9cc0516",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851946d7a6bceef77dce9cc0516",
+        "width" : 64
+      } ],
+      "name" : "MOOD",
+      "release_date" : "2020-03-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:2Eh8MVthc1OiqAQOgQClVl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QIZbR4qIR1yoJr9RWkR7E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QIZbR4qIR1yoJr9RWkR7E",
+      "id" : "2QIZbR4qIR1yoJr9RWkR7E",
+      "name" : "Boats",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QIZbR4qIR1yoJr9RWkR7E"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 287123,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1822464"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4mUWS2M0eoM8jezmEJPbFh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4mUWS2M0eoM8jezmEJPbFh",
+    "id" : "4mUWS2M0eoM8jezmEJPbFh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "WALLS",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dc38dedf454868c84a6ac02ebc2240810069a9ff?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4mUWS2M0eoM8jezmEJPbFh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+        "id" : "5oOhM2DFWab8XhSdQiITry",
+        "name" : "Tycho",
+        "type" : "artist",
+        "uri" : "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2n9rUOk5fZmy4qcMjE57jy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2n9rUOk5fZmy4qcMjE57jy",
+      "id" : "2n9rUOk5fZmy4qcMjE57jy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dcacf4be57ec9c14b17127e1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dcacf4be57ec9c14b17127e1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dcacf4be57ec9c14b17127e1",
+        "width" : 64
+      } ],
+      "name" : "Weather Remixes",
+      "release_date" : "2020-12-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:2n9rUOk5fZmy4qcMjE57jy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+      "id" : "5oOhM2DFWab8XhSdQiITry",
+      "name" : "Tycho",
+      "type" : "artist",
+      "uri" : "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 356000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2000643"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1MaJttT7W51b91L8rYlt4w"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1MaJttT7W51b91L8rYlt4w",
+    "id" : "1MaJttT7W51b91L8rYlt4w",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Easy - Mild Minds Remix",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b635147e5b58d0cd820aa9a5e0e0bb7e0b8c6eb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1MaJttT7W51b91L8rYlt4w"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+        "id" : "3Ka3k9K2WStR52UJVtbJZW",
+        "name" : "Mild Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4H0IJDbkR5Q0mZUFjpJNPj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4H0IJDbkR5Q0mZUFjpJNPj",
+      "id" : "4H0IJDbkR5Q0mZUFjpJNPj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377fddea8194736180fd4055d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277fddea8194736180fd4055d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177fddea8194736180fd4055d",
+        "width" : 64
+      } ],
+      "name" : "SWIM",
+      "release_date" : "2018-10-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:4H0IJDbkR5Q0mZUFjpJNPj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 255272,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1822117"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3uG4DR1pJU1fkO6LAJ7dpr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3uG4DR1pJU1fkO6LAJ7dpr",
+    "id" : "3uG4DR1pJU1fkO6LAJ7dpr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Don't Want Ur Luv",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/76fdae0a041c5e11b94b804b7f2bda773f50049c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3uG4DR1pJU1fkO6LAJ7dpr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+        "id" : "3Ka3k9K2WStR52UJVtbJZW",
+        "name" : "Mild Minds",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Eh8MVthc1OiqAQOgQClVl",
+      "id" : "2Eh8MVthc1OiqAQOgQClVl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273946d7a6bceef77dce9cc0516",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02946d7a6bceef77dce9cc0516",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851946d7a6bceef77dce9cc0516",
+        "width" : 64
+      } ],
+      "name" : "MOOD",
+      "release_date" : "2020-03-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:2Eh8MVthc1OiqAQOgQClVl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ka3k9K2WStR52UJVtbJZW",
+      "id" : "3Ka3k9K2WStR52UJVtbJZW",
+      "name" : "Mild Minds",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ka3k9K2WStR52UJVtbJZW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 215269,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1822469"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ahbjdXVY43uAZVfhWWE4i"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ahbjdXVY43uAZVfhWWE4i",
+    "id" : "5ahbjdXVY43uAZVfhWWE4i",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "DOPAMINE",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1d105fc5ce49f64673cc99ad0315a29f01b6dbb6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5ahbjdXVY43uAZVfhWWE4i"
+  } ]
+}

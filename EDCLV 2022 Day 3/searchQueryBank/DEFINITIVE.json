@@ -1,0 +1,523 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=DEFINITIVE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3137
+      },
+      "genres" : [ "turkish metal" ],
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0b74dfa7b96b6760767db733",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740b74dfa7b96b6760767db733",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780b74dfa7b96b6760767db733",
+        "width" : 160
+      } ],
+      "name" : "Definitive",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5OAEvAmyGixOucMhFwmq3w"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5OAEvAmyGixOucMhFwmq3w",
+      "id" : "5OAEvAmyGixOucMhFwmq3w",
+      "images" : [ ],
+      "name" : "Definitive Ordinance",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:5OAEvAmyGixOucMhFwmq3w"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5OvDIU8Ago4qllYRZJwmwq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5OvDIU8Ago4qllYRZJwmwq",
+      "id" : "5OvDIU8Ago4qllYRZJwmwq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273163293a8bb17f217c4218dc9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02163293a8bb17f217c4218dc9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851163293a8bb17f217c4218dc9",
+        "width" : 64
+      } ],
+      "name" : "definitivereduction",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:5OvDIU8Ago4qllYRZJwmwq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bQ3juOLR054oKPNfx4zmo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1272
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5bQ3juOLR054oKPNfx4zmo",
+      "id" : "5bQ3juOLR054oKPNfx4zmo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273edf26814b078c2a083faebea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02edf26814b078c2a083faebea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851edf26814b078c2a083faebea",
+        "width" : 64
+      } ],
+      "name" : "The Definitive Rat Pack",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:5bQ3juOLR054oKPNfx4zmo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xZ2GnDOzwlWw1KDepUufQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3xZ2GnDOzwlWw1KDepUufQ",
+      "id" : "3xZ2GnDOzwlWw1KDepUufQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e773ccf452087f3ea4bfcc5d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e773ccf452087f3ea4bfcc5d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b33d4213c392dd0ac063b036",
+        "width" : 64
+      } ],
+      "name" : "definitivesmithing",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:3xZ2GnDOzwlWw1KDepUufQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6toNMQD76Vos44Eln8ijvM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 288
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6toNMQD76Vos44Eln8ijvM",
+      "id" : "6toNMQD76Vos44Eln8ijvM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27302e617913062b248ec62001a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0202e617913062b248ec62001a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485102e617913062b248ec62001a",
+        "width" : 64
+      } ],
+      "name" : "The Definitive Mary Poppins 2020 Cast Recording Company",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:6toNMQD76Vos44Eln8ijvM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67xXXFRZgTNRMb7TEzFTYj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/67xXXFRZgTNRMb7TEzFTYj",
+      "id" : "67xXXFRZgTNRMb7TEzFTYj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5f66f1ea3091ce92b9a0b060",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745f66f1ea3091ce92b9a0b060",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785f66f1ea3091ce92b9a0b060",
+        "width" : 160
+      } ],
+      "name" : "Definitive",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:67xXXFRZgTNRMb7TEzFTYj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6aRpVJRnGcE0rRVXSku7mk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6aRpVJRnGcE0rRVXSku7mk",
+      "id" : "6aRpVJRnGcE0rRVXSku7mk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273320995c575d4a6440c887249",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02320995c575d4a6440c887249",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851320995c575d4a6440c887249",
+        "width" : 64
+      } ],
+      "name" : "definitivehalftime",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6aRpVJRnGcE0rRVXSku7mk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06g8wN9QmiACwMDwbfc4CP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 37
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/06g8wN9QmiACwMDwbfc4CP",
+      "id" : "06g8wN9QmiACwMDwbfc4CP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273930d5b86c365dc285ce31d85",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02930d5b86c365dc285ce31d85",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851930d5b86c365dc285ce31d85",
+        "width" : 64
+      } ],
+      "name" : "Definitive1",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:06g8wN9QmiACwMDwbfc4CP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vDkSYPXS9GVvYm1ZXiGGC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 18101
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1vDkSYPXS9GVvYm1ZXiGGC",
+      "id" : "1vDkSYPXS9GVvYm1ZXiGGC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273368af72d6a54044ed362100f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02368af72d6a54044ed362100f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851368af72d6a54044ed362100f",
+        "width" : 64
+      } ],
+      "name" : "Definitive Forfeit",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1vDkSYPXS9GVvYm1ZXiGGC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2x95LZJGxrvuHJdL8YSD8O"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2x95LZJGxrvuHJdL8YSD8O",
+      "id" : "2x95LZJGxrvuHJdL8YSD8O",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a943cccfde61fa55a8f5f3e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a943cccfde61fa55a8f5f3e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a943cccfde61fa55a8f5f3e",
+        "width" : 64
+      } ],
+      "name" : "definitivesection",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2x95LZJGxrvuHJdL8YSD8O"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4XOG2QPLawSgBkZWswtsFy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4XOG2QPLawSgBkZWswtsFy",
+      "id" : "4XOG2QPLawSgBkZWswtsFy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735bf43cf6d09ebef90c3625fc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025bf43cf6d09ebef90c3625fc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515bf43cf6d09ebef90c3625fc",
+        "width" : 64
+      } ],
+      "name" : "Definitive Worship",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4XOG2QPLawSgBkZWswtsFy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11YuYpFaEjO9xvSbS6q6L9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/11YuYpFaEjO9xvSbS6q6L9",
+      "id" : "11YuYpFaEjO9xvSbS6q6L9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730573fadbc127b796c13a1c06",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020573fadbc127b796c13a1c06",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510573fadbc127b796c13a1c06",
+        "width" : 64
+      } ],
+      "name" : "Aweminus, Definitive",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:11YuYpFaEjO9xvSbS6q6L9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1kV1UpdTU5L8S1gEdX4Rah"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1kV1UpdTU5L8S1gEdX4Rah",
+      "id" : "1kV1UpdTU5L8S1gEdX4Rah",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aad7afb394148c6be49aae20",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aad7afb394148c6be49aae20",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aad7afb394148c6be49aae20",
+        "width" : 64
+      } ],
+      "name" : "The Definitive Brick Records Collection",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:1kV1UpdTU5L8S1gEdX4Rah"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0k7oLU3XPeFyH1nX7wRSFe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0k7oLU3XPeFyH1nX7wRSFe",
+      "id" : "0k7oLU3XPeFyH1nX7wRSFe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ce46f725ace308af0dcba91",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ce46f725ace308af0dcba91",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ce46f725ace308af0dcba91",
+        "width" : 64
+      } ],
+      "name" : "Definitive Wounds",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0k7oLU3XPeFyH1nX7wRSFe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7cEUGcEPFEqMVffhiOt2ig"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7cEUGcEPFEqMVffhiOt2ig",
+      "id" : "7cEUGcEPFEqMVffhiOt2ig",
+      "images" : [ ],
+      "name" : "Definitive Swing",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7cEUGcEPFEqMVffhiOt2ig"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1zJGqJQ4gcRgF9QogyIoNo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1zJGqJQ4gcRgF9QogyIoNo",
+      "id" : "1zJGqJQ4gcRgF9QogyIoNo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732bf5e2b6982b3f0dbff84ec6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0276d09ff94f0629b5d027045c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485176d09ff94f0629b5d027045c",
+        "width" : 64
+      } ],
+      "name" : "Definitive Troy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1zJGqJQ4gcRgF9QogyIoNo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LJcnVLDf7cTncZ7W8lt1c"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21
+      },
+      "genres" : [ "italian post punk" ],
+      "href" : "https://api.spotify.com/v1/artists/0LJcnVLDf7cTncZ7W8lt1c",
+      "id" : "0LJcnVLDf7cTncZ7W8lt1c",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f22ab49dac8fb71af594ecee",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f22ab49dac8fb71af594ecee",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f22ab49dac8fb71af594ecee",
+        "width" : 64
+      } ],
+      "name" : "Definitive Gaze",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0LJcnVLDf7cTncZ7W8lt1c"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1l7OINJeBEAYSHs1UYgIns"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1l7OINJeBEAYSHs1UYgIns",
+      "id" : "1l7OINJeBEAYSHs1UYgIns",
+      "images" : [ ],
+      "name" : "The Definitive Rock Chorale",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:1l7OINJeBEAYSHs1UYgIns"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OJz5uSaiXbKOPHhexTfcL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3OJz5uSaiXbKOPHhexTfcL",
+      "id" : "3OJz5uSaiXbKOPHhexTfcL",
+      "images" : [ ],
+      "name" : "A Definitive Measure",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3OJz5uSaiXbKOPHhexTfcL"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=DEFINITIVE&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 28
+  }
+}

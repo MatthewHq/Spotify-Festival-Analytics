@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=ARCTIC+MONKEYS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14063880
+      },
+      "genres" : [ "garage rock", "permanent wave", "rock", "sheffield indie" ],
+      "href" : "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+      "id" : "7Ln80lUS6He07XvHI8qqHH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb39f37a34b404169fdca52dc8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517439f37a34b404169fdca52dc8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17839f37a34b404169fdca52dc8",
+        "width" : 160
+      } ],
+      "name" : "Arctic Monkeys",
+      "popularity" : 88,
+      "type" : "artist",
+      "uri" : "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hv9oBOxgWSFnZJPW6UL58"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 237
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2hv9oBOxgWSFnZJPW6UL58",
+      "id" : "2hv9oBOxgWSFnZJPW6UL58",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ad184b090b8f9617289e1035",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ad184b090b8f9617289e1035",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ad184b090b8f9617289e1035",
+        "width" : 64
+      } ],
+      "name" : "Arctic Monkeys Tribute Band",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:2hv9oBOxgWSFnZJPW6UL58"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

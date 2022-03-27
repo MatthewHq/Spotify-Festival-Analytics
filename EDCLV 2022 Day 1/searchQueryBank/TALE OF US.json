@@ -1,0 +1,87 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=TALE+OF+US&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 286249
+      },
+      "genres" : [ "deep disco house", "italian techno", "melodic techno", "minimal tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/1UL813H5aj3e8ekE5RqWqc",
+      "id" : "1UL813H5aj3e8ekE5RqWqc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb20b1eaa29f8a64a42bca1dce",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517420b1eaa29f8a64a42bca1dce",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17820b1eaa29f8a64a42bca1dce",
+        "width" : 160
+      } ],
+      "name" : "Tale Of Us",
+      "popularity" : 55,
+      "type" : "artist",
+      "uri" : "spotify:artist:1UL813H5aj3e8ekE5RqWqc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NHI8u9P4xsuYfXmh0GMV6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 63
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6NHI8u9P4xsuYfXmh0GMV6",
+      "id" : "6NHI8u9P4xsuYfXmh0GMV6",
+      "images" : [ ],
+      "name" : "Tale Of Us",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:6NHI8u9P4xsuYfXmh0GMV6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oe83y9KTDdiQ6VnoCSamv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0oe83y9KTDdiQ6VnoCSamv",
+      "id" : "0oe83y9KTDdiQ6VnoCSamv",
+      "images" : [ ],
+      "name" : "Tale of Us Amp Mind",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0oe83y9KTDdiQ6VnoCSamv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24RwyYSMbajFxOxNTM8nTl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 80
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/24RwyYSMbajFxOxNTM8nTl",
+      "id" : "24RwyYSMbajFxOxNTM8nTl",
+      "images" : [ ],
+      "name" : "Tale of Us & The/Das",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:24RwyYSMbajFxOxNTM8nTl"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

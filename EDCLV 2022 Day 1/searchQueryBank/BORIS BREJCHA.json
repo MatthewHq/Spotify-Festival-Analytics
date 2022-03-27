@@ -1,0 +1,99 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BORIS+BREJCHA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 985045
+      },
+      "genres" : [ "german house", "german techno", "high-tech minimal", "minimal techno", "tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/6caPJFLv1wesmM7gwK1ACy",
+      "id" : "6caPJFLv1wesmM7gwK1ACy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb33c9b5dcc05194199aa68410",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517433c9b5dcc05194199aa68410",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17833c9b5dcc05194199aa68410",
+        "width" : 160
+      } ],
+      "name" : "Boris Brejcha",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:6caPJFLv1wesmM7gwK1ACy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4nOE3497oxujSPCIkei6Ct"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4nOE3497oxujSPCIkei6Ct",
+      "id" : "4nOE3497oxujSPCIkei6Ct",
+      "images" : [ ],
+      "name" : "Boris Brejcha",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:4nOE3497oxujSPCIkei6Ct"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/00moNZcyzTwD06DrRDAifr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 261
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/00moNZcyzTwD06DrRDAifr",
+      "id" : "00moNZcyzTwD06DrRDAifr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bd89e2e22b71a1d3554279ec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bd89e2e22b71a1d3554279ec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bd89e2e22b71a1d3554279ec",
+        "width" : 64
+      } ],
+      "name" : "Anna aka Boris Brejcha",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:00moNZcyzTwD06DrRDAifr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1uVUPLXVNfu6mGWUv5409b"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1uVUPLXVNfu6mGWUv5409b",
+      "id" : "1uVUPLXVNfu6mGWUv5409b",
+      "images" : [ ],
+      "name" : "Anna, Boris Brejcha",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1uVUPLXVNfu6mGWUv5409b"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

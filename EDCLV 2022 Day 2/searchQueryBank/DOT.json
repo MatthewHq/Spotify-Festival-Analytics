@@ -1,0 +1,575 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=DOT&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16970302
+      },
+      "genres" : [ "dance pop", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
+      "id" : "5cj0lLjcoR7YOSnhnX0Po5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174727a2ac15afe659be999beba",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178727a2ac15afe659be999beba",
+        "width" : 160
+      } ],
+      "name" : "Doja Cat",
+      "popularity" : 94,
+      "type" : "artist",
+      "uri" : "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35144
+      },
+      "genres" : [ "florida rap" ],
+      "href" : "https://api.spotify.com/v1/artists/0VSM8D7ibtXjJgukfVR0eZ",
+      "id" : "0VSM8D7ibtXjJgukfVR0eZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb13ba38c957689f6932fd6887",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517413ba38c957689f6932fd6887",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17813ba38c957689f6932fd6887",
+        "width" : 160
+      } ],
+      "name" : "Jdot Breezy",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:0VSM8D7ibtXjJgukfVR0eZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3XeqsqIVgt0grwPac9CZKV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 26
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3XeqsqIVgt0grwPac9CZKV",
+      "id" : "3XeqsqIVgt0grwPac9CZKV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb152c4006ef0210bbcf662af7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174152c4006ef0210bbcf662af7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178152c4006ef0210bbcf662af7",
+        "width" : 160
+      } ],
+      "name" : "DOT",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3XeqsqIVgt0grwPac9CZKV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 166461
+      },
+      "genres" : [ "dutch pop", "dutch rock", "folk-pop" ],
+      "href" : "https://api.spotify.com/v1/artists/1cwOthlzLBwN8Imbq7P71H",
+      "id" : "1cwOthlzLBwN8Imbq7P71H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8718c583100f6079a5ac032d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748718c583100f6079a5ac032d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788718c583100f6079a5ac032d",
+        "width" : 160
+      } ],
+      "name" : "Dotan",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:1cwOthlzLBwN8Imbq7P71H"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5OHfcsZ8fneKjS64QqFST0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 56336
+      },
+      "genres" : [ "detroit trap" ],
+      "href" : "https://api.spotify.com/v1/artists/5OHfcsZ8fneKjS64QqFST0",
+      "id" : "5OHfcsZ8fneKjS64QqFST0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5dde0e6f4b13efbf108aec9d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745dde0e6f4b13efbf108aec9d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785dde0e6f4b13efbf108aec9d",
+        "width" : 160
+      } ],
+      "name" : "Damedot",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:5OHfcsZ8fneKjS64QqFST0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rqQcfcvJRzQKgp3z6ntgB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7rqQcfcvJRzQKgp3z6ntgB",
+      "id" : "7rqQcfcvJRzQKgp3z6ntgB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273beac9039fca69448198790e1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02beac9039fca69448198790e1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851beac9039fca69448198790e1",
+        "width" : 64
+      } ],
+      "name" : "DOT",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7rqQcfcvJRzQKgp3z6ntgB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 62291
+      },
+      "genres" : [ "classic country pop", "nashville sound" ],
+      "href" : "https://api.spotify.com/v1/artists/2pvPkEAN9xSrDrIVUOxWMB",
+      "id" : "2pvPkEAN9xSrDrIVUOxWMB",
+      "images" : [ {
+        "height" : 1096,
+        "url" : "https://i.scdn.co/image/d9586332fa1649a047e9bf1050295ad06547014e",
+        "width" : 1000
+      }, {
+        "height" : 701,
+        "url" : "https://i.scdn.co/image/c167aa6b01367446e3e19e4f23ec8e773f07d683",
+        "width" : 640
+      }, {
+        "height" : 219,
+        "url" : "https://i.scdn.co/image/83416eafaeafde1d1ec275da1fccb7d9c3c00904",
+        "width" : 200
+      }, {
+        "height" : 70,
+        "url" : "https://i.scdn.co/image/d904dcc4aafb84b0b1ee8c2671ec4bfdff2cb617",
+        "width" : 64
+      } ],
+      "name" : "Dottie West",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:2pvPkEAN9xSrDrIVUOxWMB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4a7WcKLKCA5MtsaVE3seeq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 685
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4a7WcKLKCA5MtsaVE3seeq",
+      "id" : "4a7WcKLKCA5MtsaVE3seeq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ff0c0ede0149cf2a6cb75fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ff0c0ede0149cf2a6cb75fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ff0c0ede0149cf2a6cb75fe",
+        "width" : 64
+      } ],
+      "name" : "DOT",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:4a7WcKLKCA5MtsaVE3seeq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22057
+      },
+      "genres" : [ "african electronic", "batida", "kuduro" ],
+      "href" : "https://api.spotify.com/v1/artists/6CMcJKC5K1MFHQJYKdTLPd",
+      "id" : "6CMcJKC5K1MFHQJYKdTLPd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3e83f94feeda162e5ba3ede1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743e83f94feeda162e5ba3ede1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783e83f94feeda162e5ba3ede1",
+        "width" : 160
+      } ],
+      "name" : "Dotorado Pro",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:6CMcJKC5K1MFHQJYKdTLPd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 905
+      },
+      "genres" : [ "disney", "movie tunes" ],
+      "href" : "https://api.spotify.com/v1/artists/2vHx2wi7daCLxHL0jKOZiz",
+      "id" : "2vHx2wi7daCLxHL0jKOZiz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27300aeb79f2ba99426d48b187c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0200aeb79f2ba99426d48b187c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485100aeb79f2ba99426d48b187c",
+        "width" : 64
+      } ],
+      "name" : "Karen Dotrice",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:2vHx2wi7daCLxHL0jKOZiz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3343
+      },
+      "genres" : [ "electra" ],
+      "href" : "https://api.spotify.com/v1/artists/1A18QbMmejwewRn5hfEFMT",
+      "id" : "1A18QbMmejwewRn5hfEFMT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb41d9f6fab38cf48b65758868",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517441d9f6fab38cf48b65758868",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17841d9f6fab38cf48b65758868",
+        "width" : 160
+      } ],
+      "name" : "Dot",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:1A18QbMmejwewRn5hfEFMT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ID5ZEW2EbdUo1oEjwJnD3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10361
+      },
+      "genres" : [ "indie hip hop", "underground hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/2ID5ZEW2EbdUo1oEjwJnD3",
+      "id" : "2ID5ZEW2EbdUo1oEjwJnD3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8bd4e60f45c2997e13950da2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748bd4e60f45c2997e13950da2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788bd4e60f45c2997e13950da2",
+        "width" : 160
+      } ],
+      "name" : "Dot Demo",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ID5ZEW2EbdUo1oEjwJnD3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1rP2X9nvJrBjsO3umLS7Vb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6168
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1rP2X9nvJrBjsO3umLS7Vb",
+      "id" : "1rP2X9nvJrBjsO3umLS7Vb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5e2263f3d736b5ff2729a278",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745e2263f3d736b5ff2729a278",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785e2263f3d736b5ff2729a278",
+        "width" : 160
+      } ],
+      "name" : "C-Dot 416",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:1rP2X9nvJrBjsO3umLS7Vb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xhQUySI7aPyFarnl2WWNR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3xhQUySI7aPyFarnl2WWNR",
+      "id" : "3xhQUySI7aPyFarnl2WWNR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc1b9638683b16ba11763ca98",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c1b9638683b16ba11763ca98",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c1b9638683b16ba11763ca98",
+        "width" : 160
+      } ],
+      "name" : "Dots",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:3xhQUySI7aPyFarnl2WWNR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5HoxUV5njSmYDj1U9i9zHY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1469
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5HoxUV5njSmYDj1U9i9zHY",
+      "id" : "5HoxUV5njSmYDj1U9i9zHY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe9624d880ec7b2ef611d303a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e9624d880ec7b2ef611d303a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e9624d880ec7b2ef611d303a",
+        "width" : 160
+      } ],
+      "name" : "Dotlights",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:5HoxUV5njSmYDj1U9i9zHY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BVrKqgmtI33WIxB6aabYZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 113
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4BVrKqgmtI33WIxB6aabYZ",
+      "id" : "4BVrKqgmtI33WIxB6aabYZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba4449a3016291273b8637311",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a4449a3016291273b8637311",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a4449a3016291273b8637311",
+        "width" : 160
+      } ],
+      "name" : "Gustavo Dotch",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:4BVrKqgmtI33WIxB6aabYZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ydhFrOMEIX8q9kIbRY0O2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 559
+      },
+      "genres" : [ "galway indie" ],
+      "href" : "https://api.spotify.com/v1/artists/4ydhFrOMEIX8q9kIbRY0O2",
+      "id" : "4ydhFrOMEIX8q9kIbRY0O2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4f299165ba1b1c649d459e4f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744f299165ba1b1c649d459e4f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784f299165ba1b1c649d459e4f",
+        "width" : 160
+      } ],
+      "name" : "DOTT",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ydhFrOMEIX8q9kIbRY0O2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20BQJA9TcJiWM3AWbMY7wl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2780
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/20BQJA9TcJiWM3AWbMY7wl",
+      "id" : "20BQJA9TcJiWM3AWbMY7wl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb84d92ac43da0d90fe98270db",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517484d92ac43da0d90fe98270db",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17884d92ac43da0d90fe98270db",
+        "width" : 160
+      } ],
+      "name" : "Dots Per Inch",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:20BQJA9TcJiWM3AWbMY7wl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5DB0TjFJRAPRUdfIVWYJXm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3324
+      },
+      "genres" : [ "children's story" ],
+      "href" : "https://api.spotify.com/v1/artists/5DB0TjFJRAPRUdfIVWYJXm",
+      "id" : "5DB0TjFJRAPRUdfIVWYJXm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b8161bce6bb6cad5742e3902",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b8161bce6bb6cad5742e3902",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b8161bce6bb6cad5742e3902",
+        "width" : 64
+      } ],
+      "name" : "Roy Dotrice",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:5DB0TjFJRAPRUdfIVWYJXm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YO2npXHqJWT8GNfwIaacI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2YO2npXHqJWT8GNfwIaacI",
+      "id" : "2YO2npXHqJWT8GNfwIaacI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273225aef185d75dd7d2a491db1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02225aef185d75dd7d2a491db1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851225aef185d75dd7d2a491db1",
+        "width" : 64
+      } ],
+      "name" : "Dots",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2YO2npXHqJWT8GNfwIaacI"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=DOT&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3751
+  }
+}

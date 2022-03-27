@@ -1,0 +1,898 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4aKdmOXdUKX07HVd3sGgzw",
+        "id" : "4aKdmOXdUKX07HVd3sGgzw",
+        "name" : "Rezz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4aKdmOXdUKX07HVd3sGgzw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3z3dPd3xRiO8cGESr2aF6M",
+      "id" : "3z3dPd3xRiO8cGESr2aF6M",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273743479ac66260626a234fe8c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02743479ac66260626a234fe8c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851743479ac66260626a234fe8c",
+        "width" : 64
+      } ],
+      "name" : "Puzzle Box",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3z3dPd3xRiO8cGESr2aF6M"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4aKdmOXdUKX07HVd3sGgzw",
+      "id" : "4aKdmOXdUKX07HVd3sGgzw",
+      "name" : "Rezz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4aKdmOXdUKX07HVd3sGgzw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212210,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM82200053"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5EhnuLMer8qAXEDwmLtyrW",
+    "id" : "5EhnuLMer8qAXEDwmLtyrW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Puzzle Box",
+    "popularity" : 68,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5EhnuLMer8qAXEDwmLtyrW"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67qogtRNI0GjUr8PlaG6Zh",
+        "id" : "67qogtRNI0GjUr8PlaG6Zh",
+        "name" : "Zeds Dead",
+        "type" : "artist",
+        "uri" : "spotify:artist:67qogtRNI0GjUr8PlaG6Zh"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07CimrZi5vs9iEao47TNQ4",
+        "id" : "07CimrZi5vs9iEao47TNQ4",
+        "name" : "Flowdan",
+        "type" : "artist",
+        "uri" : "spotify:artist:07CimrZi5vs9iEao47TNQ4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YOvPn7L8K4jgklVsA697b",
+      "id" : "4YOvPn7L8K4jgklVsA697b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273729edadd8d15058d273116b0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02729edadd8d15058d273116b0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851729edadd8d15058d273116b0",
+        "width" : 64
+      } ],
+      "name" : "Gassed Up",
+      "release_date" : "2022-01-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4YOvPn7L8K4jgklVsA697b"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67qogtRNI0GjUr8PlaG6Zh",
+      "id" : "67qogtRNI0GjUr8PlaG6Zh",
+      "name" : "Zeds Dead",
+      "type" : "artist",
+      "uri" : "spotify:artist:67qogtRNI0GjUr8PlaG6Zh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/07CimrZi5vs9iEao47TNQ4",
+      "id" : "07CimrZi5vs9iEao47TNQ4",
+      "name" : "Flowdan",
+      "type" : "artist",
+      "uri" : "spotify:artist:07CimrZi5vs9iEao47TNQ4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238285,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CAUM82100493"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6uwjDA0Qi6hk8C6lPJIMc9",
+    "id" : "6uwjDA0Qi6hk8C6lPJIMc9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gassed Up",
+    "popularity" : 66,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6uwjDA0Qi6hk8C6lPJIMc9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
+        "id" : "25oLRSUjJk4YHNUsQXk7Ut",
+        "name" : "GRiZ",
+        "type" : "artist",
+        "uri" : "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3p52GP73vQ2BlG9rzzyBXe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3p52GP73vQ2BlG9rzzyBXe",
+      "id" : "3p52GP73vQ2BlG9rzzyBXe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27383046e046407ae9b6e629956",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0283046e046407ae9b6e629956",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485183046e046407ae9b6e629956",
+        "width" : 64
+      } ],
+      "name" : "Bangers[2].Zip",
+      "release_date" : "2019-08-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:3p52GP73vQ2BlG9rzzyBXe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
+      "id" : "25oLRSUjJk4YHNUsQXk7Ut",
+      "name" : "GRiZ",
+      "type" : "artist",
+      "uri" : "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 198400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM81900241"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6OTClxme7EYRZGO6An3SMc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6OTClxme7EYRZGO6An3SMc",
+    "id" : "6OTClxme7EYRZGO6An3SMc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Griztronics",
+    "popularity" : 64,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6OTClxme7EYRZGO6An3SMc"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
+        "id" : "25oLRSUjJk4YHNUsQXk7Ut",
+        "name" : "GRiZ",
+        "type" : "artist",
+        "uri" : "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5X4WpuocAItWP0dtDT5BCw",
+      "id" : "5X4WpuocAItWP0dtDT5BCw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bb233a7662608bb22e24a07f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bb233a7662608bb22e24a07f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bb233a7662608bb22e24a07f",
+        "width" : 64
+      } ],
+      "name" : "Griztronics II (Another Level)",
+      "release_date" : "2021-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5X4WpuocAItWP0dtDT5BCw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
+      "id" : "25oLRSUjJk4YHNUsQXk7Ut",
+      "name" : "GRiZ",
+      "type" : "artist",
+      "uri" : "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 165517,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0019318"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2il9NDpW87Hk2L9AjeDf8r",
+    "id" : "2il9NDpW87Hk2L9AjeDf8r",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Griztronics II (Another Level)",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5d4b0afe2d3775013a0e2c056e415ba4681eb3db?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2il9NDpW87Hk2L9AjeDf8r"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CtI0OHj5x6rHQDqpM4JPy",
+        "id" : "5CtI0OHj5x6rHQDqpM4JPy",
+        "name" : "JT Roach",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CtI0OHj5x6rHQDqpM4JPy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6HIUMoRw3A8XEFakdfOTsD",
+      "id" : "6HIUMoRw3A8XEFakdfOTsD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a494addb4ea499c64fee6921",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a494addb4ea499c64fee6921",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a494addb4ea499c64fee6921",
+        "width" : 64
+      } ],
+      "name" : "Gravity",
+      "release_date" : "2021-08-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6HIUMoRw3A8XEFakdfOTsD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CtI0OHj5x6rHQDqpM4JPy",
+      "id" : "5CtI0OHj5x6rHQDqpM4JPy",
+      "name" : "JT Roach",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CtI0OHj5x6rHQDqpM4JPy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 364800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2191859"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5qCpcgqwL1Hum85sAQz3W7",
+    "id" : "5qCpcgqwL1Hum85sAQz3W7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gravity",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8be2db6783c248ebdc5860726a421fe614469dde?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5qCpcgqwL1Hum85sAQz3W7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GAS0rb4L8VTPvizAx2O9J",
+        "id" : "1GAS0rb4L8VTPvizAx2O9J",
+        "name" : "Atmosphere",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GAS0rb4L8VTPvizAx2O9J"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/67qogtRNI0GjUr8PlaG6Zh",
+        "id" : "67qogtRNI0GjUr8PlaG6Zh",
+        "name" : "Zeds Dead",
+        "type" : "artist",
+        "uri" : "spotify:artist:67qogtRNI0GjUr8PlaG6Zh"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17AcUISAYvknY5tVYiBlKi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17AcUISAYvknY5tVYiBlKi",
+      "id" : "17AcUISAYvknY5tVYiBlKi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e533458466f904df553365df",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e533458466f904df553365df",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e533458466f904df553365df",
+        "width" : 64
+      } ],
+      "name" : "GodLovesUgly (Remix)",
+      "release_date" : "2020-06-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:17AcUISAYvknY5tVYiBlKi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GAS0rb4L8VTPvizAx2O9J",
+      "id" : "1GAS0rb4L8VTPvizAx2O9J",
+      "name" : "Atmosphere",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GAS0rb4L8VTPvizAx2O9J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67qogtRNI0GjUr8PlaG6Zh",
+      "id" : "67qogtRNI0GjUr8PlaG6Zh",
+      "name" : "Zeds Dead",
+      "type" : "artist",
+      "uri" : "spotify:artist:67qogtRNI0GjUr8PlaG6Zh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 184421,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CAUM82000143"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/76xfSfbw0byLqMHykJyPru"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/76xfSfbw0byLqMHykJyPru",
+    "id" : "76xfSfbw0byLqMHykJyPru",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "GodLovesUgly - Remix",
+    "popularity" : 58,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:76xfSfbw0byLqMHykJyPru"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+        "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+        "name" : "NGHTMRE",
+        "type" : "artist",
+        "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4zlw0jXUzd4dRcqI3Y1OiY",
+        "id" : "4zlw0jXUzd4dRcqI3Y1OiY",
+        "name" : "Boogie T",
+        "type" : "artist",
+        "uri" : "spotify:artist:4zlw0jXUzd4dRcqI3Y1OiY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/750TcOvGSpFwjg1wEWsczc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/750TcOvGSpFwjg1wEWsczc",
+      "id" : "750TcOvGSpFwjg1wEWsczc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273816209f4756aa98e4982edb5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02816209f4756aa98e4982edb5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851816209f4756aa98e4982edb5",
+        "width" : 64
+      } ],
+      "name" : "Nuclear Bass Face",
+      "release_date" : "2020-05-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:750TcOvGSpFwjg1wEWsczc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+      "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+      "name" : "NGHTMRE",
+      "type" : "artist",
+      "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zlw0jXUzd4dRcqI3Y1OiY",
+      "id" : "4zlw0jXUzd4dRcqI3Y1OiY",
+      "name" : "Boogie T",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zlw0jXUzd4dRcqI3Y1OiY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 195200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS12000301"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1R4KCEwucJLsVk5L9o250Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1R4KCEwucJLsVk5L9o250Y",
+    "id" : "1R4KCEwucJLsVk5L9o250Y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nuclear Bass Face",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/31913e2fd1c94d2ffb00ca9eb84c0402992da7f8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1R4KCEwucJLsVk5L9o250Y"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/72iCiKwu6nu6Qq9emIwzYv",
+        "id" : "72iCiKwu6nu6Qq9emIwzYv",
+        "name" : "Kayzo",
+        "type" : "artist",
+        "uri" : "spotify:artist:72iCiKwu6nu6Qq9emIwzYv"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2yTltxoHOTg3reSa6Hll3r",
+      "id" : "2yTltxoHOTg3reSa6Hll3r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a07e4347d54a4d663d97865",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a07e4347d54a4d663d97865",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a07e4347d54a4d663d97865",
+        "width" : 64
+      } ],
+      "name" : "Braincase",
+      "release_date" : "2019-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2yTltxoHOTg3reSa6Hll3r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/72iCiKwu6nu6Qq9emIwzYv",
+      "id" : "72iCiKwu6nu6Qq9emIwzYv",
+      "name" : "Kayzo",
+      "type" : "artist",
+      "uri" : "spotify:artist:72iCiKwu6nu6Qq9emIwzYv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR1973122"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3AawFHorBGEDdM9ngI8ofa",
+    "id" : "3AawFHorBGEDdM9ngI8ofa",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Braincase",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d31b72ae838d29ef6bd3e0a53452dbacf13175be?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3AawFHorBGEDdM9ngI8ofa"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7hQEgIcLdBAkdyvMnC6DNI",
+      "id" : "7hQEgIcLdBAkdyvMnC6DNI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731d3c06f26fdacb59741828e5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021d3c06f26fdacb59741828e5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511d3c06f26fdacb59741828e5",
+        "width" : 64
+      } ],
+      "name" : "FRACTALS",
+      "release_date" : "2022-01-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:7hQEgIcLdBAkdyvMnC6DNI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RTklnRcfHgkQJwFpgOq3t",
+      "id" : "3RTklnRcfHgkQJwFpgOq3t",
+      "name" : "Nevve",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RTklnRcfHgkQJwFpgOq3t"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 168000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0030575"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0yotOi6EFaBal5Gy7YVcuI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0yotOi6EFaBal5Gy7YVcuI",
+    "id" : "0yotOi6EFaBal5Gy7YVcuI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Spacetime (feat. NEVVE)",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f503cfef14bf294208303d508e5b9a8efa121418?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0yotOi6EFaBal5Gy7YVcuI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        "href" : "https://api.spotify.com/v1/artists/64KEffDW9EtZ1y2vBYgq8T",
+        "id" : "64KEffDW9EtZ1y2vBYgq8T",
+        "name" : "Marshmello",
+        "type" : "artist",
+        "uri" : "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6yXPyhVxt3PHBwkinPFn6I",
+      "id" : "6yXPyhVxt3PHBwkinPFn6I",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d82de295af2bbdc06fb14068",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d82de295af2bbdc06fb14068",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d82de295af2bbdc06fb14068",
+        "width" : 64
+      } ],
+      "name" : "Shockwave",
+      "release_date" : "2021-06-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6yXPyhVxt3PHBwkinPFn6I"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/64KEffDW9EtZ1y2vBYgq8T",
+      "id" : "64KEffDW9EtZ1y2vBYgq8T",
+      "name" : "Marshmello",
+      "type" : "artist",
+      "uri" : "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205126,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2173413"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3LuKDSqL4z1BL8HjSwxh5b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3LuKDSqL4z1BL8HjSwxh5b",
+    "id" : "3LuKDSqL4z1BL8HjSwxh5b",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "House Party",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/de53180192f5a9d1896165cf18b8a20a75cb8f58?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:3LuKDSqL4z1BL8HjSwxh5b"
+  } ]
+}

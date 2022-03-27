@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SATIN+JACKETS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 99445
+      },
+      "genres" : [ "alternative dance", "deep house", "indie soul", "nu disco", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/5Gn7NoCZvbVlGgtZMILRcv",
+      "id" : "5Gn7NoCZvbVlGgtZMILRcv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd5b7662dec940b31e72881bb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d5b7662dec940b31e72881bb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d5b7662dec940b31e72881bb",
+        "width" : 160
+      } ],
+      "name" : "Satin Jackets",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Gn7NoCZvbVlGgtZMILRcv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wJvymzyJESPgq16Cl7PRa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 49
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3wJvymzyJESPgq16Cl7PRa",
+      "id" : "3wJvymzyJESPgq16Cl7PRa",
+      "images" : [ ],
+      "name" : "Satin Jackets feat. Natalie Conway",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:3wJvymzyJESPgq16Cl7PRa"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

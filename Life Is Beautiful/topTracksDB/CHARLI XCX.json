@@ -1,0 +1,727 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DgP9otnZw5z6daOntINxp",
+        "id" : "6DgP9otnZw5z6daOntINxp",
+        "name" : "Joel Corry",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DgP9otnZw5z6daOntINxp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Q6nIcaBED8qUel8bBx6Cr",
+        "id" : "4Q6nIcaBED8qUel8bBx6Cr",
+        "name" : "Jax Jones",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Q6nIcaBED8qUel8bBx6Cr"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5wJb3DBSoSMKYJA8TrNKi8",
+      "id" : "5wJb3DBSoSMKYJA8TrNKi8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730abb7463b44d1be6243642f4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020abb7463b44d1be6243642f4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510abb7463b44d1be6243642f4",
+        "width" : 64
+      } ],
+      "name" : "OUT OUT (feat. Charli XCX & Saweetie)",
+      "release_date" : "2021-08-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5wJb3DBSoSMKYJA8TrNKi8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DgP9otnZw5z6daOntINxp",
+      "id" : "6DgP9otnZw5z6daOntINxp",
+      "name" : "Joel Corry",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DgP9otnZw5z6daOntINxp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Q6nIcaBED8qUel8bBx6Cr",
+      "id" : "4Q6nIcaBED8qUel8bBx6Cr",
+      "name" : "Jax Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Q6nIcaBED8qUel8bBx6Cr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6cK3NBO6uP7hh0oyuVELFl",
+      "id" : "6cK3NBO6uP7hh0oyuVELFl",
+      "name" : "Saweetie",
+      "type" : "artist",
+      "uri" : "spotify:artist:6cK3NBO6uP7hh0oyuVELFl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 162603,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK4ZF2100518"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Dy1jexKYriXAVG6evyUTJ",
+    "id" : "6Dy1jexKYriXAVG6evyUTJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "OUT OUT (feat. Charli XCX & Saweetie)",
+    "popularity" : 88,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b533605dd3e02a53064c5368dabfa422659c1d8d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6Dy1jexKYriXAVG6evyUTJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QqipMXWzJhr6yfcNKTp8B",
+      "id" : "1QqipMXWzJhr6yfcNKTp8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f629eb64fd8ef76a97b154f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f629eb64fd8ef76a97b154f5",
+        "width" : 64
+      } ],
+      "name" : "CRASH",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1QqipMXWzJhr6yfcNKTp8B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2KEqzdPS7M5YwGmiuPTdr5",
+      "id" : "2KEqzdPS7M5YwGmiuPTdr5",
+      "name" : "Rina Sawayama",
+      "type" : "artist",
+      "uri" : "spotify:artist:2KEqzdPS7M5YwGmiuPTdr5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 168053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHS2101565"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/11M8c9SHQYpd8DOrmcu25k",
+    "id" : "11M8c9SHQYpd8DOrmcu25k",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Beg For You (feat. Rina Sawayama)",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7d88efd4afacd3016a20681391ad290e66ac4114?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:11M8c9SHQYpd8DOrmcu25k"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QqipMXWzJhr6yfcNKTp8B",
+      "id" : "1QqipMXWzJhr6yfcNKTp8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f629eb64fd8ef76a97b154f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f629eb64fd8ef76a97b154f5",
+        "width" : 64
+      } ],
+      "name" : "CRASH",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1QqipMXWzJhr6yfcNKTp8B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 145840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHS2200045"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5dry5tz8yLcLuOJ3l6ZEQd",
+    "id" : "5dry5tz8yLcLuOJ3l6ZEQd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Used To Know Me",
+    "popularity" : 77,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ceffc280c4d77068ac56941babc983db8efbff53?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5dry5tz8yLcLuOJ3l6ZEQd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QqipMXWzJhr6yfcNKTp8B",
+      "id" : "1QqipMXWzJhr6yfcNKTp8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f629eb64fd8ef76a97b154f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f629eb64fd8ef76a97b154f5",
+        "width" : 64
+      } ],
+      "name" : "CRASH",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1QqipMXWzJhr6yfcNKTp8B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 136614,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHS2100596"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2grSOc6HNTXQQXNoRKt9UM",
+    "id" : "2grSOc6HNTXQQXNoRKt9UM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Good Ones",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4c4a57aef52bc6929a51dbdc8b5db28ac26e78d4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2grSOc6HNTXQQXNoRKt9UM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QqipMXWzJhr6yfcNKTp8B",
+      "id" : "1QqipMXWzJhr6yfcNKTp8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f629eb64fd8ef76a97b154f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f629eb64fd8ef76a97b154f5",
+        "width" : 64
+      } ],
+      "name" : "CRASH",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1QqipMXWzJhr6yfcNKTp8B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159920,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBAHS2200041"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lE8pY64icLsx6k0Wr9iVF",
+    "id" : "2lE8pY64icLsx6k0Wr9iVF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Baby",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/65e05262fa2bef383f60bd6b3f3daf4e4b5b30af?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2lE8pY64icLsx6k0Wr9iVF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QqipMXWzJhr6yfcNKTp8B",
+      "id" : "1QqipMXWzJhr6yfcNKTp8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f629eb64fd8ef76a97b154f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f629eb64fd8ef76a97b154f5",
+        "width" : 64
+      } ],
+      "name" : "CRASH",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1QqipMXWzJhr6yfcNKTp8B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 189373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHS2200039"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0U9ltIN4q3aBKGZDZq5cAW",
+    "id" : "0U9ltIN4q3aBKGZDZq5cAW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Constant Repeat",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7d34b6653196c5883e784a02c81e32b0ee627bd1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0U9ltIN4q3aBKGZDZq5cAW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QqipMXWzJhr6yfcNKTp8B",
+      "id" : "1QqipMXWzJhr6yfcNKTp8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f629eb64fd8ef76a97b154f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f629eb64fd8ef76a97b154f5",
+        "width" : 64
+      } ],
+      "name" : "CRASH",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1QqipMXWzJhr6yfcNKTp8B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 129985,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHS2200038"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6WKDtdVILJvcfqpvSQgwAQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6WKDtdVILJvcfqpvSQgwAQ",
+    "id" : "6WKDtdVILJvcfqpvSQgwAQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crash",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6f4492cfefff494ea092fd74a34b01e99a964bff?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6WKDtdVILJvcfqpvSQgwAQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QqipMXWzJhr6yfcNKTp8B",
+      "id" : "1QqipMXWzJhr6yfcNKTp8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f629eb64fd8ef76a97b154f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f629eb64fd8ef76a97b154f5",
+        "width" : 64
+      } ],
+      "name" : "CRASH",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1QqipMXWzJhr6yfcNKTp8B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 138800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBAHS2200044"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5cYEuFqzITZlZzpoR1sHvu",
+    "id" : "5cYEuFqzITZlZzpoR1sHvu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Yuck",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b6c5ad329577d3c204e3a2adbd8a544d2fe71ab6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5cYEuFqzITZlZzpoR1sHvu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QqipMXWzJhr6yfcNKTp8B",
+      "id" : "1QqipMXWzJhr6yfcNKTp8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f629eb64fd8ef76a97b154f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f629eb64fd8ef76a97b154f5",
+        "width" : 64
+      } ],
+      "name" : "CRASH",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1QqipMXWzJhr6yfcNKTp8B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 237320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHS2200042"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4aguR8nLIlmF6WCOlCArhT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4aguR8nLIlmF6WCOlCArhT",
+    "id" : "4aguR8nLIlmF6WCOlCArhT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lightning",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2d1de037c501c5c4bcfc78d3ca1efb6f3d321522?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4aguR8nLIlmF6WCOlCArhT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id" : "25uiPmTg16RbhZWAqwLBy5",
+        "name" : "Charli XCX",
+        "type" : "artist",
+        "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QqipMXWzJhr6yfcNKTp8B",
+      "id" : "1QqipMXWzJhr6yfcNKTp8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f629eb64fd8ef76a97b154f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f629eb64fd8ef76a97b154f5",
+        "width" : 64
+      } ],
+      "name" : "CRASH",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1QqipMXWzJhr6yfcNKTp8B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 147293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHS2200040"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2A8lxHaI7sJD1oABvXwly1",
+    "id" : "2A8lxHaI7sJD1oABvXwly1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Move Me",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b5844b8224e822de5d5e203b574889fcdefa395?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2A8lxHaI7sJD1oABvXwly1"
+  } ]
+}

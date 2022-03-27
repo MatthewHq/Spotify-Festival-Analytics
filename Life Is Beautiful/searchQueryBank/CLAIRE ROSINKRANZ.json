@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CLAIRE+ROSINKRANZ&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 271757
+      },
+      "genres" : [ "alt z", "indie pop", "modern indie pop", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3V0ZQW0dNuVaFtbVYgSI24",
+      "id" : "3V0ZQW0dNuVaFtbVYgSI24",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebea6d626413e158a3d93b957b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ea6d626413e158a3d93b957b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ea6d626413e158a3d93b957b",
+        "width" : 160
+      } ],
+      "name" : "Claire Rosinkranz",
+      "popularity" : 69,
+      "type" : "artist",
+      "uri" : "spotify:artist:3V0ZQW0dNuVaFtbVYgSI24"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

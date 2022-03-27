@@ -1,0 +1,826 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+        "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+        "name" : "Habstrakt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0izKfMblL8LX6Bv2wG3Cy7",
+        "id" : "0izKfMblL8LX6Bv2wG3Cy7",
+        "name" : "Lena Leon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0izKfMblL8LX6Bv2wG3Cy7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7AKRqqkDVhqDZMwmcjBPiV",
+      "id" : "7AKRqqkDVhqDZMwmcjBPiV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731f93d47f0e1894d7bcce788a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021f93d47f0e1894d7bcce788a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511f93d47f0e1894d7bcce788a",
+        "width" : 64
+      } ],
+      "name" : "Eternity (feat. Lena Leon)",
+      "release_date" : "2021-10-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7AKRqqkDVhqDZMwmcjBPiV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0izKfMblL8LX6Bv2wG3Cy7",
+      "id" : "0izKfMblL8LX6Bv2wG3Cy7",
+      "name" : "Lena Leon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0izKfMblL8LX6Bv2wG3Cy7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217258,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMUY42100214"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7DDIVNWlbGJpQjVDDg8rXR",
+    "id" : "7DDIVNWlbGJpQjVDDg8rXR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Eternity (feat. Lena Leon)",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a99c9d1bc9ee552f43bea539e360a74f4ff6864?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7DDIVNWlbGJpQjVDDg8rXR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+        "id" : "540vIaP2JwjQb9dm3aArA4",
+        "name" : "DJ Snake",
+        "type" : "artist",
+        "uri" : "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7w1eTNePApzDk8XtgykCPS",
+        "id" : "7w1eTNePApzDk8XtgykCPS",
+        "name" : "Malaa",
+        "type" : "artist",
+        "uri" : "spotify:artist:7w1eTNePApzDk8XtgykCPS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6161quyAWtf6v1f0kIUd4w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6161quyAWtf6v1f0kIUd4w",
+      "id" : "6161quyAWtf6v1f0kIUd4w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27326442ab4cf6af7ae12a7064c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0226442ab4cf6af7ae12a7064c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485126442ab4cf6af7ae12a7064c",
+        "width" : 64
+      } ],
+      "name" : "Ring The Alarm (Remixes)",
+      "release_date" : "2021-12-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:6161quyAWtf6v1f0kIUd4w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+      "id" : "540vIaP2JwjQb9dm3aArA4",
+      "name" : "DJ Snake",
+      "type" : "artist",
+      "uri" : "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7w1eTNePApzDk8XtgykCPS",
+      "id" : "7w1eTNePApzDk8XtgykCPS",
+      "name" : "Malaa",
+      "type" : "artist",
+      "uri" : "spotify:artist:7w1eTNePApzDk8XtgykCPS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 176250,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG12106333"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/67kJ3o6PrkB9CetDTXQ1wR",
+    "id" : "67kJ3o6PrkB9CetDTXQ1wR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ring The Alarm - Habstrakt Remix",
+    "popularity" : 60,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:67kJ3o6PrkB9CetDTXQ1wR"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5ToqIs21reKgXrcudt1tYW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5ToqIs21reKgXrcudt1tYW",
+      "id" : "5ToqIs21reKgXrcudt1tYW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e0736c45e65d9c45736a9371",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e0736c45e65d9c45736a9371",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e0736c45e65d9c45736a9371",
+        "width" : 64
+      } ],
+      "name" : "HOWSLA",
+      "release_date" : "2017-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5ToqIs21reKgXrcudt1tYW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+      "id" : "5he5w2lnU9x7JFhnwcekXX",
+      "name" : "Skrillex",
+      "type" : "artist",
+      "uri" : "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 207292,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21701093"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7hU38LHqMSPFrvoqADFJp4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7hU38LHqMSPFrvoqADFJp4",
+    "id" : "7hU38LHqMSPFrvoqADFJp4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Chicken Soup",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a49e7a2b45c6b6103cdac982c2809f4a16ae9ac5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7hU38LHqMSPFrvoqADFJp4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+        "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+        "name" : "Habstrakt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1pZ4Bycse2Ck26SkSZHNGS",
+      "id" : "1pZ4Bycse2Ck26SkSZHNGS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739b254326bbc40a2b8b016ea0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029b254326bbc40a2b8b016ea0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519b254326bbc40a2b8b016ea0",
+        "width" : 64
+      } ],
+      "name" : "The One (The Remixes)",
+      "release_date" : "2019-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:1pZ4Bycse2Ck26SkSZHNGS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+      "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+      "name" : "NGHTMRE",
+      "type" : "artist",
+      "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 160000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA6D21900371"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0z6BBM8lek2dzvnuIOX1Wx",
+    "id" : "0z6BBM8lek2dzvnuIOX1Wx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The One - NGHTMRE Remix",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8b0b70e5cc68a33d919547717e86d09e5082bee4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0z6BBM8lek2dzvnuIOX1Wx"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+        "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+        "name" : "Habstrakt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R5qNSYFn04J9jF8UnmYbK",
+        "id" : "5R5qNSYFn04J9jF8UnmYbK",
+        "name" : "Honey & Badger",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R5qNSYFn04J9jF8UnmYbK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3BcTYjFZ9Qv0ZbKvfQKfrA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3BcTYjFZ9Qv0ZbKvfQKfrA",
+      "id" : "3BcTYjFZ9Qv0ZbKvfQKfrA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738f4b359ba40c85f540771331",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028f4b359ba40c85f540771331",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518f4b359ba40c85f540771331",
+        "width" : 64
+      } ],
+      "name" : "Eternity (feat. Lena Leon) [Honey & Badger Remix]",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3BcTYjFZ9Qv0ZbKvfQKfrA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R5qNSYFn04J9jF8UnmYbK",
+      "id" : "5R5qNSYFn04J9jF8UnmYbK",
+      "name" : "Honey & Badger",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R5qNSYFn04J9jF8UnmYbK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0izKfMblL8LX6Bv2wG3Cy7",
+      "id" : "0izKfMblL8LX6Bv2wG3Cy7",
+      "name" : "Lena Leon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0izKfMblL8LX6Bv2wG3Cy7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMUY42200006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7c95ccwKMKFQyM3khVmT8u"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7c95ccwKMKFQyM3khVmT8u",
+    "id" : "7c95ccwKMKFQyM3khVmT8u",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Eternity (feat. Lena Leon) - Honey & Badger Remix",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/17b4e5751ef09d06a012938fb12f83d2245880a2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7c95ccwKMKFQyM3khVmT8u"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+        "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+        "name" : "Habstrakt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/58XBbETLzxSyXVcboNyifS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/58XBbETLzxSyXVcboNyifS",
+      "id" : "58XBbETLzxSyXVcboNyifS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273998510f8be0b9865bcb1ef93",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02998510f8be0b9865bcb1ef93",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851998510f8be0b9865bcb1ef93",
+        "width" : 64
+      } ],
+      "name" : "Show Me",
+      "release_date" : "2020-04-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:58XBbETLzxSyXVcboNyifS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 174696,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2030538"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ZVpeCq77i5ZkXWLfalueR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ZVpeCq77i5ZkXWLfalueR",
+    "id" : "0ZVpeCq77i5ZkXWLfalueR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Show Me",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/74f9b2dab011cfce3c36ace7c9af07705e5ff0e5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0ZVpeCq77i5ZkXWLfalueR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
+        "id" : "6YVMFz59CuY7ngCxTxjpxE",
+        "name" : "aespa",
+        "type" : "artist",
+        "uri" : "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/36cJnr7GCuGbuw0YQpjmTY",
+      "id" : "36cJnr7GCuGbuw0YQpjmTY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738bcda1592f94261aaa7c9fe0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028bcda1592f94261aaa7c9fe0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518bcda1592f94261aaa7c9fe0",
+        "width" : 64
+      } ],
+      "name" : "iScreaM Vol.10 : Next Level Remixes",
+      "release_date" : "2021-09-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:36cJnr7GCuGbuw0YQpjmTY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
+      "id" : "6YVMFz59CuY7ngCxTxjpxE",
+      "name" : "aespa",
+      "type" : "artist",
+      "uri" : "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200366,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "KRA302100295"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/34r29cNzzV4elD0XTz1ihT",
+    "id" : "34r29cNzzV4elD0XTz1ihT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Next Level - Habstrakt Remix",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/860cb1057075c4cec39aed2f610161f8e01e066d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:34r29cNzzV4elD0XTz1ihT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7w1eTNePApzDk8XtgykCPS",
+        "id" : "7w1eTNePApzDk8XtgykCPS",
+        "name" : "Malaa",
+        "type" : "artist",
+        "uri" : "spotify:artist:7w1eTNePApzDk8XtgykCPS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+        "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+        "name" : "Habstrakt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1AIZUnYfTMKXBlDLChdN6M"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1AIZUnYfTMKXBlDLChdN6M",
+      "id" : "1AIZUnYfTMKXBlDLChdN6M",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ca9f848afd7223a7918f1d89",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ca9f848afd7223a7918f1d89",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ca9f848afd7223a7918f1d89",
+        "width" : 64
+      } ],
+      "name" : "Riot Gear",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1AIZUnYfTMKXBlDLChdN6M"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7w1eTNePApzDk8XtgykCPS",
+      "id" : "7w1eTNePApzDk8XtgykCPS",
+      "name" : "Malaa",
+      "type" : "artist",
+      "uri" : "spotify:artist:7w1eTNePApzDk8XtgykCPS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 189120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLD91730054"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4sfItXEPyigeIuV5E6pS8b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4sfItXEPyigeIuV5E6pS8b",
+    "id" : "4sfItXEPyigeIuV5E6pS8b",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Riot Gear",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5a4d0d795b454445bc85dd180699c6190aaa404b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4sfItXEPyigeIuV5E6pS8b"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+        "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+        "name" : "Habstrakt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7Jy8pNJlP3oWDeKIsFMquQ",
+      "id" : "7Jy8pNJlP3oWDeKIsFMquQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273242c6673c1c7327dbc87c88b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02242c6673c1c7327dbc87c88b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851242c6673c1c7327dbc87c88b",
+        "width" : 64
+      } ],
+      "name" : "High",
+      "release_date" : "2022-02-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7Jy8pNJlP3oWDeKIsFMquQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192520,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0043167"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0a6fl7K59Exm2hx0RKPJeE",
+    "id" : "0a6fl7K59Exm2hx0RKPJeE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "High",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/14be6f7e67b174e1f0fa05a47e6f736435703fc1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0a6fl7K59Exm2hx0RKPJeE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+        "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+        "name" : "Habstrakt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7jTjkekiP10wcRMtmcDLm8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7jTjkekiP10wcRMtmcDLm8",
+      "id" : "7jTjkekiP10wcRMtmcDLm8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735bde613ddb5c27db12f4ce22",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025bde613ddb5c27db12f4ce22",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515bde613ddb5c27db12f4ce22",
+        "width" : 64
+      } ],
+      "name" : "The One",
+      "release_date" : "2019-08-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7jTjkekiP10wcRMtmcDLm8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230288,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA6D21900236"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6U6nzpSvKxju6WA0Kojcxn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6U6nzpSvKxju6WA0Kojcxn",
+    "id" : "6U6nzpSvKxju6WA0Kojcxn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The One",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/19f19972a9b0c6b4375d53600f3c39231165b59f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6U6nzpSvKxju6WA0Kojcxn"
+  } ]
+}

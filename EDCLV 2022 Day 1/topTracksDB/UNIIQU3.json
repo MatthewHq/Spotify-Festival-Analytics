@@ -1,0 +1,817 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CMaNobmJYgXcfiT0zYOwi",
+        "id" : "5CMaNobmJYgXcfiT0zYOwi",
+        "name" : "WHIPPED CREAM",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CMaNobmJYgXcfiT0zYOwi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gyv1akuIB9fQvXoGSPaJr",
+        "id" : "2gyv1akuIB9fQvXoGSPaJr",
+        "name" : "Big Freedia",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gyv1akuIB9fQvXoGSPaJr"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+        "id" : "5aR8qSaApKChlZvzB0Jfpx",
+        "name" : "UNIIQU3",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6MmeK4J693NFnDma8cBVio",
+      "id" : "6MmeK4J693NFnDma8cBVio",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730ab705f8f40245061942c5d4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020ab705f8f40245061942c5d4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510ab705f8f40245061942c5d4",
+        "width" : 64
+      } ],
+      "name" : "Hold Up",
+      "release_date" : "2022-01-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6MmeK4J693NFnDma8cBVio"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CMaNobmJYgXcfiT0zYOwi",
+      "id" : "5CMaNobmJYgXcfiT0zYOwi",
+      "name" : "WHIPPED CREAM",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CMaNobmJYgXcfiT0zYOwi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gyv1akuIB9fQvXoGSPaJr",
+      "id" : "2gyv1akuIB9fQvXoGSPaJr",
+      "name" : "Big Freedia",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gyv1akuIB9fQvXoGSPaJr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 124096,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QZFPL2100137"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6AxBhyZDlChhX1lNDGCf0P",
+    "id" : "6AxBhyZDlChhX1lNDGCf0P",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hold Up",
+    "popularity" : 52,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6AxBhyZDlChhX1lNDGCf0P"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+        "id" : "5aR8qSaApKChlZvzB0Jfpx",
+        "name" : "UNIIQU3",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1MYkpVa9Y1YCoKrlfWHjeW",
+      "id" : "1MYkpVa9Y1YCoKrlfWHjeW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27374d8817ef2ab6ab051e581fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0274d8817ef2ab6ab051e581fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485174d8817ef2ab6ab051e581fe",
+        "width" : 64
+      } ],
+      "name" : "Microdosing",
+      "release_date" : "2021-08-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1MYkpVa9Y1YCoKrlfWHjeW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238167,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "UKW3K2100030"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6JtT4a0Z406dz7A2f2vGBe",
+    "id" : "6JtT4a0Z406dz7A2f2vGBe",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Microdosing",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6c31b4c39c9ddf4247fc5db0186ca6d336e2722a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6JtT4a0Z406dz7A2f2vGBe"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1T6Em6UJ7pSdgXw5V72YHr",
+        "id" : "1T6Em6UJ7pSdgXw5V72YHr",
+        "name" : "TT The Artist",
+        "type" : "artist",
+        "uri" : "spotify:artist:1T6Em6UJ7pSdgXw5V72YHr"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+        "id" : "5aR8qSaApKChlZvzB0Jfpx",
+        "name" : "UNIIQU3",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5HyFT02D5UnSkcCaggP5iz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5HyFT02D5UnSkcCaggP5iz",
+      "id" : "5HyFT02D5UnSkcCaggP5iz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d91b1e48b31d4c390be60d8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d91b1e48b31d4c390be60d8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d91b1e48b31d4c390be60d8",
+        "width" : 64
+      } ],
+      "name" : "Club Queens",
+      "release_date" : "2018-08-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:5HyFT02D5UnSkcCaggP5iz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1T6Em6UJ7pSdgXw5V72YHr",
+      "id" : "1T6Em6UJ7pSdgXw5V72YHr",
+      "name" : "TT The Artist",
+      "type" : "artist",
+      "uri" : "spotify:artist:1T6Em6UJ7pSdgXw5V72YHr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 176499,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QZDA81865777"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2cQflnqpYkXUhKh7IwExwn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2cQflnqpYkXUhKh7IwExwn",
+    "id" : "2cQflnqpYkXUhKh7IwExwn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Off the Chain",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eaa320c2b01b606f8033f10301b6fbd038098c2e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2cQflnqpYkXUhKh7IwExwn"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1wqW0IQWC7V7jktcjVHID6",
+        "id" : "1wqW0IQWC7V7jktcjVHID6",
+        "name" : "Black Caviar",
+        "type" : "artist",
+        "uri" : "spotify:artist:1wqW0IQWC7V7jktcjVHID6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+        "id" : "5aR8qSaApKChlZvzB0Jfpx",
+        "name" : "UNIIQU3",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4u4e0Wr2F95vEQElrmpw8a"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4u4e0Wr2F95vEQElrmpw8a",
+      "id" : "4u4e0Wr2F95vEQElrmpw8a",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b3d13340dba9947c429400b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b3d13340dba9947c429400b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b3d13340dba9947c429400b",
+        "width" : 64
+      } ],
+      "name" : "U Nasty",
+      "release_date" : "2021-04-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4u4e0Wr2F95vEQElrmpw8a"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wqW0IQWC7V7jktcjVHID6",
+      "id" : "1wqW0IQWC7V7jktcjVHID6",
+      "name" : "Black Caviar",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wqW0IQWC7V7jktcjVHID6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 191150,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR2145155"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7bsxDwNl5lYXOWU5U3jvQw",
+    "id" : "7bsxDwNl5lYXOWU5U3jvQw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "U Nasty",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/27a485b4194ec2caad073a034ce92462104ec873?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7bsxDwNl5lYXOWU5U3jvQw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+        "id" : "5aR8qSaApKChlZvzB0Jfpx",
+        "name" : "UNIIQU3",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1AMwkyhrdiuLaRksmvT6kS",
+      "id" : "1AMwkyhrdiuLaRksmvT6kS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27323e659ac233d32cd4cddaa13",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0223e659ac233d32cd4cddaa13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485123e659ac233d32cd4cddaa13",
+        "width" : 64
+      } ],
+      "name" : "Unavailable",
+      "release_date" : "2021-09-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1AMwkyhrdiuLaRksmvT6kS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1oIdLFKLJx0NicqeiEvBj5",
+      "id" : "1oIdLFKLJx0NicqeiEvBj5",
+      "name" : "R3LL",
+      "type" : "artist",
+      "uri" : "spotify:artist:1oIdLFKLJx0NicqeiEvBj5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 201459,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "UKW3K2100038"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6hi2SU53dvRJcko8Esqt7g",
+    "id" : "6hi2SU53dvRJcko8Esqt7g",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Unavailable",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a540704518f71e33fef617af1d36c7f35eddf1b8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6hi2SU53dvRJcko8Esqt7g"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ITI6SEoUZMIXXkzCfr4oE",
+        "id" : "5ITI6SEoUZMIXXkzCfr4oE",
+        "name" : "Aluna",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ITI6SEoUZMIXXkzCfr4oE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3eVVyHEF1waq5kbMFm9pdJ",
+      "id" : "3eVVyHEF1waq5kbMFm9pdJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f8fbfe49eda632251fddc2ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f8fbfe49eda632251fddc2ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f8fbfe49eda632251fddc2ea",
+        "width" : 64
+      } ],
+      "name" : "Renaissance (Remixes)",
+      "release_date" : "2021-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:3eVVyHEF1waq5kbMFm9pdJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ITI6SEoUZMIXXkzCfr4oE",
+      "id" : "5ITI6SEoUZMIXXkzCfr4oE",
+      "name" : "Aluna",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ITI6SEoUZMIXXkzCfr4oE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236411,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V2100015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5BMXfwG0l57VbehGPq2Uv2",
+    "id" : "5BMXfwG0l57VbehGPq2Uv2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Body Pump - UNIIQU3 Remix",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/69f56684b757aef33ef6dd4e8a80b7032d0a36e3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5BMXfwG0l57VbehGPq2Uv2"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HcAkAeL4xf02wzAnl7mIV",
+        "id" : "1HcAkAeL4xf02wzAnl7mIV",
+        "name" : "Michael Brun",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HcAkAeL4xf02wzAnl7mIV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+        "id" : "5aR8qSaApKChlZvzB0Jfpx",
+        "name" : "UNIIQU3",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2zvV2sm5mOGDNvZsL0nNiL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2zvV2sm5mOGDNvZsL0nNiL",
+      "id" : "2zvV2sm5mOGDNvZsL0nNiL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273051681167cc15fddf0c7b208",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02051681167cc15fddf0c7b208",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851051681167cc15fddf0c7b208",
+        "width" : 64
+      } ],
+      "name" : "How About This",
+      "release_date" : "2019-02-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2zvV2sm5mOGDNvZsL0nNiL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HcAkAeL4xf02wzAnl7mIV",
+      "id" : "1HcAkAeL4xf02wzAnl7mIV",
+      "name" : "Michael Brun",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HcAkAeL4xf02wzAnl7mIV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 167404,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBKPL1936438"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4QYvaeib9ehETm0CRzvGbJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4QYvaeib9ehETm0CRzvGbJ",
+    "id" : "4QYvaeib9ehETm0CRzvGbJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "How About This",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3f6e54a59e7f24757403c64cd3c11233ef815867?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4QYvaeib9ehETm0CRzvGbJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ju2puXmReF61q0pjZX0oh",
+        "id" : "1ju2puXmReF61q0pjZX0oh",
+        "name" : "Dance System",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ju2puXmReF61q0pjZX0oh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/74chXRreUjoqMEN4RRk6yq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/74chXRreUjoqMEN4RRk6yq",
+      "id" : "74chXRreUjoqMEN4RRk6yq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dd20855fdff97606551ab967",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dd20855fdff97606551ab967",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dd20855fdff97606551ab967",
+        "width" : 64
+      } ],
+      "name" : "Where's the Party At?",
+      "release_date" : "2020-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:74chXRreUjoqMEN4RRk6yq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ju2puXmReF61q0pjZX0oh",
+      "id" : "1ju2puXmReF61q0pjZX0oh",
+      "name" : "Dance System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ju2puXmReF61q0pjZX0oh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 241899,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR26V2018849"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6EJdMfuTTtkT3ODpuT0MyP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6EJdMfuTTtkT3ODpuT0MyP",
+    "id" : "6EJdMfuTTtkT3ODpuT0MyP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Get up on It!",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3586eccd1a0b183bd35317271ced04ff9d0265cf?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6EJdMfuTTtkT3ODpuT0MyP"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2TsxAQQq0xVbjBOPXozFVz",
+        "id" : "2TsxAQQq0xVbjBOPXozFVz",
+        "name" : "Karen Nyame KG",
+        "type" : "artist",
+        "uri" : "spotify:artist:2TsxAQQq0xVbjBOPXozFVz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+        "id" : "5aR8qSaApKChlZvzB0Jfpx",
+        "name" : "UNIIQU3",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7rs4RT4DkkGWpdxT9belLA",
+      "id" : "7rs4RT4DkkGWpdxT9belLA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736587c2b0520cc26c009415c5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026587c2b0520cc26c009415c5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516587c2b0520cc26c009415c5",
+        "width" : 64
+      } ],
+      "name" : "B2B / Black Roses",
+      "release_date" : "2020-12-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7rs4RT4DkkGWpdxT9belLA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2TsxAQQq0xVbjBOPXozFVz",
+      "id" : "2TsxAQQq0xVbjBOPXozFVz",
+      "name" : "Karen Nyame KG",
+      "type" : "artist",
+      "uri" : "spotify:artist:2TsxAQQq0xVbjBOPXozFVz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224541,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2034869"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3OrMbFUgXjchOYTU8TeLO7",
+    "id" : "3OrMbFUgXjchOYTU8TeLO7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "B2B",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2eea29a6bdb7085eb8971d4ee260c76070fa0218?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3OrMbFUgXjchOYTU8TeLO7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+        "id" : "5aR8qSaApKChlZvzB0Jfpx",
+        "name" : "UNIIQU3",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wBSNkN72b0QbEtNeizw0o"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wBSNkN72b0QbEtNeizw0o",
+      "id" : "2wBSNkN72b0QbEtNeizw0o",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e92397f70b367718f2ef11e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e92397f70b367718f2ef11e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e92397f70b367718f2ef11e2",
+        "width" : 64
+      } ],
+      "name" : "LSD",
+      "release_date" : "2019-03-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2wBSNkN72b0QbEtNeizw0o"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aR8qSaApKChlZvzB0Jfpx",
+      "id" : "5aR8qSaApKChlZvzB0Jfpx",
+      "name" : "UNIIQU3",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aR8qSaApKChlZvzB0Jfpx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 184347,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QZDA81991879"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2hmaxvrXjiF1GS85U2MlLP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2hmaxvrXjiF1GS85U2MlLP",
+    "id" : "2hmaxvrXjiF1GS85U2MlLP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "LSD",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/46c7b3c039d7715e7d6a9c62ef46e3ec86b5aa53?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2hmaxvrXjiF1GS85U2MlLP"
+  } ]
+}

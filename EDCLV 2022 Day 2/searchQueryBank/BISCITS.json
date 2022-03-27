@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BISCITS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29173
+      },
+      "genres" : [ "bass house", "deep groove house", "house", "pop dance", "uk tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/052B9SONfhoScw7dgYWw5o",
+      "id" : "052B9SONfhoScw7dgYWw5o",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb03abc684a1ea430c10e90f09",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517403abc684a1ea430c10e90f09",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17803abc684a1ea430c10e90f09",
+        "width" : 160
+      } ],
+      "name" : "Biscits",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:052B9SONfhoScw7dgYWw5o"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZoeGviy4JwwHkIgQswoP3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3ZoeGviy4JwwHkIgQswoP3",
+      "id" : "3ZoeGviy4JwwHkIgQswoP3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cc4cda72e0b9c798f1aada7b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cc4cda72e0b9c798f1aada7b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cc4cda72e0b9c798f1aada7b",
+        "width" : 64
+      } ],
+      "name" : "Biscits",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZoeGviy4JwwHkIgQswoP3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wCGzE8vru8EpVQuBnRoO2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2wCGzE8vru8EpVQuBnRoO2",
+      "id" : "2wCGzE8vru8EpVQuBnRoO2",
+      "images" : [ ],
+      "name" : "Biscits",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2wCGzE8vru8EpVQuBnRoO2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0VCvJ2Dh9LneeYzCVvz80n"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0VCvJ2Dh9LneeYzCVvz80n",
+      "id" : "0VCvJ2Dh9LneeYzCVvz80n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273297578d5d1ff06a68dafbf04",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02297578d5d1ff06a68dafbf04",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851297578d5d1ff06a68dafbf04",
+        "width" : 64
+      } ],
+      "name" : "Summit Biscits",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0VCvJ2Dh9LneeYzCVvz80n"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

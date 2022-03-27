@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=AUTOGRAF&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 101386
+      },
+      "genres" : [ "deep house", "deep tropical house", "edm", "electropop", "future bass", "house", "indie poptimism", "pop dance", "pop edm", "tropical house", "vapor soul", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/0FVj4JuzTyudaXAwfqDQ20",
+      "id" : "0FVj4JuzTyudaXAwfqDQ20",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb18f0596f15e4a6ebde3c643b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517418f0596f15e4a6ebde3c643b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17818f0596f15e4a6ebde3c643b",
+        "width" : 160
+      } ],
+      "name" : "Autograf",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:0FVj4JuzTyudaXAwfqDQ20"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69oyM0sbRX8DkHMfOY7zvQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/69oyM0sbRX8DkHMfOY7zvQ",
+      "id" : "69oyM0sbRX8DkHMfOY7zvQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd5eca2615125b8f126683bdb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d5eca2615125b8f126683bdb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d5eca2615125b8f126683bdb",
+        "width" : 160
+      } ],
+      "name" : "Autograft",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:69oyM0sbRX8DkHMfOY7zvQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DIEuX1YvLdCdHePuYFCrs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 67
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2DIEuX1YvLdCdHePuYFCrs",
+      "id" : "2DIEuX1YvLdCdHePuYFCrs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb80074076dcdedc8536e03e13",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517480074076dcdedc8536e03e13",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17880074076dcdedc8536e03e13",
+        "width" : 160
+      } ],
+      "name" : "autOgraft",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:2DIEuX1YvLdCdHePuYFCrs"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

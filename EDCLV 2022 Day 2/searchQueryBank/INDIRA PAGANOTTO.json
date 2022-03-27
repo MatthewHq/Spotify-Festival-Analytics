@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=INDIRA+PAGANOTTO&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6544
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0JXc5G7ZImFTwPg3y8MTfR",
+      "id" : "0JXc5G7ZImFTwPg3y8MTfR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8c1bddd212493e82001aac19",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748c1bddd212493e82001aac19",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788c1bddd212493e82001aac19",
+        "width" : 160
+      } ],
+      "name" : "Indira Paganotto",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0JXc5G7ZImFTwPg3y8MTfR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5i0gInzNid781ZTuVczJkK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 98
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5i0gInzNid781ZTuVczJkK",
+      "id" : "5i0gInzNid781ZTuVczJkK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301b53f2c707ea7a2b0a6c23f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201b53f2c707ea7a2b0a6c23f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101b53f2c707ea7a2b0a6c23f",
+        "width" : 64
+      } ],
+      "name" : "Indira Paganotto & Sergio WoS",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5i0gInzNid781ZTuVczJkK"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

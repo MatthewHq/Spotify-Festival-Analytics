@@ -1,0 +1,754 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/31PQANabd071TUYth7bG5n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/31PQANabd071TUYth7bG5n",
+        "id" : "31PQANabd071TUYth7bG5n",
+        "name" : "David Rust",
+        "type" : "artist",
+        "uri" : "spotify:artist:31PQANabd071TUYth7bG5n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+        "id" : "1yeqihLwOY64E9YKgpc1BQ",
+        "name" : "Renegade System",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5pdru7jC44T6imrf2vT7wK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5pdru7jC44T6imrf2vT7wK",
+      "id" : "5pdru7jC44T6imrf2vT7wK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27363c967d28d155dd75181c971",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0263c967d28d155dd75181c971",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485163c967d28d155dd75181c971",
+        "width" : 64
+      } ],
+      "name" : "Don't Give Up",
+      "release_date" : "2019-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5pdru7jC44T6imrf2vT7wK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31PQANabd071TUYth7bG5n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/31PQANabd071TUYth7bG5n",
+      "id" : "31PQANabd071TUYth7bG5n",
+      "name" : "David Rust",
+      "type" : "artist",
+      "uri" : "spotify:artist:31PQANabd071TUYth7bG5n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 342400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD681903029"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1pvRRigqyk7BSMkkjtcNK0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1pvRRigqyk7BSMkkjtcNK0",
+    "id" : "1pvRRigqyk7BSMkkjtcNK0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Don't Give Up",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fb9474c80b13f8b09febef9fc4a8ed01879859de?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1pvRRigqyk7BSMkkjtcNK0"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xFAz0ZOb2UOkMJCCUHkcv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xFAz0ZOb2UOkMJCCUHkcv",
+        "id" : "6xFAz0ZOb2UOkMJCCUHkcv",
+        "name" : "Alex Di Stefano",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xFAz0ZOb2UOkMJCCUHkcv"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+        "id" : "1yeqihLwOY64E9YKgpc1BQ",
+        "name" : "Renegade System",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1tk1emGAmqVs7E8XWDtAtl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1tk1emGAmqVs7E8XWDtAtl",
+      "id" : "1tk1emGAmqVs7E8XWDtAtl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396538b9dbc0b368b6f9ad2b5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296538b9dbc0b368b6f9ad2b5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196538b9dbc0b368b6f9ad2b5",
+        "width" : 64
+      } ],
+      "name" : "From Heaven to Inferno (Renegade System Remix)",
+      "release_date" : "2022-01-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1tk1emGAmqVs7E8XWDtAtl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xFAz0ZOb2UOkMJCCUHkcv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xFAz0ZOb2UOkMJCCUHkcv",
+      "id" : "6xFAz0ZOb2UOkMJCCUHkcv",
+      "name" : "Alex Di Stefano",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xFAz0ZOb2UOkMJCCUHkcv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 207857,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD682104716"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ER1GELwe4fSe7zX2Fth8y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ER1GELwe4fSe7zX2Fth8y",
+    "id" : "6ER1GELwe4fSe7zX2Fth8y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "From Heaven to Inferno - Renegade System Remix",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d512b512f641dff5b8440443f286dd711ed7515c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6ER1GELwe4fSe7zX2Fth8y"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+        "id" : "1yeqihLwOY64E9YKgpc1BQ",
+        "name" : "Renegade System",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3gD9fQa6Y3CMNsgHdchaU8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3gD9fQa6Y3CMNsgHdchaU8",
+      "id" : "3gD9fQa6Y3CMNsgHdchaU8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27307e791442984d1eed5f13923",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0207e791442984d1eed5f13923",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485107e791442984d1eed5f13923",
+        "width" : 64
+      } ],
+      "name" : "Predator",
+      "release_date" : "2019-08-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3gD9fQa6Y3CMNsgHdchaU8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 198857,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD681902651"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1aToEi1wkx2Ojrfih4V1Zf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1aToEi1wkx2Ojrfih4V1Zf",
+    "id" : "1aToEi1wkx2Ojrfih4V1Zf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Predator",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cf7cdde84d59c9f6dde6f878a942fc3e04d369a5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1aToEi1wkx2Ojrfih4V1Zf"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+        "id" : "1yeqihLwOY64E9YKgpc1BQ",
+        "name" : "Renegade System",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3fGDiJLWa0qxiVt21HMa2g"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3fGDiJLWa0qxiVt21HMa2g",
+      "id" : "3fGDiJLWa0qxiVt21HMa2g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27313ec6cac8ca6e8143294e30b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0213ec6cac8ca6e8143294e30b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485113ec6cac8ca6e8143294e30b",
+        "width" : 64
+      } ],
+      "name" : "Crush",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3fGDiJLWa0qxiVt21HMa2g"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202500,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD682200368"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4WjuZMjjGdUoMCdFtGSvHx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4WjuZMjjGdUoMCdFtGSvHx",
+    "id" : "4WjuZMjjGdUoMCdFtGSvHx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crush",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a3d1b226be48afd20d6930d0a39bb60465113fa6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4WjuZMjjGdUoMCdFtGSvHx"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1UtBjqMZBAmqIPlDrKu7Tr",
+        "id" : "1UtBjqMZBAmqIPlDrKu7Tr",
+        "name" : "Andrew Rayel",
+        "type" : "artist",
+        "uri" : "spotify:artist:1UtBjqMZBAmqIPlDrKu7Tr"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0wkq8251t1iz3ZYpwjG2up"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0wkq8251t1iz3ZYpwjG2up",
+      "id" : "0wkq8251t1iz3ZYpwjG2up",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a75252aa1ba454b746990416",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a75252aa1ba454b746990416",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a75252aa1ba454b746990416",
+        "width" : 64
+      } ],
+      "name" : "Find Your Harmony Radioshow #298",
+      "release_date" : "2022-03-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 31,
+      "type" : "album",
+      "uri" : "spotify:album:0wkq8251t1iz3ZYpwjG2up"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 233722,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712201993"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Omj1FzwvPH4FiNSQYrVnn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Omj1FzwvPH4FiNSQYrVnn",
+    "id" : "3Omj1FzwvPH4FiNSQYrVnn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crush (FYH298)",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f364684323c549e5146bdf387d3107d70867f93a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 27,
+    "type" : "track",
+    "uri" : "spotify:track:3Omj1FzwvPH4FiNSQYrVnn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xFAz0ZOb2UOkMJCCUHkcv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xFAz0ZOb2UOkMJCCUHkcv",
+        "id" : "6xFAz0ZOb2UOkMJCCUHkcv",
+        "name" : "Alex Di Stefano",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xFAz0ZOb2UOkMJCCUHkcv"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5fCukbPVqM76dJHp7WEahH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5fCukbPVqM76dJHp7WEahH",
+        "id" : "5fCukbPVqM76dJHp7WEahH",
+        "name" : "Zach Zlov",
+        "type" : "artist",
+        "uri" : "spotify:artist:5fCukbPVqM76dJHp7WEahH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5FYqOgV45IbDeeTNancc2q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5FYqOgV45IbDeeTNancc2q",
+        "id" : "5FYqOgV45IbDeeTNancc2q",
+        "name" : "EverLight",
+        "type" : "artist",
+        "uri" : "spotify:artist:5FYqOgV45IbDeeTNancc2q"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/12lzE9G5viGp2k8ikwo5yC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/12lzE9G5viGp2k8ikwo5yC",
+      "id" : "12lzE9G5viGp2k8ikwo5yC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27305e5564ed859b9155034264d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0205e5564ed859b9155034264d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485105e5564ed859b9155034264d",
+        "width" : 64
+      } ],
+      "name" : "The Art of Skullduggery Vol. III (mixed by Alex Di Stefano, Zach Zlov and EverLight)",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 58,
+      "type" : "album",
+      "uri" : "spotify:album:12lzE9G5viGp2k8ikwo5yC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 263226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD682104401"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5r7HGJ4V88s21JjGBKm9iJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5r7HGJ4V88s21JjGBKm9iJ",
+    "id" : "5r7HGJ4V88s21JjGBKm9iJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Weather the Storm - Mixed",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c6761084aea2c220f2b6e4ecb35aa5865b0720dd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5r7HGJ4V88s21JjGBKm9iJ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+        "id" : "1yeqihLwOY64E9YKgpc1BQ",
+        "name" : "Renegade System",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2TKHh4sZYK8B7md8kw2AY3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2TKHh4sZYK8B7md8kw2AY3",
+      "id" : "2TKHh4sZYK8B7md8kw2AY3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b1abc54056be3c5b4485f4a8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b1abc54056be3c5b4485f4a8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b1abc54056be3c5b4485f4a8",
+        "width" : 64
+      } ],
+      "name" : "When I Rock",
+      "release_date" : "2020-03-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2TKHh4sZYK8B7md8kw2AY3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231428,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD682000317"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3bLSvaPTH89AvQIdrztgMf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3bLSvaPTH89AvQIdrztgMf",
+    "id" : "3bLSvaPTH89AvQIdrztgMf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "When I Rock",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e15dc0d082ff56f15e97a04189e71245118ebece?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3bLSvaPTH89AvQIdrztgMf"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+        "id" : "1yeqihLwOY64E9YKgpc1BQ",
+        "name" : "Renegade System",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3fGDiJLWa0qxiVt21HMa2g"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3fGDiJLWa0qxiVt21HMa2g",
+      "id" : "3fGDiJLWa0qxiVt21HMa2g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27313ec6cac8ca6e8143294e30b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0213ec6cac8ca6e8143294e30b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485113ec6cac8ca6e8143294e30b",
+        "width" : 64
+      } ],
+      "name" : "Crush",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3fGDiJLWa0qxiVt21HMa2g"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 381560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLD682200367"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/63qEAFaOpSCivaC8rlcL3p"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/63qEAFaOpSCivaC8rlcL3p",
+    "id" : "63qEAFaOpSCivaC8rlcL3p",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crush - Extended Mix",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ce043a46d79f8004e2d3b6af4264292bde07f917?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:63qEAFaOpSCivaC8rlcL3p"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/15TOCEFCG40c29gYNX47YD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/15TOCEFCG40c29gYNX47YD",
+        "id" : "15TOCEFCG40c29gYNX47YD",
+        "name" : "Liam Melly",
+        "type" : "artist",
+        "uri" : "spotify:artist:15TOCEFCG40c29gYNX47YD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+        "id" : "1yeqihLwOY64E9YKgpc1BQ",
+        "name" : "Renegade System",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3g6CFg8URe7hl7tKHHtsxb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3g6CFg8URe7hl7tKHHtsxb",
+      "id" : "3g6CFg8URe7hl7tKHHtsxb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f477671ce2cfbf805f47c41d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f477671ce2cfbf805f47c41d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f477671ce2cfbf805f47c41d",
+        "width" : 64
+      } ],
+      "name" : "Calling Card",
+      "release_date" : "2020-06-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3g6CFg8URe7hl7tKHHtsxb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/15TOCEFCG40c29gYNX47YD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/15TOCEFCG40c29gYNX47YD",
+      "id" : "15TOCEFCG40c29gYNX47YD",
+      "name" : "Liam Melly",
+      "type" : "artist",
+      "uri" : "spotify:artist:15TOCEFCG40c29gYNX47YD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 223840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBGWM2020275"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0USqeefRIKnTEkjs83UKJr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0USqeefRIKnTEkjs83UKJr",
+    "id" : "0USqeefRIKnTEkjs83UKJr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Calling Card",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/14aea7a14a7064ab0fd5af57fbd37950eff8b92e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0USqeefRIKnTEkjs83UKJr"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6U0uBUKWYZKZYFGL00hMsp",
+        "id" : "6U0uBUKWYZKZYFGL00hMsp",
+        "name" : "Pulsedriver",
+        "type" : "artist",
+        "uri" : "spotify:artist:6U0uBUKWYZKZYFGL00hMsp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7BnQGzY0tlxiBGh5eHBNoC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7BnQGzY0tlxiBGh5eHBNoC",
+      "id" : "7BnQGzY0tlxiBGh5eHBNoC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273389145551f376c147c9fdf95",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02389145551f376c147c9fdf95",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851389145551f376c147c9fdf95",
+        "width" : 64
+      } ],
+      "name" : "Kiss That Sound (Renegade System Remix)",
+      "release_date" : "2021-08-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:7BnQGzY0tlxiBGh5eHBNoC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6U0uBUKWYZKZYFGL00hMsp",
+      "id" : "6U0uBUKWYZKZYFGL00hMsp",
+      "name" : "Pulsedriver",
+      "type" : "artist",
+      "uri" : "spotify:artist:6U0uBUKWYZKZYFGL00hMsp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yeqihLwOY64E9YKgpc1BQ",
+      "id" : "1yeqihLwOY64E9YKgpc1BQ",
+      "name" : "Renegade System",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yeqihLwOY64E9YKgpc1BQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 414000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRX282156458"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Y9pBIDRleTNQkkfnplWsy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Y9pBIDRleTNQkkfnplWsy",
+    "id" : "6Y9pBIDRleTNQkkfnplWsy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kiss That Sound - Renegade System Remix",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d3fba9560d9c9a264cde4a747a1165dc1a12b4d3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6Y9pBIDRleTNQkkfnplWsy"
+  } ]
+}

@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=ACRAZE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 55907
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4pnp4w9g30yLfVIAFnZMRd",
+      "id" : "4pnp4w9g30yLfVIAFnZMRd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb83a7cd2bafbc6e2c377f49cf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517483a7cd2bafbc6e2c377f49cf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17883a7cd2bafbc6e2c377f49cf",
+        "width" : 160
+      } ],
+      "name" : "ACRAZE",
+      "popularity" : 78,
+      "type" : "artist",
+      "uri" : "spotify:artist:4pnp4w9g30yLfVIAFnZMRd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5t2fi0nvZLPSDiuGRWfaV2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5t2fi0nvZLPSDiuGRWfaV2",
+      "id" : "5t2fi0nvZLPSDiuGRWfaV2",
+      "images" : [ ],
+      "name" : "skott acraze",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5t2fi0nvZLPSDiuGRWfaV2"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

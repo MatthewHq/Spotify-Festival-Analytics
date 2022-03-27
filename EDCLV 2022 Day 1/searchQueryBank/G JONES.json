@@ -1,0 +1,547 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=G+JONES&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 69297
+      },
+      "genres" : [ "electronic trap", "future bass", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/0gXx2aQ2mfovDfqCw10MQC",
+      "id" : "0gXx2aQ2mfovDfqCw10MQC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc2f7066632f9f3819d52d520",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c2f7066632f9f3819d52d520",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c2f7066632f9f3819d52d520",
+        "width" : 160
+      } ],
+      "name" : "G Jones",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:0gXx2aQ2mfovDfqCw10MQC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 925806
+      },
+      "genres" : [ "country", "country rock", "honky tonk" ],
+      "href" : "https://api.spotify.com/v1/artists/2OpqcUtj10HHvGG6h9VYC5",
+      "id" : "2OpqcUtj10HHvGG6h9VYC5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5f79cb1d93cfa9684c1f6dc9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745f79cb1d93cfa9684c1f6dc9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785f79cb1d93cfa9684c1f6dc9",
+        "width" : 160
+      } ],
+      "name" : "George Jones",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:2OpqcUtj10HHvGG6h9VYC5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lazAsMQ5EZgs4mw24nqIU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 74
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1lazAsMQ5EZgs4mw24nqIU",
+      "id" : "1lazAsMQ5EZgs4mw24nqIU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334b8cb972d200b3295bc7af9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234b8cb972d200b3295bc7af9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134b8cb972d200b3295bc7af9",
+        "width" : 64
+      } ],
+      "name" : "G. Jones",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:1lazAsMQ5EZgs4mw24nqIU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1FDAJKaPzIzRHJrl3Smitm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 64849
+      },
+      "genres" : [ "anime rap" ],
+      "href" : "https://api.spotify.com/v1/artists/1FDAJKaPzIzRHJrl3Smitm",
+      "id" : "1FDAJKaPzIzRHJrl3Smitm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7088f760413e9f612425a8a4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747088f760413e9f612425a8a4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787088f760413e9f612425a8a4",
+        "width" : 160
+      } ],
+      "name" : "GameboyJones",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:1FDAJKaPzIzRHJrl3Smitm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76FHEYWWJGalS5jpzrXTsy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9339
+      },
+      "genres" : [ "tone" ],
+      "href" : "https://api.spotify.com/v1/artists/76FHEYWWJGalS5jpzrXTsy",
+      "id" : "76FHEYWWJGalS5jpzrXTsy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c79cc8f28560513293e1f444",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c79cc8f28560513293e1f444",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c79cc8f28560513293e1f444",
+        "width" : 64
+      } ],
+      "name" : "Dr. Steve G. Jones",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:76FHEYWWJGalS5jpzrXTsy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 262186
+      },
+      "genres" : [ "dance pop", "disco", "electronica", "new romantic", "new wave", "new wave pop", "synthpop" ],
+      "href" : "https://api.spotify.com/v1/artists/2f9ZiYA2ic1r1voObUimdd",
+      "id" : "2f9ZiYA2ic1r1voObUimdd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc1c97da9c6326675e8c493cd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c1c97da9c6326675e8c493cd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c1c97da9c6326675e8c493cd",
+        "width" : 160
+      } ],
+      "name" : "Grace Jones",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:2f9ZiYA2ic1r1voObUimdd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5VljAGgtukj43UpWZkXLCk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 94
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5VljAGgtukj43UpWZkXLCk",
+      "id" : "5VljAGgtukj43UpWZkXLCk",
+      "images" : [ ],
+      "name" : "G Jones & Mad Zach",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:5VljAGgtukj43UpWZkXLCk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jUz0w6cFny9tniZMDSauN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7jUz0w6cFny9tniZMDSauN",
+      "id" : "7jUz0w6cFny9tniZMDSauN",
+      "images" : [ ],
+      "name" : "G Jones & Danny Corn",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:7jUz0w6cFny9tniZMDSauN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 89044
+      },
+      "genres" : [ "classic soul", "disco", "funk", "motown", "philly soul", "post-disco", "quiet storm", "soul", "urban contemporary" ],
+      "href" : "https://api.spotify.com/v1/artists/7aHa6IZwZ13FoC5AXFkCSh",
+      "id" : "7aHa6IZwZ13FoC5AXFkCSh",
+      "images" : [ {
+        "height" : 549,
+        "url" : "https://i.scdn.co/image/b0838e388e0605e2108d70573f247897849951ff",
+        "width" : 976
+      }, {
+        "height" : 360,
+        "url" : "https://i.scdn.co/image/a063851b0b69af8f7a9190537cf9742e578b14b0",
+        "width" : 640
+      }, {
+        "height" : 113,
+        "url" : "https://i.scdn.co/image/76ebb4f95c129fb2ace0e10831a8211297dfc22e",
+        "width" : 200
+      }, {
+        "height" : 36,
+        "url" : "https://i.scdn.co/image/337e26f27a8adfe23597908c4f8de0a8b4a58f90",
+        "width" : 64
+      } ],
+      "name" : "The Jones Girls",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:7aHa6IZwZ13FoC5AXFkCSh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6s7rOYDIodPwO3EiKqbetH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6s7rOYDIodPwO3EiKqbetH",
+      "id" : "6s7rOYDIodPwO3EiKqbetH",
+      "images" : [ ],
+      "name" : "G Jones",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:6s7rOYDIodPwO3EiKqbetH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/27o6v2N3H2YW2EPZjAMn0t"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 18127
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/27o6v2N3H2YW2EPZjAMn0t",
+      "id" : "27o6v2N3H2YW2EPZjAMn0t",
+      "images" : [ {
+        "height" : 643,
+        "url" : "https://i.scdn.co/image/0435f3a80e7e25487da11ce4cba407a66bdb9cd2",
+        "width" : 1000
+      }, {
+        "height" : 412,
+        "url" : "https://i.scdn.co/image/f105dc4f6b24de5146d8306d72ade51d233cffad",
+        "width" : 640
+      }, {
+        "height" : 129,
+        "url" : "https://i.scdn.co/image/21bede88f76ab2daed10c6a11e5cac268443a84c",
+        "width" : 200
+      }, {
+        "height" : 41,
+        "url" : "https://i.scdn.co/image/a404dcb9ca1753aa3954dd735efb26f9f8f5b6dc",
+        "width" : 64
+      } ],
+      "name" : "Glenn Jones",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:27o6v2N3H2YW2EPZjAMn0t"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2T1Y5ZizwOvmkrUh9dKLQ1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1317
+      },
+      "genres" : [ "hypnosis", "motivation" ],
+      "href" : "https://api.spotify.com/v1/artists/2T1Y5ZizwOvmkrUh9dKLQ1",
+      "id" : "2T1Y5ZizwOvmkrUh9dKLQ1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273374c91c48cdb7394499a2578",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02374c91c48cdb7394499a2578",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851374c91c48cdb7394499a2578",
+        "width" : 64
+      } ],
+      "name" : "Steve G. Jones",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:2T1Y5ZizwOvmkrUh9dKLQ1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4121
+      },
+      "genres" : [ "orchestral performance" ],
+      "href" : "https://api.spotify.com/v1/artists/3JzgNB1Kzlc17zuSzrC51x",
+      "id" : "3JzgNB1Kzlc17zuSzrC51x",
+      "images" : [ {
+        "height" : 800,
+        "url" : "https://i.scdn.co/image/89e9e20f4d2bd4ecdf599104a9fc1c458e281c14",
+        "width" : 1000
+      }, {
+        "height" : 512,
+        "url" : "https://i.scdn.co/image/814a3b11292f064b78f311d9b9d90c4aed596e8b",
+        "width" : 640
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/0c69ac0bef0dbad30099b4fa1cb64f76bf00c5f0",
+        "width" : 200
+      }, {
+        "height" : 51,
+        "url" : "https://i.scdn.co/image/98e125fa7a5d0bcd0245066ef029426137222e31",
+        "width" : 64
+      } ],
+      "name" : "Kent Nagano",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:3JzgNB1Kzlc17zuSzrC51x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61MucQHAYct3k7Ne42wxpv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/61MucQHAYct3k7Ne42wxpv",
+      "id" : "61MucQHAYct3k7Ne42wxpv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb036bd8af9071ff5e13070d3e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174036bd8af9071ff5e13070d3e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178036bd8af9071ff5e13070d3e",
+        "width" : 160
+      } ],
+      "name" : "WHITNEY G JONES",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:61MucQHAYct3k7Ne42wxpv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7moqCeHjhKs0Ytf9Gu7SV1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1338
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7moqCeHjhKs0Ytf9Gu7SV1",
+      "id" : "7moqCeHjhKs0Ytf9Gu7SV1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8fa787f9a3e9e3f000e3a906",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748fa787f9a3e9e3f000e3a906",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788fa787f9a3e9e3f000e3a906",
+        "width" : 160
+      } ],
+      "name" : "Gentry - Jones",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:7moqCeHjhKs0Ytf9Gu7SV1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9294
+      },
+      "genres" : [ "appalachian folk", "banjo", "bluegrass", "country gospel" ],
+      "href" : "https://api.spotify.com/v1/artists/2UtCcZQl7xzvEao4vWBSOD",
+      "id" : "2UtCcZQl7xzvEao4vWBSOD",
+      "images" : [ {
+        "height" : 693,
+        "url" : "https://i.scdn.co/image/403670fecc609f3920dc22971c12829e9976804f",
+        "width" : 1000
+      }, {
+        "height" : 443,
+        "url" : "https://i.scdn.co/image/dbe60a535587991b0dcc38393c00e9675e138430",
+        "width" : 640
+      }, {
+        "height" : 139,
+        "url" : "https://i.scdn.co/image/d23d54ec39b0f220239ada999c63e277cf3b53bf",
+        "width" : 200
+      }, {
+        "height" : 44,
+        "url" : "https://i.scdn.co/image/252139f2fe644e2fd0d20637783d3fdc16e191b4",
+        "width" : 64
+      } ],
+      "name" : "Grandpa Jones",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:2UtCcZQl7xzvEao4vWBSOD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5X3hmAle6klG0VvstAnvyD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5798
+      },
+      "genres" : [ "classical performance", "historic orchestral performance", "orchestral performance" ],
+      "href" : "https://api.spotify.com/v1/artists/5X3hmAle6klG0VvstAnvyD",
+      "id" : "5X3hmAle6klG0VvstAnvyD",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/4e960fa5cabc4da31cf211a7570ab0635d0acb9c",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/aed932aac7acb17ed9b7a2b882cfafa900291f14",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/91ac94d0a7e4730f0c36445980d59a1cf9403c67",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/809e2ef1c16bd7f09d324df524f581efd9dc3e03",
+        "width" : 64
+      } ],
+      "name" : "Sir John Barbirolli",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:5X3hmAle6klG0VvstAnvyD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4w3SbKx9G1XOV8TeMOEmTi",
+      "id" : "4w3SbKx9G1XOV8TeMOEmTi",
+      "images" : [ ],
+      "name" : "George Jones",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:4w3SbKx9G1XOV8TeMOEmTi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HY8lCkyEUSL5jfENlkshV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9767
+      },
+      "genres" : [ "american primitive", "drone folk" ],
+      "href" : "https://api.spotify.com/v1/artists/7HY8lCkyEUSL5jfENlkshV",
+      "id" : "7HY8lCkyEUSL5jfENlkshV",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/77412cffa758b308120aa6893e956333d65b5acc",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2017d1f2f2720faef1490b3e75ad843145dee9f3",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/bb548b46111b92bb17fec38898955515555afd9c",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/eda92d81d0814cb57c11c6aac70673febb0f22c6",
+        "width" : 64
+      } ],
+      "name" : "Glenn Jones",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:7HY8lCkyEUSL5jfENlkshV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08BQmH2M3Ew9XjMHaHsl1l"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10163
+      },
+      "genres" : [ "motown", "northern soul" ],
+      "href" : "https://api.spotify.com/v1/artists/08BQmH2M3Ew9XjMHaHsl1l",
+      "id" : "08BQmH2M3Ew9XjMHaHsl1l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737d4287bed60bfc5f13d96644",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027d4287bed60bfc5f13d96644",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517d4287bed60bfc5f13d96644",
+        "width" : 64
+      } ],
+      "name" : "Gloria Jones",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:08BQmH2M3Ew9XjMHaHsl1l"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=G+JONES&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 624
+  }
+}

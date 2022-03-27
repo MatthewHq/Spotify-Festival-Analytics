@@ -1,0 +1,763 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/31DUXycJt0YIBoMXLI5UdV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/31DUXycJt0YIBoMXLI5UdV",
+        "id" : "31DUXycJt0YIBoMXLI5UdV",
+        "name" : "Trampa",
+        "type" : "artist",
+        "uri" : "spotify:artist:31DUXycJt0YIBoMXLI5UdV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+        "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+        "name" : "MARAUDA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/735Bu0197KvUYO77NXGKGz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/735Bu0197KvUYO77NXGKGz",
+      "id" : "735Bu0197KvUYO77NXGKGz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334dd7c8a051eea550017d7b2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234dd7c8a051eea550017d7b2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134dd7c8a051eea550017d7b2",
+        "width" : 64
+      } ],
+      "name" : "Ruckus",
+      "release_date" : "2020-01-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:735Bu0197KvUYO77NXGKGz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31DUXycJt0YIBoMXLI5UdV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/31DUXycJt0YIBoMXLI5UdV",
+      "id" : "31DUXycJt0YIBoMXLI5UdV",
+      "name" : "Trampa",
+      "type" : "artist",
+      "uri" : "spotify:artist:31DUXycJt0YIBoMXLI5UdV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 150735,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GB7YL2042001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6amuHJMQe1m2lnri4bmlDV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6amuHJMQe1m2lnri4bmlDV",
+    "id" : "6amuHJMQe1m2lnri4bmlDV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ruckus",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ef989596b4e0a6350d1766b3376050d0e2ae53f6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6amuHJMQe1m2lnri4bmlDV"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+        "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+        "name" : "MARAUDA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7b1FMiWXZwOBsxi0uWw6wH",
+        "id" : "7b1FMiWXZwOBsxi0uWw6wH",
+        "name" : "Elle Vee",
+        "type" : "artist",
+        "uri" : "spotify:artist:7b1FMiWXZwOBsxi0uWw6wH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0ClwugGUZDLLGekquQgeyd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0ClwugGUZDLLGekquQgeyd",
+      "id" : "0ClwugGUZDLLGekquQgeyd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273851092ba246126a7e932474d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02851092ba246126a7e932474d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851851092ba246126a7e932474d",
+        "width" : 64
+      } ],
+      "name" : "Suffer (feat. Elle Vee)",
+      "release_date" : "2021-10-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0ClwugGUZDLLGekquQgeyd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7b1FMiWXZwOBsxi0uWw6wH",
+      "id" : "7b1FMiWXZwOBsxi0uWw6wH",
+      "name" : "Elle Vee",
+      "type" : "artist",
+      "uri" : "spotify:artist:7b1FMiWXZwOBsxi0uWw6wH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 363428,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0004683"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5gopgUCFUOnS60WqZRvDX4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5gopgUCFUOnS60WqZRvDX4",
+    "id" : "5gopgUCFUOnS60WqZRvDX4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Suffer (feat. Elle Vee)",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5c2fb0801642f61740f2ff8d9d5db70c6e42ddf5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5gopgUCFUOnS60WqZRvDX4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+        "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+        "name" : "MARAUDA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/085pjS6t5V5a8lGRyrOHSe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/085pjS6t5V5a8lGRyrOHSe",
+      "id" : "085pjS6t5V5a8lGRyrOHSe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27351c052022fd9f1289a9d6fb7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0251c052022fd9f1289a9d6fb7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485151c052022fd9f1289a9d6fb7",
+        "width" : 64
+      } ],
+      "name" : "Portal",
+      "release_date" : "2019-03-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:085pjS6t5V5a8lGRyrOHSe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 267608,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUNJX1900003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3qFZattQguzYIOX15faSEm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3qFZattQguzYIOX15faSEm",
+    "id" : "3qFZattQguzYIOX15faSEm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Portal",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/be1becfdf8be608ff48ac33c01d271098dd75435?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3qFZattQguzYIOX15faSEm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+        "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+        "name" : "MARAUDA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6oKG31pUZ6XgLrvtspQUCf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6oKG31pUZ6XgLrvtspQUCf",
+      "id" : "6oKG31pUZ6XgLrvtspQUCf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733ba0b0f69e3bbc1872ca492f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023ba0b0f69e3bbc1872ca492f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513ba0b0f69e3bbc1872ca492f",
+        "width" : 64
+      } ],
+      "name" : "ASCENSION RITE",
+      "release_date" : "2022-02-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:6oKG31pUZ6XgLrvtspQUCf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 185142,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZTGW2100854"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/768xSpNh2ik5zxiufjmquz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/768xSpNh2ik5zxiufjmquz",
+    "id" : "768xSpNh2ik5zxiufjmquz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "UMBRA",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e8099d3d81be4e391ceba59452c3723dea0db5ce?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:768xSpNh2ik5zxiufjmquz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+        "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+        "name" : "MARAUDA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1aAPcoHZu5yUfCVAXWUqHD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1aAPcoHZu5yUfCVAXWUqHD",
+      "id" : "1aAPcoHZu5yUfCVAXWUqHD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ec24bf5a57a16fc62147b8a9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ec24bf5a57a16fc62147b8a9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ec24bf5a57a16fc62147b8a9",
+        "width" : 64
+      } ],
+      "name" : "Death Pit",
+      "release_date" : "2018-11-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1aAPcoHZu5yUfCVAXWUqHD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 166500,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GB7YL1896401"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5fbVrSxxNTwMGkHu1CZXXY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5fbVrSxxNTwMGkHu1CZXXY",
+    "id" : "5fbVrSxxNTwMGkHu1CZXXY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Death Pit",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9f7b13cd40a8b7f007100cb347de9c90316fd43b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5fbVrSxxNTwMGkHu1CZXXY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43tAs3kRWvyu1B7eZOv2pp",
+        "id" : "43tAs3kRWvyu1B7eZOv2pp",
+        "name" : "Herobust",
+        "type" : "artist",
+        "uri" : "spotify:artist:43tAs3kRWvyu1B7eZOv2pp"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Les5fyu7E5WnZ49xmpGy3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Les5fyu7E5WnZ49xmpGy3",
+      "id" : "0Les5fyu7E5WnZ49xmpGy3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732d707015d3ef151358d408bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022d707015d3ef151358d408bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512d707015d3ef151358d408bf",
+        "width" : 64
+      } ],
+      "name" : "WTF VIP + Remixes",
+      "release_date" : "2018-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:0Les5fyu7E5WnZ49xmpGy3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43tAs3kRWvyu1B7eZOv2pp",
+      "id" : "43tAs3kRWvyu1B7eZOv2pp",
+      "name" : "Herobust",
+      "type" : "artist",
+      "uri" : "spotify:artist:43tAs3kRWvyu1B7eZOv2pp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 194000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMEZE1859899"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/113Bna2K6ed4rs3wIcQSPw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/113Bna2K6ed4rs3wIcQSPw",
+    "id" : "113Bna2K6ed4rs3wIcQSPw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "WTF - MARAUDA Remix",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8495a3c7b2d6bf29fc61bc12d2bcf8420d2adbff?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:113Bna2K6ed4rs3wIcQSPw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+        "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+        "name" : "MARAUDA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6oKG31pUZ6XgLrvtspQUCf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6oKG31pUZ6XgLrvtspQUCf",
+      "id" : "6oKG31pUZ6XgLrvtspQUCf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733ba0b0f69e3bbc1872ca492f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023ba0b0f69e3bbc1872ca492f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513ba0b0f69e3bbc1872ca492f",
+        "width" : 64
+      } ],
+      "name" : "ASCENSION RITE",
+      "release_date" : "2022-02-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:6oKG31pUZ6XgLrvtspQUCf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178178,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZTGW2100853"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ko8SLwJgaWkhXmFZzGYXI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ko8SLwJgaWkhXmFZzGYXI",
+    "id" : "0ko8SLwJgaWkhXmFZzGYXI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "ASCENSION RITE",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fe8d421f25133d9fdf7afaae191307ab17c8688f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0ko8SLwJgaWkhXmFZzGYXI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yT7X3Gg2S51DHz67FAYL6",
+        "id" : "2yT7X3Gg2S51DHz67FAYL6",
+        "name" : "SNAILS",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yT7X3Gg2S51DHz67FAYL6"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1pTQIAoCGRltUhTDtsx6FT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1pTQIAoCGRltUhTDtsx6FT",
+      "id" : "1pTQIAoCGRltUhTDtsx6FT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd290e5fd9455935bdf99f9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd290e5fd9455935bdf99f9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd290e5fd9455935bdf99f9",
+        "width" : 64
+      } ],
+      "name" : "The Shell (Remixes)",
+      "release_date" : "2018-09-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1pTQIAoCGRltUhTDtsx6FT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yT7X3Gg2S51DHz67FAYL6",
+      "id" : "2yT7X3Gg2S51DHz67FAYL6",
+      "name" : "SNAILS",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yT7X3Gg2S51DHz67FAYL6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1CXuuw8HJhyN80HlNzvL1e",
+      "id" : "1CXuuw8HJhyN80HlNzvL1e",
+      "name" : "Sullivan King",
+      "type" : "artist",
+      "uri" : "spotify:artist:1CXuuw8HJhyN80HlNzvL1e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LqXqd68BBoEk9RDYeS0ls",
+      "id" : "4LqXqd68BBoEk9RDYeS0ls",
+      "name" : "Big Ali",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LqXqd68BBoEk9RDYeS0ls"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181714,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CADUT1807010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7oUAKMre60kVvW8C0QDSFI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7oUAKMre60kVvW8C0QDSFI",
+    "id" : "7oUAKMre60kVvW8C0QDSFI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "King Is Back - MARAUDA Remix",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/925f709b9eceb9d5aa11d4a9b882e0881018513d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:7oUAKMre60kVvW8C0QDSFI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+        "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+        "name" : "MARAUDA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6oKG31pUZ6XgLrvtspQUCf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6oKG31pUZ6XgLrvtspQUCf",
+      "id" : "6oKG31pUZ6XgLrvtspQUCf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733ba0b0f69e3bbc1872ca492f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023ba0b0f69e3bbc1872ca492f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513ba0b0f69e3bbc1872ca492f",
+        "width" : 64
+      } ],
+      "name" : "ASCENSION RITE",
+      "release_date" : "2022-02-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:6oKG31pUZ6XgLrvtspQUCf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 158896,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QZTGW2100856"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6SyfSKVrG0mdgxtEqW1MSd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6SyfSKVrG0mdgxtEqW1MSd",
+    "id" : "6SyfSKVrG0mdgxtEqW1MSd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "HUSK",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ab4f471d254b97d7c76ce568c8c0b860da412ace?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6SyfSKVrG0mdgxtEqW1MSd"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+        "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+        "name" : "MARAUDA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4VU8jvpS106WRQa1iiGuSR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4VU8jvpS106WRQa1iiGuSR",
+      "id" : "4VU8jvpS106WRQa1iiGuSR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a43ccdb0756e06a768d1649d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a43ccdb0756e06a768d1649d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a43ccdb0756e06a768d1649d",
+        "width" : 64
+      } ],
+      "name" : "Casket (VIP)",
+      "release_date" : "2019-12-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4VU8jvpS106WRQa1iiGuSR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "name" : "MARAUDA",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 150000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL1999409"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2yCo1OjpZARjOSfHaistBa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2yCo1OjpZARjOSfHaistBa",
+    "id" : "2yCo1OjpZARjOSfHaistBa",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Casket - VIP",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e51176846ab5a05c9e2986e39aa68183b548eafb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2yCo1OjpZARjOSfHaistBa"
+  } ]
+}

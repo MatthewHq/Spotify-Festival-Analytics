@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BLACK+V+NECK&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9579
+      },
+      "genres" : [ "bass house" ],
+      "href" : "https://api.spotify.com/v1/artists/2l0xOjnrmYsxNoQ0QI3G5a",
+      "id" : "2l0xOjnrmYsxNoQ0QI3G5a",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebdcbe09483525f1dfabcd5e90",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174dcbe09483525f1dfabcd5e90",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178dcbe09483525f1dfabcd5e90",
+        "width" : 160
+      } ],
+      "name" : "Black V Neck",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:2l0xOjnrmYsxNoQ0QI3G5a"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/30G4THVkvTe2smPmjCfP60"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/30G4THVkvTe2smPmjCfP60",
+      "id" : "30G4THVkvTe2smPmjCfP60",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27381d4a88d9dbf52f86e5282f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0281d4a88d9dbf52f86e5282f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485181d4a88d9dbf52f86e5282f0",
+        "width" : 64
+      } ],
+      "name" : "Black V-Neck",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:30G4THVkvTe2smPmjCfP60"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3avLgAByLc2v8BRzP6Sgw9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3avLgAByLc2v8BRzP6Sgw9",
+      "id" : "3avLgAByLc2v8BRzP6Sgw9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334fe8a6928ba337fd5107612",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234fe8a6928ba337fd5107612",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134fe8a6928ba337fd5107612",
+        "width" : 64
+      } ],
+      "name" : "Graphic Black V-Neck",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3avLgAByLc2v8BRzP6Sgw9"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

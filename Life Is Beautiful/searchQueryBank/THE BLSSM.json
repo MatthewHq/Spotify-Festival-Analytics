@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=THE+BLSSM&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14179
+      },
+      "genres" : [ "modern alternative pop" ],
+      "href" : "https://api.spotify.com/v1/artists/7lq7hz0Z6rG6v9zbJRRn4K",
+      "id" : "7lq7hz0Z6rG6v9zbJRRn4K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb23c711faf2d06f851fd7a479",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517423c711faf2d06f851fd7a479",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17823c711faf2d06f851fd7a479",
+        "width" : 160
+      } ],
+      "name" : "THE BLSSM",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:7lq7hz0Z6rG6v9zbJRRn4K"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

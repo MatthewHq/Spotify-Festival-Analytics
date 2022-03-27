@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BIG+GIGANTIC&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 233495
+      },
+      "genres" : [ "edm", "electronic trap", "electropop", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/7o7mC95EDbJKTcPAAs8C3r",
+      "id" : "7o7mC95EDbJKTcPAAs8C3r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0bae0770c078dc67c15c8ed1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740bae0770c078dc67c15c8ed1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780bae0770c078dc67c15c8ed1",
+        "width" : 160
+      } ],
+      "name" : "Big Gigantic",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:7o7mC95EDbJKTcPAAs8C3r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3atpOdeLg8xGigbzCLnNyL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1222
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3atpOdeLg8xGigbzCLnNyL",
+      "id" : "3atpOdeLg8xGigbzCLnNyL",
+      "images" : [ ],
+      "name" : "Big Gigantic & GRiZ",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:3atpOdeLg8xGigbzCLnNyL"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

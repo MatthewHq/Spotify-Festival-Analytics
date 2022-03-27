@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CHARLOTTE+DE+WITTE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 493067
+      },
+      "genres" : [ "belgian techno", "electra" ],
+      "href" : "https://api.spotify.com/v1/artists/1lJhME1ZpzsEa5M0wW6Mso",
+      "id" : "1lJhME1ZpzsEa5M0wW6Mso",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba12a92f8afe549fb9766ff48",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a12a92f8afe549fb9766ff48",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a12a92f8afe549fb9766ff48",
+        "width" : 160
+      } ],
+      "name" : "Charlotte de Witte",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:1lJhME1ZpzsEa5M0wW6Mso"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

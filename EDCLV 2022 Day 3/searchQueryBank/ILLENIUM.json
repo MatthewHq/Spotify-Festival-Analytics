@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=ILLENIUM&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1230915
+      },
+      "genres" : [ "edm", "melodic dubstep", "pop", "pop dance", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6b5fbf615ada187ce5e425c8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746b5fbf615ada187ce5e425c8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786b5fbf615ada187ce5e425c8",
+        "width" : 160
+      } ],
+      "name" : "ILLENIUM",
+      "popularity" : 77,
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vO2xyA5x4rdfDV5bEAJKZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 310
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2vO2xyA5x4rdfDV5bEAJKZ",
+      "id" : "2vO2xyA5x4rdfDV5bEAJKZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738be947a6b92b429438adf8cd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028be947a6b92b429438adf8cd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518be947a6b92b429438adf8cd",
+        "width" : 64
+      } ],
+      "name" : "Illenium, Dirt Monkey",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2vO2xyA5x4rdfDV5bEAJKZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ch2H7p4ZT2R42xPlwVevN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 108
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5ch2H7p4ZT2R42xPlwVevN",
+      "id" : "5ch2H7p4ZT2R42xPlwVevN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27374a05be1a1259e16214f32cb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0274a05be1a1259e16214f32cb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485174a05be1a1259e16214f32cb",
+        "width" : 64
+      } ],
+      "name" : "Chilled Velvet, Illenium",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ch2H7p4ZT2R42xPlwVevN"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

@@ -1,0 +1,898 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3TNt4aUIxgfy9aoaft5Jj2",
+        "id" : "3TNt4aUIxgfy9aoaft5Jj2",
+        "name" : "Yeah Yeah Yeahs",
+        "type" : "artist",
+        "uri" : "spotify:artist:3TNt4aUIxgfy9aoaft5Jj2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4HYlbaWDkCNXXNWQEYl9sV",
+      "id" : "4HYlbaWDkCNXXNWQEYl9sV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f20af84f025b9870f1877603",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f20af84f025b9870f1877603",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f20af84f025b9870f1877603",
+        "width" : 64
+      } ],
+      "name" : "Heads Will Roll",
+      "release_date" : "2009",
+      "release_date_precision" : "year",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:4HYlbaWDkCNXXNWQEYl9sV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TNt4aUIxgfy9aoaft5Jj2",
+      "id" : "3TNt4aUIxgfy9aoaft5Jj2",
+      "name" : "Yeah Yeah Yeahs",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TNt4aUIxgfy9aoaft5Jj2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 383546,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM70906794"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2idmlkd8oUaQvYEtINpLBX",
+    "id" : "2idmlkd8oUaQvYEtINpLBX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Heads Will Roll - A-Trak Remix",
+    "popularity" : 66,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2idmlkd8oUaQvYEtINpLBX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0q8J3Yj810t5cpAYEJ7gxt",
+        "id" : "0q8J3Yj810t5cpAYEJ7gxt",
+        "name" : "Duck Sauce",
+        "type" : "artist",
+        "uri" : "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+        "id" : "3TaUSUXn41GixL7zbvrIDt",
+        "name" : "A-Trak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+        "id" : "3cQA9WH8liZfeja1DxcDYE",
+        "name" : "Armand Van Helden",
+        "type" : "artist",
+        "uri" : "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
+      },
+      "href" : "https://api.spotify.com/v1/albums/01n0HtCtQh4ogK1d8hmrws",
+      "id" : "01n0HtCtQh4ogK1d8hmrws",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f47b5ab6422ce72bccbd5bee",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f47b5ab6422ce72bccbd5bee",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f47b5ab6422ce72bccbd5bee",
+        "width" : 64
+      } ],
+      "name" : "Ask Me / Mesmerize",
+      "release_date" : "2021-03-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:01n0HtCtQh4ogK1d8hmrws"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0q8J3Yj810t5cpAYEJ7gxt",
+      "id" : "0q8J3Yj810t5cpAYEJ7gxt",
+      "name" : "Duck Sauce",
+      "type" : "artist",
+      "uri" : "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+      "id" : "3cQA9WH8liZfeja1DxcDYE",
+      "name" : "Armand Van Helden",
+      "type" : "artist",
+      "uri" : "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193795,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM4TW2177532"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/05QGJav2nGJ9qdQ3vG9A9t",
+    "id" : "05QGJav2nGJ9qdQ3vG9A9t",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ask Me",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/407bfb04ec155fbce681e526c4d882d73c655776?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:05QGJav2nGJ9qdQ3vG9A9t"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY",
+        "id" : "7CajNmpbOovFoOoasH2HaY",
+        "name" : "Calvin Harris",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4A0TivfinfALCAMJqqjZIk",
+        "id" : "4A0TivfinfALCAMJqqjZIk",
+        "name" : "Funk Wav",
+        "type" : "artist",
+        "uri" : "spotify:artist:4A0TivfinfALCAMJqqjZIk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2HaqChIDc5go3qxVunBDK0",
+      "id" : "2HaqChIDc5go3qxVunBDK0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734d3fa5ce7ba599f4fd7803ef",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024d3fa5ce7ba599f4fd7803ef",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514d3fa5ce7ba599f4fd7803ef",
+        "width" : 64
+      } ],
+      "name" : "Funk Wav Bounces Vol.1",
+      "release_date" : "2017-06-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2HaqChIDc5go3qxVunBDK0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY",
+      "id" : "7CajNmpbOovFoOoasH2HaY",
+      "name" : "Calvin Harris",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+      "id" : "0Y5tJX1MQlPlqiwlOH1tJY",
+      "name" : "Travis Scott",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4A0TivfinfALCAMJqqjZIk",
+      "id" : "4A0TivfinfALCAMJqqjZIk",
+      "name" : "Funk Wav",
+      "type" : "artist",
+      "uri" : "spotify:artist:4A0TivfinfALCAMJqqjZIk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 204280,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBARL1700766"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4KaIJ1FWXUoAAnOts1YWjD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4KaIJ1FWXUoAAnOts1YWjD",
+    "id" : "4KaIJ1FWXUoAAnOts1YWjD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Prayers Up (feat. Travis Scott & A-Trak)",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dd84e9dc18b425c3a70366b219e87643c7680b44?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4KaIJ1FWXUoAAnOts1YWjD"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1xNmvlEiICkRlRGqlNFZ43",
+        "id" : "1xNmvlEiICkRlRGqlNFZ43",
+        "name" : "Axwell",
+        "type" : "artist",
+        "uri" : "spotify:artist:1xNmvlEiICkRlRGqlNFZ43"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+        "id" : "3TaUSUXn41GixL7zbvrIDt",
+        "name" : "A-Trak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4b6ZdwDZdy2LVswCPwe9AB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4b6ZdwDZdy2LVswCPwe9AB",
+      "id" : "4b6ZdwDZdy2LVswCPwe9AB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273721bec0702b8cc1d5a87ea23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02721bec0702b8cc1d5a87ea23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851721bec0702b8cc1d5a87ea23",
+        "width" : 64
+      } ],
+      "name" : "Nobody Else (A-Trak Remix)",
+      "release_date" : "2019-05-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4b6ZdwDZdy2LVswCPwe9AB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1xNmvlEiICkRlRGqlNFZ43",
+      "id" : "1xNmvlEiICkRlRGqlNFZ43",
+      "name" : "Axwell",
+      "type" : "artist",
+      "uri" : "spotify:artist:1xNmvlEiICkRlRGqlNFZ43"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKCF1900757"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/49FgzQTuNMYzhIHpVPBcca"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/49FgzQTuNMYzhIHpVPBcca",
+    "id" : "49FgzQTuNMYzhIHpVPBcca",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nobody Else - A-Trak Remix",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/70f0b368c7ee88b410b7520d994c302b70b0500b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:49FgzQTuNMYzhIHpVPBcca"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0q8J3Yj810t5cpAYEJ7gxt",
+        "id" : "0q8J3Yj810t5cpAYEJ7gxt",
+        "name" : "Duck Sauce",
+        "type" : "artist",
+        "uri" : "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+        "id" : "3TaUSUXn41GixL7zbvrIDt",
+        "name" : "A-Trak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+        "id" : "3cQA9WH8liZfeja1DxcDYE",
+        "name" : "Armand Van Helden",
+        "type" : "artist",
+        "uri" : "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2r0wRLEAmOJA4ZUkCyfuW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2r0wRLEAmOJA4ZUkCyfuW6",
+      "id" : "2r0wRLEAmOJA4ZUkCyfuW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e7e25a2330c62459334059f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e7e25a2330c62459334059f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e7e25a2330c62459334059f",
+        "width" : 64
+      } ],
+      "name" : "Quack",
+      "release_date" : "2014-04-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:2r0wRLEAmOJA4ZUkCyfuW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0q8J3Yj810t5cpAYEJ7gxt",
+      "id" : "0q8J3Yj810t5cpAYEJ7gxt",
+      "name" : "Duck Sauce",
+      "type" : "artist",
+      "uri" : "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+      "id" : "3cQA9WH8liZfeja1DxcDYE",
+      "name" : "Armand Van Helden",
+      "type" : "artist",
+      "uri" : "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 264813,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMSDU2000011"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6HkmOvGpoYrJ1BdppBNp2t"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6HkmOvGpoYrJ1BdppBNp2t",
+    "id" : "6HkmOvGpoYrJ1BdppBNp2t",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Barbra Streisand",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/42ac7cff39cefb79dce66cc274904d15ed44a892?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6HkmOvGpoYrJ1BdppBNp2t"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+        "id" : "6nS5roXSAGhTGr34W6n7Et",
+        "name" : "Disclosure",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3QvKAsfOZFm5kEKjIBk1Fl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3QvKAsfOZFm5kEKjIBk1Fl",
+      "id" : "3QvKAsfOZFm5kEKjIBk1Fl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731f940a29cda31a3da68d48fc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021f940a29cda31a3da68d48fc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511f940a29cda31a3da68d48fc",
+        "width" : 64
+      } ],
+      "name" : "Magnets (The Remixes)",
+      "release_date" : "2015-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:3QvKAsfOZFm5kEKjIBk1Fl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+      "id" : "6nS5roXSAGhTGr34W6n7Et",
+      "name" : "Disclosure",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm",
+      "id" : "163tK9Wjr9P9DmM0AVK7lm",
+      "name" : "Lorde",
+      "type" : "artist",
+      "uri" : "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 260442,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71507139"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2M0wZ9iOCsul9PgKCHnIWT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2M0wZ9iOCsul9PgKCHnIWT",
+    "id" : "2M0wZ9iOCsul9PgKCHnIWT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Magnets - A-Trak Remix",
+    "popularity" : 55,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2M0wZ9iOCsul9PgKCHnIWT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0q8J3Yj810t5cpAYEJ7gxt",
+        "id" : "0q8J3Yj810t5cpAYEJ7gxt",
+        "name" : "Duck Sauce",
+        "type" : "artist",
+        "uri" : "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+        "id" : "3TaUSUXn41GixL7zbvrIDt",
+        "name" : "A-Trak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+        "id" : "3cQA9WH8liZfeja1DxcDYE",
+        "name" : "Armand Van Helden",
+        "type" : "artist",
+        "uri" : "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2j7CqGE9h7DavHANakekLP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2j7CqGE9h7DavHANakekLP",
+      "id" : "2j7CqGE9h7DavHANakekLP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c4d881e6605d17a89fcabf3f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c4d881e6605d17a89fcabf3f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c4d881e6605d17a89fcabf3f",
+        "width" : 64
+      } ],
+      "name" : "Nonchalant",
+      "release_date" : "2021-08-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2j7CqGE9h7DavHANakekLP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0q8J3Yj810t5cpAYEJ7gxt",
+      "id" : "0q8J3Yj810t5cpAYEJ7gxt",
+      "name" : "Duck Sauce",
+      "type" : "artist",
+      "uri" : "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3cQA9WH8liZfeja1DxcDYE",
+      "id" : "3cQA9WH8liZfeja1DxcDYE",
+      "name" : "Armand Van Helden",
+      "type" : "artist",
+      "uri" : "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190645,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMFME2136444"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2TETqexWXvMdhbYy7kJrZa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2TETqexWXvMdhbYy7kJrZa",
+    "id" : "2TETqexWXvMdhbYy7kJrZa",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nonchalant",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dd206a7bb1a99c6cc0cb4c2c79dbea0904e111cc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2TETqexWXvMdhbYy7kJrZa"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+        "id" : "3TaUSUXn41GixL7zbvrIDt",
+        "name" : "A-Trak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3cnAJv9gydgm52KFIsdvO8",
+        "id" : "3cnAJv9gydgm52KFIsdvO8",
+        "name" : "Ferreck Dawn",
+        "type" : "artist",
+        "uri" : "spotify:artist:3cnAJv9gydgm52KFIsdvO8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7GnbITNZyR4bk4pzCzIlMJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7GnbITNZyR4bk4pzCzIlMJ",
+      "id" : "7GnbITNZyR4bk4pzCzIlMJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27344eb092dfc403f09c0de01c2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0244eb092dfc403f09c0de01c2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485144eb092dfc403f09c0de01c2",
+        "width" : 64
+      } ],
+      "name" : "Coming Home",
+      "release_date" : "2020-02-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7GnbITNZyR4bk4pzCzIlMJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3cnAJv9gydgm52KFIsdvO8",
+      "id" : "3cnAJv9gydgm52KFIsdvO8",
+      "name" : "Ferreck Dawn",
+      "type" : "artist",
+      "uri" : "spotify:artist:3cnAJv9gydgm52KFIsdvO8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190276,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUDCB1701537"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0eOcjJgpO8XdJbPMYJgKqq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0eOcjJgpO8XdJbPMYJgKqq",
+    "id" : "0eOcjJgpO8XdJbPMYJgKqq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Coming Home",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/46bc7bcdbbc1079cf62b1a189fc62463079e8262?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0eOcjJgpO8XdJbPMYJgKqq"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+        "id" : "3TaUSUXn41GixL7zbvrIDt",
+        "name" : "A-Trak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3cnAJv9gydgm52KFIsdvO8",
+        "id" : "3cnAJv9gydgm52KFIsdvO8",
+        "name" : "Ferreck Dawn",
+        "type" : "artist",
+        "uri" : "spotify:artist:3cnAJv9gydgm52KFIsdvO8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6sgwScp59KuNiOPvexBNfA",
+      "id" : "6sgwScp59KuNiOPvexBNfA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273006e40316e48bb1293ff8a69",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02006e40316e48bb1293ff8a69",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851006e40316e48bb1293ff8a69",
+        "width" : 64
+      } ],
+      "name" : "My Own Way",
+      "release_date" : "2021-01-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6sgwScp59KuNiOPvexBNfA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3cnAJv9gydgm52KFIsdvO8",
+      "id" : "3cnAJv9gydgm52KFIsdvO8",
+      "name" : "Ferreck Dawn",
+      "type" : "artist",
+      "uri" : "spotify:artist:3cnAJv9gydgm52KFIsdvO8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 141000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMFMF2007375"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Csd6ozp0Ci3ZDfvRgzrWz",
+    "id" : "7Csd6ozp0Ci3ZDfvRgzrWz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "My Own Way",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/13b7e4049868618b76875339f4a2063879730bf1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7Csd6ozp0Ci3ZDfvRgzrWz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+        "id" : "3TaUSUXn41GixL7zbvrIDt",
+        "name" : "A-Trak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WiJHK34SXiwH47hk56HGc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WiJHK34SXiwH47hk56HGc",
+      "id" : "5WiJHK34SXiwH47hk56HGc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27359b87590cb9fda2fa5576eb3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0259b87590cb9fda2fa5576eb3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485159b87590cb9fda2fa5576eb3",
+        "width" : 64
+      } ],
+      "name" : "Spit",
+      "release_date" : "2022-03-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5WiJHK34SXiwH47hk56HGc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "name" : "A-Trak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 215640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM4TW2278500"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5wPlDch91Wy9O61JdfTun3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5wPlDch91Wy9O61JdfTun3",
+    "id" : "5wPlDch91Wy9O61JdfTun3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Spit",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a35a550e46f2e7ca0ae0eaa91669f4393287daf3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5wPlDch91Wy9O61JdfTun3"
+  } ]
+}

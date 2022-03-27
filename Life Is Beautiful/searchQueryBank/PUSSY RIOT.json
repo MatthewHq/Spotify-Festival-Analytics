@@ -1,0 +1,99 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=PUSSY+RIOT&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 86920
+      },
+      "genres" : [ "riot grrrl", "russian indie", "russian punk" ],
+      "href" : "https://api.spotify.com/v1/artists/2hThsqaVEAWhWPBXnaOfB9",
+      "id" : "2hThsqaVEAWhWPBXnaOfB9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb03a92efa00bbc6b7d3dfeaba",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517403a92efa00bbc6b7d3dfeaba",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17803a92efa00bbc6b7d3dfeaba",
+        "width" : 160
+      } ],
+      "name" : "Pussy Riot",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:2hThsqaVEAWhWPBXnaOfB9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ue9i2Rjdty4xLpM9g1LrY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4ue9i2Rjdty4xLpM9g1LrY",
+      "id" : "4ue9i2Rjdty4xLpM9g1LrY",
+      "images" : [ ],
+      "name" : "Nadya of Pussy Riot",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ue9i2Rjdty4xLpM9g1LrY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1CSkOD1AsrfewBunERVyV5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1CSkOD1AsrfewBunERVyV5",
+      "id" : "1CSkOD1AsrfewBunERVyV5",
+      "images" : [ ],
+      "name" : "Pussy Grrrl Riot",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1CSkOD1AsrfewBunERVyV5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/30bSPNYUeWYSaWX2NXy1HF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 25
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/30bSPNYUeWYSaWX2NXy1HF",
+      "id" : "30bSPNYUeWYSaWX2NXy1HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f16eb7c820b3a7e89cf085d4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f16eb7c820b3a7e89cf085d4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f16eb7c820b3a7e89cf085d4",
+        "width" : 64
+      } ],
+      "name" : "The Pussycat Riot",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:30bSPNYUeWYSaWX2NXy1HF"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

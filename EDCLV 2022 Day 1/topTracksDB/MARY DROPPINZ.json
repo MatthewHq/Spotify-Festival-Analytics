@@ -1,0 +1,754 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+        "id" : "4tPVnr7VB15UA9TRsie3cS",
+        "name" : "Mary Droppinz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ikHBLy2rf3eGyqpvVsdCg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ikHBLy2rf3eGyqpvVsdCg",
+      "id" : "4ikHBLy2rf3eGyqpvVsdCg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eda7975cd90f7227c9436360",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eda7975cd90f7227c9436360",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eda7975cd90f7227c9436360",
+        "width" : 64
+      } ],
+      "name" : "Galactic Portal",
+      "release_date" : "2022-03-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4ikHBLy2rf3eGyqpvVsdCg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 271559,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM82200056"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4znWmau1H1ythOHAUQ44bS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4znWmau1H1ythOHAUQ44bS",
+    "id" : "4znWmau1H1ythOHAUQ44bS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Do It For Yourself",
+    "popularity" : 29,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4znWmau1H1ythOHAUQ44bS"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+        "id" : "4tPVnr7VB15UA9TRsie3cS",
+        "name" : "Mary Droppinz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4dOE4Czo4HCxT3ndBUxyNw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4dOE4Czo4HCxT3ndBUxyNw",
+      "id" : "4dOE4Czo4HCxT3ndBUxyNw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d646447b4c680e4a06044257",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d646447b4c680e4a06044257",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d646447b4c680e4a06044257",
+        "width" : 64
+      } ],
+      "name" : "Gonna Be Alright",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4dOE4Czo4HCxT3ndBUxyNw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 320173,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2212685"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2dEbL3YNc0iEuytR2PTgLm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2dEbL3YNc0iEuytR2PTgLm",
+    "id" : "2dEbL3YNc0iEuytR2PTgLm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gonna Be Alright",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3d5f55192b45a4844b34614ba794eaeacf916552?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2dEbL3YNc0iEuytR2PTgLm"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+        "id" : "4tPVnr7VB15UA9TRsie3cS",
+        "name" : "Mary Droppinz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4184WI6HqhOc13im6jz2Jh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4184WI6HqhOc13im6jz2Jh",
+        "id" : "4184WI6HqhOc13im6jz2Jh",
+        "name" : "rowa",
+        "type" : "artist",
+        "uri" : "spotify:artist:4184WI6HqhOc13im6jz2Jh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6AmxsjSf2QbwpHABG8s6Ua"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6AmxsjSf2QbwpHABG8s6Ua",
+      "id" : "6AmxsjSf2QbwpHABG8s6Ua",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273978fc7d682148fb879019c6b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02978fc7d682148fb879019c6b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851978fc7d682148fb879019c6b",
+        "width" : 64
+      } ],
+      "name" : "Hot Pants",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6AmxsjSf2QbwpHABG8s6Ua"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4184WI6HqhOc13im6jz2Jh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4184WI6HqhOc13im6jz2Jh",
+      "id" : "4184WI6HqhOc13im6jz2Jh",
+      "name" : "rowa",
+      "type" : "artist",
+      "uri" : "spotify:artist:4184WI6HqhOc13im6jz2Jh"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 324933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2202091"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/11ih7d1xElYcXgFwAacl8b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/11ih7d1xElYcXgFwAacl8b",
+    "id" : "11ih7d1xElYcXgFwAacl8b",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hot Pants",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4993d25b924c172ed8a9f39a4157bf6c0ddc48ba?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:11ih7d1xElYcXgFwAacl8b"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/56QBYhr06M8QWU7HsWZMWl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/56QBYhr06M8QWU7HsWZMWl",
+      "id" : "56QBYhr06M8QWU7HsWZMWl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27351c380b08b8d38c20bb7c640",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0251c380b08b8d38c20bb7c640",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485151c380b08b8d38c20bb7c640",
+        "width" : 64
+      } ],
+      "name" : "5 Years of FV - Disc 2",
+      "release_date" : "2021-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 35,
+      "type" : "album",
+      "uri" : "spotify:album:56QBYhr06M8QWU7HsWZMWl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nzLqJhQSGwQkExfjapL3o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nzLqJhQSGwQkExfjapL3o",
+      "id" : "6nzLqJhQSGwQkExfjapL3o",
+      "name" : "SCHROEDS",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nzLqJhQSGwQkExfjapL3o"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 300995,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEY472178009"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3lKPd9VjyaNbdCa6HoB1CC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3lKPd9VjyaNbdCa6HoB1CC",
+    "id" : "3lKPd9VjyaNbdCa6HoB1CC",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Future Moon",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4af9f87b9c65cd7d495f010b06514e3f0b154f0c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 34,
+    "type" : "track",
+    "uri" : "spotify:track:3lKPd9VjyaNbdCa6HoB1CC"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6kbRR8mEFVpubWSm3kZn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6kbRR8mEFVpubWSm3kZn",
+        "id" : "1a6kbRR8mEFVpubWSm3kZn",
+        "name" : "Cyber Rodeo",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6kbRR8mEFVpubWSm3kZn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+        "id" : "4tPVnr7VB15UA9TRsie3cS",
+        "name" : "Mary Droppinz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3xMnbOk6MuXePW1Yi4tLPz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3xMnbOk6MuXePW1Yi4tLPz",
+        "id" : "3xMnbOk6MuXePW1Yi4tLPz",
+        "name" : "BABY J",
+        "type" : "artist",
+        "uri" : "spotify:artist:3xMnbOk6MuXePW1Yi4tLPz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6S7SAUtMy9zWHyKtRyiglc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6S7SAUtMy9zWHyKtRyiglc",
+      "id" : "6S7SAUtMy9zWHyKtRyiglc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27303b3327d682d1434251a6794",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0203b3327d682d1434251a6794",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485103b3327d682d1434251a6794",
+        "width" : 64
+      } ],
+      "name" : "Crypto Queen",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6S7SAUtMy9zWHyKtRyiglc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6kbRR8mEFVpubWSm3kZn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6kbRR8mEFVpubWSm3kZn",
+      "id" : "1a6kbRR8mEFVpubWSm3kZn",
+      "name" : "Cyber Rodeo",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6kbRR8mEFVpubWSm3kZn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xMnbOk6MuXePW1Yi4tLPz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3xMnbOk6MuXePW1Yi4tLPz",
+      "id" : "3xMnbOk6MuXePW1Yi4tLPz",
+      "name" : "BABY J",
+      "type" : "artist",
+      "uri" : "spotify:artist:3xMnbOk6MuXePW1Yi4tLPz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235145,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2172194"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4BSiyLGmx7D9FwBYUxNHgq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4BSiyLGmx7D9FwBYUxNHgq",
+    "id" : "4BSiyLGmx7D9FwBYUxNHgq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crypto Queen",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bf1eddd6bac7d827c1f830f709413fae4ea5d002?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4BSiyLGmx7D9FwBYUxNHgq"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+        "id" : "4tPVnr7VB15UA9TRsie3cS",
+        "name" : "Mary Droppinz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ikHBLy2rf3eGyqpvVsdCg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ikHBLy2rf3eGyqpvVsdCg",
+      "id" : "4ikHBLy2rf3eGyqpvVsdCg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eda7975cd90f7227c9436360",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eda7975cd90f7227c9436360",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eda7975cd90f7227c9436360",
+        "width" : 64
+      } ],
+      "name" : "Galactic Portal",
+      "release_date" : "2022-03-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4ikHBLy2rf3eGyqpvVsdCg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235921,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM82200055"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6K1yYDxjA5FZRFco7u7Vz0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6K1yYDxjA5FZRFco7u7Vz0",
+    "id" : "6K1yYDxjA5FZRFco7u7Vz0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Cool Intentions",
+    "popularity" : 14,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6K1yYDxjA5FZRFco7u7Vz0"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+        "name" : "LP Giobbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5QcXSgdIW2bshDMLILXKNh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5QcXSgdIW2bshDMLILXKNh",
+      "id" : "5QcXSgdIW2bshDMLILXKNh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ed56454ede748e5e4e2087aa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ed56454ede748e5e4e2087aa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ed56454ede748e5e4e2087aa",
+        "width" : 64
+      } ],
+      "name" : "Take My Hand Remixes",
+      "release_date" : "2021-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:5QcXSgdIW2bshDMLILXKNh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 280547,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM24S2104967"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/092ZD29vaJRC0mfqvWAE3p"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/092ZD29vaJRC0mfqvWAE3p",
+    "id" : "092ZD29vaJRC0mfqvWAE3p",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Take My Hand (Mary Droppinz Remix)",
+    "popularity" : 12,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8eaaf8bfb700bfc3d5a497ab3373564fad284404?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:092ZD29vaJRC0mfqvWAE3p"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+        "id" : "4tPVnr7VB15UA9TRsie3cS",
+        "name" : "Mary Droppinz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ELbXMPudsxV4DFypADVKJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ELbXMPudsxV4DFypADVKJ",
+      "id" : "6ELbXMPudsxV4DFypADVKJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27381da9c7728aa98ca6ef48b33",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0281da9c7728aa98ca6ef48b33",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485181da9c7728aa98ca6ef48b33",
+        "width" : 64
+      } ],
+      "name" : "Acid Mother",
+      "release_date" : "2021-05-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6ELbXMPudsxV4DFypADVKJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 273337,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2164545"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6xRTw4QGc16QytpUPnv7a0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6xRTw4QGc16QytpUPnv7a0",
+    "id" : "6xRTw4QGc16QytpUPnv7a0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Acid Mother",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7c053568fbea046fbeea7d4632bcad5cd116f187?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6xRTw4QGc16QytpUPnv7a0"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fuuxlYLX8Bda6AC7FScm5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fuuxlYLX8Bda6AC7FScm5",
+      "id" : "2fuuxlYLX8Bda6AC7FScm5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733bd6aa014a1cd6613ae8c37c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023bd6aa014a1cd6613ae8c37c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513bd6aa014a1cd6613ae8c37c",
+        "width" : 64
+      } ],
+      "name" : "5 Years of FV - Disc 3",
+      "release_date" : "2021-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 51,
+      "type" : "album",
+      "uri" : "spotify:album:2fuuxlYLX8Bda6AC7FScm5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58hwRYvd98tYQPesSo9bHi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/58hwRYvd98tYQPesSo9bHi",
+      "id" : "58hwRYvd98tYQPesSo9bHi",
+      "name" : "Danny Goliger",
+      "type" : "artist",
+      "uri" : "spotify:artist:58hwRYvd98tYQPesSo9bHi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 318479,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEY472178553"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1j0ywrIfSh4zE8ZucTbN0l"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1j0ywrIfSh4zE8ZucTbN0l",
+    "id" : "1j0ywrIfSh4zE8ZucTbN0l",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Glo BB",
+    "popularity" : 7,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a81630fc571a5dfceab35624f0e646af1ee6f1ec?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:1j0ywrIfSh4zE8ZucTbN0l"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+        "id" : "4tPVnr7VB15UA9TRsie3cS",
+        "name" : "Mary Droppinz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7DIaIXyo4o3p6ss1RxNOny"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7DIaIXyo4o3p6ss1RxNOny",
+      "id" : "7DIaIXyo4o3p6ss1RxNOny",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273588caf5013cbaaa348bbc06c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02588caf5013cbaaa348bbc06c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851588caf5013cbaaa348bbc06c",
+        "width" : 64
+      } ],
+      "name" : "Birdiez",
+      "release_date" : "2021-04-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7DIaIXyo4o3p6ss1RxNOny"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tPVnr7VB15UA9TRsie3cS",
+      "id" : "4tPVnr7VB15UA9TRsie3cS",
+      "name" : "Mary Droppinz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tPVnr7VB15UA9TRsie3cS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213669,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0034890"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3sgRPcTzdETJ8zPUxzmPa6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3sgRPcTzdETJ8zPUxzmPa6",
+    "id" : "3sgRPcTzdETJ8zPUxzmPa6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Birdiez - Original Mix",
+    "popularity" : 4,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1018d3f2d63785b9e1101c9c892960a59fa080d0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3sgRPcTzdETJ8zPUxzmPa6"
+  } ]
+}

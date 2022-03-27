@@ -1,0 +1,808 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+        "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+        "name" : "Rico Nasty",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6mlRdEExXqk8Git4nghBSL",
+      "id" : "6mlRdEExXqk8Git4nghBSL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273230f64a77c6d70d4067bb1c5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02230f64a77c6d70d4067bb1c5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851230f64a77c6d70d4067bb1c5",
+        "width" : 64
+      } ],
+      "name" : "Nightmare Vacation",
+      "release_date" : "2020-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6mlRdEExXqk8Git4nghBSL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 138352,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22007434"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Zm27XyCDoAqHMGte5ydxQ",
+    "id" : "3Zm27XyCDoAqHMGte5ydxQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Smack A Bitch",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ef43483d49323bedd3d2d14314c0e120d21d7675?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3Zm27XyCDoAqHMGte5ydxQ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ZXkHp732tYHIzqctoZP0E",
+        "id" : "5ZXkHp732tYHIzqctoZP0E",
+        "name" : "Full Tac",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ZXkHp732tYHIzqctoZP0E"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZRRl4S2B4xZBzHtIf65Jx",
+        "id" : "1ZRRl4S2B4xZBzHtIf65Jx",
+        "name" : "Lil Mariko",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZRRl4S2B4xZBzHtIf65Jx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+        "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+        "name" : "Rico Nasty",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4SR1C8HMMnFHpcU4cDGlRa",
+      "id" : "4SR1C8HMMnFHpcU4cDGlRa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a79e70a8e65c30e3cde751fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a79e70a8e65c30e3cde751fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a79e70a8e65c30e3cde751fe",
+        "width" : 64
+      } ],
+      "name" : "SIMP",
+      "release_date" : "2021-04-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4SR1C8HMMnFHpcU4cDGlRa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ZXkHp732tYHIzqctoZP0E",
+      "id" : "5ZXkHp732tYHIzqctoZP0E",
+      "name" : "Full Tac",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ZXkHp732tYHIzqctoZP0E"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZRRl4S2B4xZBzHtIf65Jx",
+      "id" : "1ZRRl4S2B4xZBzHtIf65Jx",
+      "name" : "Lil Mariko",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZRRl4S2B4xZBzHtIf65Jx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 180000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USQX92101133"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7uIrdhnGQw7bZSR2ygopuX",
+    "id" : "7uIrdhnGQw7bZSR2ygopuX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "SIMP",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9812d6a07b0b9b4d7df5837fc2180e66ce64a495?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7uIrdhnGQw7bZSR2ygopuX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+        "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+        "name" : "Rico Nasty",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5u9dBzQdVd9YDblzgtxOlD",
+      "id" : "5u9dBzQdVd9YDblzgtxOlD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736ff5c5e92da139a5ced1b20d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026ff5c5e92da139a5ced1b20d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516ff5c5e92da139a5ced1b20d",
+        "width" : 64
+      } ],
+      "name" : "Money (feat. Flo Milli)",
+      "release_date" : "2021-11-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5u9dBzQdVd9YDblzgtxOlD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/08PvCOlef4xdOr20jFSTPd",
+      "id" : "08PvCOlef4xdOr20jFSTPd",
+      "name" : "Flo Milli",
+      "type" : "artist",
+      "uri" : "spotify:artist:08PvCOlef4xdOr20jFSTPd"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 150652,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22106867"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2xo2fUrwrdOruV2zdNtWoP",
+    "id" : "2xo2fUrwrdOruV2zdNtWoP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Money (feat. Flo Milli)",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a05e903b295219877c6a0d6451d88986f316a291?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2xo2fUrwrdOruV2zdNtWoP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+        "id" : "1U1el3k54VvEUzo3ybLPlM",
+        "name" : "Kali Uchis",
+        "type" : "artist",
+        "uri" : "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/00wSTrFxoSzA7eeS1UxHgd",
+      "id" : "00wSTrFxoSzA7eeS1UxHgd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02044a5466dac00f7b3c570b99",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851044a5466dac00f7b3c570b99",
+        "width" : 64
+      } ],
+      "name" : "Sin Miedo (del Amor y Otros Demonios) ∞",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:00wSTrFxoSzA7eeS1UxHgd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+      "id" : "1U1el3k54VvEUzo3ybLPlM",
+      "name" : "Kali Uchis",
+      "type" : "artist",
+      "uri" : "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 141954,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBUM72004218"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/05ufCucv6Z1oLMWeS8XapR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/05ufCucv6Z1oLMWeS8XapR",
+    "id" : "05ufCucv6Z1oLMWeS8XapR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "¡aquí yo mando!",
+    "popularity" : 64,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:05ufCucv6Z1oLMWeS8XapR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7502fDxg339jvGV08Jd4R0",
+        "id" : "7502fDxg339jvGV08Jd4R0",
+        "name" : "Jasiah",
+        "type" : "artist",
+        "uri" : "spotify:artist:7502fDxg339jvGV08Jd4R0"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+        "id" : "6fxyWrfmjcbj5d12gXeiNV",
+        "name" : "Denzel Curry",
+        "type" : "artist",
+        "uri" : "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+        "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+        "name" : "Rico Nasty",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7GtrF4bpZE45mzZYCOzJMS",
+      "id" : "7GtrF4bpZE45mzZYCOzJMS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739407006ce8662f8269ad1abf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029407006ce8662f8269ad1abf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519407006ce8662f8269ad1abf",
+        "width" : 64
+      } ],
+      "name" : "Art of War (feat. Denzel Curry & Rico Nasty)",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7GtrF4bpZE45mzZYCOzJMS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7502fDxg339jvGV08Jd4R0",
+      "id" : "7502fDxg339jvGV08Jd4R0",
+      "name" : "Jasiah",
+      "type" : "artist",
+      "uri" : "spotify:artist:7502fDxg339jvGV08Jd4R0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+      "id" : "6fxyWrfmjcbj5d12gXeiNV",
+      "name" : "Denzel Curry",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 186472,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22102434"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/75tFBhZ34HNOiPder8VFYt",
+    "id" : "75tFBhZ34HNOiPder8VFYt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Art of War (feat. Denzel Curry & Rico Nasty)",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6ae37b31bb2c06a9aef534c1f1aac112dabfa370?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:75tFBhZ34HNOiPder8VFYt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+        "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+        "name" : "Rico Nasty",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6mlRdEExXqk8Git4nghBSL",
+      "id" : "6mlRdEExXqk8Git4nghBSL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273230f64a77c6d70d4067bb1c5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02230f64a77c6d70d4067bb1c5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851230f64a77c6d70d4067bb1c5",
+        "width" : 64
+      } ],
+      "name" : "Nightmare Vacation",
+      "release_date" : "2020-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6mlRdEExXqk8Git4nghBSL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 120964,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22007045"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6wign87DUJTlNzrFYQKcut"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6wign87DUJTlNzrFYQKcut",
+    "id" : "6wign87DUJTlNzrFYQKcut",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "OHFR?",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2277e0b94aecc8c7d41d6998f50a4a7911046ac3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6wign87DUJTlNzrFYQKcut"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+        "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+        "name" : "Rico Nasty",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6mlRdEExXqk8Git4nghBSL",
+      "id" : "6mlRdEExXqk8Git4nghBSL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273230f64a77c6d70d4067bb1c5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02230f64a77c6d70d4067bb1c5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851230f64a77c6d70d4067bb1c5",
+        "width" : 64
+      } ],
+      "name" : "Nightmare Vacation",
+      "release_date" : "2020-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6mlRdEExXqk8Git4nghBSL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 116210,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT22007431"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Y5pnYbPnZzUhv3KEa6qbd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Y5pnYbPnZzUhv3KEa6qbd",
+    "id" : "5Y5pnYbPnZzUhv3KEa6qbd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Pussy Poppin (I Don't Really Talk Like This)",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d38a102980d2a8aaeeb73edb463bdc13f62a3d30?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5Y5pnYbPnZzUhv3KEa6qbd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+        "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+        "name" : "Rico Nasty",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4RKiTVGT9pCVRnqIkwKWo1",
+      "id" : "4RKiTVGT9pCVRnqIkwKWo1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0241e7c5b95a9d860b5d868b0e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485141e7c5b95a9d860b5d868b0e",
+        "width" : 64
+      } ],
+      "name" : "Nasty",
+      "release_date" : "2018-06-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4RKiTVGT9pCVRnqIkwKWo1"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 140571,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21802217"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0d3pSVPhCfuzAJLyMUZYjT",
+    "id" : "0d3pSVPhCfuzAJLyMUZYjT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rage",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d9551e6ce43b45c3bf73a4dce7efd64b43b4bb52?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0d3pSVPhCfuzAJLyMUZYjT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16rCzZOMQX7P8Kmn5YKexI",
+        "id" : "16rCzZOMQX7P8Kmn5YKexI",
+        "name" : "Mahalia",
+        "type" : "artist",
+        "uri" : "spotify:artist:16rCzZOMQX7P8Kmn5YKexI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+        "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+        "name" : "Rico Nasty",
+        "type" : "artist",
+        "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2SNoIwHcpdsPWq8SuoqG3p",
+      "id" : "2SNoIwHcpdsPWq8SuoqG3p",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f26e25b98a8b66c303ab89da",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f26e25b98a8b66c303ab89da",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f26e25b98a8b66c303ab89da",
+        "width" : 64
+      } ],
+      "name" : "Jealous (feat. Rico Nasty)",
+      "release_date" : "2021-02-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2SNoIwHcpdsPWq8SuoqG3p"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16rCzZOMQX7P8Kmn5YKexI",
+      "id" : "16rCzZOMQX7P8Kmn5YKexI",
+      "name" : "Mahalia",
+      "type" : "artist",
+      "uri" : "spotify:artist:16rCzZOMQX7P8Kmn5YKexI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 199680,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBAHS2001135"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0IIn18QlxCeUpLPRaR6a7K",
+    "id" : "0IIn18QlxCeUpLPRaR6a7K",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Jealous (feat. Rico Nasty)",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/037b4ea11a171aa077798da6f0632d7a50fe987e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0IIn18QlxCeUpLPRaR6a7K"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+        "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+        "name" : "100 gecs",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0qnExDZfz0kVeBjixPsyjS",
+      "id" : "0qnExDZfz0kVeBjixPsyjS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f91a3040f0be854026ad2dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f91a3040f0be854026ad2dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f91a3040f0be854026ad2dd0",
+        "width" : 64
+      } ],
+      "name" : "1000 gecs and The Tree of Clues",
+      "release_date" : "2020-07-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:0qnExDZfz0kVeBjixPsyjS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PfSUFtkMVoDkx4MQkzOi3",
+      "id" : "6PfSUFtkMVoDkx4MQkzOi3",
+      "name" : "100 gecs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PfSUFtkMVoDkx4MQkzOi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "name" : "Charli XCX",
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "name" : "Rico Nasty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6OqhFYFJDnBBHas02HopPT",
+      "id" : "6OqhFYFJDnBBHas02HopPT",
+      "name" : "Kero Kero Bonito",
+      "type" : "artist",
+      "uri" : "spotify:artist:6OqhFYFJDnBBHas02HopPT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214529,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT22000177"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2T93MtJuKMzcGRTR8fdizV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2T93MtJuKMzcGRTR8fdizV",
+    "id" : "2T93MtJuKMzcGRTR8fdizV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ae79e0ddb3c4ac0c8d27bf38ed0ff4457b203fd2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2T93MtJuKMzcGRTR8fdizV"
+  } ]
+}

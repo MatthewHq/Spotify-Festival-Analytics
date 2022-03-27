@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=DANYELINO&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Ut6iAUGTJfEVRopU9MsGf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 107
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Ut6iAUGTJfEVRopU9MsGf",
+      "id" : "6Ut6iAUGTJfEVRopU9MsGf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb43060d8c8ba626ba4b9adefa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517443060d8c8ba626ba4b9adefa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17843060d8c8ba626ba4b9adefa",
+        "width" : 160
+      } ],
+      "name" : "Danyelino",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Ut6iAUGTJfEVRopU9MsGf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09Cz7lpdeZ9HjY6gJWlZaS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/09Cz7lpdeZ9HjY6gJWlZaS",
+      "id" : "09Cz7lpdeZ9HjY6gJWlZaS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27314a62ab67d5bef52aae378bd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0214a62ab67d5bef52aae378bd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485114a62ab67d5bef52aae378bd",
+        "width" : 64
+      } ],
+      "name" : "Maurizio & Danyelino",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:09Cz7lpdeZ9HjY6gJWlZaS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rw5BcUIf2gVxBsf7blr3k"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7rw5BcUIf2gVxBsf7blr3k",
+      "id" : "7rw5BcUIf2gVxBsf7blr3k",
+      "images" : [ ],
+      "name" : "Danyelino",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7rw5BcUIf2gVxBsf7blr3k"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

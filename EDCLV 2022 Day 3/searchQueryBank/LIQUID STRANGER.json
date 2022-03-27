@@ -1,0 +1,99 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=LIQUID+STRANGER&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 189420
+      },
+      "genres" : [ "brostep", "downtempo", "drill and bass", "edm", "electro house", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb071848783776946a42f523c6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174071848783776946a42f523c6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178071848783776946a42f523c6",
+        "width" : 160
+      } ],
+      "name" : "Liquid Stranger",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QEYvtvdoZ8mh5hvfpMnx1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 37
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4QEYvtvdoZ8mh5hvfpMnx1",
+      "id" : "4QEYvtvdoZ8mh5hvfpMnx1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fffe61c4bd03977446dd48dd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fffe61c4bd03977446dd48dd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fffe61c4bd03977446dd48dd",
+        "width" : 64
+      } ],
+      "name" : "Liquid Stranger",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4QEYvtvdoZ8mh5hvfpMnx1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5QCKVpp8PY0E0CbMktaFp6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5QCKVpp8PY0E0CbMktaFp6",
+      "id" : "5QCKVpp8PY0E0CbMktaFp6",
+      "images" : [ ],
+      "name" : "Liquid Strangers",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5QCKVpp8PY0E0CbMktaFp6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4A5TTTEAT78gec4bwtUjFP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4A5TTTEAT78gec4bwtUjFP",
+      "id" : "4A5TTTEAT78gec4bwtUjFP",
+      "images" : [ ],
+      "name" : "Perfect Stranger & Liquid Soul",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4A5TTTEAT78gec4bwtUjFP"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

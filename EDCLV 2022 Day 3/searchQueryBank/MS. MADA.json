@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=MS.+MADA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Q2AHnOl7BbmHN3Q8Rgh3K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 281
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5Q2AHnOl7BbmHN3Q8Rgh3K",
+      "id" : "5Q2AHnOl7BbmHN3Q8Rgh3K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb14dc145a0827c72d2f32001e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517414dc145a0827c72d2f32001e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17814dc145a0827c72d2f32001e",
+        "width" : 160
+      } ],
+      "name" : "Ms. Mada",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Q2AHnOl7BbmHN3Q8Rgh3K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bci3eIPBwBiFNef42bY9r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4bci3eIPBwBiFNef42bY9r",
+      "id" : "4bci3eIPBwBiFNef42bY9r",
+      "images" : [ ],
+      "name" : "Matches,Ms.Mada",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4bci3eIPBwBiFNef42bY9r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eq0svkVKy73QwVaqPkD3l"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7eq0svkVKy73QwVaqPkD3l",
+      "id" : "7eq0svkVKy73QwVaqPkD3l",
+      "images" : [ ],
+      "name" : "Martinique, Madame Ice, Ms. Royaltee, Shantel & D’Shae",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7eq0svkVKy73QwVaqPkD3l"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

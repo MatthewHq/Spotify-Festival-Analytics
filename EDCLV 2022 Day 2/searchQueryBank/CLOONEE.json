@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CLOONEE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 62118
+      },
+      "genres" : [ "house" ],
+      "href" : "https://api.spotify.com/v1/artists/7MdlXmq2HViAJWo9cf30sR",
+      "id" : "7MdlXmq2HViAJWo9cf30sR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb597c50a322876e6b096e71b7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174597c50a322876e6b096e71b7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178597c50a322876e6b096e71b7",
+        "width" : 160
+      } ],
+      "name" : "Cloonee",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:7MdlXmq2HViAJWo9cf30sR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 109877
+      },
+      "genres" : [ "adult standards", "brill building pop", "easy listening", "lounge", "swing", "torch song", "vocal jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/0NkyXWGxE3WTFixDSJ39PK",
+      "id" : "0NkyXWGxE3WTFixDSJ39PK",
+      "images" : [ {
+        "height" : 1133,
+        "url" : "https://i.scdn.co/image/5974256cb22557291dcc9c71640bcd47a8c879d8",
+        "width" : 1000
+      }, {
+        "height" : 725,
+        "url" : "https://i.scdn.co/image/61cf45f75c5c15a8d946595abef5dd2f892a66e8",
+        "width" : 640
+      }, {
+        "height" : 227,
+        "url" : "https://i.scdn.co/image/18c5bb596b749d0ee16df2f3a56d90c38dca5b84",
+        "width" : 200
+      }, {
+        "height" : 73,
+        "url" : "https://i.scdn.co/image/54cad315e7fc222fcbbb8b0995692783f6f225c5",
+        "width" : 64
+      } ],
+      "name" : "Rosemary Clooney",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:0NkyXWGxE3WTFixDSJ39PK"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

@@ -1,0 +1,772 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1htHgbGwgCWJBfGiQwcRqC",
+        "id" : "1htHgbGwgCWJBfGiQwcRqC",
+        "name" : "Dr. Fresch",
+        "type" : "artist",
+        "uri" : "spotify:artist:1htHgbGwgCWJBfGiQwcRqC"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+        "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+        "name" : "Nostalgix",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5NV4VYi9UiVkAfceSgE6sM",
+      "id" : "5NV4VYi9UiVkAfceSgE6sM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27326a002a0e0aca55b84becb48",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0226a002a0e0aca55b84becb48",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485126a002a0e0aca55b84becb48",
+        "width" : 64
+      } ],
+      "name" : "Ghost",
+      "release_date" : "2022-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5NV4VYi9UiVkAfceSgE6sM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1htHgbGwgCWJBfGiQwcRqC",
+      "id" : "1htHgbGwgCWJBfGiQwcRqC",
+      "name" : "Dr. Fresch",
+      "type" : "artist",
+      "uri" : "spotify:artist:1htHgbGwgCWJBfGiQwcRqC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 172245,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR0037238"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Y6LspDMKmZsFf6D5zhWoY",
+    "id" : "5Y6LspDMKmZsFf6D5zhWoY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ghost",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/963289276fb96535ed067c39c259406c01103cab?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5Y6LspDMKmZsFf6D5zhWoY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3abRKajGbb3kLMy9AWzfMA",
+        "id" : "3abRKajGbb3kLMy9AWzfMA",
+        "name" : "BIJOU",
+        "type" : "artist",
+        "uri" : "spotify:artist:3abRKajGbb3kLMy9AWzfMA"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+        "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+        "name" : "Nostalgix",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0cxkIWSWJSCN8ld8sUnaWO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0cxkIWSWJSCN8ld8sUnaWO",
+      "id" : "0cxkIWSWJSCN8ld8sUnaWO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273876d99bc7acdbe640e8a63b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02876d99bc7acdbe640e8a63b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851876d99bc7acdbe640e8a63b8",
+        "width" : 64
+      } ],
+      "name" : "Bust It",
+      "release_date" : "2021-10-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0cxkIWSWJSCN8ld8sUnaWO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3abRKajGbb3kLMy9AWzfMA",
+      "id" : "3abRKajGbb3kLMy9AWzfMA",
+      "name" : "BIJOU",
+      "type" : "artist",
+      "uri" : "spotify:artist:3abRKajGbb3kLMy9AWzfMA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 198750,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0011956"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3jRf1CgbwS6KK8loU2P7sg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3jRf1CgbwS6KK8loU2P7sg",
+    "id" : "3jRf1CgbwS6KK8loU2P7sg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bust It",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a53d368ae6a5b2bd278f166897da788801ce878f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3jRf1CgbwS6KK8loU2P7sg"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+        "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+        "name" : "Nostalgix",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rTuLnXYLDhVJ0ox9oGHot",
+      "id" : "3rTuLnXYLDhVJ0ox9oGHot",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27331329f738ffdbdb51c2a1b32",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0231329f738ffdbdb51c2a1b32",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485131329f738ffdbdb51c2a1b32",
+        "width" : 64
+      } ],
+      "name" : "Badman",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3rTuLnXYLDhVJ0ox9oGHot"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159569,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFPL2100146"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/02teKCLbOxKUIVg7DPoWCE",
+    "id" : "02teKCLbOxKUIVg7DPoWCE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Badman",
+    "popularity" : 46,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:02teKCLbOxKUIVg7DPoWCE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+        "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+        "name" : "Nostalgix",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2U5JmM5bTJuARrzQYnDAKn",
+        "id" : "2U5JmM5bTJuARrzQYnDAKn",
+        "name" : "Dread MC",
+        "type" : "artist",
+        "uri" : "spotify:artist:2U5JmM5bTJuARrzQYnDAKn"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3gJYVDo7KJ0xI35NWV6y0h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3gJYVDo7KJ0xI35NWV6y0h",
+      "id" : "3gJYVDo7KJ0xI35NWV6y0h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733d2932a4d9973b57ff45ae45",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023d2932a4d9973b57ff45ae45",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513d2932a4d9973b57ff45ae45",
+        "width" : 64
+      } ],
+      "name" : "Famous",
+      "release_date" : "2020-07-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3gJYVDo7KJ0xI35NWV6y0h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2U5JmM5bTJuARrzQYnDAKn",
+      "id" : "2U5JmM5bTJuARrzQYnDAKn",
+      "name" : "Dread MC",
+      "type" : "artist",
+      "uri" : "spotify:artist:2U5JmM5bTJuARrzQYnDAKn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217142,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2063559"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5RvQRB13evPdYc1D3lwmBs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5RvQRB13evPdYc1D3lwmBs",
+    "id" : "5RvQRB13evPdYc1D3lwmBs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bassline Drip",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/399eb97d847206f3465c84cf5b118c79ec80b414?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5RvQRB13evPdYc1D3lwmBs"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+        "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+        "name" : "Nostalgix",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2mjYoaMqoYClRhzVHjTPcm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2mjYoaMqoYClRhzVHjTPcm",
+      "id" : "2mjYoaMqoYClRhzVHjTPcm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273af72eb5790cd7fb08b53b4d2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02af72eb5790cd7fb08b53b4d2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851af72eb5790cd7fb08b53b4d2",
+        "width" : 64
+      } ],
+      "name" : "Boom",
+      "release_date" : "2021-02-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2mjYoaMqoYClRhzVHjTPcm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2N9oU1WYKGpnSNEBNC3Sqf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2N9oU1WYKGpnSNEBNC3Sqf",
+      "id" : "2N9oU1WYKGpnSNEBNC3Sqf",
+      "name" : "D'Aaron Anthony",
+      "type" : "artist",
+      "uri" : "spotify:artist:2N9oU1WYKGpnSNEBNC3Sqf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 170624,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFPL2100018"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0MQZi4FRmLn45J0wkjVE5J"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0MQZi4FRmLn45J0wkjVE5J",
+    "id" : "0MQZi4FRmLn45J0wkjVE5J",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Boom",
+    "popularity" : 36,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0MQZi4FRmLn45J0wkjVE5J"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5r8uFFa8SgWYY9otnRmLlw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5r8uFFa8SgWYY9otnRmLlw",
+        "id" : "5r8uFFa8SgWYY9otnRmLlw",
+        "name" : "Night Bass",
+        "type" : "artist",
+        "uri" : "spotify:artist:5r8uFFa8SgWYY9otnRmLlw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5pNSuaEliVDmgJEWZoopSh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5pNSuaEliVDmgJEWZoopSh",
+      "id" : "5pNSuaEliVDmgJEWZoopSh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273da81ee11997dd2280455ed0a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02da81ee11997dd2280455ed0a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851da81ee11997dd2280455ed0a",
+        "width" : 64
+      } ],
+      "name" : "Night Bass Freshmen Vol 3",
+      "release_date" : "2019-12-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:5pNSuaEliVDmgJEWZoopSh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4eEtpTwDbn8KAYp63htcNF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4eEtpTwDbn8KAYp63htcNF",
+      "id" : "4eEtpTwDbn8KAYp63htcNF",
+      "name" : "Way",
+      "type" : "artist",
+      "uri" : "spotify:artist:4eEtpTwDbn8KAYp63htcNF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL1902119"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6oIH0HplQXWXgEyjwLtMdU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6oIH0HplQXWXgEyjwLtMdU",
+    "id" : "6oIH0HplQXWXgEyjwLtMdU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mind Tricks",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/388708e50280cde811ad92c1d8b0036c78e80453?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6oIH0HplQXWXgEyjwLtMdU"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+        "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+        "name" : "Nostalgix",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4VK1YKJkqK6Pr5tA49y8sK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4VK1YKJkqK6Pr5tA49y8sK",
+      "id" : "4VK1YKJkqK6Pr5tA49y8sK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ebcd15c65e4de971f714aad9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ebcd15c65e4de971f714aad9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ebcd15c65e4de971f714aad9",
+        "width" : 64
+      } ],
+      "name" : "Snitches",
+      "release_date" : "2022-01-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4VK1YKJkqK6Pr5tA49y8sK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 220000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USYBL2102443"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Zhv6euE2jkUPF6RfHu6ZL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Zhv6euE2jkUPF6RfHu6ZL",
+    "id" : "1Zhv6euE2jkUPF6RfHu6ZL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Snitches",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5527b602e2237707c85994d1cd51ce195d9096c8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1Zhv6euE2jkUPF6RfHu6ZL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5r8uFFa8SgWYY9otnRmLlw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5r8uFFa8SgWYY9otnRmLlw",
+        "id" : "5r8uFFa8SgWYY9otnRmLlw",
+        "name" : "Night Bass",
+        "type" : "artist",
+        "uri" : "spotify:artist:5r8uFFa8SgWYY9otnRmLlw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1s2hwWnAvhRtFHpuqxHLf8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1s2hwWnAvhRtFHpuqxHLf8",
+      "id" : "1s2hwWnAvhRtFHpuqxHLf8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaa3407669e5f0b6f959abc0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaa3407669e5f0b6f959abc0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaa3407669e5f0b6f959abc0",
+        "width" : 64
+      } ],
+      "name" : "This is Night Bass: Vol. 12",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:1s2hwWnAvhRtFHpuqxHLf8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4yZ4oFs7rKNy4OXlZmcZnd",
+      "id" : "4yZ4oFs7rKNy4OXlZmcZnd",
+      "name" : "MNNR",
+      "type" : "artist",
+      "uri" : "spotify:artist:4yZ4oFs7rKNy4OXlZmcZnd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 234404,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL2100815"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7nkEeBaxkmfdpS7wTLIrnu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7nkEeBaxkmfdpS7wTLIrnu",
+    "id" : "7nkEeBaxkmfdpS7wTLIrnu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Low Key",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eac4996ddf6ca7e7df1cd25909d27fc2e4fbc9ee?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7nkEeBaxkmfdpS7wTLIrnu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+        "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+        "name" : "Nostalgix",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3nR8uOZ3GmIOtSsJiFma7G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3nR8uOZ3GmIOtSsJiFma7G",
+      "id" : "3nR8uOZ3GmIOtSsJiFma7G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731cb8ee95ad3451b2d0e8122c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021cb8ee95ad3451b2d0e8122c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511cb8ee95ad3451b2d0e8122c",
+        "width" : 64
+      } ],
+      "name" : "Realest",
+      "release_date" : "2021-04-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3nR8uOZ3GmIOtSsJiFma7G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 175748,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB2LD2110096"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6CVBs2Bh4iUBlmMJ8M6ozJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6CVBs2Bh4iUBlmMJ8M6ozJ",
+    "id" : "6CVBs2Bh4iUBlmMJ8M6ozJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Realest",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8442cc593e381d395e1af1c7e5f216590fea6637?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6CVBs2Bh4iUBlmMJ8M6ozJ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R5qNSYFn04J9jF8UnmYbK",
+        "id" : "5R5qNSYFn04J9jF8UnmYbK",
+        "name" : "Honey & Badger",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R5qNSYFn04J9jF8UnmYbK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+        "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+        "name" : "Nostalgix",
+        "type" : "artist",
+        "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7fYzz49Mh2kRi4bq45hWi7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7fYzz49Mh2kRi4bq45hWi7",
+      "id" : "7fYzz49Mh2kRi4bq45hWi7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27373b100ba89633f796419caad",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0273b100ba89633f796419caad",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485173b100ba89633f796419caad",
+        "width" : 64
+      } ],
+      "name" : "Boiler",
+      "release_date" : "2020-04-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7fYzz49Mh2kRi4bq45hWi7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R5qNSYFn04J9jF8UnmYbK",
+      "id" : "5R5qNSYFn04J9jF8UnmYbK",
+      "name" : "Honey & Badger",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R5qNSYFn04J9jF8UnmYbK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "name" : "Nostalgix",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 251428,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2030529"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/11g63HIYIg07ulVWJMPZds"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/11g63HIYIg07ulVWJMPZds",
+    "id" : "11g63HIYIg07ulVWJMPZds",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Boiler",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/aaf426776f4f5d632b85aae5f893b9e93f1d97d6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:11g63HIYIg07ulVWJMPZds"
+  } ]
+}

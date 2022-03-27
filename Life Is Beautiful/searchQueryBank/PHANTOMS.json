@@ -1,0 +1,559 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=PHANTOMS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38207
+      },
+      "genres" : [ "edm", "electro house", "la pop", "nu disco", "pop dance" ],
+      "href" : "https://api.spotify.com/v1/artists/1bJJlRHoc1UVeqzxcrPLIw",
+      "id" : "1bJJlRHoc1UVeqzxcrPLIw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebeb9e67b431a2a46a68f1ddc3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174eb9e67b431a2a46a68f1ddc3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178eb9e67b431a2a46a68f1ddc3",
+        "width" : 160
+      } ],
+      "name" : "Phantoms",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:1bJJlRHoc1UVeqzxcrPLIw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 405924
+      },
+      "genres" : [ "pop", "post-teen pop" ],
+      "href" : "https://api.spotify.com/v1/artists/52OQXvCMAJ0zqE2ZQrBTqC",
+      "id" : "52OQXvCMAJ0zqE2ZQrBTqC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b51d34b240a45a9223f7291b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b51d34b240a45a9223f7291b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b51d34b240a45a9223f7291b",
+        "width" : 64
+      } ],
+      "name" : "Julie and the Phantoms Cast",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:52OQXvCMAJ0zqE2ZQrBTqC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jcPxHNUKTVOyD2AFPZdRQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 45950
+      },
+      "genres" : [ "modern alternative rock", "modern hard rock", "rebel blues" ],
+      "href" : "https://api.spotify.com/v1/artists/4jcPxHNUKTVOyD2AFPZdRQ",
+      "id" : "4jcPxHNUKTVOyD2AFPZdRQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb34445ccce0843d365b9bea9d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517434445ccce0843d365b9bea9d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17834445ccce0843d365b9bea9d",
+        "width" : 160
+      } ],
+      "name" : "The Phantoms",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:4jcPxHNUKTVOyD2AFPZdRQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/65jboDskjam8csnZLqV4Fk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 235
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/65jboDskjam8csnZLqV4Fk",
+      "id" : "65jboDskjam8csnZLqV4Fk",
+      "images" : [ ],
+      "name" : "Phantoms",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:65jboDskjam8csnZLqV4Fk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7poykXwi0DEJb7KTZrolZ9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7poykXwi0DEJb7KTZrolZ9",
+      "id" : "7poykXwi0DEJb7KTZrolZ9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27359207cf50688efc6fe68faf3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0259207cf50688efc6fe68faf3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485159207cf50688efc6fe68faf3",
+        "width" : 64
+      } ],
+      "name" : "Masks Phantoms",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:7poykXwi0DEJb7KTZrolZ9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4wrYauoPAsaRTtQ9ICWJXy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 635
+      },
+      "genres" : [ "kompa" ],
+      "href" : "https://api.spotify.com/v1/artists/4wrYauoPAsaRTtQ9ICWJXy",
+      "id" : "4wrYauoPAsaRTtQ9ICWJXy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d77d0bc83a4b5ae450a82dcf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d77d0bc83a4b5ae450a82dcf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d77d0bc83a4b5ae450a82dcf",
+        "width" : 64
+      } ],
+      "name" : "Phantoms",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:4wrYauoPAsaRTtQ9ICWJXy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5779
+      },
+      "genres" : [ "filter house" ],
+      "href" : "https://api.spotify.com/v1/artists/4PbkB0f0bB7XeKU54QNTwe",
+      "id" : "4PbkB0f0bB7XeKU54QNTwe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27353ae90af0987973020b6bfcf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0253ae90af0987973020b6bfcf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485153ae90af0987973020b6bfcf",
+        "width" : 64
+      } ],
+      "name" : "The Phantom's Revenge",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:4PbkB0f0bB7XeKU54QNTwe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EtmsBHM1lYGYSam7C1cUu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 519
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6EtmsBHM1lYGYSam7C1cUu",
+      "id" : "6EtmsBHM1lYGYSam7C1cUu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfa5049a3c658dc5725733e32",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fa5049a3c658dc5725733e32",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fa5049a3c658dc5725733e32",
+        "width" : 160
+      } ],
+      "name" : "Phantoms",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:6EtmsBHM1lYGYSam7C1cUu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4h2hLlCk6gQXMcrw4Z6ZYt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7349
+      },
+      "genres" : [ "instrumental surf", "latin surf rock", "spanish rockabilly", "surf music" ],
+      "href" : "https://api.spotify.com/v1/artists/4h2hLlCk6gQXMcrw4Z6ZYt",
+      "id" : "4h2hLlCk6gQXMcrw4Z6ZYt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf33545cfdb8b73adfefdcc9f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f33545cfdb8b73adfefdcc9f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f33545cfdb8b73adfefdcc9f",
+        "width" : 160
+      } ],
+      "name" : "Los Tiki Phantoms",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:4h2hLlCk6gQXMcrw4Z6ZYt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EJrMSZih3zKggOpCPpBKc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 160
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5EJrMSZih3zKggOpCPpBKc",
+      "id" : "5EJrMSZih3zKggOpCPpBKc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe42d5d99d5bc22e43ebd06e6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e42d5d99d5bc22e43ebd06e6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e42d5d99d5bc22e43ebd06e6",
+        "width" : 160
+      } ],
+      "name" : "Phantoms Vs Fire",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:5EJrMSZih3zKggOpCPpBKc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bEgQQPwi0a5h6YCkJy6cv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 602
+      },
+      "genres" : [ "digital hardcore", "dub metal" ],
+      "href" : "https://api.spotify.com/v1/artists/7bEgQQPwi0a5h6YCkJy6cv",
+      "id" : "7bEgQQPwi0a5h6YCkJy6cv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c114b1039dd7004168ed6e2b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c114b1039dd7004168ed6e2b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c114b1039dd7004168ed6e2b",
+        "width" : 64
+      } ],
+      "name" : "Phantomsmasher",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:7bEgQQPwi0a5h6YCkJy6cv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4v4qOTuIbz4tINnCphwrrx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1249
+      },
+      "genres" : [ "psychobilly" ],
+      "href" : "https://api.spotify.com/v1/artists/4v4qOTuIbz4tINnCphwrrx",
+      "id" : "4v4qOTuIbz4tINnCphwrrx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0169e65165db6266a9c17791",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740169e65165db6266a9c17791",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780169e65165db6266a9c17791",
+        "width" : 160
+      } ],
+      "name" : "The Black Rose Phantoms",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:4v4qOTuIbz4tINnCphwrrx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2w9t1J8qUFo5fQ1wfs5zGR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 207
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2w9t1J8qUFo5fQ1wfs5zGR",
+      "id" : "2w9t1J8qUFo5fQ1wfs5zGR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb27be35fd08758ee5dcee9df",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b27be35fd08758ee5dcee9df",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b27be35fd08758ee5dcee9df",
+        "width" : 160
+      } ],
+      "name" : "Living Phantoms",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:2w9t1J8qUFo5fQ1wfs5zGR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2AujV5uZTrkd2WitJVtxTA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2AujV5uZTrkd2WitJVtxTA",
+      "id" : "2AujV5uZTrkd2WitJVtxTA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27373d074ec512181a5361cd39f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0273d074ec512181a5361cd39f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485173d074ec512181a5361cd39f",
+        "width" : 64
+      } ],
+      "name" : "Phantomstone",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:2AujV5uZTrkd2WitJVtxTA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CU02OAg7i1UBpEXxMllkh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 32
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7CU02OAg7i1UBpEXxMllkh",
+      "id" : "7CU02OAg7i1UBpEXxMllkh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273909fa27b188e45f9f52f5984",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02909fa27b188e45f9f52f5984",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851909fa27b188e45f9f52f5984",
+        "width" : 64
+      } ],
+      "name" : "The Riptide Phantoms",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:7CU02OAg7i1UBpEXxMllkh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pA9dyd4WZlVeZFVYNY037"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5pA9dyd4WZlVeZFVYNY037",
+      "id" : "5pA9dyd4WZlVeZFVYNY037",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273881d356643a8ccb5524d863c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02881d356643a8ccb5524d863c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851881d356643a8ccb5524d863c",
+        "width" : 64
+      } ],
+      "name" : "phantomsnobbish",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:5pA9dyd4WZlVeZFVYNY037"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CFixBzqZ6fMCjOrU3qilZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 169
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0CFixBzqZ6fMCjOrU3qilZ",
+      "id" : "0CFixBzqZ6fMCjOrU3qilZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737bb16c9daefe36003c62b245",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027bb16c9daefe36003c62b245",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517bb16c9daefe36003c62b245",
+        "width" : 64
+      } ],
+      "name" : "Julie And The Phantoms",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:0CFixBzqZ6fMCjOrU3qilZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZFnqqfaPQgYjVpQJtSsRU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 378
+      },
+      "genres" : [ "australian hardcore" ],
+      "href" : "https://api.spotify.com/v1/artists/2ZFnqqfaPQgYjVpQJtSsRU",
+      "id" : "2ZFnqqfaPQgYjVpQJtSsRU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba103bb4ff3edd170e2050282",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a103bb4ff3edd170e2050282",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a103bb4ff3edd170e2050282",
+        "width" : 160
+      } ],
+      "name" : "Phantoms",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZFnqqfaPQgYjVpQJtSsRU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OdRvSZYYOwABmHeAhR2MX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 343
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3OdRvSZYYOwABmHeAhR2MX",
+      "id" : "3OdRvSZYYOwABmHeAhR2MX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273caa4651bd69514cdb4c141b1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02caa4651bd69514cdb4c141b1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851caa4651bd69514cdb4c141b1",
+        "width" : 64
+      } ],
+      "name" : "Steel Phantoms",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:3OdRvSZYYOwABmHeAhR2MX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7BfJiq0KA3IgCcFb7fb9te"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7BfJiq0KA3IgCcFb7fb9te",
+      "id" : "7BfJiq0KA3IgCcFb7fb9te",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb909d2194d365702206a46034",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174909d2194d365702206a46034",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178909d2194d365702206a46034",
+        "width" : 160
+      } ],
+      "name" : "Phantom's Heart",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:7BfJiq0KA3IgCcFb7fb9te"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=PHANTOMS&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 175
+  }
+}

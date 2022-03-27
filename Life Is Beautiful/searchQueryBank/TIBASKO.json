@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=TIBASKO&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4691
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6xq7g0E52yq4y8Op9X82Uo",
+      "id" : "6xq7g0E52yq4y8Op9X82Uo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6d13876f85c08c246e528f55",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746d13876f85c08c246e528f55",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786d13876f85c08c246e528f55",
+        "width" : 160
+      } ],
+      "name" : "TIBASKO",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:6xq7g0E52yq4y8Op9X82Uo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zcAfFfqiofNbXSAfjdXEr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3zcAfFfqiofNbXSAfjdXEr",
+      "id" : "3zcAfFfqiofNbXSAfjdXEr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a0db7c1b1dc6a7ea6b2aad0a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a0db7c1b1dc6a7ea6b2aad0a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a0db7c1b1dc6a7ea6b2aad0a",
+        "width" : 64
+      } ],
+      "name" : "TIBASKO",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3zcAfFfqiofNbXSAfjdXEr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 159398
+      },
+      "genres" : [ "french hip hop", "pop urbaine", "rap francais" ],
+      "href" : "https://api.spotify.com/v1/artists/3vUMXQ9kPnZAQkMkZZ7Hfh",
+      "id" : "3vUMXQ9kPnZAQkMkZZ7Hfh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb21b01a74c97830972f4f5813",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517421b01a74c97830972f4f5813",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17821b01a74c97830972f4f5813",
+        "width" : 160
+      } ],
+      "name" : "Tiakola",
+      "popularity" : 69,
+      "type" : "artist",
+      "uri" : "spotify:artist:3vUMXQ9kPnZAQkMkZZ7Hfh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6E3r7RLg5iYwMGNiM7pxVO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6E3r7RLg5iYwMGNiM7pxVO",
+      "id" : "6E3r7RLg5iYwMGNiM7pxVO",
+      "images" : [ ],
+      "name" : "TIBASKO",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6E3r7RLg5iYwMGNiM7pxVO"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

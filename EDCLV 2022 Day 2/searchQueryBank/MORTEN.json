@@ -1,0 +1,555 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=MORTEN&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 68623
+      },
+      "genres" : [ "danish electronic", "scandipop" ],
+      "href" : "https://api.spotify.com/v1/artists/19HFRWmRCl27kTk6LeqAO8",
+      "id" : "19HFRWmRCl27kTk6LeqAO8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb28bb7ea8f027775a282f4be4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517428bb7ea8f027775a282f4be4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17828bb7ea8f027775a282f4be4",
+        "width" : 160
+      } ],
+      "name" : "MORTEN",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:19HFRWmRCl27kTk6LeqAO8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 330
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/44ioweuAw5P80TwfcibcpP",
+      "id" : "44ioweuAw5P80TwfcibcpP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb55798bf8b20ca9c1897d9bc8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517455798bf8b20ca9c1897d9bc8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17855798bf8b20ca9c1897d9bc8",
+        "width" : 160
+      } ],
+      "name" : "Morten Lund",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:44ioweuAw5P80TwfcibcpP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EV7a9KODMBPJTCgIl9Bmk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15987
+      },
+      "genres" : [ "american contemporary classical", "choral", "contemporary classical" ],
+      "href" : "https://api.spotify.com/v1/artists/4EV7a9KODMBPJTCgIl9Bmk",
+      "id" : "4EV7a9KODMBPJTCgIl9Bmk",
+      "images" : [ {
+        "height" : 262,
+        "url" : "https://i.scdn.co/image/273a4b9c5423ba85c70f2b909677bfd8ee83bd45",
+        "width" : 264
+      }, {
+        "height" : 198,
+        "url" : "https://i.scdn.co/image/8f5c967977476a54a6d34561f94b8ad4a9e17704",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/eb60737a45883de8c27dd2a9f23336af62d7d101",
+        "width" : 64
+      } ],
+      "name" : "Morten Lauridsen",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:4EV7a9KODMBPJTCgIl9Bmk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36128
+      },
+      "genres" : [ "classic norwegian pop", "norwegian pop", "solo wave" ],
+      "href" : "https://api.spotify.com/v1/artists/08t5VdmH6cpxHXUmb9bFeP",
+      "id" : "08t5VdmH6cpxHXUmb9bFeP",
+      "images" : [ {
+        "height" : 1500,
+        "url" : "https://i.scdn.co/image/3cc988337de58e0839f5429e1c2185453368b623",
+        "width" : 1000
+      }, {
+        "height" : 960,
+        "url" : "https://i.scdn.co/image/da5b39dc065acafd25c138770a33daa8d5ab9bf2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/696fe13c787b8bcc8be0847b30d3e526e7ee9272",
+        "width" : 200
+      }, {
+        "height" : 96,
+        "url" : "https://i.scdn.co/image/9116ce1f06daca1f24f649730d693df95d2046e3",
+        "width" : 64
+      } ],
+      "name" : "Morten Harket",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:08t5VdmH6cpxHXUmb9bFeP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 57807
+      },
+      "genres" : [ "progressive psytrance", "psychedelic trance" ],
+      "href" : "https://api.spotify.com/v1/artists/49loZrPArxoDvk5XKyugw0",
+      "id" : "49loZrPArxoDvk5XKyugw0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb215466b13ab1245be4cd8389",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174215466b13ab1245be4cd8389",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178215466b13ab1245be4cd8389",
+        "width" : 160
+      } ],
+      "name" : "Morten Granau",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:49loZrPArxoDvk5XKyugw0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60V1cu478C4wll4ctBKkY5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1491
+      },
+      "genres" : [ "baroque", "harpsichord" ],
+      "href" : "https://api.spotify.com/v1/artists/60V1cu478C4wll4ctBKkY5",
+      "id" : "60V1cu478C4wll4ctBKkY5",
+      "images" : [ {
+        "height" : 1429,
+        "url" : "https://i.scdn.co/image/18eb759c3ca05404d54719d2879378228ebd6a01",
+        "width" : 1000
+      }, {
+        "height" : 914,
+        "url" : "https://i.scdn.co/image/020b25c328678224aa4f08eea0b447dee569ec36",
+        "width" : 640
+      }, {
+        "height" : 286,
+        "url" : "https://i.scdn.co/image/45070fc70385cab382a6263aa2880635b6f2d019",
+        "width" : 200
+      }, {
+        "height" : 91,
+        "url" : "https://i.scdn.co/image/221f5edb33ea7b864e6299fd3390e3bc94ab278b",
+        "width" : 64
+      } ],
+      "name" : "Lars Ulrik Mortensen",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:60V1cu478C4wll4ctBKkY5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1677
+      },
+      "genres" : [ "norwegian jazz", "ragtime", "stride" ],
+      "href" : "https://api.spotify.com/v1/artists/0abhXJIOH1NqbsXLaZD2DI",
+      "id" : "0abhXJIOH1NqbsXLaZD2DI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273568226143eddcf7fe3ab4244",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02568226143eddcf7fe3ab4244",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851772fa30d95f0e3f8d8517fdf",
+        "width" : 64
+      } ],
+      "name" : "Morten Gunnar Larsen",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:0abhXJIOH1NqbsXLaZD2DI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 70
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/71zyq1fTht9Jg6Vc3GMMUU",
+      "id" : "71zyq1fTht9Jg6Vc3GMMUU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8710cefa54fc8317ddbfd85a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748710cefa54fc8317ddbfd85a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788710cefa54fc8317ddbfd85a",
+        "width" : 160
+      } ],
+      "name" : "Morten Ankarfeldt",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:71zyq1fTht9Jg6Vc3GMMUU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 163
+      },
+      "genres" : [ "background piano" ],
+      "href" : "https://api.spotify.com/v1/artists/1RI9zJgpCO01hSCfh9k7YT",
+      "id" : "1RI9zJgpCO01hSCfh9k7YT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fb6b8d206dbbd8ae4d129de6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fb6b8d206dbbd8ae4d129de6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fb6b8d206dbbd8ae4d129de6",
+        "width" : 64
+      } ],
+      "name" : "Morten Lidahl",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:1RI9zJgpCO01hSCfh9k7YT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11habIRpXVkScDFp3rJrgu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1923
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/11habIRpXVkScDFp3rJrgu",
+      "id" : "11habIRpXVkScDFp3rJrgu",
+      "images" : [ ],
+      "name" : "Viggo Mortensen",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:11habIRpXVkScDFp3rJrgu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10ZoutqXuCmFqOKwZdZs99"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 98
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/10ZoutqXuCmFqOKwZdZs99",
+      "id" : "10ZoutqXuCmFqOKwZdZs99",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fec7368c28a2032788d7c379",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fec7368c28a2032788d7c379",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fec7368c28a2032788d7c379",
+        "width" : 64
+      } ],
+      "name" : "Morten Schuldt-Jensen",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:10ZoutqXuCmFqOKwZdZs99"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6QR1bVBTdZw46gxEGmaGsk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6QR1bVBTdZw46gxEGmaGsk",
+      "id" : "6QR1bVBTdZw46gxEGmaGsk",
+      "images" : [ ],
+      "name" : "Morten Jay",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:6QR1bVBTdZw46gxEGmaGsk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/73JMQvllbBsfDclpXOW4Wj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21012
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/73JMQvllbBsfDclpXOW4Wj",
+      "id" : "73JMQvllbBsfDclpXOW4Wj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3fc98da686c3d3fe08f3f846",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743fc98da686c3d3fe08f3f846",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783fc98da686c3d3fe08f3f846",
+        "width" : 160
+      } ],
+      "name" : "morten",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:73JMQvllbBsfDclpXOW4Wj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Oa6soSAYkctZCVj2lCXQu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1097
+      },
+      "genres" : [ "ballet class" ],
+      "href" : "https://api.spotify.com/v1/artists/6Oa6soSAYkctZCVj2lCXQu",
+      "id" : "6Oa6soSAYkctZCVj2lCXQu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e94ce18994f3dc1b5b10f403",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e94ce18994f3dc1b5b10f403",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e94ce18994f3dc1b5b10f403",
+        "width" : 64
+      } ],
+      "name" : "Konstantin Mortensen",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Oa6soSAYkctZCVj2lCXQu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tSToHE5ZHmhMl3AUrWLeF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2138
+      },
+      "genres" : [ "norwegian folk rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3tSToHE5ZHmhMl3AUrWLeF",
+      "id" : "3tSToHE5ZHmhMl3AUrWLeF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba6f5d50cf904cec9f60e7fea",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a6f5d50cf904cec9f60e7fea",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a6f5d50cf904cec9f60e7fea",
+        "width" : 160
+      } ],
+      "name" : "Morten Paulsen",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:3tSToHE5ZHmhMl3AUrWLeF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51actz6SOZ94Xj3ORXfLV5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 73
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/51actz6SOZ94Xj3ORXfLV5",
+      "id" : "51actz6SOZ94Xj3ORXfLV5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf619a350adadb7e5b916cda3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f619a350adadb7e5b916cda3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f619a350adadb7e5b916cda3",
+        "width" : 160
+      } ],
+      "name" : "Morten Nygaard",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:51actz6SOZ94Xj3ORXfLV5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7678
+      },
+      "genres" : [ "contemporary vocal jazz", "vocal jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/6K6MsblQYdl29dlOgCKul2",
+      "id" : "6K6MsblQYdl29dlOgCKul2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb6f64240d8096097a228006f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b6f64240d8096097a228006f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b6f64240d8096097a228006f",
+        "width" : 160
+      } ],
+      "name" : "Malene Mortensen",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:6K6MsblQYdl29dlOgCKul2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1861
+      },
+      "genres" : [ "ambient folk" ],
+      "href" : "https://api.spotify.com/v1/artists/7zFc6IlzgDwyXojYH1GIkI",
+      "id" : "7zFc6IlzgDwyXojYH1GIkI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9b0c91b2f0edc970a5277c9d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749b0c91b2f0edc970a5277c9d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789b0c91b2f0edc970a5277c9d",
+        "width" : 160
+      } ],
+      "name" : "Morten Myklebust",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:7zFc6IlzgDwyXojYH1GIkI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ey0SUEagwTd9CM75Vz4Pk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 63
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2ey0SUEagwTd9CM75Vz4Pk",
+      "id" : "2ey0SUEagwTd9CM75Vz4Pk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb92d7a16541b39aa0a98db26e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517492d7a16541b39aa0a98db26e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17892d7a16541b39aa0a98db26e",
+        "width" : 160
+      } ],
+      "name" : "Alexandra Mortensen",
+      "popularity" : 29,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ey0SUEagwTd9CM75Vz4Pk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2WBWT3U7OrHDODuZo8n5ee"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1736
+      },
+      "genres" : [ "danish electronic" ],
+      "href" : "https://api.spotify.com/v1/artists/2WBWT3U7OrHDODuZo8n5ee",
+      "id" : "2WBWT3U7OrHDODuZo8n5ee",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb836d77e84295191bb312402e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174836d77e84295191bb312402e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178836d77e84295191bb312402e",
+        "width" : 160
+      } ],
+      "name" : "Morten Hampenberg",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:2WBWT3U7OrHDODuZo8n5ee"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=MORTEN&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 606
+  }
+}

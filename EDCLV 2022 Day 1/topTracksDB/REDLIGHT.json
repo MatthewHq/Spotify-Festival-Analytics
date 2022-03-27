@@ -1,0 +1,709 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1k2DiWIVMjvFf4mgqrcRYO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1k2DiWIVMjvFf4mgqrcRYO",
+      "id" : "1k2DiWIVMjvFf4mgqrcRYO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730419ca88deb7392f71cb6ab6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020419ca88deb7392f71cb6ab6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510419ca88deb7392f71cb6ab6",
+        "width" : 64
+      } ],
+      "name" : "Work From Home Dance",
+      "release_date" : "2020-07-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:1k2DiWIVMjvFf4mgqrcRYO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 229435,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71203816"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1eXyRYip0eRrpKJCkzTDms"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1eXyRYip0eRrpKJCkzTDms",
+    "id" : "1eXyRYip0eRrpKJCkzTDms",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lost In Your Love",
+    "popularity" : 32,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:1eXyRYip0eRrpKJCkzTDms"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+        "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+        "name" : "Redlight",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6fi7akHFrEm2vm4DYlvY4E",
+      "id" : "6fi7akHFrEm2vm4DYlvY4E",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb9b422c27a1b99621368153",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb9b422c27a1b99621368153",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb9b422c27a1b99621368153",
+        "width" : 64
+      } ],
+      "name" : "Sweat",
+      "release_date" : "2021-11-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6fi7akHFrEm2vm4DYlvY4E"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 176372,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK35D2100170"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5e3EF3niG5U2ycCFc0seOL",
+    "id" : "5e3EF3niG5U2ycCFc0seOL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sweat",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0cf369e163e7ff542fa6fac348a7972606356093?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5e3EF3niG5U2ycCFc0seOL"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+        "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+        "name" : "Redlight",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17SREcIkD1bEgNz8tDHZGf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17SREcIkD1bEgNz8tDHZGf",
+      "id" : "17SREcIkD1bEgNz8tDHZGf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d7cbf225b1baf78fbaee297",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d7cbf225b1baf78fbaee297",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d7cbf225b1baf78fbaee297",
+        "width" : 64
+      } ],
+      "name" : "Moon Trip",
+      "release_date" : "2022-01-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:17SREcIkD1bEgNz8tDHZGf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 139618,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK35D2200172"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/34K6Oyc8fCXRbeyyIiggmd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/34K6Oyc8fCXRbeyyIiggmd",
+    "id" : "34K6Oyc8fCXRbeyyIiggmd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Moon Trip",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a9a8285e99b399449390ba4512419833a1b8f691?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:34K6Oyc8fCXRbeyyIiggmd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+        "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+        "name" : "Redlight",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0jLHt69kKGrsUyXWnnDmGu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0jLHt69kKGrsUyXWnnDmGu",
+      "id" : "0jLHt69kKGrsUyXWnnDmGu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d854d2c23c0550b25239f61c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d854d2c23c0550b25239f61c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d854d2c23c0550b25239f61c",
+        "width" : 64
+      } ],
+      "name" : "Active",
+      "release_date" : "2018-11-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:0jLHt69kKGrsUyXWnnDmGu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1QOHbhVRpDoNtRkz79si6b",
+      "id" : "1QOHbhVRpDoNtRkz79si6b",
+      "name" : "Karen Harding",
+      "type" : "artist",
+      "uri" : "spotify:artist:1QOHbhVRpDoNtRkz79si6b"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213795,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK35D1800138"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6qDehujBpPpqNUhXUvEqoR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6qDehujBpPpqNUhXUvEqoR",
+    "id" : "6qDehujBpPpqNUhXUvEqoR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Seasons",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d8ede1cb4821889802f3fdde486c9d83a94b11d4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6qDehujBpPpqNUhXUvEqoR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+        "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+        "name" : "Redlight",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/72xX54AP2mdEtRRCBWsFKA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/72xX54AP2mdEtRRCBWsFKA",
+      "id" : "72xX54AP2mdEtRRCBWsFKA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a8d7d5852d3d497e13d7ebe3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a8d7d5852d3d497e13d7ebe3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a8d7d5852d3d497e13d7ebe3",
+        "width" : 64
+      } ],
+      "name" : "Templates, Vol. 1",
+      "release_date" : "2016-07-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:72xX54AP2mdEtRRCBWsFKA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0QHXPsTQVqvNPfK6edjInM",
+      "id" : "0QHXPsTQVqvNPfK6edjInM",
+      "name" : "Tayá",
+      "type" : "artist",
+      "uri" : "spotify:artist:0QHXPsTQVqvNPfK6edjInM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 387607,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK35D1600087"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Fia4B2GiqJIGpxCWFH1rw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Fia4B2GiqJIGpxCWFH1rw",
+    "id" : "5Fia4B2GiqJIGpxCWFH1rw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Here with Me - Lobster Boy Mix",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/082556873ab96b64aa379865d4f510c56e89caee?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5Fia4B2GiqJIGpxCWFH1rw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+        "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+        "name" : "Redlight",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2cOUbhr949qZouRFcPxeUu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2cOUbhr949qZouRFcPxeUu",
+      "id" : "2cOUbhr949qZouRFcPxeUu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27317a46368605d2c6d0c133a92",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0217a46368605d2c6d0c133a92",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485117a46368605d2c6d0c133a92",
+        "width" : 64
+      } ],
+      "name" : "X Colour",
+      "release_date" : "2015-11-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:2cOUbhr949qZouRFcPxeUu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GJhraAgCA8s8XHENnDsXq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3GJhraAgCA8s8XHENnDsXq",
+      "id" : "3GJhraAgCA8s8XHENnDsXq",
+      "name" : "ASTR",
+      "type" : "artist",
+      "uri" : "spotify:artist:3GJhraAgCA8s8XHENnDsXq"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 232260,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK35D1500034"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0O9itV9UB7fDHss9e7lXmQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0O9itV9UB7fDHss9e7lXmQ",
+    "id" : "0O9itV9UB7fDHss9e7lXmQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Me & You",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/03302ed73009245a1a6039df2e4ef367d09e2b05?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0O9itV9UB7fDHss9e7lXmQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+        "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+        "name" : "Redlight",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0jLHt69kKGrsUyXWnnDmGu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0jLHt69kKGrsUyXWnnDmGu",
+      "id" : "0jLHt69kKGrsUyXWnnDmGu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d854d2c23c0550b25239f61c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d854d2c23c0550b25239f61c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d854d2c23c0550b25239f61c",
+        "width" : 64
+      } ],
+      "name" : "Active",
+      "release_date" : "2018-11-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:0jLHt69kKGrsUyXWnnDmGu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 280753,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK35D1800134"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/23r57CEuyNSM4ojNa03ei6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/23r57CEuyNSM4ojNa03ei6",
+    "id" : "23r57CEuyNSM4ojNa03ei6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Get Wavey",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b2b202df72343bf42f35b038217f381d431c600?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:23r57CEuyNSM4ojNa03ei6"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+        "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+        "name" : "Redlight",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2lTaGg6e1fSHY1ayA8K3DY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2lTaGg6e1fSHY1ayA8K3DY",
+      "id" : "2lTaGg6e1fSHY1ayA8K3DY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734c076a35e42871d5c98ea60a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024c076a35e42871d5c98ea60a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514c076a35e42871d5c98ea60a",
+        "width" : 64
+      } ],
+      "name" : "Sports Mode",
+      "release_date" : "2019-03-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2lTaGg6e1fSHY1ayA8K3DY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 172384,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK35D1900147"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3R61oKZAJHqbkMF0rQTwR3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3R61oKZAJHqbkMF0rQTwR3",
+    "id" : "3R61oKZAJHqbkMF0rQTwR3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sports Mode",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/db5d91b5f234b1228bb6e4b29ca3950a75a9d083?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3R61oKZAJHqbkMF0rQTwR3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+        "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+        "name" : "Redlight",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2cOUbhr949qZouRFcPxeUu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2cOUbhr949qZouRFcPxeUu",
+      "id" : "2cOUbhr949qZouRFcPxeUu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27317a46368605d2c6d0c133a92",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0217a46368605d2c6d0c133a92",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485117a46368605d2c6d0c133a92",
+        "width" : 64
+      } ],
+      "name" : "X Colour",
+      "release_date" : "2015-11-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:2cOUbhr949qZouRFcPxeUu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 280079,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK35D1400017"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ZfCCvwuCl4qXTLhaSIBQX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ZfCCvwuCl4qXTLhaSIBQX",
+    "id" : "0ZfCCvwuCl4qXTLhaSIBQX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gold Teeth",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4214be6b1ebf3833f653abb06fb909b674b7d1ec?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0ZfCCvwuCl4qXTLhaSIBQX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6GKovKcrXZhKO0d2am0mF2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6GKovKcrXZhKO0d2am0mF2",
+      "id" : "6GKovKcrXZhKO0d2am0mF2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de528c9fd0672d71473e0db4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de528c9fd0672d71473e0db4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de528c9fd0672d71473e0db4",
+        "width" : 64
+      } ],
+      "name" : "Undefeated Champions",
+      "release_date" : "2018-08-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:6GKovKcrXZhKO0d2am0mF2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ly0VtIYiDYVA4q6ry0NUk",
+      "id" : "4ly0VtIYiDYVA4q6ry0NUk",
+      "name" : "Redlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ly0VtIYiDYVA4q6ry0NUk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 289000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL1801245"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ncvJDNQQQweqMjIVOLXyP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ncvJDNQQQweqMjIVOLXyP",
+    "id" : "0ncvJDNQQQweqMjIVOLXyP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ultra Hype",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d23a60e602a482f4a58ae0f71ceee3e22bfbdb92?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0ncvJDNQQQweqMjIVOLXyP"
+  } ]
+}

@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=XIJARO+&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4811
+      },
+      "genres" : [ "dutch trance" ],
+      "href" : "https://api.spotify.com/v1/artists/0CcmU1Eun8Nwb3VlOAeJUK",
+      "id" : "0CcmU1Eun8Nwb3VlOAeJUK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb14260b701b7223a828c1434",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b14260b701b7223a828c1434",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b14260b701b7223a828c1434",
+        "width" : 160
+      } ],
+      "name" : "XiJaro & Pitch",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:0CcmU1Eun8Nwb3VlOAeJUK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1QQ8LbSU8JZ5IShobosArd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1QQ8LbSU8JZ5IShobosArd",
+      "id" : "1QQ8LbSU8JZ5IShobosArd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273affcfe55026bf9f4e5dced98",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02affcfe55026bf9f4e5dced98",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851affcfe55026bf9f4e5dced98",
+        "width" : 64
+      } ],
+      "name" : "XiJaro",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:1QQ8LbSU8JZ5IShobosArd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/229nJa8eYQASq6F8K3arCr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/229nJa8eYQASq6F8K3arCr",
+      "id" : "229nJa8eYQASq6F8K3arCr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d00984961dee8c4d4b590a0b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d00984961dee8c4d4b590a0b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d00984961dee8c4d4b590a0b",
+        "width" : 64
+      } ],
+      "name" : "Xijaro",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:229nJa8eYQASq6F8K3arCr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7AimcCtW1cztZSL4wh9Whs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7AimcCtW1cztZSL4wh9Whs",
+      "id" : "7AimcCtW1cztZSL4wh9Whs",
+      "images" : [ ],
+      "name" : "XiJaro Pitch",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7AimcCtW1cztZSL4wh9Whs"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

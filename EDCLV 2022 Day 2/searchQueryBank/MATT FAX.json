@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=MATT+FAX&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19697
+      },
+      "genres" : [ "edm", "progressive house", "progressive trance" ],
+      "href" : "https://api.spotify.com/v1/artists/1XgI1X3xjXCKRP1ZjhqgkV",
+      "id" : "1XgI1X3xjXCKRP1ZjhqgkV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb299fe340aaa93f3984e027a8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174299fe340aaa93f3984e027a8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178299fe340aaa93f3984e027a8",
+        "width" : 160
+      } ],
+      "name" : "Matt Fax",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:1XgI1X3xjXCKRP1ZjhqgkV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pQZz4RgENxuJj74P1InJ2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5pQZz4RgENxuJj74P1InJ2",
+      "id" : "5pQZz4RgENxuJj74P1InJ2",
+      "images" : [ ],
+      "name" : "Matt Fax pres. Matters",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5pQZz4RgENxuJj74P1InJ2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2N7mIfmas8VTToFU2ktQd5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2N7mIfmas8VTToFU2ktQd5",
+      "id" : "2N7mIfmas8VTToFU2ktQd5",
+      "images" : [ ],
+      "name" : "PRAANA x Matt Fax",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2N7mIfmas8VTToFU2ktQd5"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

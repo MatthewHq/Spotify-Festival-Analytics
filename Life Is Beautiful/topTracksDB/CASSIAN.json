@@ -1,0 +1,916 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+        "id" : "4csQIMQm6vI2A2SCVDuM2z",
+        "name" : "Hayden James",
+        "type" : "artist",
+        "uri" : "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+        "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+        "name" : "Cassian",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2vf4pRsEY6LpL5tKmqWb64",
+        "id" : "2vf4pRsEY6LpL5tKmqWb64",
+        "name" : "Elderbrook",
+        "type" : "artist",
+        "uri" : "spotify:artist:2vf4pRsEY6LpL5tKmqWb64"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7pVugOs4vuWCPSBI0OIFOD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7pVugOs4vuWCPSBI0OIFOD",
+      "id" : "7pVugOs4vuWCPSBI0OIFOD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ff2a9bb3f63ea1effc87dccf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ff2a9bb3f63ea1effc87dccf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ff2a9bb3f63ea1effc87dccf",
+        "width" : 64
+      } ],
+      "name" : "On Your Own (feat. Elderbrook)",
+      "release_date" : "2022-03-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7pVugOs4vuWCPSBI0OIFOD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4csQIMQm6vI2A2SCVDuM2z",
+      "id" : "4csQIMQm6vI2A2SCVDuM2z",
+      "name" : "Hayden James",
+      "type" : "artist",
+      "uri" : "spotify:artist:4csQIMQm6vI2A2SCVDuM2z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2vf4pRsEY6LpL5tKmqWb64",
+      "id" : "2vf4pRsEY6LpL5tKmqWb64",
+      "name" : "Elderbrook",
+      "type" : "artist",
+      "uri" : "spotify:artist:2vf4pRsEY6LpL5tKmqWb64"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 223991,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF02200025"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6LJsVZlhPAvrALPYka3xXz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6LJsVZlhPAvrALPYka3xXz",
+    "id" : "6LJsVZlhPAvrALPYka3xXz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "On Your Own (feat. Elderbrook)",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d739bc9abdd227169616fa65b24c2ec03149cd4d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6LJsVZlhPAvrALPYka3xXz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60yfafz0P3gqaUaOUIddae",
+        "id" : "60yfafz0P3gqaUaOUIddae",
+        "name" : "BRONSON",
+        "type" : "artist",
+        "uri" : "spotify:artist:60yfafz0P3gqaUaOUIddae"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+        "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+        "name" : "Cassian",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7mHmeFtsjrQ1BZT6d0OruX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7mHmeFtsjrQ1BZT6d0OruX",
+      "id" : "7mHmeFtsjrQ1BZT6d0OruX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734fbed9fde9cbcce4e84574e1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024fbed9fde9cbcce4e84574e1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514fbed9fde9cbcce4e84574e1",
+        "width" : 64
+      } ],
+      "name" : "KNOW ME (Cassian Remix)",
+      "release_date" : "2020-09-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7mHmeFtsjrQ1BZT6d0OruX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60yfafz0P3gqaUaOUIddae",
+      "id" : "60yfafz0P3gqaUaOUIddae",
+      "name" : "BRONSON",
+      "type" : "artist",
+      "uri" : "spotify:artist:60yfafz0P3gqaUaOUIddae"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7wFDo161xYdeaiLz3KIHoM",
+      "id" : "7wFDo161xYdeaiLz3KIHoM",
+      "name" : "Gallant",
+      "type" : "artist",
+      "uri" : "spotify:artist:7wFDo161xYdeaiLz3KIHoM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21mKp7DqtSNHhCAU2ugvUw",
+      "id" : "21mKp7DqtSNHhCAU2ugvUw",
+      "name" : "ODESZA",
+      "type" : "artist",
+      "uri" : "spotify:artist:21mKp7DqtSNHhCAU2ugvUw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2SrWifjYv7b5tR8EzEmn1x",
+      "id" : "2SrWifjYv7b5tR8EzEmn1x",
+      "name" : "Golden Features",
+      "type" : "artist",
+      "uri" : "spotify:artist:2SrWifjYv7b5tR8EzEmn1x"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 313013,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2000460"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2F0ZLn3nqS6z9hD27qiDgX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2F0ZLn3nqS6z9hD27qiDgX",
+    "id" : "2F0ZLn3nqS6z9hD27qiDgX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "KNOW ME (feat. Gallant) - Cassian Remix",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4874df4eadea082752c731ff686be5f46d062e77?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2F0ZLn3nqS6z9hD27qiDgX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+        "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+        "name" : "Cassian",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/23cXth9V9ESBUwGlA5ESXM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/23cXth9V9ESBUwGlA5ESXM",
+      "id" : "23cXth9V9ESBUwGlA5ESXM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d704a271a7a6d4eeebb52c9f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d704a271a7a6d4eeebb52c9f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d704a271a7a6d4eeebb52c9f",
+        "width" : 64
+      } ],
+      "name" : "Laps",
+      "release_date" : "2020-06-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:23cXth9V9ESBUwGlA5ESXM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0R3pc6Lw83AAoBRBnOALxL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0R3pc6Lw83AAoBRBnOALxL",
+      "id" : "0R3pc6Lw83AAoBRBnOALxL",
+      "name" : "ZOLLY",
+      "type" : "artist",
+      "uri" : "spotify:artist:0R3pc6Lw83AAoBRBnOALxL"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 225280,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM7281948602"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4DdD88ps8wnB4pHqMDgQnk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4DdD88ps8wnB4pHqMDgQnk",
+    "id" : "4DdD88ps8wnB4pHqMDgQnk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Magical",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9374acce8511b92924122ef68ff5001d969cc4b1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4DdD88ps8wnB4pHqMDgQnk"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+        "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+        "name" : "Cassian",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0R3pc6Lw83AAoBRBnOALxL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0R3pc6Lw83AAoBRBnOALxL",
+        "id" : "0R3pc6Lw83AAoBRBnOALxL",
+        "name" : "ZOLLY",
+        "type" : "artist",
+        "uri" : "spotify:artist:0R3pc6Lw83AAoBRBnOALxL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4yl9IAVuMNLZpkpmfB6umT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4yl9IAVuMNLZpkpmfB6umT",
+      "id" : "4yl9IAVuMNLZpkpmfB6umT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734198807e6bfa00a3e2a71881",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024198807e6bfa00a3e2a71881",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514198807e6bfa00a3e2a71881",
+        "width" : 64
+      } ],
+      "name" : "Magical (Vintage Culture Remix)",
+      "release_date" : "2020-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4yl9IAVuMNLZpkpmfB6umT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0R3pc6Lw83AAoBRBnOALxL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0R3pc6Lw83AAoBRBnOALxL",
+      "id" : "0R3pc6Lw83AAoBRBnOALxL",
+      "name" : "ZOLLY",
+      "type" : "artist",
+      "uri" : "spotify:artist:0R3pc6Lw83AAoBRBnOALxL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214354,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMBZ92048802"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ua3pjS2TabUkOwpJTKkIb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ua3pjS2TabUkOwpJTKkIb",
+    "id" : "4ua3pjS2TabUkOwpJTKkIb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Magical (feat. ZOLLY) - Vintage Culture Remix",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d1294cf58371c08f781822c2ca84c1175044f064?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4ua3pjS2TabUkOwpJTKkIb"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5Dyfxq0ZrFjjeFBdSNxDbo",
+        "id" : "5Dyfxq0ZrFjjeFBdSNxDbo",
+        "name" : "Yotto",
+        "type" : "artist",
+        "uri" : "spotify:artist:5Dyfxq0ZrFjjeFBdSNxDbo"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+        "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+        "name" : "Cassian",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7mDi1BM9wnm55QUTedTelk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7mDi1BM9wnm55QUTedTelk",
+      "id" : "7mDi1BM9wnm55QUTedTelk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273605066c8f7cfae9d39237f4e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02605066c8f7cfae9d39237f4e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851605066c8f7cfae9d39237f4e",
+        "width" : 64
+      } ],
+      "name" : "Rogue",
+      "release_date" : "2020-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:7mDi1BM9wnm55QUTedTelk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Dyfxq0ZrFjjeFBdSNxDbo",
+      "id" : "5Dyfxq0ZrFjjeFBdSNxDbo",
+      "name" : "Yotto",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Dyfxq0ZrFjjeFBdSNxDbo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 284618,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL2030192"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/65kSgWVGY4JIWNLWnfEwbe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/65kSgWVGY4JIWNLWnfEwbe",
+    "id" : "65kSgWVGY4JIWNLWnfEwbe",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Grains",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/efa12cb84fe368ce0317bbd24bed7da9943de2c9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:65kSgWVGY4JIWNLWnfEwbe"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0xRXCcSX89eobfrshSVdyu",
+        "id" : "0xRXCcSX89eobfrshSVdyu",
+        "name" : "MEDUZA",
+        "type" : "artist",
+        "uri" : "spotify:artist:0xRXCcSX89eobfrshSVdyu"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+        "id" : "5KNNVgR6LBIABRIomyCwKJ",
+        "name" : "Dermot Kennedy",
+        "type" : "artist",
+        "uri" : "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+        "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+        "name" : "Cassian",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KRoRsc8dnYzmyXlSoq0qD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KRoRsc8dnYzmyXlSoq0qD",
+      "id" : "2KRoRsc8dnYzmyXlSoq0qD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27360fbea30c83ceec97da9045b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0260fbea30c83ceec97da9045b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485160fbea30c83ceec97da9045b",
+        "width" : 64
+      } ],
+      "name" : "Paradise (Cassian Remix)",
+      "release_date" : "2020-11-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2KRoRsc8dnYzmyXlSoq0qD"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0xRXCcSX89eobfrshSVdyu",
+      "id" : "0xRXCcSX89eobfrshSVdyu",
+      "name" : "MEDUZA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0xRXCcSX89eobfrshSVdyu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5KNNVgR6LBIABRIomyCwKJ",
+      "id" : "5KNNVgR6LBIABRIomyCwKJ",
+      "name" : "Dermot Kennedy",
+      "type" : "artist",
+      "uri" : "spotify:artist:5KNNVgR6LBIABRIomyCwKJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 252290,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72006290"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7nL8e8YNagE3WI3YCrUrf0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7nL8e8YNagE3WI3YCrUrf0",
+    "id" : "7nL8e8YNagE3WI3YCrUrf0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Paradise - Cassian Remix",
+    "popularity" : 47,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7nL8e8YNagE3WI3YCrUrf0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+        "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+        "name" : "Cassian",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/23cXth9V9ESBUwGlA5ESXM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/23cXth9V9ESBUwGlA5ESXM",
+      "id" : "23cXth9V9ESBUwGlA5ESXM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d704a271a7a6d4eeebb52c9f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d704a271a7a6d4eeebb52c9f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d704a271a7a6d4eeebb52c9f",
+        "width" : 64
+      } ],
+      "name" : "Laps",
+      "release_date" : "2020-06-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:23cXth9V9ESBUwGlA5ESXM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7efkoQb7dW8884GCnykYKW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7efkoQb7dW8884GCnykYKW",
+      "id" : "7efkoQb7dW8884GCnykYKW",
+      "name" : "Gabrielle Current",
+      "type" : "artist",
+      "uri" : "spotify:artist:7efkoQb7dW8884GCnykYKW"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 234186,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM4TW1939700"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0QKaCqUAasAZJfGhPbdZeS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0QKaCqUAasAZJfGhPbdZeS",
+    "id" : "0QKaCqUAasAZJfGhPbdZeS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Same Things",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9cccf42daffd9a69d93c5dc4ffef8b7b08cf7c11?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0QKaCqUAasAZJfGhPbdZeS"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+        "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+        "name" : "Cassian",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1L402npFUkDjycTSjPKXZa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1L402npFUkDjycTSjPKXZa",
+      "id" : "1L402npFUkDjycTSjPKXZa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730845b89c33ee6f15069ee83d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020845b89c33ee6f15069ee83d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510845b89c33ee6f15069ee83d",
+        "width" : 64
+      } ],
+      "name" : "Last Thought (feat. MKLA) [Cassian Remix]",
+      "release_date" : "2022-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:1L402npFUkDjycTSjPKXZa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57Vnemieu10x71jR2UWc4o",
+      "id" : "57Vnemieu10x71jR2UWc4o",
+      "name" : "MKLA",
+      "type" : "artist",
+      "uri" : "spotify:artist:57Vnemieu10x71jR2UWc4o"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 308000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2220548"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2FElBmO0aX7z0o16ZXCfGZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2FElBmO0aX7z0o16ZXCfGZ",
+    "id" : "2FElBmO0aX7z0o16ZXCfGZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Last Thought (feat. MKLA) - Cassian Remix",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6b560ed7df6ed72c5a88990fefc934e0b9e3bfb9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2FElBmO0aX7z0o16ZXCfGZ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+        "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+        "name" : "Cassian",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4p7WoeGqFYXez7aLcuy18s"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4p7WoeGqFYXez7aLcuy18s",
+      "id" : "4p7WoeGqFYXez7aLcuy18s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738eeee9d9049b707fa84558b3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028eeee9d9049b707fa84558b3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518eeee9d9049b707fa84558b3",
+        "width" : 64
+      } ],
+      "name" : "Know U Well",
+      "release_date" : "2017-12-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4p7WoeGqFYXez7aLcuy18s"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 301072,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL1794965"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/20nDYyRNL4u5Kukzy1pL6z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/20nDYyRNL4u5Kukzy1pL6z",
+    "id" : "20nDYyRNL4u5Kukzy1pL6z",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Know U Well",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/11359be446d25f6ea7ba89a0e2181fb6405df6ca?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:20nDYyRNL4u5Kukzy1pL6z"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6LHsnRBUYhFyt01PdKXAF5",
+        "id" : "6LHsnRBUYhFyt01PdKXAF5",
+        "name" : "Bob Moses",
+        "type" : "artist",
+        "uri" : "spotify:artist:6LHsnRBUYhFyt01PdKXAF5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1rVRWqock6arU9LRN0jHgK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1rVRWqock6arU9LRN0jHgK",
+      "id" : "1rVRWqock6arU9LRN0jHgK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273801f6da1a2b202e92ac896aa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02801f6da1a2b202e92ac896aa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851801f6da1a2b202e92ac896aa",
+        "width" : 64
+      } ],
+      "name" : "Battle Lines [Remixed]",
+      "release_date" : "2019-09-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1rVRWqock6arU9LRN0jHgK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6LHsnRBUYhFyt01PdKXAF5",
+      "id" : "6LHsnRBUYhFyt01PdKXAF5",
+      "name" : "Bob Moses",
+      "type" : "artist",
+      "uri" : "spotify:artist:6LHsnRBUYhFyt01PdKXAF5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ChtRJ3f4rbv4vtz87i6CD",
+      "id" : "1ChtRJ3f4rbv4vtz87i6CD",
+      "name" : "Cassian",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 278082,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCEL1900348"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7BOQEVXrxhHUpR0RJBm4t1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7BOQEVXrxhHUpR0RJBm4t1",
+    "id" : "7BOQEVXrxhHUpR0RJBm4t1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Listen To Me - Cassian Remix",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5a75e5ab4ab361e72f7260ad8f70d99fd4699f92?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7BOQEVXrxhHUpR0RJBm4t1"
+  } ]
+}

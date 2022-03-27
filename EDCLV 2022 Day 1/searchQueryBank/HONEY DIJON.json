@@ -1,0 +1,127 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=HONEY+DIJON&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 76284
+      },
+      "genres" : [ "deep house", "disco house", "vocal house" ],
+      "href" : "https://api.spotify.com/v1/artists/0XfQBWgzisaS9ltDV9bXAS",
+      "id" : "0XfQBWgzisaS9ltDV9bXAS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9ecd978962fbf65f6165318e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749ecd978962fbf65f6165318e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789ecd978962fbf65f6165318e",
+        "width" : 160
+      } ],
+      "name" : "Honey Dijon",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:0XfQBWgzisaS9ltDV9bXAS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0rbitX9knHAQ76hY9O4a4H"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 325
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0rbitX9knHAQ76hY9O4a4H",
+      "id" : "0rbitX9knHAQ76hY9O4a4H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732bd232ddf8a8097050bbb3d8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022bd232ddf8a8097050bbb3d8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512bd232ddf8a8097050bbb3d8",
+        "width" : 64
+      } ],
+      "name" : "Miss Honey Dijon",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0rbitX9knHAQ76hY9O4a4H"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DGBd9aKBBNbI0OtwiENSa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4DGBd9aKBBNbI0OtwiENSa",
+      "id" : "4DGBd9aKBBNbI0OtwiENSa",
+      "images" : [ ],
+      "name" : "Honey Dijon",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4DGBd9aKBBNbI0OtwiENSa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4RioWt9PP049Q6Me0940gj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4RioWt9PP049Q6Me0940gj",
+      "id" : "4RioWt9PP049Q6Me0940gj",
+      "images" : [ ],
+      "name" : "Argy & Honey Dijon",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4RioWt9PP049Q6Me0940gj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jGejkYhx0lpA0frEnT1yV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5jGejkYhx0lpA0frEnT1yV",
+      "id" : "5jGejkYhx0lpA0frEnT1yV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730471f3972d6d6d664321ee46",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020471f3972d6d6d664321ee46",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510471f3972d6d6d664321ee46",
+        "width" : 64
+      } ],
+      "name" : "Honey Dijon Feat Tom Stephan",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5jGejkYhx0lpA0frEnT1yV"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5
+  }
+}

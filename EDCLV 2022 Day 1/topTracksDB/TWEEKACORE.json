@@ -1,0 +1,970 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+        "id" : "2gZzTzeACSwFqkMroVxmnm",
+        "name" : "Darren Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0sESxrO3UuQaknGbiuJ7tB",
+        "id" : "0sESxrO3UuQaknGbiuJ7tB",
+        "name" : "Giin",
+        "type" : "artist",
+        "uri" : "spotify:artist:0sESxrO3UuQaknGbiuJ7tB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3aZ9Uh2RXJrnRscQ6rCJ5F"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3aZ9Uh2RXJrnRscQ6rCJ5F",
+      "id" : "3aZ9Uh2RXJrnRscQ6rCJ5F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bb28d1d66ab39f517100234a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bb28d1d66ab39f517100234a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bb28d1d66ab39f517100234a",
+        "width" : 64
+      } ],
+      "name" : "Crash & Burn",
+      "release_date" : "2018-11-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3aZ9Uh2RXJrnRscQ6rCJ5F"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+      "id" : "2gZzTzeACSwFqkMroVxmnm",
+      "name" : "Darren Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0sESxrO3UuQaknGbiuJ7tB",
+      "id" : "0sESxrO3UuQaknGbiuJ7tB",
+      "name" : "Giin",
+      "type" : "artist",
+      "uri" : "spotify:artist:0sESxrO3UuQaknGbiuJ7tB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 228800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681800328"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4HaMXBKZa59l6MnyhLK6Bw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4HaMXBKZa59l6MnyhLK6Bw",
+    "id" : "4HaMXBKZa59l6MnyhLK6Bw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crash & Burn",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a298b81b126ce42d3139f3ab8bc4b52329e5928?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4HaMXBKZa59l6MnyhLK6Bw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+        "id" : "2gZzTzeACSwFqkMroVxmnm",
+        "name" : "Darren Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6UOk7DmvqlzWmo6gjhZvn6",
+        "id" : "6UOk7DmvqlzWmo6gjhZvn6",
+        "name" : "Da Tweekaz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3qhSAX8IauVt0Cv7OEQMxo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3qhSAX8IauVt0Cv7OEQMxo",
+      "id" : "3qhSAX8IauVt0Cv7OEQMxo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e237227da09442dadfa7893c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e237227da09442dadfa7893c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e237227da09442dadfa7893c",
+        "width" : 64
+      } ],
+      "name" : "Without You",
+      "release_date" : "2021-09-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3qhSAX8IauVt0Cv7OEQMxo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+      "id" : "2gZzTzeACSwFqkMroVxmnm",
+      "name" : "Darren Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UOk7DmvqlzWmo6gjhZvn6",
+      "id" : "6UOk7DmvqlzWmo6gjhZvn6",
+      "name" : "Da Tweekaz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 208206,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB682100336"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Agy415CNutveJfPCEz0wV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Agy415CNutveJfPCEz0wV",
+    "id" : "4Agy415CNutveJfPCEz0wV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Without You",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/71a14a481a4410989bdb8716002ba3262c631b26?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Agy415CNutveJfPCEz0wV"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5nd7jnne7zbsV2J5jBKNOY",
+        "id" : "5nd7jnne7zbsV2J5jBKNOY",
+        "name" : "Gammer",
+        "type" : "artist",
+        "uri" : "spotify:artist:5nd7jnne7zbsV2J5jBKNOY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6UOk7DmvqlzWmo6gjhZvn6",
+        "id" : "6UOk7DmvqlzWmo6gjhZvn6",
+        "name" : "Da Tweekaz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5XJq7JAocBBmOtzY4GNqx3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5XJq7JAocBBmOtzY4GNqx3",
+      "id" : "5XJq7JAocBBmOtzY4GNqx3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fd1b18265165d6bcf514244",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fd1b18265165d6bcf514244",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fd1b18265165d6bcf514244",
+        "width" : 64
+      } ],
+      "name" : "Lose You",
+      "release_date" : "2021-07-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5XJq7JAocBBmOtzY4GNqx3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5nd7jnne7zbsV2J5jBKNOY",
+      "id" : "5nd7jnne7zbsV2J5jBKNOY",
+      "name" : "Gammer",
+      "type" : "artist",
+      "uri" : "spotify:artist:5nd7jnne7zbsV2J5jBKNOY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UOk7DmvqlzWmo6gjhZvn6",
+      "id" : "6UOk7DmvqlzWmo6gjhZvn6",
+      "name" : "Da Tweekaz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 176303,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB682100253"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4RWYlRUY38uyft6SWGcXpA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4RWYlRUY38uyft6SWGcXpA",
+    "id" : "4RWYlRUY38uyft6SWGcXpA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lose You",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cfa0b0ba125e816c980a5f9e1550ee5a21958f34?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4RWYlRUY38uyft6SWGcXpA"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+        "id" : "2gZzTzeACSwFqkMroVxmnm",
+        "name" : "Darren Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5TIxZdnwGSdShFys0L7FFm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5TIxZdnwGSdShFys0L7FFm",
+      "id" : "5TIxZdnwGSdShFys0L7FFm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273012f296e66b5fd11896aed0c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02012f296e66b5fd11896aed0c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851012f296e66b5fd11896aed0c",
+        "width" : 64
+      } ],
+      "name" : "Shady People",
+      "release_date" : "2019-05-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5TIxZdnwGSdShFys0L7FFm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+      "id" : "2gZzTzeACSwFqkMroVxmnm",
+      "name" : "Darren Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 194520,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681900162"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/21WeEP1WFMO0wIzQRVzVd8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/21WeEP1WFMO0wIzQRVzVd8",
+    "id" : "21WeEP1WFMO0wIzQRVzVd8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Shady People",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2be730cfd0f392104e948cfc21ee3bae57404a81?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:21WeEP1WFMO0wIzQRVzVd8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0sbkGGlLYmgOzcxRqd257O",
+        "id" : "0sbkGGlLYmgOzcxRqd257O",
+        "name" : "Emelie Cyréus",
+        "type" : "artist",
+        "uri" : "spotify:artist:0sbkGGlLYmgOzcxRqd257O"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2af2Qeg7hl0PK3hyxmjvEo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2af2Qeg7hl0PK3hyxmjvEo",
+      "id" : "2af2Qeg7hl0PK3hyxmjvEo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27317a96a0f442f1d8a193fdc13",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0217a96a0f442f1d8a193fdc13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485117a96a0f442f1d8a193fdc13",
+        "width" : 64
+      } ],
+      "name" : "Parallel Universe",
+      "release_date" : "2019-02-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2af2Qeg7hl0PK3hyxmjvEo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0sbkGGlLYmgOzcxRqd257O",
+      "id" : "0sbkGGlLYmgOzcxRqd257O",
+      "name" : "Emelie Cyréus",
+      "type" : "artist",
+      "uri" : "spotify:artist:0sbkGGlLYmgOzcxRqd257O"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 203156,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681900050"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7hZhzZXzs9EWGa7T2VLL0P"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7hZhzZXzs9EWGa7T2VLL0P",
+    "id" : "7hZhzZXzs9EWGa7T2VLL0P",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Parallel Universe",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4d804f3b7da7646ad7ca96f6cad5b7fdac44e5a4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7hZhzZXzs9EWGa7T2VLL0P"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+        "id" : "2gZzTzeACSwFqkMroVxmnm",
+        "name" : "Darren Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6LqbqytivZzg84tnyJUvKl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6LqbqytivZzg84tnyJUvKl",
+      "id" : "6LqbqytivZzg84tnyJUvKl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736bc3e4109b4f3aeefa92c405",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026bc3e4109b4f3aeefa92c405",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516bc3e4109b4f3aeefa92c405",
+        "width" : 64
+      } ],
+      "name" : "Down With The E",
+      "release_date" : "2018-10-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6LqbqytivZzg84tnyJUvKl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+      "id" : "2gZzTzeACSwFqkMroVxmnm",
+      "name" : "Darren Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212060,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681800323"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/59KMFjiNWE8y8rKBD63JA4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/59KMFjiNWE8y8rKBD63JA4",
+    "id" : "59KMFjiNWE8y8rKBD63JA4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Down With The E",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5e6a38cefe3ea96effaa98e193d991006d577d42?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:59KMFjiNWE8y8rKBD63JA4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+        "id" : "2gZzTzeACSwFqkMroVxmnm",
+        "name" : "Darren Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6UOk7DmvqlzWmo6gjhZvn6",
+        "id" : "6UOk7DmvqlzWmo6gjhZvn6",
+        "name" : "Da Tweekaz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6mopvAYLvqEVeWaGoSpJAz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6mopvAYLvqEVeWaGoSpJAz",
+      "id" : "6mopvAYLvqEVeWaGoSpJAz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ec35dd5ee13707ba5c1bac61",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ec35dd5ee13707ba5c1bac61",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ec35dd5ee13707ba5c1bac61",
+        "width" : 64
+      } ],
+      "name" : "Partystarter",
+      "release_date" : "2018-02-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6mopvAYLvqEVeWaGoSpJAz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+      "id" : "2gZzTzeACSwFqkMroVxmnm",
+      "name" : "Darren Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UOk7DmvqlzWmo6gjhZvn6",
+      "id" : "6UOk7DmvqlzWmo6gjhZvn6",
+      "name" : "Da Tweekaz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209743,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681800065"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7EI0PS5RXjsZVRakn4dtsf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7EI0PS5RXjsZVRakn4dtsf",
+    "id" : "7EI0PS5RXjsZVRakn4dtsf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Partystarter (Da Tweekaz Mix)",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b313b229c48024ff4309fe940d36efb65a0b9573?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7EI0PS5RXjsZVRakn4dtsf"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6UOk7DmvqlzWmo6gjhZvn6",
+        "id" : "6UOk7DmvqlzWmo6gjhZvn6",
+        "name" : "Da Tweekaz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1GTDdWYNvFLcSJa5t6QOM7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1GTDdWYNvFLcSJa5t6QOM7",
+      "id" : "1GTDdWYNvFLcSJa5t6QOM7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730ce15d22f2d0d02fef1955e6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020ce15d22f2d0d02fef1955e6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510ce15d22f2d0d02fef1955e6",
+        "width" : 64
+      } ],
+      "name" : "Circle Of Life",
+      "release_date" : "2019-07-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1GTDdWYNvFLcSJa5t6QOM7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UOk7DmvqlzWmo6gjhZvn6",
+      "id" : "6UOk7DmvqlzWmo6gjhZvn6",
+      "name" : "Da Tweekaz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F1UBU7ZD8HOR44X5M6eMT",
+      "id" : "0F1UBU7ZD8HOR44X5M6eMT",
+      "name" : "David Spekter",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F1UBU7ZD8HOR44X5M6eMT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 343573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681900237"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3EVKUAT7IY1SZRIiCJmhSu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3EVKUAT7IY1SZRIiCJmhSu",
+    "id" : "3EVKUAT7IY1SZRIiCJmhSu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Circle Of Life",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3e472433ae414a7e43f69166f486dcc7ecf10ad1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3EVKUAT7IY1SZRIiCJmhSu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45mQUJrPyctvf2IhkVE0ym",
+        "id" : "45mQUJrPyctvf2IhkVE0ym",
+        "name" : "Technikore",
+        "type" : "artist",
+        "uri" : "spotify:artist:45mQUJrPyctvf2IhkVE0ym"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1BpCQRsYuiRg1TXKR2SQe1",
+        "id" : "1BpCQRsYuiRg1TXKR2SQe1",
+        "name" : "Refuzion",
+        "type" : "artist",
+        "uri" : "spotify:artist:1BpCQRsYuiRg1TXKR2SQe1"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0tfGVXSxEdagSOCBV76s0O"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0tfGVXSxEdagSOCBV76s0O",
+      "id" : "0tfGVXSxEdagSOCBV76s0O",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733b978ad957490be6bc75b7a3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023b978ad957490be6bc75b7a3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513b978ad957490be6bc75b7a3",
+        "width" : 64
+      } ],
+      "name" : "Find The Spark",
+      "release_date" : "2019-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0tfGVXSxEdagSOCBV76s0O"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45mQUJrPyctvf2IhkVE0ym",
+      "id" : "45mQUJrPyctvf2IhkVE0ym",
+      "name" : "Technikore",
+      "type" : "artist",
+      "uri" : "spotify:artist:45mQUJrPyctvf2IhkVE0ym"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 233599,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681900420"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2wqK5fUOUaRTuzTcI4KKqw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2wqK5fUOUaRTuzTcI4KKqw",
+    "id" : "2wqK5fUOUaRTuzTcI4KKqw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Find The Spark",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/90cdbbfd1c2421c822d526680cf866e22075e0d3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2wqK5fUOUaRTuzTcI4KKqw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+        "id" : "6g7nQh1zK0QGZVphaMCGWj",
+        "name" : "Tweekacore",
+        "type" : "artist",
+        "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+        "id" : "2gZzTzeACSwFqkMroVxmnm",
+        "name" : "Darren Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45mQUJrPyctvf2IhkVE0ym",
+        "id" : "45mQUJrPyctvf2IhkVE0ym",
+        "name" : "Technikore",
+        "type" : "artist",
+        "uri" : "spotify:artist:45mQUJrPyctvf2IhkVE0ym"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/02Cfv1XwxFKRfMSEqWggM5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/02Cfv1XwxFKRfMSEqWggM5",
+      "id" : "02Cfv1XwxFKRfMSEqWggM5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27313e8b381844d1ce44ad9e7e8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0213e8b381844d1ce44ad9e7e8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485113e8b381844d1ce44ad9e7e8",
+        "width" : 64
+      } ],
+      "name" : "Crash & Burn (Technikore Remix)",
+      "release_date" : "2020-05-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:02Cfv1XwxFKRfMSEqWggM5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g7nQh1zK0QGZVphaMCGWj",
+      "id" : "6g7nQh1zK0QGZVphaMCGWj",
+      "name" : "Tweekacore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g7nQh1zK0QGZVphaMCGWj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+      "id" : "2gZzTzeACSwFqkMroVxmnm",
+      "name" : "Darren Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0sESxrO3UuQaknGbiuJ7tB",
+      "id" : "0sESxrO3UuQaknGbiuJ7tB",
+      "name" : "Giin",
+      "type" : "artist",
+      "uri" : "spotify:artist:0sESxrO3UuQaknGbiuJ7tB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45mQUJrPyctvf2IhkVE0ym",
+      "id" : "45mQUJrPyctvf2IhkVE0ym",
+      "name" : "Technikore",
+      "type" : "artist",
+      "uri" : "spotify:artist:45mQUJrPyctvf2IhkVE0ym"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 223547,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB682000142"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1wJ2HKnLMpPZCpEpP630Jy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1wJ2HKnLMpPZCpEpP630Jy",
+    "id" : "1wJ2HKnLMpPZCpEpP630Jy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crash & Burn (Technikore Remix)",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4b991e0f3751db24d1870572ca209f779b27c61d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1wJ2HKnLMpPZCpEpP630Jy"
+  } ]
+}

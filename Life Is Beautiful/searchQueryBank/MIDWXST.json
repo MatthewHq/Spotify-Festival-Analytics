@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=MIDWXST&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 67286
+      },
+      "genres" : [ "glitchcore", "hyperpop", "proto-hyperpop", "vapor trap" ],
+      "href" : "https://api.spotify.com/v1/artists/7CGSp2GbiOpLPSq61qjxf8",
+      "id" : "7CGSp2GbiOpLPSq61qjxf8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb3161a1ba8b784d3d0207873",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b3161a1ba8b784d3d0207873",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b3161a1ba8b784d3d0207873",
+        "width" : 160
+      } ],
+      "name" : "midwxst",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:7CGSp2GbiOpLPSq61qjxf8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HukomgMKzh0TR5bmzDBwG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6HukomgMKzh0TR5bmzDBwG",
+      "id" : "6HukomgMKzh0TR5bmzDBwG",
+      "images" : [ ],
+      "name" : "midwxst",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:6HukomgMKzh0TR5bmzDBwG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nbVbJ8yihun9YqhiSkO5Q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6nbVbJ8yihun9YqhiSkO5Q",
+      "id" : "6nbVbJ8yihun9YqhiSkO5Q",
+      "images" : [ ],
+      "name" : "Midwxst",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6nbVbJ8yihun9YqhiSkO5Q"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

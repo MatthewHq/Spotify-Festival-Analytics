@@ -1,0 +1,772 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3b7KMI96oGOeQEoXhe4iBK",
+        "id" : "3b7KMI96oGOeQEoXhe4iBK",
+        "name" : "Algo",
+        "type" : "artist",
+        "uri" : "spotify:artist:3b7KMI96oGOeQEoXhe4iBK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3I549AvPzDfWUItpvHSid4",
+      "id" : "3I549AvPzDfWUItpvHSid4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab32729556e75beff5d39ca1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab32729556e75beff5d39ca1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab32729556e75beff5d39ca1",
+        "width" : 64
+      } ],
+      "name" : "Licked",
+      "release_date" : "2021-10-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3I549AvPzDfWUItpvHSid4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3b7KMI96oGOeQEoXhe4iBK",
+      "id" : "3b7KMI96oGOeQEoXhe4iBK",
+      "name" : "Algo",
+      "type" : "artist",
+      "uri" : "spotify:artist:3b7KMI96oGOeQEoXhe4iBK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 318720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM82100362"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3jncEfaHJl2BMGjwk2POgn",
+    "id" : "3jncEfaHJl2BMGjwk2POgn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "G Spot",
+    "popularity" : 49,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3jncEfaHJl2BMGjwk2POgn"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1cNpMm9NSchdIe9RdGA1MC",
+        "id" : "1cNpMm9NSchdIe9RdGA1MC",
+        "name" : "Capozzi",
+        "type" : "artist",
+        "uri" : "spotify:artist:1cNpMm9NSchdIe9RdGA1MC"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3FNZcjyqT7F5upP99JV0oN",
+        "id" : "3FNZcjyqT7F5upP99JV0oN",
+        "name" : "Lil Debbie",
+        "type" : "artist",
+        "uri" : "spotify:artist:3FNZcjyqT7F5upP99JV0oN"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jKv7AYAuLxqV2oEX6KtBc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jKv7AYAuLxqV2oEX6KtBc",
+      "id" : "6jKv7AYAuLxqV2oEX6KtBc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273597c615d3e904db219dc3364",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02597c615d3e904db219dc3364",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851597c615d3e904db219dc3364",
+        "width" : 64
+      } ],
+      "name" : "Bright Lights (feat. Lil Debbie)",
+      "release_date" : "2021-01-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6jKv7AYAuLxqV2oEX6KtBc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cNpMm9NSchdIe9RdGA1MC",
+      "id" : "1cNpMm9NSchdIe9RdGA1MC",
+      "name" : "Capozzi",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cNpMm9NSchdIe9RdGA1MC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3FNZcjyqT7F5upP99JV0oN",
+      "id" : "3FNZcjyqT7F5upP99JV0oN",
+      "name" : "Lil Debbie",
+      "type" : "artist",
+      "uri" : "spotify:artist:3FNZcjyqT7F5upP99JV0oN"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 243809,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLD91730423"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5om2GqwzkfrvkzMmMPvmHD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5om2GqwzkfrvkzMmMPvmHD",
+    "id" : "5om2GqwzkfrvkzMmMPvmHD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bright Lights (feat. Lil Debbie)",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/aa415433ade48b30b3b12ae3f9c1bd26e38414bb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5om2GqwzkfrvkzMmMPvmHD"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7kv085rlQmtTnboofEgsqa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7kv085rlQmtTnboofEgsqa",
+      "id" : "7kv085rlQmtTnboofEgsqa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731ecf710222a116f80f4c6d3a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021ecf710222a116f80f4c6d3a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511ecf710222a116f80f4c6d3a",
+        "width" : 64
+      } ],
+      "name" : "Neon Heart EP",
+      "release_date" : "2021-11-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7kv085rlQmtTnboofEgsqa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gwADlaEg3LBoV0rD8f58o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gwADlaEg3LBoV0rD8f58o",
+      "id" : "1gwADlaEg3LBoV0rD8f58o",
+      "name" : "Anthony Sceam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gwADlaEg3LBoV0rD8f58o"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 179527,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLQ8D2101852"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0xTz1Np1goIvPMBSOtQKSH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0xTz1Np1goIvPMBSOtQKSH",
+    "id" : "0xTz1Np1goIvPMBSOtQKSH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Higher",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/924b7417714a7a38c1cd35245a51cd0654e066c0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0xTz1Np1goIvPMBSOtQKSH"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6QGuoWO3XtHOnr5XhbFPED"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6QGuoWO3XtHOnr5XhbFPED",
+      "id" : "6QGuoWO3XtHOnr5XhbFPED",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de96acb0249dbf46e521fba0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de96acb0249dbf46e521fba0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de96acb0249dbf46e521fba0",
+        "width" : 64
+      } ],
+      "name" : "Heartbreak House",
+      "release_date" : "2019-03-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6QGuoWO3XtHOnr5XhbFPED"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/56vrlN1x6FhGq0FVZAWJHr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/56vrlN1x6FhGq0FVZAWJHr",
+      "id" : "56vrlN1x6FhGq0FVZAWJHr",
+      "name" : "Kevin Flum",
+      "type" : "artist",
+      "uri" : "spotify:artist:56vrlN1x6FhGq0FVZAWJHr"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224761,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1917316"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Qug6wp9WZC4bowUsH5mab"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Qug6wp9WZC4bowUsH5mab",
+    "id" : "3Qug6wp9WZC4bowUsH5mab",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Heartbreak House (feat. Kevin Flum)",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3667aea8ed06fe7cb86e49568cae69d0fd6adce8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3Qug6wp9WZC4bowUsH5mab"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2S7YtjYzLSffVNJzZCy3QT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2S7YtjYzLSffVNJzZCy3QT",
+      "id" : "2S7YtjYzLSffVNJzZCy3QT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27327f2aed5e1a7897aa848d167",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0227f2aed5e1a7897aa848d167",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485127f2aed5e1a7897aa848d167",
+        "width" : 64
+      } ],
+      "name" : "The One",
+      "release_date" : "2021-08-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2S7YtjYzLSffVNJzZCy3QT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240725,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBTDG1302338"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/053ymx0Zn3FUUffRCAqo1C"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/053ymx0Zn3FUUffRCAqo1C",
+    "id" : "053ymx0Zn3FUUffRCAqo1C",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The One",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c55d5a7344d28303effc86aca649c6bc2d3ccc73?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:053ymx0Zn3FUUffRCAqo1C"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2ZZE8SPVWBysGWL1pRDHEy",
+        "id" : "2ZZE8SPVWBysGWL1pRDHEy",
+        "name" : "LeKtriQue",
+        "type" : "artist",
+        "uri" : "spotify:artist:2ZZE8SPVWBysGWL1pRDHEy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QaVW8SMjc5blQdgWsSxXk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QaVW8SMjc5blQdgWsSxXk",
+      "id" : "1QaVW8SMjc5blQdgWsSxXk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273652f8ca1f5595e50a7d5f382",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02652f8ca1f5595e50a7d5f382",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851652f8ca1f5595e50a7d5f382",
+        "width" : 64
+      } ],
+      "name" : "Break (My Heart)",
+      "release_date" : "2020-10-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1QaVW8SMjc5blQdgWsSxXk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ZZE8SPVWBysGWL1pRDHEy",
+      "id" : "2ZZE8SPVWBysGWL1pRDHEy",
+      "name" : "LeKtriQue",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZZE8SPVWBysGWL1pRDHEy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 184777,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2095150"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1kjs6z6gLjcBWvZ71EJNXz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1kjs6z6gLjcBWvZ71EJNXz",
+    "id" : "1kjs6z6gLjcBWvZ71EJNXz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Break (My Heart)",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/68bff35b8c664b9de3db8027ca2dcec834798c20?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1kjs6z6gLjcBWvZ71EJNXz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7kv085rlQmtTnboofEgsqa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7kv085rlQmtTnboofEgsqa",
+      "id" : "7kv085rlQmtTnboofEgsqa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731ecf710222a116f80f4c6d3a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021ecf710222a116f80f4c6d3a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511ecf710222a116f80f4c6d3a",
+        "width" : 64
+      } ],
+      "name" : "Neon Heart EP",
+      "release_date" : "2021-11-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7kv085rlQmtTnboofEgsqa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 154838,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLQ8D2101854"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0JNfVVQWKVnDu2Qxbv2ATG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0JNfVVQWKVnDu2Qxbv2ATG",
+    "id" : "0JNfVVQWKVnDu2Qxbv2ATG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Look My Way",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4871a3481d45250b3d9933fae274d97ffb038f5d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0JNfVVQWKVnDu2Qxbv2ATG"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4oWXLTmzYBSxjM0Rnl68yt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4oWXLTmzYBSxjM0Rnl68yt",
+      "id" : "4oWXLTmzYBSxjM0Rnl68yt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738d8af5a454aa767416d94958",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028d8af5a454aa767416d94958",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518d8af5a454aa767416d94958",
+        "width" : 64
+      } ],
+      "name" : "Actin' Up",
+      "release_date" : "2021-05-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4oWXLTmzYBSxjM0Rnl68yt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 150937,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2163424"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2PNsImhG7mZHq8VpqNYnUk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2PNsImhG7mZHq8VpqNYnUk",
+    "id" : "2PNsImhG7mZHq8VpqNYnUk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Actin' Up",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/95e930150b65d481b7364eb39b330cecb6bddda6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2PNsImhG7mZHq8VpqNYnUk"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3d9cY0mM1KDWnLYKxwaaRZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3d9cY0mM1KDWnLYKxwaaRZ",
+      "id" : "3d9cY0mM1KDWnLYKxwaaRZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e6a47cf3f90078210a625508",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e6a47cf3f90078210a625508",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e6a47cf3f90078210a625508",
+        "width" : 64
+      } ],
+      "name" : "Drop Dead",
+      "release_date" : "2021-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3d9cY0mM1KDWnLYKxwaaRZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ipVTAf9PqCSddkeYtKw9h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7ipVTAf9PqCSddkeYtKw9h",
+      "id" : "7ipVTAf9PqCSddkeYtKw9h",
+      "name" : "Chetta",
+      "type" : "artist",
+      "uri" : "spotify:artist:7ipVTAf9PqCSddkeYtKw9h"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 194400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR2187066"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7LU8kFByYJfI0pcDXlqB2A"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7LU8kFByYJfI0pcDXlqB2A",
+    "id" : "7LU8kFByYJfI0pcDXlqB2A",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Drop Dead",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b72259db020e18e6a13957f19d95a405bb5b7509?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7LU8kFByYJfI0pcDXlqB2A"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+        "id" : "1TOclxL64oLeB45DFWFFU2",
+        "name" : "Wenzday",
+        "type" : "artist",
+        "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/11weH3n69z8Ovu95Tp8Ggj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/11weH3n69z8Ovu95Tp8Ggj",
+      "id" : "11weH3n69z8Ovu95Tp8Ggj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27318c8928f711537e06ad96714",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0218c8928f711537e06ad96714",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485118c8928f711537e06ad96714",
+        "width" : 64
+      } ],
+      "name" : "Tattoo",
+      "release_date" : "2020-07-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:11weH3n69z8Ovu95Tp8Ggj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TOclxL64oLeB45DFWFFU2",
+      "id" : "1TOclxL64oLeB45DFWFFU2",
+      "name" : "Wenzday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TOclxL64oLeB45DFWFFU2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211406,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CH6542035352"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0J4mVFQIARXFZvmQDRy8VU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0J4mVFQIARXFZvmQDRy8VU",
+    "id" : "0J4mVFQIARXFZvmQDRy8VU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Tattoo",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/65c91ea8efb5a24fd66ed913e074dead6600dc22?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0J4mVFQIARXFZvmQDRy8VU"
+  } ]
+}

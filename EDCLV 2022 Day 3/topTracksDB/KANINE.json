@@ -1,0 +1,817 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5xdizdgbQQvGAgAolGhpXr",
+        "id" : "5xdizdgbQQvGAgAolGhpXr",
+        "name" : "Friction",
+        "type" : "artist",
+        "uri" : "spotify:artist:5xdizdgbQQvGAgAolGhpXr"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+        "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+        "name" : "Kanine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5HzqkCHI7AFVhTjvozMnXj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5HzqkCHI7AFVhTjvozMnXj",
+      "id" : "5HzqkCHI7AFVhTjvozMnXj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c34e9b33adb0030233a6efef",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c34e9b33adb0030233a6efef",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c34e9b33adb0030233a6efef",
+        "width" : 64
+      } ],
+      "name" : "Your Love",
+      "release_date" : "2019-09-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5HzqkCHI7AFVhTjvozMnXj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xdizdgbQQvGAgAolGhpXr",
+      "id" : "5xdizdgbQQvGAgAolGhpXr",
+      "name" : "Friction",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xdizdgbQQvGAgAolGhpXr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 250264,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBPWR1900092"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0OyM0Z2wdidouJdqQKT4e7",
+    "id" : "0OyM0Z2wdidouJdqQKT4e7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Your Love",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c1eca4ae7269474c5e58c0da9e6d0dbacf5476ed?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0OyM0Z2wdidouJdqQKT4e7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+        "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+        "name" : "Kanine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/099tQXLTaW2A2pdLqX1dbL",
+      "id" : "099tQXLTaW2A2pdLqX1dbL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734719d135efa3d7567c0d7faa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024719d135efa3d7567c0d7faa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514719d135efa3d7567c0d7faa",
+        "width" : 64
+      } ],
+      "name" : "Want You",
+      "release_date" : "2018-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:099tQXLTaW2A2pdLqX1dbL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 247210,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR96X1823600"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4nrcPumLm5ozA8qOEHcVm2",
+    "id" : "4nrcPumLm5ozA8qOEHcVm2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Want You",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/25ab209746081b0d31997cd4e65cc9b68805723b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4nrcPumLm5ozA8qOEHcVm2"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Ecng98JLorpsVdazNr0Ry",
+        "id" : "7Ecng98JLorpsVdazNr0Ry",
+        "name" : "Darkzy",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Ecng98JLorpsVdazNr0Ry"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Vh6UDWfu9PUSXSzAaB3CW",
+        "id" : "6Vh6UDWfu9PUSXSzAaB3CW",
+        "name" : "Example",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Vh6UDWfu9PUSXSzAaB3CW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7nomZmjtgRYZzRl5hjHW1Q"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7nomZmjtgRYZzRl5hjHW1Q",
+      "id" : "7nomZmjtgRYZzRl5hjHW1Q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27365984db600457d7adb13fd77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0265984db600457d7adb13fd77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485165984db600457d7adb13fd77",
+        "width" : 64
+      } ],
+      "name" : "Drops Remixes",
+      "release_date" : "2019-06-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:7nomZmjtgRYZzRl5hjHW1Q"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Ecng98JLorpsVdazNr0Ry",
+      "id" : "7Ecng98JLorpsVdazNr0Ry",
+      "name" : "Darkzy",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Ecng98JLorpsVdazNr0Ry"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Vh6UDWfu9PUSXSzAaB3CW",
+      "id" : "6Vh6UDWfu9PUSXSzAaB3CW",
+      "name" : "Example",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Vh6UDWfu9PUSXSzAaB3CW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 262628,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "FR59R1903092"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1KyPT1Fno54CmoGYmwi0Ix"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1KyPT1Fno54CmoGYmwi0Ix",
+    "id" : "1KyPT1Fno54CmoGYmwi0Ix",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Drops - Kanine Remix",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/255a46f990136bb1b42f27c9a536414de524b448?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1KyPT1Fno54CmoGYmwi0Ix"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Vh6UDWfu9PUSXSzAaB3CW",
+        "id" : "6Vh6UDWfu9PUSXSzAaB3CW",
+        "name" : "Example",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Vh6UDWfu9PUSXSzAaB3CW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+        "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+        "name" : "Kanine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5aGZwXv7c32vpzAIgKhgxL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5aGZwXv7c32vpzAIgKhgxL",
+        "id" : "5aGZwXv7c32vpzAIgKhgxL",
+        "name" : "Penny Ivy",
+        "type" : "artist",
+        "uri" : "spotify:artist:5aGZwXv7c32vpzAIgKhgxL"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4lQIsXVm1uAQH1nYK5yaID"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4lQIsXVm1uAQH1nYK5yaID",
+      "id" : "4lQIsXVm1uAQH1nYK5yaID",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27303119fcff05863e7cae102ff",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0203119fcff05863e7cae102ff",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485103119fcff05863e7cae102ff",
+        "width" : 64
+      } ],
+      "name" : "Never Let You Down (feat. Penny Ivy)",
+      "release_date" : "2022-01-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4lQIsXVm1uAQH1nYK5yaID"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Vh6UDWfu9PUSXSzAaB3CW",
+      "id" : "6Vh6UDWfu9PUSXSzAaB3CW",
+      "name" : "Example",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Vh6UDWfu9PUSXSzAaB3CW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aGZwXv7c32vpzAIgKhgxL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aGZwXv7c32vpzAIgKhgxL",
+      "id" : "5aGZwXv7c32vpzAIgKhgxL",
+      "name" : "Penny Ivy",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aGZwXv7c32vpzAIgKhgxL"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 188813,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUOXM2100716"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/21Wm6Hm4dkYb7NKUMr4T8G"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/21Wm6Hm4dkYb7NKUMr4T8G",
+    "id" : "21Wm6Hm4dkYb7NKUMr4T8G",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Never Let You Down (feat. Penny Ivy)",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ec1a737b617226e7fd63f8805faf73699c67167f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:21Wm6Hm4dkYb7NKUMr4T8G"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+        "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+        "name" : "Kanine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1GbLtUextuxcVZbondHylL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1GbLtUextuxcVZbondHylL",
+      "id" : "1GbLtUextuxcVZbondHylL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a5ac1098d32472559b646769",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a5ac1098d32472559b646769",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a5ac1098d32472559b646769",
+        "width" : 64
+      } ],
+      "name" : "Figure It Out",
+      "release_date" : "2018-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1GbLtUextuxcVZbondHylL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/536SrcGyLzU2lEJM3jXLAz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/536SrcGyLzU2lEJM3jXLAz",
+      "id" : "536SrcGyLzU2lEJM3jXLAz",
+      "name" : "Anna Rickards",
+      "type" : "artist",
+      "uri" : "spotify:artist:536SrcGyLzU2lEJM3jXLAz"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 299796,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR96X1838370"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3IWy6MPyWKPFAQ5x6YAkrc",
+    "id" : "3IWy6MPyWKPFAQ5x6YAkrc",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Figure It Out",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9fb4dae536b0cf2abd36bf1fc331777afeec6e28?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3IWy6MPyWKPFAQ5x6YAkrc"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+        "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+        "name" : "Kanine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5XRi4gmPsCAb6rF6HwfSUf",
+      "id" : "5XRi4gmPsCAb6rF6HwfSUf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fec4ec90d1139b047988c349",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fec4ec90d1139b047988c349",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fec4ec90d1139b047988c349",
+        "width" : 64
+      } ],
+      "name" : "Sundown",
+      "release_date" : "2019-10-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5XRi4gmPsCAb6rF6HwfSUf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 268800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR96X1948989"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6sdvLVBHnuNjne2DS2IrJ9",
+    "id" : "6sdvLVBHnuNjne2DS2IrJ9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sundown",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ceca64560cec829cba97e19b4c1564524d3f0510?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6sdvLVBHnuNjne2DS2IrJ9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+        "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+        "name" : "Kanine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Jv2F8VFJsSr2XKte0vpbQ",
+        "id" : "1Jv2F8VFJsSr2XKte0vpbQ",
+        "name" : "A Little Sound",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Jv2F8VFJsSr2XKte0vpbQ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/36mkUftLk5VBUuwfRvp5Ah"
+      },
+      "href" : "https://api.spotify.com/v1/albums/36mkUftLk5VBUuwfRvp5Ah",
+      "id" : "36mkUftLk5VBUuwfRvp5Ah",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27342a3b0b1aa0ccfa476f9a67e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0242a3b0b1aa0ccfa476f9a67e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485142a3b0b1aa0ccfa476f9a67e",
+        "width" : 64
+      } ],
+      "name" : "Back In Time",
+      "release_date" : "2020-02-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:36mkUftLk5VBUuwfRvp5Ah"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Jv2F8VFJsSr2XKte0vpbQ",
+      "id" : "1Jv2F8VFJsSr2XKte0vpbQ",
+      "name" : "A Little Sound",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Jv2F8VFJsSr2XKte0vpbQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 296951,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRX281950308"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/68IobwPw3ozbnp2tNjuh9j"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/68IobwPw3ozbnp2tNjuh9j",
+    "id" : "68IobwPw3ozbnp2tNjuh9j",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Back In Time",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9f8c1334b8990b0e27018322af8f9e33ef7dfc57?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:68IobwPw3ozbnp2tNjuh9j"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6m8itYST9ADjBIYevXSb1r",
+        "id" : "6m8itYST9ADjBIYevXSb1r",
+        "name" : "Wilkinson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6m8itYST9ADjBIYevXSb1r"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4fbTcsvGcoM2OZMC3mPgl0",
+      "id" : "4fbTcsvGcoM2OZMC3mPgl0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d29d5dcaabb70ec379c9724f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d29d5dcaabb70ec379c9724f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d29d5dcaabb70ec379c9724f",
+        "width" : 64
+      } ],
+      "name" : "Cognition",
+      "release_date" : "2022-02-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4fbTcsvGcoM2OZMC3mPgl0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6m8itYST9ADjBIYevXSb1r",
+      "id" : "6m8itYST9ADjBIYevXSb1r",
+      "name" : "Wilkinson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6m8itYST9ADjBIYevXSb1r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4DWuml4Jf6K81b5rAPwMb6",
+      "id" : "4DWuml4Jf6K81b5rAPwMb6",
+      "name" : "Clementine Douglas",
+      "type" : "artist",
+      "uri" : "spotify:artist:4DWuml4Jf6K81b5rAPwMb6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 253103,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB5KW2104685"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1OKe1lD61wpml7jSbhdull"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1OKe1lD61wpml7jSbhdull",
+    "id" : "1OKe1lD61wpml7jSbhdull",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "No One Else",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cf06b399dcbced36d6b5a20fd9502f0d6ca231cd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1OKe1lD61wpml7jSbhdull"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+        "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+        "name" : "Kanine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WjX4pepHwXa85B9KMk0PY",
+        "id" : "6WjX4pepHwXa85B9KMk0PY",
+        "name" : "P Money",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WjX4pepHwXa85B9KMk0PY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4yd5nyBknTlyWv06KOyaRa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4yd5nyBknTlyWv06KOyaRa",
+      "id" : "4yd5nyBknTlyWv06KOyaRa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273874846c083ecfeb74eaf187d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02874846c083ecfeb74eaf187d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851874846c083ecfeb74eaf187d",
+        "width" : 64
+      } ],
+      "name" : "Point Em Up",
+      "release_date" : "2019-08-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4yd5nyBknTlyWv06KOyaRa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WjX4pepHwXa85B9KMk0PY",
+      "id" : "6WjX4pepHwXa85B9KMk0PY",
+      "name" : "P Money",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WjX4pepHwXa85B9KMk0PY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212571,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR59R1988146"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1GzeZBt9GXs9hAuopZGacR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1GzeZBt9GXs9hAuopZGacR",
+    "id" : "1GzeZBt9GXs9hAuopZGacR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Point Em Up",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0a70dad496464184fc04ca8a9066742787810f01?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1GzeZBt9GXs9hAuopZGacR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+        "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+        "name" : "Kanine",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ppSoYwMsv01jG2cGm9rrJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ppSoYwMsv01jG2cGm9rrJ",
+      "id" : "1ppSoYwMsv01jG2cGm9rrJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338a72c6bbecd503c66b7eb40",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238a72c6bbecd503c66b7eb40",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138a72c6bbecd503c66b7eb40",
+        "width" : 64
+      } ],
+      "name" : "One",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1ppSoYwMsv01jG2cGm9rrJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KiNUGL3r0GgyLwqYCY1yV",
+      "id" : "1KiNUGL3r0GgyLwqYCY1yV",
+      "name" : "Kanine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 251910,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR2X42192432"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2n6jLm27Bi1KVHWw25E1q9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2n6jLm27Bi1KVHWw25E1q9",
+    "id" : "2n6jLm27Bi1KVHWw25E1q9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "One",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e806e462dfe13887662cb177c2abecba094d26ad?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2n6jLm27Bi1KVHWw25E1q9"
+  } ]
+}

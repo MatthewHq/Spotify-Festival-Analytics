@@ -1,0 +1,131 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=DJ+ANIME&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7JBPTTMrNDyLu8z19rxJPa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 206
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7JBPTTMrNDyLu8z19rxJPa",
+      "id" : "7JBPTTMrNDyLu8z19rxJPa",
+      "images" : [ ],
+      "name" : "DJ AniMe",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:7JBPTTMrNDyLu8z19rxJPa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qX5Mzx6k8q5uK5RL0MNnO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2qX5Mzx6k8q5uK5RL0MNnO",
+      "id" : "2qX5Mzx6k8q5uK5RL0MNnO",
+      "images" : [ ],
+      "name" : "DJ AniMe",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:2qX5Mzx6k8q5uK5RL0MNnO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qtxWhIYdwi6RJaQP3eua2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0qtxWhIYdwi6RJaQP3eua2",
+      "id" : "0qtxWhIYdwi6RJaQP3eua2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c3585a36cae6747d0970361f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c3585a36cae6747d0970361f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c3585a36cae6747d0970361f",
+        "width" : 64
+      } ],
+      "name" : "Dj Animebby",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0qtxWhIYdwi6RJaQP3eua2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YHlE7yA134MuRbSFuQWFO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 205
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2YHlE7yA134MuRbSFuQWFO",
+      "id" : "2YHlE7yA134MuRbSFuQWFO",
+      "images" : [ ],
+      "name" : "Anime DJ",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2YHlE7yA134MuRbSFuQWFO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62SQkUWxytnheHk2WrwPWi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/62SQkUWxytnheHk2WrwPWi",
+      "id" : "62SQkUWxytnheHk2WrwPWi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27316a6ffaded14b0cc7bd908af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0216a6ffaded14b0cc7bd908af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485116a6ffaded14b0cc7bd908af",
+        "width" : 64
+      } ],
+      "name" : "DJ ROMANCE ANIME",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:62SQkUWxytnheHk2WrwPWi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4rFh524UjTZvZVnQZZs9cY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 193
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4rFh524UjTZvZVnQZZs9cY",
+      "id" : "4rFh524UjTZvZVnQZZs9cY",
+      "images" : [ ],
+      "name" : "DJ Mad Dog & AniMe",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:4rFh524UjTZvZVnQZZs9cY"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6
+  }
+}

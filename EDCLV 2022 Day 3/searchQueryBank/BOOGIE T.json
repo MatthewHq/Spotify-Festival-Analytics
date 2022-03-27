@@ -1,0 +1,527 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BOOGIE+T&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 62497
+      },
+      "genres" : [ "dubstep", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/4zlw0jXUzd4dRcqI3Y1OiY",
+      "id" : "4zlw0jXUzd4dRcqI3Y1OiY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8c83e89c5ca473c7d13386f7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748c83e89c5ca473c7d13386f7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788c83e89c5ca473c7d13386f7",
+        "width" : 160
+      } ],
+      "name" : "Boogie T",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:4zlw0jXUzd4dRcqI3Y1OiY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6368901
+      },
+      "genres" : [ "melodic rap", "rap", "trap" ],
+      "href" : "https://api.spotify.com/v1/artists/31W5EY0aAly4Qieq6OFu6I",
+      "id" : "31W5EY0aAly4Qieq6OFu6I",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7dc556a6a7893f87b9be23b3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747dc556a6a7893f87b9be23b3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787dc556a6a7893f87b9be23b3",
+        "width" : 160
+      } ],
+      "name" : "A Boogie Wit da Hoodie",
+      "popularity" : 86,
+      "type" : "artist",
+      "uri" : "spotify:artist:31W5EY0aAly4Qieq6OFu6I"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58ZUWJrQzFq9w0Yo5meqEg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14052
+      },
+      "genres" : [ "livetronica" ],
+      "href" : "https://api.spotify.com/v1/artists/58ZUWJrQzFq9w0Yo5meqEg",
+      "id" : "58ZUWJrQzFq9w0Yo5meqEg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2b913d78c165895a315bb2b1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742b913d78c165895a315bb2b1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782b913d78c165895a315bb2b1",
+        "width" : 160
+      } ],
+      "name" : "BOOGIE T.RIO",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:58ZUWJrQzFq9w0Yo5meqEg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/166wm0JbX1EEWUTP1TAyPH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 143
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/166wm0JbX1EEWUTP1TAyPH",
+      "id" : "166wm0JbX1EEWUTP1TAyPH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3649792ee6e87fac2ecaedc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3649792ee6e87fac2ecaedc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3649792ee6e87fac2ecaedc",
+        "width" : 64
+      } ],
+      "name" : "Boogie the F.M.B",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:166wm0JbX1EEWUTP1TAyPH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0IEo8gcFe2WFGGF9L8Rmqy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1717
+      },
+      "genres" : [ "hardcore techno", "jungle" ],
+      "href" : "https://api.spotify.com/v1/artists/0IEo8gcFe2WFGGF9L8Rmqy",
+      "id" : "0IEo8gcFe2WFGGF9L8Rmqy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273239859d2323b546063e5993f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02239859d2323b546063e5993f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851239859d2323b546063e5993f",
+        "width" : 64
+      } ],
+      "name" : "Boogie Times Tribe",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:0IEo8gcFe2WFGGF9L8Rmqy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2eJZBrZQltEb0fk2LJhjzn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1360
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2eJZBrZQltEb0fk2LJhjzn",
+      "id" : "2eJZBrZQltEb0fk2LJhjzn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2d81e290fa2682006d0a5653",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742d81e290fa2682006d0a5653",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782d81e290fa2682006d0a5653",
+        "width" : 160
+      } ],
+      "name" : "BoogieFTS",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:2eJZBrZQltEb0fk2LJhjzn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2lTW8HxS6IHlIUmxbavf3X"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 46
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2lTW8HxS6IHlIUmxbavf3X",
+      "id" : "2lTW8HxS6IHlIUmxbavf3X",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebea40549c7796588ad4e9da96",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ea40549c7796588ad4e9da96",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ea40549c7796588ad4e9da96",
+        "width" : 160
+      } ],
+      "name" : "Boogie the Mann",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:2lTW8HxS6IHlIUmxbavf3X"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5C2y2RKM8XCo6Dv6zSJhCm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3352
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5C2y2RKM8XCo6Dv6zSJhCm",
+      "id" : "5C2y2RKM8XCo6Dv6zSJhCm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2c8843b9aed127f04a8d5db2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742c8843b9aed127f04a8d5db2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782c8843b9aed127f04a8d5db2",
+        "width" : 160
+      } ],
+      "name" : "Tha Boogie Bandit",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:5C2y2RKM8XCo6Dv6zSJhCm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5D9uxLMhQFc9uOFOX0M6ij"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 724
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5D9uxLMhQFc9uOFOX0M6ij",
+      "id" : "5D9uxLMhQFc9uOFOX0M6ij",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a816ee8b4fb04f6be246443f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a816ee8b4fb04f6be246443f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a816ee8b4fb04f6be246443f",
+        "width" : 64
+      } ],
+      "name" : "BOOGIE THA HUSTLEMAN",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:5D9uxLMhQFc9uOFOX0M6ij"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dTxKjGLkZ3qU9YMJ5dG8B"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 48
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5dTxKjGLkZ3qU9YMJ5dG8B",
+      "id" : "5dTxKjGLkZ3qU9YMJ5dG8B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732b52cf9febeb33202eb4b3d2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022b52cf9febeb33202eb4b3d2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512b52cf9febeb33202eb4b3d2",
+        "width" : 64
+      } ],
+      "name" : "The Boogie Man",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:5dTxKjGLkZ3qU9YMJ5dG8B"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2YHhXqoyqJmb6m0Oliqf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 368
+      },
+      "genres" : [ "icelandic indie" ],
+      "href" : "https://api.spotify.com/v1/artists/6O2YHhXqoyqJmb6m0Oliqf",
+      "id" : "6O2YHhXqoyqJmb6m0Oliqf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736b4a0df45c78d6d139af5507",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026b4a0df45c78d6d139af5507",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516b4a0df45c78d6d139af5507",
+        "width" : 64
+      } ],
+      "name" : "Boogie Trouble",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2YHhXqoyqJmb6m0Oliqf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0RmRDJ8ZcfnjuFSpr2rcLg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0RmRDJ8ZcfnjuFSpr2rcLg",
+      "id" : "0RmRDJ8ZcfnjuFSpr2rcLg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb45a680fcab9d498e07b83494",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517445a680fcab9d498e07b83494",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17845a680fcab9d498e07b83494",
+        "width" : 160
+      } ],
+      "name" : "Boogie the keed",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:0RmRDJ8ZcfnjuFSpr2rcLg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02FT4qRWquTbmIJSSSp5c8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1220
+      },
+      "genres" : [ "swamp pop" ],
+      "href" : "https://api.spotify.com/v1/artists/02FT4qRWquTbmIJSSSp5c8",
+      "id" : "02FT4qRWquTbmIJSSSp5c8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4b8bc519fc09b3935155972",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4b8bc519fc09b3935155972",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4b8bc519fc09b3935155972",
+        "width" : 64
+      } ],
+      "name" : "The Boogie Kings",
+      "popularity" : 23,
+      "type" : "artist",
+      "uri" : "spotify:artist:02FT4qRWquTbmIJSSSp5c8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/35F2auY0gZrVhG5bYI9pRu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/35F2auY0gZrVhG5bYI9pRu",
+      "id" : "35F2auY0gZrVhG5bYI9pRu",
+      "images" : [ ],
+      "name" : "Boogie Tip Top",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:35F2auY0gZrVhG5bYI9pRu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yBersuOcTm98l8j1eLEDP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7yBersuOcTm98l8j1eLEDP",
+      "id" : "7yBersuOcTm98l8j1eLEDP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27324a5857a0ea118257f86a4c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0224a5857a0ea118257f86a4c9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485124a5857a0ea118257f86a4c9",
+        "width" : 64
+      } ],
+      "name" : "Tay Boogie",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:7yBersuOcTm98l8j1eLEDP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hFJ7ne9PYaGfnMAcDbHdX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1863
+      },
+      "genres" : [ "action rock", "norwegian rock", "punk 'n' roll" ],
+      "href" : "https://api.spotify.com/v1/artists/2hFJ7ne9PYaGfnMAcDbHdX",
+      "id" : "2hFJ7ne9PYaGfnMAcDbHdX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9906ff558abd28afe5d4929c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749906ff558abd28afe5d4929c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789906ff558abd28afe5d4929c",
+        "width" : 160
+      } ],
+      "name" : "Kosmik Boogie Tribe",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:2hFJ7ne9PYaGfnMAcDbHdX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0EQwmVPWv7c1Gy07jF2D4J"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2565
+      },
+      "genres" : [ "bronx hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/0EQwmVPWv7c1Gy07jF2D4J",
+      "id" : "0EQwmVPWv7c1Gy07jF2D4J",
+      "images" : [ {
+        "height" : 1238,
+        "url" : "https://i.scdn.co/image/c739982b2e10e55173707bb2c9f73ad540fc702a",
+        "width" : 1000
+      }, {
+        "height" : 792,
+        "url" : "https://i.scdn.co/image/c53f7e9954a55158f2c5a14fef136d3cc77cedf8",
+        "width" : 640
+      }, {
+        "height" : 248,
+        "url" : "https://i.scdn.co/image/031e55f8906324ec79fdd5288f0c879dc1a0c507",
+        "width" : 200
+      }, {
+        "height" : 79,
+        "url" : "https://i.scdn.co/image/024f348737f9119efa1c66985a1eb7d1ed1799d9",
+        "width" : 64
+      } ],
+      "name" : "The Boogie Monsters",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:0EQwmVPWv7c1Gy07jF2D4J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50ZzHFN5JKjJmCtGeJsqZk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/50ZzHFN5JKjJmCtGeJsqZk",
+      "id" : "50ZzHFN5JKjJmCtGeJsqZk",
+      "images" : [ ],
+      "name" : "Boogie The Mann",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:50ZzHFN5JKjJmCtGeJsqZk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4vhFYmsi1j72pvPqeO9yPF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 605
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4vhFYmsi1j72pvPqeO9yPF",
+      "id" : "4vhFYmsi1j72pvPqeO9yPF",
+      "images" : [ ],
+      "name" : "Boogie The Big Man",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4vhFYmsi1j72pvPqeO9yPF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7khJoCjqhuZfrgAw1ah9Cc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 619
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7khJoCjqhuZfrgAw1ah9Cc",
+      "id" : "7khJoCjqhuZfrgAw1ah9Cc",
+      "images" : [ ],
+      "name" : "The Full Tilt Boogie Band",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:7khJoCjqhuZfrgAw1ah9Cc"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=BOOGIE+T&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 302
+  }
+}

@@ -1,0 +1,907 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+        "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+        "name" : "Dillon Francis",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2iab1reuBluKDh3wspwu3e",
+      "id" : "2iab1reuBluKDh3wspwu3e",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27332b2cd67d32124de1b5d1208",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0232b2cd67d32124de1b5d1208",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485132b2cd67d32124de1b5d1208",
+        "width" : 64
+      } ],
+      "name" : "Happy Machine",
+      "release_date" : "2021-10-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:2iab1reuBluKDh3wspwu3e"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ckLjJztj53Ifid7WHweBn",
+      "id" : "4ckLjJztj53Ifid7WHweBn",
+      "name" : "Aleyna Tilki",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ckLjJztj53Ifid7WHweBn"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 135265,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V2100187"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Juaa2ppIOYcSWbrVtcrNp",
+    "id" : "4Juaa2ppIOYcSWbrVtcrNp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Real Love",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7be85f5b09dc0657694856703b0246bbd71f38cb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4Juaa2ppIOYcSWbrVtcrNp"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2YOYua8FpudSEiB9s88IgQ",
+        "id" : "2YOYua8FpudSEiB9s88IgQ",
+        "name" : "Yung Gravy",
+        "type" : "artist",
+        "uri" : "spotify:artist:2YOYua8FpudSEiB9s88IgQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+        "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+        "name" : "Dillon Francis",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy",
+        "id" : "3aQeKQSyrW4qWr35idm0cy",
+        "name" : "T-Pain",
+        "type" : "artist",
+        "uri" : "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vX4foju7dMy5UTqjwB6rZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vX4foju7dMy5UTqjwB6rZ",
+      "id" : "6vX4foju7dMy5UTqjwB6rZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fb01933fa3d998a9910151df",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fb01933fa3d998a9910151df",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fb01933fa3d998a9910151df",
+        "width" : 64
+      } ],
+      "name" : "Hot Tub",
+      "release_date" : "2022-02-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6vX4foju7dMy5UTqjwB6rZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2YOYua8FpudSEiB9s88IgQ",
+      "id" : "2YOYua8FpudSEiB9s88IgQ",
+      "name" : "Yung Gravy",
+      "type" : "artist",
+      "uri" : "spotify:artist:2YOYua8FpudSEiB9s88IgQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy",
+      "id" : "3aQeKQSyrW4qWr35idm0cy",
+      "name" : "T-Pain",
+      "type" : "artist",
+      "uri" : "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USA2P2201339"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0QwtPubre27rt1YnJBKeNb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0QwtPubre27rt1YnJBKeNb",
+    "id" : "0QwtPubre27rt1YnJBKeNb",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hot Tub",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f107a945d9402c4715d66208495c1f8dcea92f41?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0QwtPubre27rt1YnJBKeNb"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+        "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+        "name" : "Dillon Francis",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/07Asx51VtMw5kbNXKrpZlq",
+        "id" : "07Asx51VtMw5kbNXKrpZlq",
+        "name" : "BabyJake",
+        "type" : "artist",
+        "uri" : "spotify:artist:07Asx51VtMw5kbNXKrpZlq"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Tk1TJLX2NJUJ03cjxTykN",
+      "id" : "6Tk1TJLX2NJUJ03cjxTykN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a3d67ccc06d8929df12a2ed1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a3d67ccc06d8929df12a2ed1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a3d67ccc06d8929df12a2ed1",
+        "width" : 64
+      } ],
+      "name" : "You Do You",
+      "release_date" : "2020-04-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6Tk1TJLX2NJUJ03cjxTykN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/07Asx51VtMw5kbNXKrpZlq",
+      "id" : "07Asx51VtMw5kbNXKrpZlq",
+      "name" : "BabyJake",
+      "type" : "artist",
+      "uri" : "spotify:artist:07Asx51VtMw5kbNXKrpZlq"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 177658,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V2000140"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2a7kFbxMwmmZWDvH0JbZFU",
+    "id" : "2a7kFbxMwmmZWDvH0JbZFU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Touch",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/30151eaed86d0b4f14d865d72c6be098e7be4407?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2a7kFbxMwmmZWDvH0JbZFU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+        "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+        "name" : "Dillon Francis",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0GJ7jQJRIQNDjz54cPo2XI",
+      "id" : "0GJ7jQJRIQNDjz54cPo2XI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273483536d7340f3b68c19b637c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02483536d7340f3b68c19b637c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851483536d7340f3b68c19b637c",
+        "width" : 64
+      } ],
+      "name" : "Money Sucks, Friends Rule",
+      "release_date" : "2014-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0GJ7jQJRIQNDjz54cPo2XI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+      "id" : "540vIaP2JwjQb9dm3aArA4",
+      "name" : "DJ Snake",
+      "type" : "artist",
+      "uri" : "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM11403232"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3oZoXyU0SkDldgS7AcN4y4",
+    "id" : "3oZoXyU0SkDldgS7AcN4y4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Get Low",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2b2a98eb3d0ee3cc1f59100354008129e956222d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3oZoXyU0SkDldgS7AcN4y4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id" : "6eUKZXaKkcviH0Ku9w2n3V",
+        "name" : "Ed Sheeran",
+        "type" : "artist",
+        "uri" : "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+        "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+        "name" : "Dillon Francis",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1IhjAej4bFQdXNh9yRwE7B",
+      "id" : "1IhjAej4bFQdXNh9yRwE7B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27379d0b30540a7ae4be57d113c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0279d0b30540a7ae4be57d113c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485179d0b30540a7ae4be57d113c",
+        "width" : 64
+      } ],
+      "name" : "Shivers (Dillon Francis Remix)",
+      "release_date" : "2021-10-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:1IhjAej4bFQdXNh9yRwE7B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id" : "6eUKZXaKkcviH0Ku9w2n3V",
+      "name" : "Ed Sheeran",
+      "type" : "artist",
+      "uri" : "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 127766,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHS2101076"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/59zbXPD0j7JxsVVm480g3b",
+    "id" : "59zbXPD0j7JxsVVm480g3b",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Shivers (Dillon Francis Remix) [Main Mix]",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d0005933de8d70d114a86e71529ee68e15da8a61?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:59zbXPD0j7JxsVVm480g3b"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+        "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+        "name" : "Dillon Francis",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1FGLT6mEhIrPhgqYiU57ro",
+        "id" : "1FGLT6mEhIrPhgqYiU57ro",
+        "name" : "VINNE",
+        "type" : "artist",
+        "uri" : "spotify:artist:1FGLT6mEhIrPhgqYiU57ro"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Vo614FBJLiGi1FOXp6L9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Vo614FBJLiGi1FOXp6L9x",
+      "id" : "2Vo614FBJLiGi1FOXp6L9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27385ffae0086e97615d1cddd8f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0285ffae0086e97615d1cddd8f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485185ffae0086e97615d1cddd8f",
+        "width" : 64
+      } ],
+      "name" : "Once Again",
+      "release_date" : "2022-03-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2Vo614FBJLiGi1FOXp6L9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1FGLT6mEhIrPhgqYiU57ro",
+      "id" : "1FGLT6mEhIrPhgqYiU57ro",
+      "name" : "VINNE",
+      "type" : "artist",
+      "uri" : "spotify:artist:1FGLT6mEhIrPhgqYiU57ro"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 160014,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLQ8D2200329"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7DXHNbMrvgJuFUtEleruSn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7DXHNbMrvgJuFUtEleruSn",
+    "id" : "7DXHNbMrvgJuFUtEleruSn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Once Again",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/faa2fd22bd5c0f02ca570f97b4a2244077d2b66a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7DXHNbMrvgJuFUtEleruSn"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5GcWBUX00IPuWVGMIRK1sS",
+        "id" : "5GcWBUX00IPuWVGMIRK1sS",
+        "name" : "Residente",
+        "type" : "artist",
+        "uri" : "spotify:artist:5GcWBUX00IPuWVGMIRK1sS"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+        "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+        "name" : "Dillon Francis",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4QgsMP3I7ytwMoW06v4hLA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4QgsMP3I7ytwMoW06v4hLA",
+      "id" : "4QgsMP3I7ytwMoW06v4hLA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738cf28053900be01c7513bc37",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028cf28053900be01c7513bc37",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518cf28053900be01c7513bc37",
+        "width" : 64
+      } ],
+      "name" : "Sexo (feat. iLe)",
+      "release_date" : "2018-04-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4QgsMP3I7ytwMoW06v4hLA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5GcWBUX00IPuWVGMIRK1sS",
+      "id" : "5GcWBUX00IPuWVGMIRK1sS",
+      "name" : "Residente",
+      "type" : "artist",
+      "uri" : "spotify:artist:5GcWBUX00IPuWVGMIRK1sS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1CztIa6fCQ0WmVPidXuwSs",
+      "id" : "1CztIa6fCQ0WmVPidXuwSs",
+      "name" : "iLe",
+      "type" : "artist",
+      "uri" : "spotify:artist:1CztIa6fCQ0WmVPidXuwSs"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209820,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSD11800025"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0j00zu3FKBWSu1Hyt2Ivcj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0j00zu3FKBWSu1Hyt2Ivcj",
+    "id" : "0j00zu3FKBWSu1Hyt2Ivcj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sexo (feat. iLe)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c8cb45ce913dc54531a1125ec394ffa414e6138a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0j00zu3FKBWSu1Hyt2Ivcj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+        "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+        "name" : "Dillon Francis",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5yscEifoZw3M3abIVCr8ed",
+      "id" : "5yscEifoZw3M3abIVCr8ed",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f99413a5d2a4185bf18c5e81",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f99413a5d2a4185bf18c5e81",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f99413a5d2a4185bf18c5e81",
+        "width" : 64
+      } ],
+      "name" : "This Mixtape is Fire.",
+      "release_date" : "2015-08-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:5yscEifoZw3M3abIVCr8ed"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+      "id" : "23fqKkggKUBHNkbKtXEls4",
+      "name" : "Kygo",
+      "type" : "artist",
+      "uri" : "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0lzV2CiahHRiGd6qpADtPS",
+      "id" : "0lzV2CiahHRiGd6qpADtPS",
+      "name" : "James Hersey",
+      "type" : "artist",
+      "uri" : "spotify:artist:0lzV2CiahHRiGd6qpADtPS"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 178333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM11505217"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6m3ZWIXhjoV76syT1j2oE9",
+    "id" : "6m3ZWIXhjoV76syT1j2oE9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Coming Over (feat. James Hersey)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1d8bdd044969e5490ffa6973fdc8b5fc7b675b2a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6m3ZWIXhjoV76syT1j2oE9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+        "id" : "4kYSro6naA4h99UJvo89HB",
+        "name" : "Cardi B",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kYSro6naA4h99UJvo89HB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+        "id" : "4q3ewBCX7sLwd24euuV69X",
+        "name" : "Bad Bunny",
+        "type" : "artist",
+        "uri" : "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+        "id" : "1vyhD5VmyZ7KMfW5gqLgo5",
+        "name" : "J Balvin",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6oRrfGcUeAwfX1lTdxZFFj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6oRrfGcUeAwfX1lTdxZFFj",
+      "id" : "6oRrfGcUeAwfX1lTdxZFFj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27337422e424f7e93330acc5719",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0237422e424f7e93330acc5719",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485137422e424f7e93330acc5719",
+        "width" : 64
+      } ],
+      "name" : "I Like It",
+      "release_date" : "2018-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6oRrfGcUeAwfX1lTdxZFFj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+      "id" : "4kYSro6naA4h99UJvo89HB",
+      "name" : "Cardi B",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kYSro6naA4h99UJvo89HB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+      "id" : "4q3ewBCX7sLwd24euuV69X",
+      "name" : "Bad Bunny",
+      "type" : "artist",
+      "uri" : "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+      "id" : "1vyhD5VmyZ7KMfW5gqLgo5",
+      "name" : "J Balvin",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21802525"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6WK7h2WfMmnX7zOZnfzoYo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6WK7h2WfMmnX7zOZnfzoYo",
+    "id" : "6WK7h2WfMmnX7zOZnfzoYo",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Like It - Dillon Francis Remix",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b3b3d8bf646eee2efd403e42c76bcd0fe2048eef?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6WK7h2WfMmnX7zOZnfzoYo"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+        "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+        "name" : "Dillon Francis",
+        "type" : "artist",
+        "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/26OrZl5U3VNGHU9qUj8EcM",
+        "id" : "26OrZl5U3VNGHU9qUj8EcM",
+        "name" : "Shift K3Y",
+        "type" : "artist",
+        "uri" : "spotify:artist:26OrZl5U3VNGHU9qUj8EcM"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3tQx1LPXbsYjE9VwN1Peaa",
+        "id" : "3tQx1LPXbsYjE9VwN1Peaa",
+        "name" : "Marc E. Bassy",
+        "type" : "artist",
+        "uri" : "spotify:artist:3tQx1LPXbsYjE9VwN1Peaa"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1FCqo8PHzNgQsxpFUd7VeZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1FCqo8PHzNgQsxpFUd7VeZ",
+      "id" : "1FCqo8PHzNgQsxpFUd7VeZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738e82632bdfb363deb0e661bc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028e82632bdfb363deb0e661bc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518e82632bdfb363deb0e661bc",
+        "width" : 64
+      } ],
+      "name" : "Love Me Better",
+      "release_date" : "2021-06-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1FCqo8PHzNgQsxpFUd7VeZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "name" : "Dillon Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/26OrZl5U3VNGHU9qUj8EcM",
+      "id" : "26OrZl5U3VNGHU9qUj8EcM",
+      "name" : "Shift K3Y",
+      "type" : "artist",
+      "uri" : "spotify:artist:26OrZl5U3VNGHU9qUj8EcM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tQx1LPXbsYjE9VwN1Peaa",
+      "id" : "3tQx1LPXbsYjE9VwN1Peaa",
+      "name" : "Marc E. Bassy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tQx1LPXbsYjE9VwN1Peaa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 150771,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG12102681"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5zHRrkIk98Adfqh25kMZFU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5zHRrkIk98Adfqh25kMZFU",
+    "id" : "5zHRrkIk98Adfqh25kMZFU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love Me Better (with Shift K3Y & Marc E. Bassy)",
+    "popularity" : 61,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5zHRrkIk98Adfqh25kMZFU"
+  } ]
+}

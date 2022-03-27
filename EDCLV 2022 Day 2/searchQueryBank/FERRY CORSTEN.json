@@ -1,0 +1,131 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=FERRY+CORSTEN&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 238878
+      },
+      "genres" : [ "dutch trance", "edm", "pop dance", "progressive house", "progressive trance", "trance", "uplifting trance" ],
+      "href" : "https://api.spotify.com/v1/artists/2ohlvFf9PBsDELdRstPtlP",
+      "id" : "2ohlvFf9PBsDELdRstPtlP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb270ac0c81b0af36a0feaa783",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174270ac0c81b0af36a0feaa783",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178270ac0c81b0af36a0feaa783",
+        "width" : 160
+      } ],
+      "name" : "Ferry Corsten",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ohlvFf9PBsDELdRstPtlP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Bvy7MnrTF2SgvpodN0DAb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2072
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Bvy7MnrTF2SgvpodN0DAb",
+      "id" : "2Bvy7MnrTF2SgvpodN0DAb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb79b38293dfcbac4086106165",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517479b38293dfcbac4086106165",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17879b38293dfcbac4086106165",
+        "width" : 160
+      } ],
+      "name" : "Ferry Corsten's Countdown",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Bvy7MnrTF2SgvpodN0DAb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61Lk88fUNE5ot04tWny3aD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/61Lk88fUNE5ot04tWny3aD",
+      "id" : "61Lk88fUNE5ot04tWny3aD",
+      "images" : [ ],
+      "name" : "Ferry Corsten & Howard Jones",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:61Lk88fUNE5ot04tWny3aD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4m8PusS9s7nIxkJdGsMdEw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4m8PusS9s7nIxkJdGsMdEw",
+      "id" : "4m8PusS9s7nIxkJdGsMdEw",
+      "images" : [ ],
+      "name" : "Ferry Corstens",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4m8PusS9s7nIxkJdGsMdEw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0pMmstWW4jicOuJ3Dz0Vve"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 94
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0pMmstWW4jicOuJ3Dz0Vve",
+      "id" : "0pMmstWW4jicOuJ3Dz0Vve",
+      "images" : [ ],
+      "name" : "Ferry Corsten Presents Pulse",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:0pMmstWW4jicOuJ3Dz0Vve"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Q4nhsyluunZgD19T8bnyB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1Q4nhsyluunZgD19T8bnyB",
+      "id" : "1Q4nhsyluunZgD19T8bnyB",
+      "images" : [ ],
+      "name" : "Ferry Corsten Remix",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Q4nhsyluunZgD19T8bnyB"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6
+  }
+}

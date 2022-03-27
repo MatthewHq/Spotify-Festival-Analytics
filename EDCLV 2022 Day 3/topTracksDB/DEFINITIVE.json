@@ -1,0 +1,880 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2oZVtrCwHyCZlIWAwy3VBn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2oZVtrCwHyCZlIWAwy3VBn",
+        "id" : "2oZVtrCwHyCZlIWAwy3VBn",
+        "name" : "Antiserum",
+        "type" : "artist",
+        "uri" : "spotify:artist:2oZVtrCwHyCZlIWAwy3VBn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+        "id" : "54jJseP0c0ahtWnKyV58gl",
+        "name" : "Definitive",
+        "type" : "artist",
+        "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4msiwkpcwcYHPoHni2eI4Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4msiwkpcwcYHPoHni2eI4Z",
+      "id" : "4msiwkpcwcYHPoHni2eI4Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ef1a666b3e2efbab7b64184f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ef1a666b3e2efbab7b64184f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ef1a666b3e2efbab7b64184f",
+        "width" : 64
+      } ],
+      "name" : "The Void",
+      "release_date" : "2020-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4msiwkpcwcYHPoHni2eI4Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2oZVtrCwHyCZlIWAwy3VBn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2oZVtrCwHyCZlIWAwy3VBn",
+      "id" : "2oZVtrCwHyCZlIWAwy3VBn",
+      "name" : "Antiserum",
+      "type" : "artist",
+      "uri" : "spotify:artist:2oZVtrCwHyCZlIWAwy3VBn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212875,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZHCR2000060"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0fYg5UdoMZBOROS50hupd0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0fYg5UdoMZBOROS50hupd0",
+    "id" : "0fYg5UdoMZBOROS50hupd0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Void",
+    "popularity" : 12,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c0028a9a737e4c395356f6fe9956e0679c5e2d12?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0fYg5UdoMZBOROS50hupd0"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2oZVtrCwHyCZlIWAwy3VBn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2oZVtrCwHyCZlIWAwy3VBn",
+        "id" : "2oZVtrCwHyCZlIWAwy3VBn",
+        "name" : "Antiserum",
+        "type" : "artist",
+        "uri" : "spotify:artist:2oZVtrCwHyCZlIWAwy3VBn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+        "id" : "54jJseP0c0ahtWnKyV58gl",
+        "name" : "Definitive",
+        "type" : "artist",
+        "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NV5eY4Jzg4ldg2ikGnV4n",
+        "id" : "0NV5eY4Jzg4ldg2ikGnV4n",
+        "name" : "Virus Syndicate",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NV5eY4Jzg4ldg2ikGnV4n"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0wEzYjroxfAQLymdS2MgiP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0wEzYjroxfAQLymdS2MgiP",
+      "id" : "0wEzYjroxfAQLymdS2MgiP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cd92ba0f95e62ee5a738d748",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cd92ba0f95e62ee5a738d748",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cd92ba0f95e62ee5a738d748",
+        "width" : 64
+      } ],
+      "name" : "Warning",
+      "release_date" : "2019-06-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0wEzYjroxfAQLymdS2MgiP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2oZVtrCwHyCZlIWAwy3VBn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2oZVtrCwHyCZlIWAwy3VBn",
+      "id" : "2oZVtrCwHyCZlIWAwy3VBn",
+      "name" : "Antiserum",
+      "type" : "artist",
+      "uri" : "spotify:artist:2oZVtrCwHyCZlIWAwy3VBn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NV5eY4Jzg4ldg2ikGnV4n",
+      "id" : "0NV5eY4Jzg4ldg2ikGnV4n",
+      "name" : "Virus Syndicate",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NV5eY4Jzg4ldg2ikGnV4n"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 266482,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL1941101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5InxFKKfmv3VGgZJuxUys0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5InxFKKfmv3VGgZJuxUys0",
+    "id" : "5InxFKKfmv3VGgZJuxUys0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Warning",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0072c384b50ae184e9227c0ae409d7feb3ca97ea?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5InxFKKfmv3VGgZJuxUys0"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/501MfkAIop4dRLvOqjlMHl",
+        "id" : "501MfkAIop4dRLvOqjlMHl",
+        "name" : "Murdock",
+        "type" : "artist",
+        "uri" : "spotify:artist:501MfkAIop4dRLvOqjlMHl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3XJdOCSffaRYAxlvleKUbW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3XJdOCSffaRYAxlvleKUbW",
+        "id" : "3XJdOCSffaRYAxlvleKUbW",
+        "name" : "Doctrine",
+        "type" : "artist",
+        "uri" : "spotify:artist:3XJdOCSffaRYAxlvleKUbW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/36Lo6yXY2pBUhyyUp0Ppbo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/36Lo6yXY2pBUhyyUp0Ppbo",
+      "id" : "36Lo6yXY2pBUhyyUp0Ppbo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ee74193c30212d0e815e396",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ee74193c30212d0e815e396",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ee74193c30212d0e815e396",
+        "width" : 64
+      } ],
+      "name" : "Rampage Anthem Dubstep Remixes",
+      "release_date" : "2020-01-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:36Lo6yXY2pBUhyyUp0Ppbo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/501MfkAIop4dRLvOqjlMHl",
+      "id" : "501MfkAIop4dRLvOqjlMHl",
+      "name" : "Murdock",
+      "type" : "artist",
+      "uri" : "spotify:artist:501MfkAIop4dRLvOqjlMHl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3XJdOCSffaRYAxlvleKUbW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3XJdOCSffaRYAxlvleKUbW",
+      "id" : "3XJdOCSffaRYAxlvleKUbW",
+      "name" : "Doctrine",
+      "type" : "artist",
+      "uri" : "spotify:artist:3XJdOCSffaRYAxlvleKUbW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 179775,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEN582000003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7u04CdHbOv6vqsfumiHWcD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7u04CdHbOv6vqsfumiHWcD",
+    "id" : "7u04CdHbOv6vqsfumiHWcD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Arena - Midnight Tyrannosaurus & Definitive Remix",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/656ac1742c06eb40fd7aeb6d8742062888fcde9e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7u04CdHbOv6vqsfumiHWcD"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/44ISEJy3XO8jTZjIUef4QM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/44ISEJy3XO8jTZjIUef4QM",
+        "id" : "44ISEJy3XO8jTZjIUef4QM",
+        "name" : "Lev3l",
+        "type" : "artist",
+        "uri" : "spotify:artist:44ISEJy3XO8jTZjIUef4QM"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2G3LxpQ9lxzDq9pea6hCle"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2G3LxpQ9lxzDq9pea6hCle",
+        "id" : "2G3LxpQ9lxzDq9pea6hCle",
+        "name" : "SweetTooth",
+        "type" : "artist",
+        "uri" : "spotify:artist:2G3LxpQ9lxzDq9pea6hCle"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+        "id" : "54jJseP0c0ahtWnKyV58gl",
+        "name" : "Definitive",
+        "type" : "artist",
+        "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1fLzRl0DpiQq7YOBNNtlGQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1fLzRl0DpiQq7YOBNNtlGQ",
+      "id" : "1fLzRl0DpiQq7YOBNNtlGQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27331963d91cce3d9df2ca9edcf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0231963d91cce3d9df2ca9edcf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485131963d91cce3d9df2ca9edcf",
+        "width" : 64
+      } ],
+      "name" : "Impending Doom (Definitive Remix)",
+      "release_date" : "2020-03-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1fLzRl0DpiQq7YOBNNtlGQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44ISEJy3XO8jTZjIUef4QM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44ISEJy3XO8jTZjIUef4QM",
+      "id" : "44ISEJy3XO8jTZjIUef4QM",
+      "name" : "Lev3l",
+      "type" : "artist",
+      "uri" : "spotify:artist:44ISEJy3XO8jTZjIUef4QM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2G3LxpQ9lxzDq9pea6hCle"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2G3LxpQ9lxzDq9pea6hCle",
+      "id" : "2G3LxpQ9lxzDq9pea6hCle",
+      "name" : "SweetTooth",
+      "type" : "artist",
+      "uri" : "spotify:artist:2G3LxpQ9lxzDq9pea6hCle"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 271448,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM92000012"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6DzDupJjTGb4pIfCghUfpw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6DzDupJjTGb4pIfCghUfpw",
+    "id" : "6DzDupJjTGb4pIfCghUfpw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Impending Doom - Definitive Remix",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/08929db5c3b89596f6aaeee62eac3dc1769cbc80?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6DzDupJjTGb4pIfCghUfpw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Uel5dtAWnmUyXD59wpSzc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Uel5dtAWnmUyXD59wpSzc",
+      "id" : "6Uel5dtAWnmUyXD59wpSzc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9c66b1abee9394123aeb489",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9c66b1abee9394123aeb489",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9c66b1abee9394123aeb489",
+        "width" : 64
+      } ],
+      "name" : "Black Friday Vol. 14",
+      "release_date" : "2017-11-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:6Uel5dtAWnmUyXD59wpSzc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sS9RKjrDJMl7zpG3cWHk7",
+      "id" : "3sS9RKjrDJMl7zpG3cWHk7",
+      "name" : "Aweminus",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sS9RKjrDJMl7zpG3cWHk7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 222861,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL1771405"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5xGZ04Nx0LnS9BjtOk5WSB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5xGZ04Nx0LnS9BjtOk5WSB",
+    "id" : "5xGZ04Nx0LnS9BjtOk5WSB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Under The Bed - Definitive Remix",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a1d0a2000b5621d6c59ebae135aa96ac2e01e39?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5xGZ04Nx0LnS9BjtOk5WSB"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2oZVtrCwHyCZlIWAwy3VBn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2oZVtrCwHyCZlIWAwy3VBn",
+        "id" : "2oZVtrCwHyCZlIWAwy3VBn",
+        "name" : "Antiserum",
+        "type" : "artist",
+        "uri" : "spotify:artist:2oZVtrCwHyCZlIWAwy3VBn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+        "id" : "54jJseP0c0ahtWnKyV58gl",
+        "name" : "Definitive",
+        "type" : "artist",
+        "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2RRvSTmeEEqc0EdMCVULjn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2RRvSTmeEEqc0EdMCVULjn",
+      "id" : "2RRvSTmeEEqc0EdMCVULjn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736bdaf555019f27327df970b5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026bdaf555019f27327df970b5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516bdaf555019f27327df970b5",
+        "width" : 64
+      } ],
+      "name" : "No Cap",
+      "release_date" : "2019-11-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2RRvSTmeEEqc0EdMCVULjn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2oZVtrCwHyCZlIWAwy3VBn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2oZVtrCwHyCZlIWAwy3VBn",
+      "id" : "2oZVtrCwHyCZlIWAwy3VBn",
+      "name" : "Antiserum",
+      "type" : "artist",
+      "uri" : "spotify:artist:2oZVtrCwHyCZlIWAwy3VBn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1962323"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4FlBwsezFUZTIEsfSv1HNg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4FlBwsezFUZTIEsfSv1HNg",
+    "id" : "4FlBwsezFUZTIEsfSv1HNg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "No Cap",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/85aea2d8ebcd2ec9bf23c0624158aff0109e4bef?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4FlBwsezFUZTIEsfSv1HNg"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+        "id" : "54jJseP0c0ahtWnKyV58gl",
+        "name" : "Definitive",
+        "type" : "artist",
+        "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0kceiKJrP7AsW2rUPeAw3v",
+        "id" : "0kceiKJrP7AsW2rUPeAw3v",
+        "name" : "Point.Blank",
+        "type" : "artist",
+        "uri" : "spotify:artist:0kceiKJrP7AsW2rUPeAw3v"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2mkCWvNOfixT9j8uAqZYKW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2mkCWvNOfixT9j8uAqZYKW",
+      "id" : "2mkCWvNOfixT9j8uAqZYKW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27312cb6ba0d65f1ff55c70bfa7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0212cb6ba0d65f1ff55c70bfa7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485112cb6ba0d65f1ff55c70bfa7",
+        "width" : 64
+      } ],
+      "name" : "Monochrome",
+      "release_date" : "2019-08-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2mkCWvNOfixT9j8uAqZYKW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0kceiKJrP7AsW2rUPeAw3v",
+      "id" : "0kceiKJrP7AsW2rUPeAw3v",
+      "name" : "Point.Blank",
+      "type" : "artist",
+      "uri" : "spotify:artist:0kceiKJrP7AsW2rUPeAw3v"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 244965,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1944845"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0YF4XiUGzSFudfJw5JElT7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0YF4XiUGzSFudfJw5JElT7",
+    "id" : "0YF4XiUGzSFudfJw5JElT7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Monochrome",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9d790673dd1cbe386c76b5b6d1566846d5bbf206?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0YF4XiUGzSFudfJw5JElT7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+        "id" : "54jJseP0c0ahtWnKyV58gl",
+        "name" : "Definitive",
+        "type" : "artist",
+        "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2lGnBQgzDURIqGR3Mg6S3z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2lGnBQgzDURIqGR3Mg6S3z",
+        "id" : "2lGnBQgzDURIqGR3Mg6S3z",
+        "name" : "AKVMA",
+        "type" : "artist",
+        "uri" : "spotify:artist:2lGnBQgzDURIqGR3Mg6S3z"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YugMUMucYrmO3HFqh8sOT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YugMUMucYrmO3HFqh8sOT",
+      "id" : "1YugMUMucYrmO3HFqh8sOT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bc5ebf1ed2192a285531f101",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bc5ebf1ed2192a285531f101",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bc5ebf1ed2192a285531f101",
+        "width" : 64
+      } ],
+      "name" : "Tengatu",
+      "release_date" : "2021-06-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1YugMUMucYrmO3HFqh8sOT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2lGnBQgzDURIqGR3Mg6S3z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2lGnBQgzDURIqGR3Mg6S3z",
+      "id" : "2lGnBQgzDURIqGR3Mg6S3z",
+      "name" : "AKVMA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2lGnBQgzDURIqGR3Mg6S3z"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205714,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR2181850"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3cPNr9cxQeLaBHMgywngf0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3cPNr9cxQeLaBHMgywngf0",
+    "id" : "3cPNr9cxQeLaBHMgywngf0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Tengatu - Original Mix",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/503364d5e13157742ae399092bb35204c363de49?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3cPNr9cxQeLaBHMgywngf0"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+        "id" : "54jJseP0c0ahtWnKyV58gl",
+        "name" : "Definitive",
+        "type" : "artist",
+        "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2GnZOsQJHf9JJ6XYmSxfb8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2GnZOsQJHf9JJ6XYmSxfb8",
+      "id" : "2GnZOsQJHf9JJ6XYmSxfb8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273660d368db63aeef31682b42e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02660d368db63aeef31682b42e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851660d368db63aeef31682b42e",
+        "width" : 64
+      } ],
+      "name" : "Demons",
+      "release_date" : "2022-01-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2GnZOsQJHf9JJ6XYmSxfb8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 259200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR0040963"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5VLg4qOptU7AQVAeSPIYk7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5VLg4qOptU7AQVAeSPIYk7",
+    "id" : "5VLg4qOptU7AQVAeSPIYk7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Demons",
+    "popularity" : 12,
+    "preview_url" : "https://p.scdn.co/mp3-preview/89e18becd8274379ec85227b9389f8c6c3e9a6ca?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5VLg4qOptU7AQVAeSPIYk7"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/62bcllSyAUqxnA0qKt8SC9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/62bcllSyAUqxnA0qKt8SC9",
+      "id" : "62bcllSyAUqxnA0qKt8SC9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f7da89856714738392fecc5e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f7da89856714738392fecc5e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f7da89856714738392fecc5e",
+        "width" : 64
+      } ],
+      "name" : "Black Label XXL",
+      "release_date" : "2016-09-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:62bcllSyAUqxnA0qKt8SC9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22XS1PmwMKgCyygevwMsos"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22XS1PmwMKgCyygevwMsos",
+      "id" : "22XS1PmwMKgCyygevwMsos",
+      "name" : "Tokez",
+      "type" : "artist",
+      "uri" : "spotify:artist:22XS1PmwMKgCyygevwMsos"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54jJseP0c0ahtWnKyV58gl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54jJseP0c0ahtWnKyV58gl",
+      "id" : "54jJseP0c0ahtWnKyV58gl",
+      "name" : "Definitive",
+      "type" : "artist",
+      "uri" : "spotify:artist:54jJseP0c0ahtWnKyV58gl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0wBTYeI6551XR1lhbxRQnV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0wBTYeI6551XR1lhbxRQnV",
+      "id" : "0wBTYeI6551XR1lhbxRQnV",
+      "name" : "Blankface",
+      "type" : "artist",
+      "uri" : "spotify:artist:0wBTYeI6551XR1lhbxRQnV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219441,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL1691617"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/42luPp7liLS4kjZPPNgNeG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/42luPp7liLS4kjZPPNgNeG",
+    "id" : "42luPp7liLS4kjZPPNgNeG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bloodlust",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/396b76c8e23024f0316e2d6bf345a23adcea1dfb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:42luPp7liLS4kjZPPNgNeG"
+  } ]
+}

@@ -1,0 +1,844 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+        "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+        "name" : "Habstrakt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0izKfMblL8LX6Bv2wG3Cy7",
+        "id" : "0izKfMblL8LX6Bv2wG3Cy7",
+        "name" : "Lena Leon",
+        "type" : "artist",
+        "uri" : "spotify:artist:0izKfMblL8LX6Bv2wG3Cy7"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7AKRqqkDVhqDZMwmcjBPiV",
+      "id" : "7AKRqqkDVhqDZMwmcjBPiV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731f93d47f0e1894d7bcce788a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021f93d47f0e1894d7bcce788a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511f93d47f0e1894d7bcce788a",
+        "width" : 64
+      } ],
+      "name" : "Eternity (feat. Lena Leon)",
+      "release_date" : "2021-10-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7AKRqqkDVhqDZMwmcjBPiV"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+      "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+      "name" : "Habstrakt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0izKfMblL8LX6Bv2wG3Cy7",
+      "id" : "0izKfMblL8LX6Bv2wG3Cy7",
+      "name" : "Lena Leon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0izKfMblL8LX6Bv2wG3Cy7"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217258,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMUY42100214"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7DDIVNWlbGJpQjVDDg8rXR",
+    "id" : "7DDIVNWlbGJpQjVDDg8rXR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Eternity (feat. Lena Leon)",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a99c9d1bc9ee552f43bea539e360a74f4ff6864?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7DDIVNWlbGJpQjVDDg8rXR"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0aMv03wMvTndzvWp8FuS4P"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0aMv03wMvTndzvWp8FuS4P",
+      "id" : "0aMv03wMvTndzvWp8FuS4P",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273586da93a803e867ab6842cda",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02586da93a803e867ab6842cda",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851586da93a803e867ab6842cda",
+        "width" : 64
+      } ],
+      "name" : "We Are Your Friends (Music From The Original Motion Picture)",
+      "release_date" : "2015-08-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0aMv03wMvTndzvWp8FuS4P"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2VAnyOxzJuSAj7XIuEOT38",
+      "id" : "2VAnyOxzJuSAj7XIuEOT38",
+      "name" : "AlunaGeorge",
+      "type" : "artist",
+      "uri" : "spotify:artist:2VAnyOxzJuSAj7XIuEOT38"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 304333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71504757"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0OpcI3rARLsNWgVbPdwHD9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0OpcI3rARLsNWgVbPdwHD9",
+    "id" : "0OpcI3rARLsNWgVbPdwHD9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "You Know You Like It - Tchami Remix",
+    "popularity" : 66,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0OpcI3rARLsNWgVbPdwHD9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6judl2YelDUdvExxZpUAvP",
+      "id" : "6judl2YelDUdvExxZpUAvP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27367e887a5165f3e53d2ed189e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0267e887a5165f3e53d2ed189e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485167e887a5165f3e53d2ed189e",
+        "width" : 64
+      } ],
+      "name" : "Year Zero",
+      "release_date" : "2020-10-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6judl2YelDUdvExxZpUAvP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+      "id" : "2hlmm7s2ICUX0LVIhVFlZQ",
+      "name" : "Gunna",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 210000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMUY42000102"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5cz0T1Q8AmpY18TDLAe2ja"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5cz0T1Q8AmpY18TDLAe2ja",
+    "id" : "5cz0T1Q8AmpY18TDLAe2ja",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Praise (feat. Gunna)",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb5c5945799afbc740340c032d49b59fed389a8e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5cz0T1Q8AmpY18TDLAe2ja"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/01kkI1Lzq9k0aJcTAJqudd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/01kkI1Lzq9k0aJcTAJqudd",
+      "id" : "01kkI1Lzq9k0aJcTAJqudd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735511dcb6464170ec0607251a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025511dcb6464170ec0607251a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515511dcb6464170ec0607251a",
+        "width" : 64
+      } ],
+      "name" : "Adieu",
+      "release_date" : "2017-02-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:01kkI1Lzq9k0aJcTAJqudd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 413333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLD91700451"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/62OQBLpD3TmkqbtTPqqdRt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/62OQBLpD3TmkqbtTPqqdRt",
+    "id" : "62OQBLpD3TmkqbtTPqqdRt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Adieu",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9471914c1b00514c73fad481ddef047e87289f77?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:62OQBLpD3TmkqbtTPqqdRt"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1gdtdSLixKvaeIlbJ9k8uU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1gdtdSLixKvaeIlbJ9k8uU",
+      "id" : "1gdtdSLixKvaeIlbJ9k8uU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733e5970c9a06aea765350ef54",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023e5970c9a06aea765350ef54",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513e5970c9a06aea765350ef54",
+        "width" : 64
+      } ],
+      "name" : "Promesses",
+      "release_date" : "2015-01-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:1gdtdSLixKvaeIlbJ9k8uU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4eQKo2fvEqEbdopHhSjlug",
+      "id" : "4eQKo2fvEqEbdopHhSjlug",
+      "name" : "Kaleem Taylor",
+      "type" : "artist",
+      "uri" : "spotify:artist:4eQKo2fvEqEbdopHhSjlug"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159572,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCEN1401100"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/75usYC3ytzfttweGDXKMdE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/75usYC3ytzfttweGDXKMdE",
+    "id" : "75usYC3ytzfttweGDXKMdE",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Promesses - Radio Edit",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e7d3783cbab9ed7ee3ef4ae3d7484a893b4e5a1f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:75usYC3ytzfttweGDXKMdE"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1kzP8UBu61YPnodaW97uS5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1kzP8UBu61YPnodaW97uS5",
+      "id" : "1kzP8UBu61YPnodaW97uS5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ce749cd90c8326361d00608",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ce749cd90c8326361d00608",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ce749cd90c8326361d00608",
+        "width" : 64
+      } ],
+      "name" : "Aurra / Shades",
+      "release_date" : "2018-10-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1kzP8UBu61YPnodaW97uS5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4t95822Jv53tQJK2iS4dKt",
+      "id" : "4t95822Jv53tQJK2iS4dKt",
+      "name" : "Donnie Sloan",
+      "type" : "artist",
+      "uri" : "spotify:artist:4t95822Jv53tQJK2iS4dKt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/66OCo8OcuPNrW6QLfmn7PE",
+      "id" : "66OCo8OcuPNrW6QLfmn7PE",
+      "name" : "Ricky Ducati",
+      "type" : "artist",
+      "uri" : "spotify:artist:66OCo8OcuPNrW6QLfmn7PE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLD91715890"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6U0GYSiAsb9bYvuOzQJLoq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6U0GYSiAsb9bYvuOzQJLoq",
+    "id" : "6U0GYSiAsb9bYvuOzQJLoq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Shades",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ab30a1f06fa0dbfa22bd330e4a3c7191670d9873?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6U0GYSiAsb9bYvuOzQJLoq"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+        "id" : "6nxWCVXbOlEVRexSbLsTer",
+        "name" : "Flume",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5J8UACGRZtDb4WdOzo9YJN",
+        "id" : "5J8UACGRZtDb4WdOzo9YJN",
+        "name" : "MAY-A",
+        "type" : "artist",
+        "uri" : "spotify:artist:5J8UACGRZtDb4WdOzo9YJN"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0AywNQAvz1VvpP0Hby2D6w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0AywNQAvz1VvpP0Hby2D6w",
+      "id" : "0AywNQAvz1VvpP0Hby2D6w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325408e1617c1902f4ec8d69c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225408e1617c1902f4ec8d69c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125408e1617c1902f4ec8d69c",
+        "width" : 64
+      } ],
+      "name" : "Say Nothing (feat. MAY-A) [Tchami Remix]",
+      "release_date" : "2022-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0AywNQAvz1VvpP0Hby2D6w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5J8UACGRZtDb4WdOzo9YJN",
+      "id" : "5J8UACGRZtDb4WdOzo9YJN",
+      "name" : "MAY-A",
+      "type" : "artist",
+      "uri" : "spotify:artist:5J8UACGRZtDb4WdOzo9YJN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 295300,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF02200096"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6EztmOFElf8Clh6NM60Lt3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6EztmOFElf8Clh6NM60Lt3",
+    "id" : "6EztmOFElf8Clh6NM60Lt3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Say Nothing (feat. MAY-A) - Tchami Remix",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8fe6c70ec838009e2db99fc4903af5f27f0fe5fe?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6EztmOFElf8Clh6NM60Lt3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FwJwEswyIUAljqgjNSHgP",
+        "id" : "2FwJwEswyIUAljqgjNSHgP",
+        "name" : "Snakehips",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FwJwEswyIUAljqgjNSHgP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7erfcSAjDkFRRHo4bTsXit",
+      "id" : "7erfcSAjDkFRRHo4bTsXit",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f4a604d0abfeb790256f8dd1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f4a604d0abfeb790256f8dd1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f4a604d0abfeb790256f8dd1",
+        "width" : 64
+      } ],
+      "name" : "Tonight",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7erfcSAjDkFRRHo4bTsXit"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FwJwEswyIUAljqgjNSHgP",
+      "id" : "2FwJwEswyIUAljqgjNSHgP",
+      "name" : "Snakehips",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FwJwEswyIUAljqgjNSHgP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 220669,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM4TW2239898"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4QoMRrDVsT1RVFq7Wy6xLM",
+    "id" : "4QoMRrDVsT1RVFq7Wy6xLM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Tonight",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e78139d11fe850665aec5f92d31921abc587e6d6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4QoMRrDVsT1RVFq7Wy6xLM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7uZZFBdOR9qqmmV5WLUDNP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7uZZFBdOR9qqmmV5WLUDNP",
+      "id" : "7uZZFBdOR9qqmmV5WLUDNP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bf95257575c35bc27fccd930",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bf95257575c35bc27fccd930",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bf95257575c35bc27fccd930",
+        "width" : 64
+      } ],
+      "name" : "After Life (feat. Stacy Barthe)",
+      "release_date" : "2015-03-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7uZZFBdOR9qqmmV5WLUDNP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0yq6uHIfFks9yOURUuCITV",
+      "id" : "0yq6uHIfFks9yOURUuCITV",
+      "name" : "Stacy Barthe",
+      "type" : "artist",
+      "uri" : "spotify:artist:0yq6uHIfFks9yOURUuCITV"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 293333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLD90810905"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3dhPpCQvw3kn7so6mkTbJ3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3dhPpCQvw3kn7so6mkTbJ3",
+    "id" : "3dhPpCQvw3kn7so6mkTbJ3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "After Life (feat. Stacy Barthe)",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3d313d4625f60049410dd9990e8d79b7e2562825?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3dhPpCQvw3kn7so6mkTbJ3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+        "id" : "540vIaP2JwjQb9dm3aArA4",
+        "name" : "DJ Snake",
+        "type" : "artist",
+        "uri" : "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2MFS6WG6jnPAgvJpV3PehR",
+      "id" : "2MFS6WG6jnPAgvJpV3PehR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273caf82abb2338880577e472be",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02caf82abb2338880577e472be",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851caf82abb2338880577e472be",
+        "width" : 64
+      } ],
+      "name" : "Carte Blanche",
+      "release_date" : "2019-07-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:2MFS6WG6jnPAgvJpV3PehR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+      "id" : "540vIaP2JwjQb9dm3aArA4",
+      "name" : "DJ Snake",
+      "type" : "artist",
+      "uri" : "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7w1eTNePApzDk8XtgykCPS",
+      "id" : "7w1eTNePApzDk8XtgykCPS",
+      "name" : "Malaa",
+      "type" : "artist",
+      "uri" : "spotify:artist:7w1eTNePApzDk8XtgykCPS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aSsnDTH11xS2yIn6cNtsF",
+      "id" : "7aSsnDTH11xS2yIn6cNtsF",
+      "name" : "Mercer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aSsnDTH11xS2yIn6cNtsF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 251428,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG11902392"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0E3L4BNuUlZyvcZyySTfKr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0E3L4BNuUlZyvcZyySTfKr",
+    "id" : "0E3L4BNuUlZyvcZyySTfKr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Made In France (with Tchami & Malaa, feat. Mercer)",
+    "popularity" : 57,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0E3L4BNuUlZyvcZyySTfKr"
+  } ]
+}

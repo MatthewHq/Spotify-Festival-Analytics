@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=MOCHAKK&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 94081
+      },
+      "genres" : [ "brazilian edm" ],
+      "href" : "https://api.spotify.com/v1/artists/0rTh1tAdrEbdKZBTiiAQSo",
+      "id" : "0rTh1tAdrEbdKZBTiiAQSo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb7db64fa80c00a6cf5de15d5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b7db64fa80c00a6cf5de15d5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b7db64fa80c00a6cf5de15d5",
+        "width" : 160
+      } ],
+      "name" : "Mochakk",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:0rTh1tAdrEbdKZBTiiAQSo"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

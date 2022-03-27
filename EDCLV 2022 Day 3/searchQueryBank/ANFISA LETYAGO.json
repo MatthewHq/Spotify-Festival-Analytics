@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=ANFISA+LETYAGO&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 50866
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7icoOm5fKKPo49jVxoj1Cq",
+      "id" : "7icoOm5fKKPo49jVxoj1Cq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfa3fce29b9e610cbf3993b72",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fa3fce29b9e610cbf3993b72",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fa3fce29b9e610cbf3993b72",
+        "width" : 160
+      } ],
+      "name" : "Anfisa Letyago",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:7icoOm5fKKPo49jVxoj1Cq"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

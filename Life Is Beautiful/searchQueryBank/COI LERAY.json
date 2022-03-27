@@ -1,0 +1,99 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=COI+LERAY&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 320300
+      },
+      "genres" : [ "new jersey underground rap", "pop r&b", "pop rap", "r&b", "trap queen", "viral rap" ],
+      "href" : "https://api.spotify.com/v1/artists/6AMd49uBDJfhf30Ak2QR5s",
+      "id" : "6AMd49uBDJfhf30Ak2QR5s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb135e57247124a2a126ec5c1d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174135e57247124a2a126ec5c1d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178135e57247124a2a126ec5c1d",
+        "width" : 160
+      } ],
+      "name" : "Coi Leray",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:6AMd49uBDJfhf30Ak2QR5s"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6LtZGxesHKIRKXuj3wAuM5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6LtZGxesHKIRKXuj3wAuM5",
+      "id" : "6LtZGxesHKIRKXuj3wAuM5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27307c6e110043e7619511a6ad8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0207c6e110043e7619511a6ad8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485107c6e110043e7619511a6ad8",
+        "width" : 64
+      } ],
+      "name" : "Coi Leray",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6LtZGxesHKIRKXuj3wAuM5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ubfRmBxhnic3Us0tdtsM1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0ubfRmBxhnic3Us0tdtsM1",
+      "id" : "0ubfRmBxhnic3Us0tdtsM1",
+      "images" : [ ],
+      "name" : "Coi Leray",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0ubfRmBxhnic3Us0tdtsM1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04dDPsmLha8f1IektQlzED"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/04dDPsmLha8f1IektQlzED",
+      "id" : "04dDPsmLha8f1IektQlzED",
+      "images" : [ ],
+      "name" : "Coi Leray",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:04dDPsmLha8f1IektQlzED"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

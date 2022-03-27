@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CHARLI+XCX&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2590683
+      },
+      "genres" : [ "art pop", "candy pop", "dance pop", "electropop", "metropopolis", "pop", "uk pop" ],
+      "href" : "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id" : "25uiPmTg16RbhZWAqwLBy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb576cb43281160e345f728b71",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174576cb43281160e345f728b71",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178576cb43281160e345f728b71",
+        "width" : 160
+      } ],
+      "name" : "Charli XCX",
+      "popularity" : 83,
+      "type" : "artist",
+      "uri" : "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2063193
+      },
+      "genres" : [ "pop", "rap", "trap" ],
+      "href" : "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+      "id" : "4Gso3d4CscCijv0lmajZWs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb99b82c644fb2a558dc28cd4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b99b82c644fb2a558dc28cd4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b99b82c644fb2a558dc28cd4",
+        "width" : 160
+      } ],
+      "name" : "Don Toliver",
+      "popularity" : 83,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 534201
+      },
+      "genres" : [ "double drumming", "indie pop", "indie poptimism", "modern alternative rock", "modern rock", "pop rock" ],
+      "href" : "https://api.spotify.com/v1/artists/2eam0iDomRHGBypaDQLwWI",
+      "id" : "2eam0iDomRHGBypaDQLwWI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb10b8516a9d63202c9e325260",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517410b8516a9d63202c9e325260",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17810b8516a9d63202c9e325260",
+        "width" : 160
+      } ],
+      "name" : "Bleachers",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:2eam0iDomRHGBypaDQLwWI"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

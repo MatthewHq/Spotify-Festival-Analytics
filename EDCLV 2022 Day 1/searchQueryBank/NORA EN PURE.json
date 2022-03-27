@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=NORA+EN+PURE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 314667
+      },
+      "genres" : [ "deep house", "electra", "house", "progressive house", "swiss pop", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/24DO0PijjITGIEWsO8XaPs",
+      "id" : "24DO0PijjITGIEWsO8XaPs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2d6db1d82461593938beef62",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742d6db1d82461593938beef62",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782d6db1d82461593938beef62",
+        "width" : 160
+      } ],
+      "name" : "Nora En Pure",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:24DO0PijjITGIEWsO8XaPs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6dzDTa68sKe5odZrzb160A"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6dzDTa68sKe5odZrzb160A",
+      "id" : "6dzDTa68sKe5odZrzb160A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7cf15d24785bf31d4ba994f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7cf15d24785bf31d4ba994f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7cf15d24785bf31d4ba994f",
+        "width" : 64
+      } ],
+      "name" : "Passenger 10 & Nora En Pure",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6dzDTa68sKe5odZrzb160A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZrkdWGKNMZflBJEyI7TAY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 350
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2ZrkdWGKNMZflBJEyI7TAY",
+      "id" : "2ZrkdWGKNMZflBJEyI7TAY",
+      "images" : [ ],
+      "name" : "Nora & Pure",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZrkdWGKNMZflBJEyI7TAY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4OSBaf3tvoU2X5CRqpXQyT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 47
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4OSBaf3tvoU2X5CRqpXQyT",
+      "id" : "4OSBaf3tvoU2X5CRqpXQyT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732c4500656ca9b78af822ff6f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022c4500656ca9b78af822ff6f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512c4500656ca9b78af822ff6f",
+        "width" : 64
+      } ],
+      "name" : "Daniel Portman & Nora En Pure",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4OSBaf3tvoU2X5CRqpXQyT"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

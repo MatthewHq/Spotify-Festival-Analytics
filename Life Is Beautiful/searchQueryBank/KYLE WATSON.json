@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=KYLE+WATSON&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 89753
+      },
+      "genres" : [ "bass house", "deep groove house", "edm", "electro house", "fidget house", "house" ],
+      "href" : "https://api.spotify.com/v1/artists/7LJSAfWhO7jhjnewy6pKyZ",
+      "id" : "7LJSAfWhO7jhjnewy6pKyZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb53875432a86ffddc0883e4ec",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517453875432a86ffddc0883e4ec",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17853875432a86ffddc0883e4ec",
+        "width" : 160
+      } ],
+      "name" : "Kyle Watson",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:7LJSAfWhO7jhjnewy6pKyZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1z8hbtpWAvFBzZpsbSgRDm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1z8hbtpWAvFBzZpsbSgRDm",
+      "id" : "1z8hbtpWAvFBzZpsbSgRDm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d785bdb7149f0bd48642cbee",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d785bdb7149f0bd48642cbee",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d785bdb7149f0bd48642cbee",
+        "width" : 64
+      } ],
+      "name" : "Kyle Watson",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1z8hbtpWAvFBzZpsbSgRDm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/63UiFS5b0ctM7iOYRDDu5V"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/63UiFS5b0ctM7iOYRDDu5V",
+      "id" : "63UiFS5b0ctM7iOYRDDu5V",
+      "images" : [ ],
+      "name" : "Kyle Lee Watson",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:63UiFS5b0ctM7iOYRDDu5V"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/01wc7gwPgulSr76qW1O2GJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 194
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/01wc7gwPgulSr76qW1O2GJ",
+      "id" : "01wc7gwPgulSr76qW1O2GJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb414ec616ca72ae9d509dada0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174414ec616ca72ae9d509dada0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178414ec616ca72ae9d509dada0",
+        "width" : 160
+      } ],
+      "name" : "Kyle M Watson",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:01wc7gwPgulSr76qW1O2GJ"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

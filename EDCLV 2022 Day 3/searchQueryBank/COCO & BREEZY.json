@@ -1,0 +1,563 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=COCO+&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 216290
+      },
+      "genres" : [ "preschool children's music" ],
+      "href" : "https://api.spotify.com/v1/artists/6SXTTUJxIVwMbc1POrviTr",
+      "id" : "6SXTTUJxIVwMbc1POrviTr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb03517ccafde33408c33830c8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517403517ccafde33408c33830c8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17803517ccafde33408c33830c8",
+        "width" : 160
+      } ],
+      "name" : "Cocomelon",
+      "popularity" : 75,
+      "type" : "artist",
+      "uri" : "spotify:artist:6SXTTUJxIVwMbc1POrviTr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 28498
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3okQioJzZzTM7LwENIdd18",
+      "id" : "3okQioJzZzTM7LwENIdd18",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebae8b77e8f9c7ae896eb9d526",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ae8b77e8f9c7ae896eb9d526",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ae8b77e8f9c7ae896eb9d526",
+        "width" : 160
+      } ],
+      "name" : "Joel DELEÓN",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:3okQioJzZzTM7LwENIdd18"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 94153
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5FkMS3KgG0cjiRm250NFTJ",
+      "id" : "5FkMS3KgG0cjiRm250NFTJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6f2b0727fbc0ef915f6ee7a7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746f2b0727fbc0ef915f6ee7a7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786f2b0727fbc0ef915f6ee7a7",
+        "width" : 160
+      } ],
+      "name" : "Coco & Clair Clair",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:5FkMS3KgG0cjiRm250NFTJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 135613
+      },
+      "genres" : [ "indie pop", "indie rock", "la indie", "stomp and holler" ],
+      "href" : "https://api.spotify.com/v1/artists/2YKp8Odp8GGbAkVU60Yk2Y",
+      "id" : "2YKp8Odp8GGbAkVU60Yk2Y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebedffea18ed38c5bb98bf5a48",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174edffea18ed38c5bb98bf5a48",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178edffea18ed38c5bb98bf5a48",
+        "width" : 160
+      } ],
+      "name" : "Coconut Records",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:2YKp8Odp8GGbAkVU60Yk2Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11848
+      },
+      "genres" : [ "danish pop", "scandinavian r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/4cc6PmIfhsUCGJUU9QsxEy",
+      "id" : "4cc6PmIfhsUCGJUU9QsxEy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9d198c09d48c6f5e259dfa11",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749d198c09d48c6f5e259dfa11",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789d198c09d48c6f5e259dfa11",
+        "width" : 160
+      } ],
+      "name" : "Coco O.",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:4cc6PmIfhsUCGJUU9QsxEy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 174628
+      },
+      "genres" : [ "post-teen pop" ],
+      "href" : "https://api.spotify.com/v1/artists/4DHLoiIqFYYFjH09WduvFd",
+      "id" : "4DHLoiIqFYYFjH09WduvFd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb90ffa4be24172a9aa768ef63",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517490ffa4be24172a9aa768ef63",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17890ffa4be24172a9aa768ef63",
+        "width" : 160
+      } ],
+      "name" : "Coco Jones",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:4DHLoiIqFYYFjH09WduvFd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3fzdEku6pdUjNuDpgUrEpG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 207657
+      },
+      "genres" : [ "social media pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3fzdEku6pdUjNuDpgUrEpG",
+      "id" : "3fzdEku6pdUjNuDpgUrEpG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb01aa11458a196612778ae6e2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517401aa11458a196612778ae6e2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17801aa11458a196612778ae6e2",
+        "width" : 160
+      } ],
+      "name" : "Coco Quinn",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:3fzdEku6pdUjNuDpgUrEpG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1eXbxTRUsI5OKMp77hpDef"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2311
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1eXbxTRUsI5OKMp77hpDef",
+      "id" : "1eXbxTRUsI5OKMp77hpDef",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb43ccdafbd4746a2dd9a04216",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517443ccdafbd4746a2dd9a04216",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17843ccdafbd4746a2dd9a04216",
+        "width" : 160
+      } ],
+      "name" : "Sweet Cocoa",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:1eXbxTRUsI5OKMp77hpDef"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05fo024EFotg9songSENOZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 327733
+      },
+      "genres" : [ "art pop", "folktronica", "freak folk", "new weird america" ],
+      "href" : "https://api.spotify.com/v1/artists/05fo024EFotg9songSENOZ",
+      "id" : "05fo024EFotg9songSENOZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb301e22f2f3a157267b4bb717",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174301e22f2f3a157267b4bb717",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178301e22f2f3a157267b4bb717",
+        "width" : 160
+      } ],
+      "name" : "CocoRosie",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:05fo024EFotg9songSENOZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 123854
+      },
+      "genres" : [ "lovers rock", "old school dancehall", "reggae", "roots reggae" ],
+      "href" : "https://api.spotify.com/v1/artists/7z7anCUBwfJUFuTQ4D1x6R",
+      "id" : "7z7anCUBwfJUFuTQ4D1x6R",
+      "images" : [ {
+        "height" : 746,
+        "url" : "https://i.scdn.co/image/c55edfbaf8bf8c35e5ee287f7aeeb863e7e862d3",
+        "width" : 714
+      }, {
+        "height" : 669,
+        "url" : "https://i.scdn.co/image/1dee0caa0ddac85060612124759093490f86622f",
+        "width" : 640
+      }, {
+        "height" : 209,
+        "url" : "https://i.scdn.co/image/95791f4350f4ba3158438759ae958bc5b6eb6b25",
+        "width" : 200
+      }, {
+        "height" : 67,
+        "url" : "https://i.scdn.co/image/f636785747da78f17817e7165191adbb226bb8c6",
+        "width" : 64
+      } ],
+      "name" : "Cocoa Tea",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:7z7anCUBwfJUFuTQ4D1x6R"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2628
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5Rh6PMrlYoyU5xhR36YAfX",
+      "id" : "5Rh6PMrlYoyU5xhR36YAfX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe3d4a13bfb80526394728475",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e3d4a13bfb80526394728475",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e3d4a13bfb80526394728475",
+        "width" : 160
+      } ],
+      "name" : "Cocoa Sarai",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Rh6PMrlYoyU5xhR36YAfX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NxTtZTeJqQ1n27i2qnPCe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6272
+      },
+      "genres" : [ "indie folk" ],
+      "href" : "https://api.spotify.com/v1/artists/4NxTtZTeJqQ1n27i2qnPCe",
+      "id" : "4NxTtZTeJqQ1n27i2qnPCe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb859dcc71d9c9ab606c81358c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174859dcc71d9c9ab606c81358c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178859dcc71d9c9ab606c81358c",
+        "width" : 160
+      } ],
+      "name" : "Coco",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:4NxTtZTeJqQ1n27i2qnPCe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5869
+      },
+      "genres" : [ "ukg revival" ],
+      "href" : "https://api.spotify.com/v1/artists/7q33wxvdJ95u6w3fY2q5ai",
+      "id" : "7q33wxvdJ95u6w3fY2q5ai",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba4a8b8810861f2e774cc7072",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a4a8b8810861f2e774cc7072",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a4a8b8810861f2e774cc7072",
+        "width" : 160
+      } ],
+      "name" : "Coco",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:7q33wxvdJ95u6w3fY2q5ai"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23256
+      },
+      "genres" : [ "channel pop", "viral pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6WyeyhNDpeIVbznnztFDQZ",
+      "id" : "6WyeyhNDpeIVbznnztFDQZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe945c4b7c876021369a6eccb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e945c4b7c876021369a6eccb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e945c4b7c876021369a6eccb",
+        "width" : 160
+      } ],
+      "name" : "Jake Coco",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:6WyeyhNDpeIVbznnztFDQZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 107098
+      },
+      "genres" : [ "chanson", "french indie pop", "french pop", "french rock", "nouvelle chanson francaise" ],
+      "href" : "https://api.spotify.com/v1/artists/15h5B5quwDm2C1rhbtvUPD",
+      "id" : "15h5B5quwDm2C1rhbtvUPD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0f5bda741ed1c064e53f952f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740f5bda741ed1c064e53f952f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780f5bda741ed1c064e53f952f",
+        "width" : 160
+      } ],
+      "name" : "Cocoon",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:15h5B5quwDm2C1rhbtvUPD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20498
+      },
+      "genres" : [ "dominican pop", "latin", "merengue", "tropical" ],
+      "href" : "https://api.spotify.com/v1/artists/5AWKC0rd625VHM69d7X2tu",
+      "id" : "5AWKC0rd625VHM69d7X2tu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734f16eb43f8e919135002e5da",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024f16eb43f8e919135002e5da",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514f16eb43f8e919135002e5da",
+        "width" : 64
+      } ],
+      "name" : "Pochy Y Su Cocoband",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:5AWKC0rd625VHM69d7X2tu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3012
+      },
+      "genres" : [ "soulful house" ],
+      "href" : "https://api.spotify.com/v1/artists/0Adbm5kzcPUxFybf9fhjgG",
+      "id" : "0Adbm5kzcPUxFybf9fhjgG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2b9bb48d2ac995c130c08354",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742b9bb48d2ac995c130c08354",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782b9bb48d2ac995c130c08354",
+        "width" : 160
+      } ],
+      "name" : "Coco & Breezy",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Adbm5kzcPUxFybf9fhjgG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Eg8KVh42EL88pKwUA1E2l"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2531
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1Eg8KVh42EL88pKwUA1E2l",
+      "id" : "1Eg8KVh42EL88pKwUA1E2l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcfa39741c3ccace4498e231a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cfa39741c3ccace4498e231a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cfa39741c3ccace4498e231a",
+        "width" : 160
+      } ],
+      "name" : "Cocomelon Canciones Infantiles",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Eg8KVh42EL88pKwUA1E2l"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 71551
+      },
+      "genres" : [ "c-pop", "classic mandopop", "mandopop", "taiwan pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3ioHf138TiMxYRCWmC8yJX",
+      "id" : "3ioHf138TiMxYRCWmC8yJX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5f4065562a0e20902f42c2e5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745f4065562a0e20902f42c2e5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785f4065562a0e20902f42c2e5",
+        "width" : 160
+      } ],
+      "name" : "CoCo Lee",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:3ioHf138TiMxYRCWmC8yJX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MazSyKTOA5RzHI1zWUXFa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5MazSyKTOA5RzHI1zWUXFa",
+      "id" : "5MazSyKTOA5RzHI1zWUXFa",
+      "images" : [ ],
+      "name" : "Los Cocos",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:5MazSyKTOA5RzHI1zWUXFa"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=COCO+&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2652
+  }
+}

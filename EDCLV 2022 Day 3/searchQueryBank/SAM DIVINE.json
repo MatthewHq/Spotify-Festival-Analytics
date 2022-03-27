@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SAM+DIVINE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35044
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/029RjYsk0DU8LKC92sUyXZ",
+      "id" : "029RjYsk0DU8LKC92sUyXZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb356c81c7d4596547496ec698",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174356c81c7d4596547496ec698",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178356c81c7d4596547496ec698",
+        "width" : 160
+      } ],
+      "name" : "Sam Divine",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:029RjYsk0DU8LKC92sUyXZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ewdAdYEofDtwJetPPp1XB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3ewdAdYEofDtwJetPPp1XB",
+      "id" : "3ewdAdYEofDtwJetPPp1XB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737d1f8bc2619be1f5ca1a337d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027d1f8bc2619be1f5ca1a337d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517d1f8bc2619be1f5ca1a337d",
+        "width" : 64
+      } ],
+      "name" : "Evang. Divinewill Samuel",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3ewdAdYEofDtwJetPPp1XB"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BORGORE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 567095
+      },
+      "genres" : [ "brostep", "classic dubstep", "dubstep", "edm", "electro house", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/7u160I5qtBYZTQMLEIJmyz",
+      "id" : "7u160I5qtBYZTQMLEIJmyz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6da689273a6f76a966518bf4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746da689273a6f76a966518bf4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786da689273a6f76a966518bf4",
+        "width" : 160
+      } ],
+      "name" : "Borgore",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:7u160I5qtBYZTQMLEIJmyz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5036830
+      },
+      "genres" : [ "indie pop rap", "oakland hip hop", "pop", "pop rap", "rap" ],
+      "href" : "https://api.spotify.com/v1/artists/02kJSzxNuaWGqwubyUba0Z",
+      "id" : "02kJSzxNuaWGqwubyUba0Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe818f7ca0d47f038a9aa246a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e818f7ca0d47f038a9aa246a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e818f7ca0d47f038a9aa246a",
+        "width" : 160
+      } ],
+      "name" : "G-Eazy",
+      "popularity" : 81,
+      "type" : "artist",
+      "uri" : "spotify:artist:02kJSzxNuaWGqwubyUba0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1enCBmZywkhU31J5t1RIPb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 45
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1enCBmZywkhU31J5t1RIPb",
+      "id" : "1enCBmZywkhU31J5t1RIPb",
+      "images" : [ ],
+      "name" : "BORGORE",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:1enCBmZywkhU31J5t1RIPb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2KLC76vyeN2auUiLP33RZ9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1675
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2KLC76vyeN2auUiLP33RZ9",
+      "id" : "2KLC76vyeN2auUiLP33RZ9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273db61fe8ef61cf5f06095d752",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02db61fe8ef61cf5f06095d752",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851db61fe8ef61cf5f06095d752",
+        "width" : 64
+      } ],
+      "name" : "Carnage & Borgore",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:2KLC76vyeN2auUiLP33RZ9"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

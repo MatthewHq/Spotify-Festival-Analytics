@@ -1,0 +1,862 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6tUJpYN2aYiXbzAcg0pIOo",
+        "id" : "6tUJpYN2aYiXbzAcg0pIOo",
+        "name" : "Sinéad Harnett",
+        "type" : "artist",
+        "uri" : "spotify:artist:6tUJpYN2aYiXbzAcg0pIOo"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7rNip34CBX1Ce66Yaccqwn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7rNip34CBX1Ce66Yaccqwn",
+      "id" : "7rNip34CBX1Ce66Yaccqwn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d59575e500152138268f0314",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d59575e500152138268f0314",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d59575e500152138268f0314",
+        "width" : 64
+      } ],
+      "name" : "Unconditional",
+      "release_date" : "2017-10-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:7rNip34CBX1Ce66Yaccqwn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6tUJpYN2aYiXbzAcg0pIOo",
+      "id" : "6tUJpYN2aYiXbzAcg0pIOo",
+      "name" : "Sinéad Harnett",
+      "type" : "artist",
+      "uri" : "spotify:artist:6tUJpYN2aYiXbzAcg0pIOo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 246946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBQGW1700068"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7IITbM93TjfDQYP7wT6E9G"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7IITbM93TjfDQYP7wT6E9G",
+    "id" : "7IITbM93TjfDQYP7wT6E9G",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Unconditional - Sonny Fodera Remix",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fb8ba240c8662d6c3ca7878ff87cfdc13f4e1672?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7IITbM93TjfDQYP7wT6E9G"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+        "id" : "28uJnu5EsrGml2tBd7y8ts",
+        "name" : "Vintage Culture",
+        "type" : "artist",
+        "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwuShKjJItDJez0aDCsxN",
+        "id" : "1ZwuShKjJItDJez0aDCsxN",
+        "name" : "SHELLS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwuShKjJItDJez0aDCsxN"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/217RKKVaQMcI0f8iOgnjFC",
+      "id" : "217RKKVaQMcI0f8iOgnjFC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d1cb54081e958a172f3d87bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d1cb54081e958a172f3d87bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d1cb54081e958a172f3d87bb",
+        "width" : 64
+      } ],
+      "name" : "Nightjar (feat. SHELLS)",
+      "release_date" : "2022-01-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:217RKKVaQMcI0f8iOgnjFC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwuShKjJItDJez0aDCsxN",
+      "id" : "1ZwuShKjJItDJez0aDCsxN",
+      "name" : "SHELLS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwuShKjJItDJez0aDCsxN"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 149455,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2120440"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2rNy5Ils7RO6m2E2W83CR5",
+    "id" : "2rNy5Ils7RO6m2E2W83CR5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nightjar (feat. SHELLS)",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/472cbcd4887620eacc9b8fddc99bf8e2d8d59eea?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2rNy5Ils7RO6m2E2W83CR5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/052B9SONfhoScw7dgYWw5o",
+        "id" : "052B9SONfhoScw7dgYWw5o",
+        "name" : "Biscits",
+        "type" : "artist",
+        "uri" : "spotify:artist:052B9SONfhoScw7dgYWw5o"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46f0tRgvuc70TDx8P4dMId",
+      "id" : "46f0tRgvuc70TDx8P4dMId",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f3e2ff14a5a7ec929b84b64d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f3e2ff14a5a7ec929b84b64d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f3e2ff14a5a7ec929b84b64d",
+        "width" : 64
+      } ],
+      "name" : "About You",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:46f0tRgvuc70TDx8P4dMId"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/052B9SONfhoScw7dgYWw5o",
+      "id" : "052B9SONfhoScw7dgYWw5o",
+      "name" : "Biscits",
+      "type" : "artist",
+      "uri" : "spotify:artist:052B9SONfhoScw7dgYWw5o"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218500,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2223296"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4IoWprg6W4DxHjxm1Pi4KT",
+    "id" : "4IoWprg6W4DxHjxm1Pi4KT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "About You",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/01eb9d0b56960b7999a67c88ef83a1926cbbd263?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4IoWprg6W4DxHjxm1Pi4KT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+        "id" : "5fMUXHkw8R8eOP2RNVYEZX",
+        "name" : "Diplo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UfQcPyvA6doqyPEd5WajQ",
+      "id" : "6UfQcPyvA6doqyPEd5WajQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273546a85c1b7964b4cebfffd11",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02546a85c1b7964b4cebfffd11",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851546a85c1b7964b4cebfffd11",
+        "width" : 64
+      } ],
+      "name" : "Turn Back Time",
+      "release_date" : "2020-11-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6UfQcPyvA6doqyPEd5WajQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+      "id" : "5fMUXHkw8R8eOP2RNVYEZX",
+      "name" : "Diplo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 147260,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V2000486"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/27bZ77uG7mEhydpaPvThR6",
+    "id" : "27bZ77uG7mEhydpaPvThR6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Turn Back Time",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/efd630c1748e999bc59ec03319651e0d0bcf1218?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:27bZ77uG7mEhydpaPvThR6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ZdTjmwJ2yZt1UqpEh3cJY",
+      "id" : "6ZdTjmwJ2yZt1UqpEh3cJY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273af949e9b2a428bdb8b766e7e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02af949e9b2a428bdb8b766e7e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851af949e9b2a428bdb8b766e7e",
+        "width" : 64
+      } ],
+      "name" : "Wide Awake",
+      "release_date" : "2021-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6ZdTjmwJ2yZt1UqpEh3cJY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4DWuml4Jf6K81b5rAPwMb6",
+      "id" : "4DWuml4Jf6K81b5rAPwMb6",
+      "name" : "Clementine Douglas",
+      "type" : "artist",
+      "uri" : "spotify:artist:4DWuml4Jf6K81b5rAPwMb6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 189699,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2108673"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7lO4AytU02GtoKMFWeMvyR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7lO4AytU02GtoKMFWeMvyR",
+    "id" : "7lO4AytU02GtoKMFWeMvyR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Angel (feat. Clementine Douglas)",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/41daf98c2a71537dff0f34593359e4b7f338b235?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7lO4AytU02GtoKMFWeMvyR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bazJLWIv8CuqmgxJRiGqo",
+        "id" : "4bazJLWIv8CuqmgxJRiGqo",
+        "name" : "Just Kiddin",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bazJLWIv8CuqmgxJRiGqo"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2s8bgT1CE6KOA0a2omeCDk",
+        "id" : "2s8bgT1CE6KOA0a2omeCDk",
+        "name" : "Lilly Ahlberg",
+        "type" : "artist",
+        "uri" : "spotify:artist:2s8bgT1CE6KOA0a2omeCDk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17qrrXvZu8TdkH4xrIjaRr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17qrrXvZu8TdkH4xrIjaRr",
+      "id" : "17qrrXvZu8TdkH4xrIjaRr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27384e0c655c0bc0717ec7596b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0284e0c655c0bc0717ec7596b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485184e0c655c0bc0717ec7596b8",
+        "width" : 64
+      } ],
+      "name" : "Closer (feat. Lilly Ahlberg)",
+      "release_date" : "2021-04-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:17qrrXvZu8TdkH4xrIjaRr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bazJLWIv8CuqmgxJRiGqo",
+      "id" : "4bazJLWIv8CuqmgxJRiGqo",
+      "name" : "Just Kiddin",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bazJLWIv8CuqmgxJRiGqo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2s8bgT1CE6KOA0a2omeCDk",
+      "id" : "2s8bgT1CE6KOA0a2omeCDk",
+      "name" : "Lilly Ahlberg",
+      "type" : "artist",
+      "uri" : "spotify:artist:2s8bgT1CE6KOA0a2omeCDk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 169901,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM72102319"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5FDdviWQzhw7NWH2TiDl9d",
+    "id" : "5FDdviWQzhw7NWH2TiDl9d",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Closer (feat. Lilly Ahlberg)",
+    "popularity" : 65,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5FDdviWQzhw7NWH2TiDl9d"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1yqxFtPHKcGcv6SXZNdyT9",
+        "id" : "1yqxFtPHKcGcv6SXZNdyT9",
+        "name" : "MK",
+        "type" : "artist",
+        "uri" : "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7yA2y59fjfh7VaIuwg3sfZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7yA2y59fjfh7VaIuwg3sfZ",
+      "id" : "7yA2y59fjfh7VaIuwg3sfZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e73e4a55a786cc83ddde8735",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e73e4a55a786cc83ddde8735",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e73e4a55a786cc83ddde8735",
+        "width" : 64
+      } ],
+      "name" : "One Night (feat. Raphaella)",
+      "release_date" : "2019-11-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7yA2y59fjfh7VaIuwg3sfZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yqxFtPHKcGcv6SXZNdyT9",
+      "id" : "1yqxFtPHKcGcv6SXZNdyT9",
+      "name" : "MK",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rJPS8fYBokXpYw1mS9wr0",
+      "id" : "3rJPS8fYBokXpYw1mS9wr0",
+      "name" : "Raphaella",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rJPS8fYBokXpYw1mS9wr0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 161883,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1901144"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4QUA94c3ycZm8dnpPih4sf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4QUA94c3ycZm8dnpPih4sf",
+    "id" : "4QUA94c3ycZm8dnpPih4sf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "One Night (feat. Raphaella)",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/226dd264adab28bba1ceb45c1a45586101dbae75?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4QUA94c3ycZm8dnpPih4sf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ZdTjmwJ2yZt1UqpEh3cJY",
+      "id" : "6ZdTjmwJ2yZt1UqpEh3cJY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273af949e9b2a428bdb8b766e7e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02af949e9b2a428bdb8b766e7e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851af949e9b2a428bdb8b766e7e",
+        "width" : 64
+      } ],
+      "name" : "Wide Awake",
+      "release_date" : "2021-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6ZdTjmwJ2yZt1UqpEh3cJY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/66TrUkUZ3RM29dqeDQRgyA",
+      "id" : "66TrUkUZ3RM29dqeDQRgyA",
+      "name" : "Ella Eyre",
+      "type" : "artist",
+      "uri" : "spotify:artist:66TrUkUZ3RM29dqeDQRgyA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202652,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAYE2000976"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2b2E371s5ZO2elIb47XGKG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2b2E371s5ZO2elIb47XGKG",
+    "id" : "2b2E371s5ZO2elIb47XGKG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wired (with Ella Eyre)",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c0da518d19bf6dbe6739e2a877d3da9adac846e6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:2b2E371s5ZO2elIb47XGKG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6ZdTjmwJ2yZt1UqpEh3cJY",
+      "id" : "6ZdTjmwJ2yZt1UqpEh3cJY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273af949e9b2a428bdb8b766e7e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02af949e9b2a428bdb8b766e7e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851af949e9b2a428bdb8b766e7e",
+        "width" : 64
+      } ],
+      "name" : "Wide Awake",
+      "release_date" : "2021-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6ZdTjmwJ2yZt1UqpEh3cJY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "name" : "Vintage Culture",
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57Vnemieu10x71jR2UWc4o",
+      "id" : "57Vnemieu10x71jR2UWc4o",
+      "name" : "MKLA",
+      "type" : "artist",
+      "uri" : "spotify:artist:57Vnemieu10x71jR2UWc4o"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238585,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2108682"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1pc5IseLeOPQCZ0tzMao9s"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1pc5IseLeOPQCZ0tzMao9s",
+    "id" : "1pc5IseLeOPQCZ0tzMao9s",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Last Thought (feat. MKLA)",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9eb5512e6bc86ee5c77d0d3279e23d98a5ee29e0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:1pc5IseLeOPQCZ0tzMao9s"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+        "id" : "39B7ChWwrWDs7zXlsu3MoP",
+        "name" : "Sonny Fodera",
+        "type" : "artist",
+        "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ifm2XNCELfZoERJQvpTd8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ifm2XNCELfZoERJQvpTd8",
+      "id" : "2ifm2XNCELfZoERJQvpTd8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b307d6e1e60b63a8ae2cbfa7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b307d6e1e60b63a8ae2cbfa7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b307d6e1e60b63a8ae2cbfa7",
+        "width" : 64
+      } ],
+      "name" : "Into You",
+      "release_date" : "2019-04-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2ifm2XNCELfZoERJQvpTd8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "name" : "Sonny Fodera",
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6tUJpYN2aYiXbzAcg0pIOo",
+      "id" : "6tUJpYN2aYiXbzAcg0pIOo",
+      "name" : "Sinéad Harnett",
+      "type" : "artist",
+      "uri" : "spotify:artist:6tUJpYN2aYiXbzAcg0pIOo"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214838,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR10S1984896"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/58EBmg7pg5VFnOttLTICRj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/58EBmg7pg5VFnOttLTICRj",
+    "id" : "58EBmg7pg5VFnOttLTICRj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Into You",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3ccf8d0b9c5204e900a7dbb07eabc75c35dae742?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:58EBmg7pg5VFnOttLTICRj"
+  } ]
+}

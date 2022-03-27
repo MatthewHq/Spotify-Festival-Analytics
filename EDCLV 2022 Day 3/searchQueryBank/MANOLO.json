@@ -1,0 +1,571 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=MANOLO&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 542018
+      },
+      "genres" : [ "cantautor", "rumba", "spanish pop" ],
+      "href" : "https://api.spotify.com/v1/artists/4eBTqTx5ssOK5YwmijmfU4",
+      "id" : "4eBTqTx5ssOK5YwmijmfU4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4be9a77da91138c2d7c3198c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744be9a77da91138c2d7c3198c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784be9a77da91138c2d7c3198c",
+        "width" : 160
+      } ],
+      "name" : "Manolo Garcia",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:4eBTqTx5ssOK5YwmijmfU4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6T501uPl5DjRzlJQu9Mvwl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6T501uPl5DjRzlJQu9Mvwl",
+      "id" : "6T501uPl5DjRzlJQu9Mvwl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebae975afbef8e94b668c0ad22",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ae975afbef8e94b668c0ad22",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ae975afbef8e94b668c0ad22",
+        "width" : 160
+      } ],
+      "name" : "MANOLO",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6T501uPl5DjRzlJQu9Mvwl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 42378
+      },
+      "genres" : [ "bolero", "mexican rock-and-roll", "pop romantico", "ranchera" ],
+      "href" : "https://api.spotify.com/v1/artists/7EZiK5F8Cpm9JABw1vMVSu",
+      "id" : "7EZiK5F8Cpm9JABw1vMVSu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a0ca6d1ee16056fe5a5e7616",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a0ca6d1ee16056fe5a5e7616",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a0ca6d1ee16056fe5a5e7616",
+        "width" : 64
+      } ],
+      "name" : "Manolo Muñoz",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:7EZiK5F8Cpm9JABw1vMVSu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SG96KWhgaZlnLZO18KUHA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 136274
+      },
+      "genres" : [ "pop romantico" ],
+      "href" : "https://api.spotify.com/v1/artists/1SG96KWhgaZlnLZO18KUHA",
+      "id" : "1SG96KWhgaZlnLZO18KUHA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cc2f3fd4c414f9eadddb750",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cc2f3fd4c414f9eadddb750",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cc2f3fd4c414f9eadddb750",
+        "width" : 64
+      } ],
+      "name" : "Manolo Galvan",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:1SG96KWhgaZlnLZO18KUHA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5un0Qpk5WnHG8cjCbyo5QL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3704
+      },
+      "genres" : [ "deep underground hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/5un0Qpk5WnHG8cjCbyo5QL",
+      "id" : "5un0Qpk5WnHG8cjCbyo5QL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe17e7fe73b52f74d115a5ea0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e17e7fe73b52f74d115a5ea0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e17e7fe73b52f74d115a5ea0",
+        "width" : 160
+      } ],
+      "name" : "Manolo Rose",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:5un0Qpk5WnHG8cjCbyo5QL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GnfEuTDrnm2YRAlYjhtH6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4853
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3GnfEuTDrnm2YRAlYjhtH6",
+      "id" : "3GnfEuTDrnm2YRAlYjhtH6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a3c9b0e96de949a345f55a8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a3c9b0e96de949a345f55a8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a3c9b0e96de949a345f55a8",
+        "width" : 64
+      } ],
+      "name" : "Manolo",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:3GnfEuTDrnm2YRAlYjhtH6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3h35pcOfc9nGveI4JBaCCh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3723
+      },
+      "genres" : [ "deep norteno" ],
+      "href" : "https://api.spotify.com/v1/artists/3h35pcOfc9nGveI4JBaCCh",
+      "id" : "3h35pcOfc9nGveI4JBaCCh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a95f7f00c4832c4fc48954af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a95f7f00c4832c4fc48954af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a95f7f00c4832c4fc48954af",
+        "width" : 64
+      } ],
+      "name" : "El Primo Manolo Y Sus Rieleros",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:3h35pcOfc9nGveI4JBaCCh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FcmcDUoPk0KWr1N83ArPc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2011
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0FcmcDUoPk0KWr1N83ArPc",
+      "id" : "0FcmcDUoPk0KWr1N83ArPc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dca6ea7288dc60ab95b03878",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dca6ea7288dc60ab95b03878",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dca6ea7288dc60ab95b03878",
+        "width" : 64
+      } ],
+      "name" : "Manolo",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0FcmcDUoPk0KWr1N83ArPc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RV8jUtBYlqrVqX4uqPhoJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 81889
+      },
+      "genres" : [ "cancion melodica", "pop romantico" ],
+      "href" : "https://api.spotify.com/v1/artists/1RV8jUtBYlqrVqX4uqPhoJ",
+      "id" : "1RV8jUtBYlqrVqX4uqPhoJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737bac3042c6f8882870d41e21",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027bac3042c6f8882870d41e21",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517bac3042c6f8882870d41e21",
+        "width" : 64
+      } ],
+      "name" : "Manolo Otero",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:1RV8jUtBYlqrVqX4uqPhoJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ETTu8uj0MRTTUfCjIZ6nK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 104
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5ETTu8uj0MRTTUfCjIZ6nK",
+      "id" : "5ETTu8uj0MRTTUfCjIZ6nK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf3728366226b88fafc6c334e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f3728366226b88fafc6c334e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f3728366226b88fafc6c334e",
+        "width" : 160
+      } ],
+      "name" : "Manolo Giuliani",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ETTu8uj0MRTTUfCjIZ6nK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17358
+      },
+      "genres" : [ "flamenco", "flamenco guitar", "rumba" ],
+      "href" : "https://api.spotify.com/v1/artists/64CGnwp39uOxZSq2BfqWsi",
+      "id" : "64CGnwp39uOxZSq2BfqWsi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736263abb669877474fa78bc95",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026263abb669877474fa78bc95",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516263abb669877474fa78bc95",
+        "width" : 64
+      } ],
+      "name" : "Manolo Sanlucar",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:64CGnwp39uOxZSq2BfqWsi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gyFPwPjI8N3wIyTghT7xw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 52413
+      },
+      "genres" : [ "cantautor", "spanish new wave", "spanish pop" ],
+      "href" : "https://api.spotify.com/v1/artists/7gyFPwPjI8N3wIyTghT7xw",
+      "id" : "7gyFPwPjI8N3wIyTghT7xw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734e2d542fe73c3435aceea762",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024e2d542fe73c3435aceea762",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514e2d542fe73c3435aceea762",
+        "width" : 64
+      } ],
+      "name" : "Manolo Tena",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:7gyFPwPjI8N3wIyTghT7xw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2445
+      },
+      "genres" : [ "puerto rican pop" ],
+      "href" : "https://api.spotify.com/v1/artists/2Y4HyZqAPMu0R6nvl5rWgW",
+      "id" : "2Y4HyZqAPMu0R6nvl5rWgW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcdb8de3e5e74f6fad8905c9a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cdb8de3e5e74f6fad8905c9a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cdb8de3e5e74f6fad8905c9a",
+        "width" : 160
+      } ],
+      "name" : "Manolo Ramos",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Y4HyZqAPMu0R6nvl5rWgW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04DRIoOlVOFbLo9bykua27"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5812
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/04DRIoOlVOFbLo9bykua27",
+      "id" : "04DRIoOlVOFbLo9bykua27",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731818a85e657109025535614c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021818a85e657109025535614c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511818a85e657109025535614c",
+        "width" : 64
+      } ],
+      "name" : "Manolo DJ",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:04DRIoOlVOFbLo9bykua27"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1LvyyJfFldtPPDGf66ue0Z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15295
+      },
+      "genres" : [ "salsa venezolana" ],
+      "href" : "https://api.spotify.com/v1/artists/1LvyyJfFldtPPDGf66ue0Z",
+      "id" : "1LvyyJfFldtPPDGf66ue0Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd8ef83a97e1e3c2631ec034e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d8ef83a97e1e3c2631ec034e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d8ef83a97e1e3c2631ec034e",
+        "width" : 160
+      } ],
+      "name" : "Manolo Lezcano",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:1LvyyJfFldtPPDGf66ue0Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Zt1X6eSDuttQS3JHIyCvZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 88278
+      },
+      "genres" : [ "copla", "musica aragonesa", "pop flamenco", "rumba", "spanish pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0Zt1X6eSDuttQS3JHIyCvZ",
+      "id" : "0Zt1X6eSDuttQS3JHIyCvZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733924d8d49e71242cacc69bba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023924d8d49e71242cacc69bba",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513924d8d49e71242cacc69bba",
+        "width" : 64
+      } ],
+      "name" : "Manolo Escobar",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Zt1X6eSDuttQS3JHIyCvZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WDkzsg3RTLeUPtjuhzZY4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1585
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6WDkzsg3RTLeUPtjuhzZY4",
+      "id" : "6WDkzsg3RTLeUPtjuhzZY4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1faaddd81aed769c74304bb7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741faaddd81aed769c74304bb7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781faaddd81aed769c74304bb7",
+        "width" : 160
+      } ],
+      "name" : "Manolotm",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:6WDkzsg3RTLeUPtjuhzZY4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7AL0nLyaW8hO0zPx8MviP9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13977
+      },
+      "genres" : [ "cante flamenco", "copla", "flamenco", "rumba" ],
+      "href" : "https://api.spotify.com/v1/artists/7AL0nLyaW8hO0zPx8MviP9",
+      "id" : "7AL0nLyaW8hO0zPx8MviP9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739daf22197aa3d93e3c192ce6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029daf22197aa3d93e3c192ce6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519daf22197aa3d93e3c192ce6",
+        "width" : 64
+      } ],
+      "name" : "Manolo Caracol",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:7AL0nLyaW8hO0zPx8MviP9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22940
+      },
+      "genres" : [ "rumba", "rumba catalana", "spanish pop" ],
+      "href" : "https://api.spotify.com/v1/artists/4WsE6jJORlwp3OcAWkCUrj",
+      "id" : "4WsE6jJORlwp3OcAWkCUrj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6f2cc522467f4345fd7802cb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746f2cc522467f4345fd7802cb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786f2cc522467f4345fd7802cb",
+        "width" : 160
+      } ],
+      "name" : "Los Manolos",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:4WsE6jJORlwp3OcAWkCUrj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53ptCmEOWLpfeviVUSJqEK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 385
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/53ptCmEOWLpfeviVUSJqEK",
+      "id" : "53ptCmEOWLpfeviVUSJqEK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b55fe2ccb18cf2e421ae63d8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b55fe2ccb18cf2e421ae63d8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b55fe2ccb18cf2e421ae63d8",
+        "width" : 64
+      } ],
+      "name" : "Manolol Lezcano",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:53ptCmEOWLpfeviVUSJqEK"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=MANOLO&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 673
+  }
+}

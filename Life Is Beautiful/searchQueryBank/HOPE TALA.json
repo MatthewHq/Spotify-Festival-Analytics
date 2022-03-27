@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=HOPE+TALA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 111998
+      },
+      "genres" : [ "alternative r&b", "chill r&b", "indie r&b", "indie soul" ],
+      "href" : "https://api.spotify.com/v1/artists/74CcYmmNeHKe5PrZaISk8e",
+      "id" : "74CcYmmNeHKe5PrZaISk8e",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb84aac86e50966f2dfc869953",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517484aac86e50966f2dfc869953",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17884aac86e50966f2dfc869953",
+        "width" : 160
+      } ],
+      "name" : "Hope Tala",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:74CcYmmNeHKe5PrZaISk8e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2IumrghImy5v2CEWWsBx6w"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2IumrghImy5v2CEWWsBx6w",
+      "id" : "2IumrghImy5v2CEWWsBx6w",
+      "images" : [ ],
+      "name" : "Hope Tala",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:2IumrghImy5v2CEWWsBx6w"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SCHALA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jk7HHrwqq0Y3Djioelf3m"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1067
+      },
+      "genres" : [ "progressive trance" ],
+      "href" : "https://api.spotify.com/v1/artists/0jk7HHrwqq0Y3Djioelf3m",
+      "id" : "0jk7HHrwqq0Y3Djioelf3m",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc9bebb4fdd26a227566929ce",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c9bebb4fdd26a227566929ce",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c9bebb4fdd26a227566929ce",
+        "width" : 160
+      } ],
+      "name" : "SCHALA",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:0jk7HHrwqq0Y3Djioelf3m"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02vHFIv66Gudv5aeTj6tlU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/02vHFIv66Gudv5aeTj6tlU",
+      "id" : "02vHFIv66Gudv5aeTj6tlU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b9b4c7c19b86874c96fd0fb0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b9b4c7c19b86874c96fd0fb0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b9b4c7c19b86874c96fd0fb0",
+        "width" : 64
+      } ],
+      "name" : "Tomy Schalala",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:02vHFIv66Gudv5aeTj6tlU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Dnj6so3iS2nKLyUgfdOPF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1Dnj6so3iS2nKLyUgfdOPF",
+      "id" : "1Dnj6so3iS2nKLyUgfdOPF",
+      "images" : [ ],
+      "name" : "Schalako",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Dnj6so3iS2nKLyUgfdOPF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43bCkimqfZx8peUHee6hsO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/43bCkimqfZx8peUHee6hsO",
+      "id" : "43bCkimqfZx8peUHee6hsO",
+      "images" : [ ],
+      "name" : "Alexandra Schalaudek",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:43bCkimqfZx8peUHee6hsO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EW7tjJ8CeVc190XU7U5lz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5EW7tjJ8CeVc190XU7U5lz",
+      "id" : "5EW7tjJ8CeVc190XU7U5lz",
+      "images" : [ ],
+      "name" : "Olga Schalajewa",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5EW7tjJ8CeVc190XU7U5lz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62Ws8XVa6SctnELCNniXDF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/62Ws8XVa6SctnELCNniXDF",
+      "id" : "62Ws8XVa6SctnELCNniXDF",
+      "images" : [ ],
+      "name" : "Martha Schalamme",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:62Ws8XVa6SctnELCNniXDF"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6
+  }
+}

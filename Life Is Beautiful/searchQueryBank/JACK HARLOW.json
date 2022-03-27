@@ -1,0 +1,99 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=JACK+HARLOW&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1624812
+      },
+      "genres" : [ "deep underground hip hop", "kentucky hip hop", "rap" ],
+      "href" : "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+      "id" : "2LIk90788K0zvyj2JJVwkJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebed3a04c76cbc92b97f59c3c0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ed3a04c76cbc92b97f59c3c0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ed3a04c76cbc92b97f59c3c0",
+        "width" : 160
+      } ],
+      "name" : "Jack Harlow",
+      "popularity" : 88,
+      "type" : "artist",
+      "uri" : "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13fNVHolfUjvpUx9dzWdhQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 52
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/13fNVHolfUjvpUx9dzWdhQ",
+      "id" : "13fNVHolfUjvpUx9dzWdhQ",
+      "images" : [ ],
+      "name" : "Jack Harlow",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:13fNVHolfUjvpUx9dzWdhQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KcZ9V8ApD5fCbejO3hYT3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3KcZ9V8ApD5fCbejO3hYT3",
+      "id" : "3KcZ9V8ApD5fCbejO3hYT3",
+      "images" : [ ],
+      "name" : "Jack Harlow",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:3KcZ9V8ApD5fCbejO3hYT3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NkAHssuiJfennDSqKYfX6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2NkAHssuiJfennDSqKYfX6",
+      "id" : "2NkAHssuiJfennDSqKYfX6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273508799ff139ec1c59632804c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02508799ff139ec1c59632804c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851508799ff139ec1c59632804c",
+        "width" : 64
+      } ],
+      "name" : "Jackie Harlowe",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2NkAHssuiJfennDSqKYfX6"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

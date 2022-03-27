@@ -1,0 +1,754 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+        "id" : "5fMUXHkw8R8eOP2RNVYEZX",
+        "name" : "Diplo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5pdR4YX2zWMXotdF034UYY",
+      "id" : "5pdR4YX2zWMXotdF034UYY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739cc42f338132f158b06b131f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029cc42f338132f158b06b131f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519cc42f338132f158b06b131f",
+        "width" : 64
+      } ],
+      "name" : "Diplo",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:5pdR4YX2zWMXotdF034UYY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+      "id" : "5fMUXHkw8R8eOP2RNVYEZX",
+      "name" : "Diplo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Fb9qTWnjsB90xH3zWr4oa",
+      "id" : "0Fb9qTWnjsB90xH3zWr4oa",
+      "name" : "Kareen Lomax",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Fb9qTWnjsB90xH3zWr4oa"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 234374,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V2200015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0KG7XrgM20KEmJrKsyFDAm",
+    "id" : "0KG7XrgM20KEmJrKsyFDAm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let You Go",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4521cb450f74ce7736bf1e34d0f7f2b2f79dc540?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0KG7XrgM20KEmJrKsyFDAm"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+        "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+        "name" : "TSHA",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/76MojWoWNPzzKdrEspy5sl",
+        "id" : "76MojWoWNPzzKdrEspy5sl",
+        "name" : "NIMMO",
+        "type" : "artist",
+        "uri" : "spotify:artist:76MojWoWNPzzKdrEspy5sl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0gwnvpScXK9zDPBxGfNQsG",
+      "id" : "0gwnvpScXK9zDPBxGfNQsG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273369421f094fc11237c2fa623",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02369421f094fc11237c2fa623",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851369421f094fc11237c2fa623",
+        "width" : 64
+      } ],
+      "name" : "OnlyL",
+      "release_date" : "2021-06-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0gwnvpScXK9zDPBxGfNQsG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76MojWoWNPzzKdrEspy5sl",
+      "id" : "76MojWoWNPzzKdrEspy5sl",
+      "name" : "NIMMO",
+      "type" : "artist",
+      "uri" : "spotify:artist:76MojWoWNPzzKdrEspy5sl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 227543,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2100408"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/01XAVHIdfq8SNtZDplT0ZD",
+    "id" : "01XAVHIdfq8SNtZDplT0ZD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "OnlyL",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/af12954e21d2bb1f84af3b40693f5abd2eb5612a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:01XAVHIdfq8SNtZDplT0ZD"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+        "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+        "name" : "TSHA",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4INuwtV1B2dNCUbFkUXtFL",
+      "id" : "4INuwtV1B2dNCUbFkUXtFL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733575f696d3b5df9bbcee2312",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023575f696d3b5df9bbcee2312",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513575f696d3b5df9bbcee2312",
+        "width" : 64
+      } ],
+      "name" : "Sister",
+      "release_date" : "2020-08-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4INuwtV1B2dNCUbFkUXtFL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 268829,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2000383"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2StEq5J2bCq5JiwCKbansz",
+    "id" : "2StEq5J2bCq5JiwCKbansz",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sister",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3369c5c03dd46810cfedd88611baea3aed9b5c7c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2StEq5J2bCq5JiwCKbansz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+        "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+        "name" : "TSHA",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1nOkffVwTES74zpJFGiCPj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1nOkffVwTES74zpJFGiCPj",
+      "id" : "1nOkffVwTES74zpJFGiCPj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27363d7a98d52f1149d18fccb2c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0263d7a98d52f1149d18fccb2c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485163d7a98d52f1149d18fccb2c",
+        "width" : 64
+      } ],
+      "name" : "Power",
+      "release_date" : "2021-08-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1nOkffVwTES74zpJFGiCPj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 258456,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2100476"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7uPGcpYfm1Z0H0IF0KRXi3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7uPGcpYfm1Z0H0IF0KRXi3",
+    "id" : "7uPGcpYfm1Z0H0IF0KRXi3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Power",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8e087447df1461af16827a7e2325502b510fa12a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7uPGcpYfm1Z0H0IF0KRXi3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+        "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+        "name" : "TSHA",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3S0Bc7ND7GBGyBUElLAXqU",
+      "id" : "3S0Bc7ND7GBGyBUElLAXqU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eb6a3f3bc9836bac1ba2ecd1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eb6a3f3bc9836bac1ba2ecd1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eb6a3f3bc9836bac1ba2ecd1",
+        "width" : 64
+      } ],
+      "name" : "OnlyL",
+      "release_date" : "2021-08-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:3S0Bc7ND7GBGyBUElLAXqU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 288038,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2100477"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4oV37nYkVu3IZ64ZGxghT7",
+    "id" : "4oV37nYkVu3IZ64ZGxghT7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Know",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/974480156facada4214c9d0b50bcd895de5b46af?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4oV37nYkVu3IZ64ZGxghT7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+        "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+        "name" : "TSHA",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GIv2BGriYO1IdownXWWac",
+        "id" : "1GIv2BGriYO1IdownXWWac",
+        "name" : "Demi Riquísimo",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GIv2BGriYO1IdownXWWac"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2dShxi3GCpUejK51c8dIDE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2dShxi3GCpUejK51c8dIDE",
+      "id" : "2dShxi3GCpUejK51c8dIDE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d694f081ddc64414fddbb7b5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d694f081ddc64414fddbb7b5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d694f081ddc64414fddbb7b5",
+        "width" : 64
+      } ],
+      "name" : "Demba (Demi Riquísimo Remix)",
+      "release_date" : "2021-01-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:2dShxi3GCpUejK51c8dIDE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DGgYTjkEw1sxzCBcXqZU5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DGgYTjkEw1sxzCBcXqZU5",
+      "id" : "1DGgYTjkEw1sxzCBcXqZU5",
+      "name" : "Trio Da Kali",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DGgYTjkEw1sxzCBcXqZU5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 309046,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2000435"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/38s6iiOu26spsFZKj8BtfM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/38s6iiOu26spsFZKj8BtfM",
+    "id" : "38s6iiOu26spsFZKj8BtfM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Demba",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d7c17671735f05a6bbdc707f7ebafe2f50c5bf18?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:38s6iiOu26spsFZKj8BtfM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+        "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+        "name" : "TSHA",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ",
+        "id" : "3w6zswp5THsSKYLICUbDTZ",
+        "name" : "Gabrielle Aplin",
+        "type" : "artist",
+        "uri" : "spotify:artist:3w6zswp5THsSKYLICUbDTZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6h4CKrhhFHdF6ElBeF3hgE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6h4CKrhhFHdF6ElBeF3hgE",
+      "id" : "6h4CKrhhFHdF6ElBeF3hgE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734adff5c22187f770614b8ad3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024adff5c22187f770614b8ad3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514adff5c22187f770614b8ad3",
+        "width" : 64
+      } ],
+      "name" : "Change",
+      "release_date" : "2020-10-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6h4CKrhhFHdF6ElBeF3hgE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ",
+      "id" : "3w6zswp5THsSKYLICUbDTZ",
+      "name" : "Gabrielle Aplin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3w6zswp5THsSKYLICUbDTZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 189539,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCFB2000434"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6dMZduF6Qs2WiSzQs7gqk5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6dMZduF6Qs2WiSzQs7gqk5",
+    "id" : "6dMZduF6Qs2WiSzQs7gqk5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Change",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bc4cba877443a82eab282f324e8b525b96fb5ca2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6dMZduF6Qs2WiSzQs7gqk5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+        "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+        "name" : "TSHA",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4tLBzhf9266srlw5qj6LnE",
+      "id" : "4tLBzhf9266srlw5qj6LnE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e19aeecb39520ee27ff22586",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e19aeecb39520ee27ff22586",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e19aeecb39520ee27ff22586",
+        "width" : 64
+      } ],
+      "name" : "BOYZ",
+      "release_date" : "2022-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4tLBzhf9266srlw5qj6LnE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240321,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBEXH2200043"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5UnNCMFboucIF78lnp1jkR",
+    "id" : "5UnNCMFboucIF78lnp1jkR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "BOYZ",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b81425e21de7354cd08b317bab219f810ea8aa81?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5UnNCMFboucIF78lnp1jkR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+        "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+        "name" : "TSHA",
+        "type" : "artist",
+        "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DEhXZRlriX0ZRJvE5dU9i",
+      "id" : "4DEhXZRlriX0ZRJvE5dU9i",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273094acd595f080dbf29ce8c03",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02094acd595f080dbf29ce8c03",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851094acd595f080dbf29ce8c03",
+        "width" : 64
+      } ],
+      "name" : "Sacred",
+      "release_date" : "2018-11-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4DEhXZRlriX0ZRJvE5dU9i"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 347317,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKPL1828926"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3scH3LfC2eyoX4zd5sp759",
+    "id" : "3scH3LfC2eyoX4zd5sp759",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sacred",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/07d8289af4def0d4eb3b850938ebf6c014573006?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3scH3LfC2eyoX4zd5sp759"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4rdJkXHNrMgowlwUdQAg8T",
+        "id" : "4rdJkXHNrMgowlwUdQAg8T",
+        "name" : "Ela Minus",
+        "type" : "artist",
+        "uri" : "spotify:artist:4rdJkXHNrMgowlwUdQAg8T"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5bDFznntVIsvDmvjnzjaEs",
+      "id" : "5bDFznntVIsvDmvjnzjaEs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732118a561b4d57911437445a9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022118a561b4d57911437445a9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512118a561b4d57911437445a9",
+        "width" : 64
+      } ],
+      "name" : "megapunk (remixes)",
+      "release_date" : "2021-02-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:5bDFznntVIsvDmvjnzjaEs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4rdJkXHNrMgowlwUdQAg8T",
+      "id" : "4rdJkXHNrMgowlwUdQAg8T",
+      "name" : "Ela Minus",
+      "type" : "artist",
+      "uri" : "spotify:artist:4rdJkXHNrMgowlwUdQAg8T"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kLa7JZu4Ijdz1Gle2khZh",
+      "id" : "2kLa7JZu4Ijdz1Gle2khZh",
+      "name" : "TSHA",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 280806,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCEL2000354"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1d87n4WnUawIAyqAEGn6ps",
+    "id" : "1d87n4WnUawIAyqAEGn6ps",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "megapunk - TSHA Remix",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/57417e6b280ee1169bf6abeccfdc8af30b5d78f6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1d87n4WnUawIAyqAEGn6ps"
+  } ]
+}

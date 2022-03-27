@@ -1,0 +1,527 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CID&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 86974
+      },
+      "genres" : [ "bass house", "deep groove house", "edm", "electro house", "house", "pop dance", "progressive house" ],
+      "href" : "https://api.spotify.com/v1/artists/4FCzCS0KEgb0rgySWINItO",
+      "id" : "4FCzCS0KEgb0rgySWINItO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd89d6344ed634e67e4ac036e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d89d6344ed634e67e4ac036e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d89d6344ed634e67e4ac036e",
+        "width" : 160
+      } ],
+      "name" : "CID",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:4FCzCS0KEgb0rgySWINItO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 165211
+      },
+      "genres" : [ "j-pop", "j-poprock", "j-rock", "japanese alternative rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3hprFQEXS7glX1Jxxwv9Dn",
+      "id" : "3hprFQEXS7glX1Jxxwv9Dn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbb3ea45e1d08cb56ad6248d3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bb3ea45e1d08cb56ad6248d3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bb3ea45e1d08cb56ad6248d3",
+        "width" : 160
+      } ],
+      "name" : "Cidergirl",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:3hprFQEXS7glX1Jxxwv9Dn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12584
+      },
+      "genres" : [ "bass trip", "future garage", "uk bass", "wonky" ],
+      "href" : "https://api.spotify.com/v1/artists/1qsa20MWDjV9QI93zn2i2s",
+      "id" : "1qsa20MWDjV9QI93zn2i2s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb49ff00a64d6c4cce6977488f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517449ff00a64d6c4cce6977488f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17849ff00a64d6c4cce6977488f",
+        "width" : 160
+      } ],
+      "name" : "Cid Rim",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:1qsa20MWDjV9QI93zn2i2s"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hHO8tDVAyaTdDKl3R12WH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4hHO8tDVAyaTdDKl3R12WH",
+      "id" : "4hHO8tDVAyaTdDKl3R12WH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb34224836c317a23dd9a29574",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517434224836c317a23dd9a29574",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17834224836c317a23dd9a29574",
+        "width" : 160
+      } ],
+      "name" : "Cidus",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:4hHO8tDVAyaTdDKl3R12WH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75LCNjhPUpnw4DLqceAoxH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 39
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/75LCNjhPUpnw4DLqceAoxH",
+      "id" : "75LCNjhPUpnw4DLqceAoxH",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/2607921914888be27d82885d35804832e2cfdc8b",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/4c8ac958a5b8c1b70aae03788f795124016426df",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/eb297b3dd6864ed5e5e6316725d7792c610e0daf",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/32a9cbbb1b3d592b2e7d6b69333163e5182ead1f",
+        "width" : 64
+      } ],
+      "name" : "CID",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:75LCNjhPUpnw4DLqceAoxH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2sYDOLE0SuddbG0mUCTeg2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2sYDOLE0SuddbG0mUCTeg2",
+      "id" : "2sYDOLE0SuddbG0mUCTeg2",
+      "images" : [ ],
+      "name" : "CID",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:2sYDOLE0SuddbG0mUCTeg2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1211047
+      },
+      "genres" : [ "axe", "brazilian reggae", "brazilian rock", "mpb", "pagode" ],
+      "href" : "https://api.spotify.com/v1/artists/4cx31cxKTg5L8blZE24qfZ",
+      "id" : "4cx31cxKTg5L8blZE24qfZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb81139e6908629853e4ef667c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517481139e6908629853e4ef667c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17881139e6908629853e4ef667c",
+        "width" : 160
+      } ],
+      "name" : "Cidade Negra",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:4cx31cxKTg5L8blZE24qfZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ofxTUijAHvkf6wKyPEBFa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 425
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0ofxTUijAHvkf6wKyPEBFa",
+      "id" : "0ofxTUijAHvkf6wKyPEBFa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27379b88e1e8f8804347a88907f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0279b88e1e8f8804347a88907f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485179b88e1e8f8804347a88907f",
+        "width" : 64
+      } ],
+      "name" : "Carlos Cid",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:0ofxTUijAHvkf6wKyPEBFa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2doIauqhAS6gev3I5BKn5j"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2doIauqhAS6gev3I5BKn5j",
+      "id" : "2doIauqhAS6gev3I5BKn5j",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bf840681020d09c47ea7bd94",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bf840681020d09c47ea7bd94",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bf840681020d09c47ea7bd94",
+        "width" : 64
+      } ],
+      "name" : "CID",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2doIauqhAS6gev3I5BKn5j"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 48637
+      },
+      "genres" : [ "rap chileno" ],
+      "href" : "https://api.spotify.com/v1/artists/4CQCHM6ILHdfaJiIE4guaS",
+      "id" : "4CQCHM6ILHdfaJiIE4guaS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4f4cde176b95f231ae26e9e6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744f4cde176b95f231ae26e9e6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784f4cde176b95f231ae26e9e6",
+        "width" : 160
+      } ],
+      "name" : "Cidtronyck",
+      "popularity" : 55,
+      "type" : "artist",
+      "uri" : "spotify:artist:4CQCHM6ILHdfaJiIE4guaS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yJfLNqiKRBSdaQZco6EDR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14828
+      },
+      "genres" : [ "minneapolis indie" ],
+      "href" : "https://api.spotify.com/v1/artists/1yJfLNqiKRBSdaQZco6EDR",
+      "id" : "1yJfLNqiKRBSdaQZco6EDR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd461b67df2cbee523a6efac6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d461b67df2cbee523a6efac6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d461b67df2cbee523a6efac6",
+        "width" : 160
+      } ],
+      "name" : "Reina del Cid",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:1yJfLNqiKRBSdaQZco6EDR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Qnw68mwpI1re9wFVDHwLX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Qnw68mwpI1re9wFVDHwLX",
+      "id" : "2Qnw68mwpI1re9wFVDHwLX",
+      "images" : [ ],
+      "name" : "CID",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Qnw68mwpI1re9wFVDHwLX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JSg2zGCES0GvaHJW3CBii"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 177
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1JSg2zGCES0GvaHJW3CBii",
+      "id" : "1JSg2zGCES0GvaHJW3CBii",
+      "images" : [ ],
+      "name" : "Cider",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:1JSg2zGCES0GvaHJW3CBii"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Msj2QQgxwwCu2smLQQy6b"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Msj2QQgxwwCu2smLQQy6b",
+      "id" : "6Msj2QQgxwwCu2smLQQy6b",
+      "images" : [ ],
+      "name" : "CID",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Msj2QQgxwwCu2smLQQy6b"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2BXH0hNga2gt2RztKKN5F9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17323
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2BXH0hNga2gt2RztKKN5F9",
+      "id" : "2BXH0hNga2gt2RztKKN5F9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb88f89bf39d372964473dfe7a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517488f89bf39d372964473dfe7a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17888f89bf39d372964473dfe7a",
+        "width" : 160
+      } ],
+      "name" : "Cider Sky",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:2BXH0hNga2gt2RztKKN5F9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 42324
+      },
+      "genres" : [ "latin worship" ],
+      "href" : "https://api.spotify.com/v1/artists/5HmMfZ8kvduIyl1TOlWXCs",
+      "id" : "5HmMfZ8kvduIyl1TOlWXCs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7d756bd5b152696c37a7e80e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747d756bd5b152696c37a7e80e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787d756bd5b152696c37a7e80e",
+        "width" : 160
+      } ],
+      "name" : "Josue Del Cid",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:5HmMfZ8kvduIyl1TOlWXCs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vVqi7cjGsCld9ykLVWPEY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2vVqi7cjGsCld9ykLVWPEY",
+      "id" : "2vVqi7cjGsCld9ykLVWPEY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734c27709ece63989523ee0b79",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024c27709ece63989523ee0b79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514c27709ece63989523ee0b79",
+        "width" : 64
+      } ],
+      "name" : "CID",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2vVqi7cjGsCld9ykLVWPEY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4cigcM3YA3VaYOtpkk8jdg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 28
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4cigcM3YA3VaYOtpkk8jdg",
+      "id" : "4cigcM3YA3VaYOtpkk8jdg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf14335b70312a6d6bc7ff18a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f14335b70312a6d6bc7ff18a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f14335b70312a6d6bc7ff18a",
+        "width" : 160
+      } ],
+      "name" : "Cidro Onetoo",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:4cigcM3YA3VaYOtpkk8jdg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6efflkwzilRSsr0egis5QX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6efflkwzilRSsr0egis5QX",
+      "id" : "6efflkwzilRSsr0egis5QX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb79d84455b47d437cd4b2962d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517479d84455b47d437cd4b2962d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17879d84455b47d437cd4b2962d",
+        "width" : 160
+      } ],
+      "name" : "CID",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6efflkwzilRSsr0egis5QX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1MqtepZI8AZAcuk8TYnlkx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1MqtepZI8AZAcuk8TYnlkx",
+      "id" : "1MqtepZI8AZAcuk8TYnlkx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27369259161f243961918784203",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0269259161f243961918784203",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485169259161f243961918784203",
+        "width" : 64
+      } ],
+      "name" : "Ciddy Boi P",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:1MqtepZI8AZAcuk8TYnlkx"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=CID&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 966
+  }
+}

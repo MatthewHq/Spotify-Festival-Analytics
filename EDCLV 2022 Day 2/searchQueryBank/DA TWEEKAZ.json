@@ -1,0 +1,87 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=DA+TWEEKAZ&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 234146
+      },
+      "genres" : [ "classic hardstyle", "euphoric hardstyle", "rawstyle" ],
+      "href" : "https://api.spotify.com/v1/artists/6UOk7DmvqlzWmo6gjhZvn6",
+      "id" : "6UOk7DmvqlzWmo6gjhZvn6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb05794ddc8709359a116e0ea4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517405794ddc8709359a116e0ea4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17805794ddc8709359a116e0ea4",
+        "width" : 160
+      } ],
+      "name" : "Da Tweekaz",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GNCqakL6OsP6NGhWoNsm0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7GNCqakL6OsP6NGhWoNsm0",
+      "id" : "7GNCqakL6OsP6NGhWoNsm0",
+      "images" : [ ],
+      "name" : "Da Tweekaz",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:7GNCqakL6OsP6NGhWoNsm0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kUaLYAmsjHUvefqYEqoc2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 132
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7kUaLYAmsjHUvefqYEqoc2",
+      "id" : "7kUaLYAmsjHUvefqYEqoc2",
+      "images" : [ ],
+      "name" : "Da Tweekaz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7kUaLYAmsjHUvefqYEqoc2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7KW5nOm98miVsdEBoJ1HiF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7KW5nOm98miVsdEBoJ1HiF",
+      "id" : "7KW5nOm98miVsdEBoJ1HiF",
+      "images" : [ ],
+      "name" : "Da Tweekaz ft. MC V",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7KW5nOm98miVsdEBoJ1HiF"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

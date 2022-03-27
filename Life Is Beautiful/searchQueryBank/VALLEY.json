@@ -1,0 +1,571 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=VALLEY&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 137876
+      },
+      "genres" : [ "electropop", "indie poptimism", "indietronica", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/7blXVKBSxdFZsIqlhdViKc",
+      "id" : "7blXVKBSxdFZsIqlhdViKc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb54a46c8d71d7bdebb2f219e4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517454a46c8d71d7bdebb2f219e4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17854a46c8d71d7bdebb2f219e4",
+        "width" : 160
+      } ],
+      "name" : "Valley",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:7blXVKBSxdFZsIqlhdViKc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1sYbTp9AgWvJb0mJBAB6eP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 62024
+      },
+      "genres" : [ "modern alternative rock", "rebel blues" ],
+      "href" : "https://api.spotify.com/v1/artists/1sYbTp9AgWvJb0mJBAB6eP",
+      "id" : "1sYbTp9AgWvJb0mJBAB6eP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb219d1d357e321b6fd78e85cc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174219d1d357e321b6fd78e85cc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178219d1d357e321b6fd78e85cc",
+        "width" : 160
+      } ],
+      "name" : "Valley Of Wolves",
+      "popularity" : 55,
+      "type" : "artist",
+      "uri" : "spotify:artist:1sYbTp9AgWvJb0mJBAB6eP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 129294
+      },
+      "genres" : [ "alberta country", "canadian contemporary country", "canadian country", "contemporary country", "country", "country pop", "country road", "modern country rock" ],
+      "href" : "https://api.spotify.com/v1/artists/5sQqZtsAbXAoAnvA8iN9kN",
+      "id" : "5sQqZtsAbXAoAnvA8iN9kN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd6338d2339c7c8b7d0973bcf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d6338d2339c7c8b7d0973bcf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d6338d2339c7c8b7d0973bcf",
+        "width" : 160
+      } ],
+      "name" : "High Valley",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:5sQqZtsAbXAoAnvA8iN9kN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7qZBjvtzYJ793CqHZ4zFCs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7qZBjvtzYJ793CqHZ4zFCs",
+      "id" : "7qZBjvtzYJ793CqHZ4zFCs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7b74ca82aaafa005be565a1e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747b74ca82aaafa005be565a1e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787b74ca82aaafa005be565a1e",
+        "width" : 160
+      } ],
+      "name" : "VALLEY",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7qZBjvtzYJ793CqHZ4zFCs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45fM6jfBtvNPNa2oB9ZEbE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 938
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/45fM6jfBtvNPNa2oB9ZEbE",
+      "id" : "45fM6jfBtvNPNa2oB9ZEbE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb650aa71120be56a638f77971",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174650aa71120be56a638f77971",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178650aa71120be56a638f77971",
+        "width" : 160
+      } ],
+      "name" : "Valley Boys",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:45fM6jfBtvNPNa2oB9ZEbE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 118
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/28WCFFMetDFIT9o2Xluc31",
+      "id" : "28WCFFMetDFIT9o2Xluc31",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb76bcb6010a9ecda6a49c7395",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517476bcb6010a9ecda6a49c7395",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17876bcb6010a9ecda6a49c7395",
+        "width" : 160
+      } ],
+      "name" : "Willow Valley",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:28WCFFMetDFIT9o2Xluc31"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13472
+      },
+      "genres" : [ "alternative emo", "anthem emo", "dreamo", "new england emo", "pop punk" ],
+      "href" : "https://api.spotify.com/v1/artists/39cSG80bKnk96yuvGv5KlT",
+      "id" : "39cSG80bKnk96yuvGv5KlT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0bc77bbd67c1ede6c603fdf3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740bc77bbd67c1ede6c603fdf3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780bc77bbd67c1ede6c603fdf3",
+        "width" : 160
+      } ],
+      "name" : "Valleyheart",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:39cSG80bKnk96yuvGv5KlT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rwljT1EXux5017pdCtF8Q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3131
+      },
+      "genres" : [ "anime lo-fi" ],
+      "href" : "https://api.spotify.com/v1/artists/6rwljT1EXux5017pdCtF8Q",
+      "id" : "6rwljT1EXux5017pdCtF8Q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6a84f9f36292f8a1a709311a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746a84f9f36292f8a1a709311a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786a84f9f36292f8a1a709311a",
+        "width" : 160
+      } ],
+      "name" : "Valley Swerve",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:6rwljT1EXux5017pdCtF8Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4743
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/46VzbEZDkCQKJX3o4g8gMD",
+      "id" : "46VzbEZDkCQKJX3o4g8gMD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2200e1ba595ee1f8a712e968",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742200e1ba595ee1f8a712e968",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782200e1ba595ee1f8a712e968",
+        "width" : 160
+      } ],
+      "name" : "Valley Boy",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:46VzbEZDkCQKJX3o4g8gMD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 40458
+      },
+      "genres" : [ "anthem worship", "ccm", "christian pop", "world worship" ],
+      "href" : "https://api.spotify.com/v1/artists/1VXCIEol192OgSF9VzowGV",
+      "id" : "1VXCIEol192OgSF9VzowGV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf7e4ea164d275553ed583715",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f7e4ea164d275553ed583715",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f7e4ea164d275553ed583715",
+        "width" : 160
+      } ],
+      "name" : "River Valley Worship",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:1VXCIEol192OgSF9VzowGV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1qxWiTTNjBdZ1EJZO2E8Fy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10679
+      },
+      "genres" : [ "seattle indie" ],
+      "href" : "https://api.spotify.com/v1/artists/1qxWiTTNjBdZ1EJZO2E8Fy",
+      "id" : "1qxWiTTNjBdZ1EJZO2E8Fy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba5b7d23d97ef1e1d8e651eed",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a5b7d23d97ef1e1d8e651eed",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a5b7d23d97ef1e1d8e651eed",
+        "width" : 160
+      } ],
+      "name" : "Valley Maker",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:1qxWiTTNjBdZ1EJZO2E8Fy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 43100
+      },
+      "genres" : [ "indie rock" ],
+      "href" : "https://api.spotify.com/v1/artists/4WQXRya5np83C21wifjNp9",
+      "id" : "4WQXRya5np83C21wifjNp9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7eca2bddee5a890899832695",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747eca2bddee5a890899832695",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787eca2bddee5a890899832695",
+        "width" : 160
+      } ],
+      "name" : "In The Valley Below",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:4WQXRya5np83C21wifjNp9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24078
+      },
+      "genres" : [ "modern blues rock", "psychedelic doom", "retro metal", "space rock", "stoner rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3OX4skiU9o7fxdi5Li7k5l",
+      "id" : "3OX4skiU9o7fxdi5Li7k5l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebeb098c6a7a610ff763ababa2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174eb098c6a7a610ff763ababa2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178eb098c6a7a610ff763ababa2",
+        "width" : 160
+      } ],
+      "name" : "Valley of the Sun",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:3OX4skiU9o7fxdi5Li7k5l"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5oRQXpBWZOtZOZB7lv8zMP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 165
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5oRQXpBWZOtZOZB7lv8zMP",
+      "id" : "5oRQXpBWZOtZOZB7lv8zMP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8b6f4a1908bc7b57c2468a70",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748b6f4a1908bc7b57c2468a70",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788b6f4a1908bc7b57c2468a70",
+        "width" : 160
+      } ],
+      "name" : "Vibe Valley",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5oRQXpBWZOtZOZB7lv8zMP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ut6fi3lFL2TBpLfHK7wZp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9316
+      },
+      "genres" : [ "alternative americana" ],
+      "href" : "https://api.spotify.com/v1/artists/5ut6fi3lFL2TBpLfHK7wZp",
+      "id" : "5ut6fi3lFL2TBpLfHK7wZp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb119e92a8bbd26d68a7549359",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174119e92a8bbd26d68a7549359",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178119e92a8bbd26d68a7549359",
+        "width" : 160
+      } ],
+      "name" : "Valley Queen",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ut6fi3lFL2TBpLfHK7wZp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 777
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2P1TOog6e612HmJ9bugxav",
+      "id" : "2P1TOog6e612HmJ9bugxav",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733caf5acbc9c6134b5fa7425f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023caf5acbc9c6134b5fa7425f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513caf5acbc9c6134b5fa7425f",
+        "width" : 64
+      } ],
+      "name" : "Across The Great Valley",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:2P1TOog6e612HmJ9bugxav"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2D0u6nyYzRpoDvJe6sOBXu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2376
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2D0u6nyYzRpoDvJe6sOBXu",
+      "id" : "2D0u6nyYzRpoDvJe6sOBXu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe8b31ad6ffe9724564a26beb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e8b31ad6ffe9724564a26beb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e8b31ad6ffe9724564a26beb",
+        "width" : 160
+      } ],
+      "name" : "Valleyz",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:2D0u6nyYzRpoDvJe6sOBXu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jF2ypAAgPGDrMya2J4sHM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5091
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3jF2ypAAgPGDrMya2J4sHM",
+      "id" : "3jF2ypAAgPGDrMya2J4sHM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0f477ec760cc98a9a1f24b45",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740f477ec760cc98a9a1f24b45",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780f477ec760cc98a9a1f24b45",
+        "width" : 160
+      } ],
+      "name" : "Valley Palace",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:3jF2ypAAgPGDrMya2J4sHM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ILd3MJuECueDsMkFfrBrn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 944
+      },
+      "genres" : [ "environmental", "sleep", "white noise" ],
+      "href" : "https://api.spotify.com/v1/artists/1ILd3MJuECueDsMkFfrBrn",
+      "id" : "1ILd3MJuECueDsMkFfrBrn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb4bac103fee16580b955a317",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b4bac103fee16580b955a317",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b4bac103fee16580b955a317",
+        "width" : 160
+      } ],
+      "name" : "Linder Valley",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ILd3MJuECueDsMkFfrBrn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4GoGTYcqE23Z7lqCkOM88h"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1931
+      },
+      "genres" : [ "anthem worship" ],
+      "href" : "https://api.spotify.com/v1/artists/4GoGTYcqE23Z7lqCkOM88h",
+      "id" : "4GoGTYcqE23Z7lqCkOM88h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd1b1cca4760e8dae935455f8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d1b1cca4760e8dae935455f8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d1b1cca4760e8dae935455f8",
+        "width" : 160
+      } ],
+      "name" : "Valley Creek Worship",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:4GoGTYcqE23Z7lqCkOM88h"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=VALLEY&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1523
+  }
+}

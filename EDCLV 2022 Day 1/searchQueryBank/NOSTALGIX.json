@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=NOSTALGIX&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5716
+      },
+      "genres" : [ "bass house", "electro house" ],
+      "href" : "https://api.spotify.com/v1/artists/6CarTAUaWnQb6bp7yjP0Zz",
+      "id" : "6CarTAUaWnQb6bp7yjP0Zz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1e4943c475e84e86f3d5f374",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741e4943c475e84e86f3d5f374",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781e4943c475e84e86f3d5f374",
+        "width" : 160
+      } ],
+      "name" : "Nostalgix",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:6CarTAUaWnQb6bp7yjP0Zz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/582Ho6aAvPXCJtf2d1GEMg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/582Ho6aAvPXCJtf2d1GEMg",
+      "id" : "582Ho6aAvPXCJtf2d1GEMg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c0dfbde52935576f585465d8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c0dfbde52935576f585465d8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c0dfbde52935576f585465d8",
+        "width" : 64
+      } ],
+      "name" : "Nostalgix",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:582Ho6aAvPXCJtf2d1GEMg"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

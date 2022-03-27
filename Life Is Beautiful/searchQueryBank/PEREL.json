@@ -1,0 +1,515 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=PEREL&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 683903
+      },
+      "genres" : [ "alt z", "indie pop", "modern indie pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3u6lPufHw4Oww6D88rv6sB",
+      "id" : "3u6lPufHw4Oww6D88rv6sB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfde0962fda6f8f05a1900e91",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fde0962fda6f8f05a1900e91",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fde0962fda6f8f05a1900e91",
+        "width" : 160
+      } ],
+      "name" : "Penelope Scott",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:3u6lPufHw4Oww6D88rv6sB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Kyc0TNCOAnGVLmjlJF8rT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5890
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7Kyc0TNCOAnGVLmjlJF8rT",
+      "id" : "7Kyc0TNCOAnGVLmjlJF8rT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebac05e3962789a72a4175c51f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ac05e3962789a72a4175c51f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ac05e3962789a72a4175c51f",
+        "width" : 160
+      } ],
+      "name" : "Yotam Perel",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:7Kyc0TNCOAnGVLmjlJF8rT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10525
+      },
+      "genres" : [ "dark disco" ],
+      "href" : "https://api.spotify.com/v1/artists/5cmqnZNaNDqgcsTOkQUmqB",
+      "id" : "5cmqnZNaNDqgcsTOkQUmqB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc39ff616ca9ba53d4ad42fe7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c39ff616ca9ba53d4ad42fe7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c39ff616ca9ba53d4ad42fe7",
+        "width" : 160
+      } ],
+      "name" : "Perel",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:5cmqnZNaNDqgcsTOkQUmqB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3fblhdXwx8348n4h5wIyG9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6628
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3fblhdXwx8348n4h5wIyG9",
+      "id" : "3fblhdXwx8348n4h5wIyG9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7ab1aefa79d42b51d8bc4df3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747ab1aefa79d42b51d8bc4df3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787ab1aefa79d42b51d8bc4df3",
+        "width" : 160
+      } ],
+      "name" : "Perelli Mack",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:3fblhdXwx8348n4h5wIyG9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bExAkknCNKbPxTFkSe7uC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 466
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4bExAkknCNKbPxTFkSe7uC",
+      "id" : "4bExAkknCNKbPxTFkSe7uC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebca67c502eb39aba92e91699f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ca67c502eb39aba92e91699f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ca67c502eb39aba92e91699f",
+        "width" : 160
+      } ],
+      "name" : "Dora Pereli",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:4bExAkknCNKbPxTFkSe7uC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GgVXphD3s2UO4qQabT22E"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1GgVXphD3s2UO4qQabT22E",
+      "id" : "1GgVXphD3s2UO4qQabT22E",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebab4317778e2e6b55e5d8e459",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ab4317778e2e6b55e5d8e459",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ab4317778e2e6b55e5d8e459",
+        "width" : 160
+      } ],
+      "name" : "Pereł",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:1GgVXphD3s2UO4qQabT22E"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2x4XAzkpN48VVUfJvvLzVi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 767
+      },
+      "genres" : [ "oud" ],
+      "href" : "https://api.spotify.com/v1/artists/2x4XAzkpN48VVUfJvvLzVi",
+      "id" : "2x4XAzkpN48VVUfJvvLzVi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b973c7ed1edf3e95c2ac817b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b973c7ed1edf3e95c2ac817b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b973c7ed1edf3e95c2ac817b",
+        "width" : 64
+      } ],
+      "name" : "Amir Perelman",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:2x4XAzkpN48VVUfJvvLzVi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/47RxAD9QmSdaKKOYcpL7uv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 206
+      },
+      "genres" : [ "deep sunset lounge" ],
+      "href" : "https://api.spotify.com/v1/artists/47RxAD9QmSdaKKOYcpL7uv",
+      "id" : "47RxAD9QmSdaKKOYcpL7uv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273daa993d2f7ec16dadf0e359c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02daa993d2f7ec16dadf0e359c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851daa993d2f7ec16dadf0e359c",
+        "width" : 64
+      } ],
+      "name" : "Perelandra",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:47RxAD9QmSdaKKOYcpL7uv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XVRJ5BlOH92iY3OcPpdbD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 233
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0XVRJ5BlOH92iY3OcPpdbD",
+      "id" : "0XVRJ5BlOH92iY3OcPpdbD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27340f106a19c31b752e9375948",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0240f106a19c31b752e9375948",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485140f106a19c31b752e9375948",
+        "width" : 64
+      } ],
+      "name" : "Miquel Pérez Perelló",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:0XVRJ5BlOH92iY3OcPpdbD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WF0LArit9g0zP7PXEWVvJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4WF0LArit9g0zP7PXEWVvJ",
+      "id" : "4WF0LArit9g0zP7PXEWVvJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb14adbf48f6c7f216e82b6be1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517414adbf48f6c7f216e82b6be1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17814adbf48f6c7f216e82b6be1",
+        "width" : 160
+      } ],
+      "name" : "Perelandra",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4WF0LArit9g0zP7PXEWVvJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2z4amysbLMMjJtOAIQ7noq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2z4amysbLMMjJtOAIQ7noq",
+      "id" : "2z4amysbLMMjJtOAIQ7noq",
+      "images" : [ ],
+      "name" : "Perelini",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:2z4amysbLMMjJtOAIQ7noq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55s215dZWZMrrd8mqYpcFg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1638
+      },
+      "genres" : [ "avant-garde jazz", "free improvisation", "free jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/55s215dZWZMrrd8mqYpcFg",
+      "id" : "55s215dZWZMrrd8mqYpcFg",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/910fb08075b533a56c038ecc32d80bc18f9da845",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/dfbc2940504b8c6688b1503221944da3d0b0b051",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/9c4e5724e377cdb9c45c55a7d1294863a2c7e515",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/2c9e3a544ecd774935ca90a28b58f9cae21ecb52",
+        "width" : 64
+      } ],
+      "name" : "Ivo Perelman",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:55s215dZWZMrrd8mqYpcFg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/56oXO8S6XZtZJ4vojH2OP3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/56oXO8S6XZtZJ4vojH2OP3",
+      "id" : "56oXO8S6XZtZJ4vojH2OP3",
+      "images" : [ ],
+      "name" : "Perel Rimler",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:56oXO8S6XZtZJ4vojH2OP3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/01LscsFJ7QEpi6ZesqYiIc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/01LscsFJ7QEpi6ZesqYiIc",
+      "id" : "01LscsFJ7QEpi6ZesqYiIc",
+      "images" : [ ],
+      "name" : "Perelló",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:01LscsFJ7QEpi6ZesqYiIc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7shApQMxcp7HeuscDqM1s8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7shApQMxcp7HeuscDqM1s8",
+      "id" : "7shApQMxcp7HeuscDqM1s8",
+      "images" : [ ],
+      "name" : "Pereló",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7shApQMxcp7HeuscDqM1s8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18G4d4WiPG67TTuhic3rMN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/18G4d4WiPG67TTuhic3rMN",
+      "id" : "18G4d4WiPG67TTuhic3rMN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d11c2a5ca11616d50ad860b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d11c2a5ca11616d50ad860b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d11c2a5ca11616d50ad860b",
+        "width" : 64
+      } ],
+      "name" : "Perelli2",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:18G4d4WiPG67TTuhic3rMN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WOTS8bNio4I9QLrhokRxk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4WOTS8bNio4I9QLrhokRxk",
+      "id" : "4WOTS8bNio4I9QLrhokRxk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27324ce377766b2a307b5a40d84",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0224ce377766b2a307b5a40d84",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485124ce377766b2a307b5a40d84",
+        "width" : 64
+      } ],
+      "name" : "perelom",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4WOTS8bNio4I9QLrhokRxk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/632w1CZHlTRoR3yoP15Pn5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/632w1CZHlTRoR3yoP15Pn5",
+      "id" : "632w1CZHlTRoR3yoP15Pn5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737796d04c9b7aafe6a5d9973f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027796d04c9b7aafe6a5d9973f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517796d04c9b7aafe6a5d9973f",
+        "width" : 64
+      } ],
+      "name" : "perellolirycbeats",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:632w1CZHlTRoR3yoP15Pn5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ZkAdEMO1JWGdop4UhZlO1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6ZkAdEMO1JWGdop4UhZlO1",
+      "id" : "6ZkAdEMO1JWGdop4UhZlO1",
+      "images" : [ ],
+      "name" : "Perellio",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6ZkAdEMO1JWGdop4UhZlO1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JRopoUX3SNMPlfwf9nvVb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 85
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5JRopoUX3SNMPlfwf9nvVb",
+      "id" : "5JRopoUX3SNMPlfwf9nvVb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739d9e300fdaec45b48be270b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029d9e300fdaec45b48be270b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519d9e300fdaec45b48be270b7",
+        "width" : 64
+      } ],
+      "name" : "Perel",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:5JRopoUX3SNMPlfwf9nvVb"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=PEREL&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 133
+  }
+}

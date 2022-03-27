@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=RUBEN+DE+RONDE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 32568
+      },
+      "genres" : [ "pop dance", "progressive house", "progressive trance", "progressive uplifting trance", "trance", "uplifting trance" ],
+      "href" : "https://api.spotify.com/v1/artists/3q7BRw9D1DupXTONJdr94m",
+      "id" : "3q7BRw9D1DupXTONJdr94m",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb58308b35ae978dd77a414b45",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517458308b35ae978dd77a414b45",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17858308b35ae978dd77a414b45",
+        "width" : 160
+      } ],
+      "name" : "Ruben de Ronde",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7BRw9D1DupXTONJdr94m"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5icc1odiSfsbiBj9CWihtS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5icc1odiSfsbiBj9CWihtS",
+      "id" : "5icc1odiSfsbiBj9CWihtS",
+      "images" : [ ],
+      "name" : "Ruben de Ronde vs Jinx",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5icc1odiSfsbiBj9CWihtS"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

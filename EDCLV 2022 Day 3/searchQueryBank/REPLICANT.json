@@ -1,0 +1,535 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=REPLICANT&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0D3rZuKDs7qaBtoFaQ6tJU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2761
+      },
+      "genres" : [ "new jersey hardcore", "technical death metal", "voidgaze" ],
+      "href" : "https://api.spotify.com/v1/artists/0D3rZuKDs7qaBtoFaQ6tJU",
+      "id" : "0D3rZuKDs7qaBtoFaQ6tJU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd3c1b98bcd0636cf3fbb2f9a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d3c1b98bcd0636cf3fbb2f9a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d3c1b98bcd0636cf3fbb2f9a",
+        "width" : 160
+      } ],
+      "name" : "Replicant",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:0D3rZuKDs7qaBtoFaQ6tJU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JYUtF31GnSIweCYlIZuXp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1680
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3JYUtF31GnSIweCYlIZuXp",
+      "id" : "3JYUtF31GnSIweCYlIZuXp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc9b6cf65503a4a0d7798abcb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c9b6cf65503a4a0d7798abcb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c9b6cf65503a4a0d7798abcb",
+        "width" : 160
+      } ],
+      "name" : "Replicant",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:3JYUtF31GnSIweCYlIZuXp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51fZX95GBVZJ7wHlDuGYxZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1624
+      },
+      "genres" : [ "ambient psychill" ],
+      "href" : "https://api.spotify.com/v1/artists/51fZX95GBVZJ7wHlDuGYxZ",
+      "id" : "51fZX95GBVZJ7wHlDuGYxZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3f398ee2ad75d46a86bf0ef2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743f398ee2ad75d46a86bf0ef2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783f398ee2ad75d46a86bf0ef2",
+        "width" : 160
+      } ],
+      "name" : "Cosmic Replicant",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:51fZX95GBVZJ7wHlDuGYxZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/65VfB7NeGABJUU3UXlPhQ7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 600
+      },
+      "genres" : [ "rome indie" ],
+      "href" : "https://api.spotify.com/v1/artists/65VfB7NeGABJUU3UXlPhQ7",
+      "id" : "65VfB7NeGABJUU3UXlPhQ7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2add6c6144fc05a88753bec5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742add6c6144fc05a88753bec5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782add6c6144fc05a88753bec5",
+        "width" : 160
+      } ],
+      "name" : "Replicant",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:65VfB7NeGABJUU3UXlPhQ7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11PMxU5yz4hCK55vahtPjA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 231
+      },
+      "genres" : [ "stateside dnb" ],
+      "href" : "https://api.spotify.com/v1/artists/11PMxU5yz4hCK55vahtPjA",
+      "id" : "11PMxU5yz4hCK55vahtPjA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0d20bc3cf7af268d81bd60f1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740d20bc3cf7af268d81bd60f1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780d20bc3cf7af268d81bd60f1",
+        "width" : 160
+      } ],
+      "name" : "Replicant",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:11PMxU5yz4hCK55vahtPjA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hP7JNm3e4E0c5bldlKlO6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 44825
+      },
+      "genres" : [ "brazilian punk", "brazilian punk rock", "brazilian rock", "rock gaucho" ],
+      "href" : "https://api.spotify.com/v1/artists/6hP7JNm3e4E0c5bldlKlO6",
+      "id" : "6hP7JNm3e4E0c5bldlKlO6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf510c1bc9e92e3f27c2ac288",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f510c1bc9e92e3f27c2ac288",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f510c1bc9e92e3f27c2ac288",
+        "width" : 160
+      } ],
+      "name" : "Os Replicantes",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:6hP7JNm3e4E0c5bldlKlO6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6SjNUv3cdNIsIjL1EupezM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 31
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6SjNUv3cdNIsIjL1EupezM",
+      "id" : "6SjNUv3cdNIsIjL1EupezM",
+      "images" : [ ],
+      "name" : "ReplicantPhish",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:6SjNUv3cdNIsIjL1EupezM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yUUycKAFks8JEyDZUSfDo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 928
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4yUUycKAFks8JEyDZUSfDo",
+      "id" : "4yUUycKAFks8JEyDZUSfDo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734996c2b1df467e69a09f20ae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024996c2b1df467e69a09f20ae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514996c2b1df467e69a09f20ae",
+        "width" : 64
+      } ],
+      "name" : "The Replicants",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:4yUUycKAFks8JEyDZUSfDo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0wfXjd5wdFQqFMjWyLzqYT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 220
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0wfXjd5wdFQqFMjWyLzqYT",
+      "id" : "0wfXjd5wdFQqFMjWyLzqYT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba199a4faceac183eec11f277",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a199a4faceac183eec11f277",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a199a4faceac183eec11f277",
+        "width" : 160
+      } ],
+      "name" : "Replicanth",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:0wfXjd5wdFQqFMjWyLzqYT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7zyCklsY9zVM9XUIrl6hZD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 85
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7zyCklsY9zVM9XUIrl6hZD",
+      "id" : "7zyCklsY9zVM9XUIrl6hZD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732cc2bb67b6810c9fa84c3a57",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022cc2bb67b6810c9fa84c3a57",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512cc2bb67b6810c9fa84c3a57",
+        "width" : 64
+      } ],
+      "name" : "Replicant 69",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:7zyCklsY9zVM9XUIrl6hZD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/52cuTWR7dOcbxBetwvMtku"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/52cuTWR7dOcbxBetwvMtku",
+      "id" : "52cuTWR7dOcbxBetwvMtku",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730307db3560e0a0b9ac251c2b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020307db3560e0a0b9ac251c2b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510307db3560e0a0b9ac251c2b",
+        "width" : 64
+      } ],
+      "name" : "Replicant",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:52cuTWR7dOcbxBetwvMtku"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ju1fs5h1oQAQR3qaBwfSo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 239
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ju1fs5h1oQAQR3qaBwfSo",
+      "id" : "1ju1fs5h1oQAQR3qaBwfSo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0aad031f5a2dbd45ed6c572c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740aad031f5a2dbd45ed6c572c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780aad031f5a2dbd45ed6c572c",
+        "width" : 160
+      } ],
+      "name" : "Replicants",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ju1fs5h1oQAQR3qaBwfSo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QwBxiW1gf3Dijh2nBiBc7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2QwBxiW1gf3Dijh2nBiBc7",
+      "id" : "2QwBxiW1gf3Dijh2nBiBc7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a30cd48187d468a5304f908a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a30cd48187d468a5304f908a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a30cd48187d468a5304f908a",
+        "width" : 64
+      } ],
+      "name" : "Replicants",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2QwBxiW1gf3Dijh2nBiBc7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5e0xbUAnUmXTevE6V1xjWZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5e0xbUAnUmXTevE6V1xjWZ",
+      "id" : "5e0xbUAnUmXTevE6V1xjWZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4cc3ec5c8c478d5fabba86fb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744cc3ec5c8c478d5fabba86fb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784cc3ec5c8c478d5fabba86fb",
+        "width" : 160
+      } ],
+      "name" : "Replicant06",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5e0xbUAnUmXTevE6V1xjWZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0DJwyvLuFLBGnXaSeefbN4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 61
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0DJwyvLuFLBGnXaSeefbN4",
+      "id" : "0DJwyvLuFLBGnXaSeefbN4",
+      "images" : [ ],
+      "name" : "Replicant Rumba Rockers",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0DJwyvLuFLBGnXaSeefbN4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4JvcVot6ZsuUQEUYR1mm8o"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 115
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4JvcVot6ZsuUQEUYR1mm8o",
+      "id" : "4JvcVot6ZsuUQEUYR1mm8o",
+      "images" : [ ],
+      "name" : "Replicantes",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:4JvcVot6ZsuUQEUYR1mm8o"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51TkTDoegZbaTVcDRKjP75"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 86
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/51TkTDoegZbaTVcDRKjP75",
+      "id" : "51TkTDoegZbaTVcDRKjP75",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb31e3fc85c8bd96e0fca51092",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517431e3fc85c8bd96e0fca51092",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17831e3fc85c8bd96e0fca51092",
+        "width" : 160
+      } ],
+      "name" : "Replicant Theory",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:51TkTDoegZbaTVcDRKjP75"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2pAo6bWxJkXvhyyqPoas2R"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2pAo6bWxJkXvhyyqPoas2R",
+      "id" : "2pAo6bWxJkXvhyyqPoas2R",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273369eb958437e27e7ac7db75e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02369eb958437e27e7ac7db75e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851369eb958437e27e7ac7db75e",
+        "width" : 64
+      } ],
+      "name" : "The Replicants",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2pAo6bWxJkXvhyyqPoas2R"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2X0ez1EYIUeqpeyFwHVqcd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2X0ez1EYIUeqpeyFwHVqcd",
+      "id" : "2X0ez1EYIUeqpeyFwHVqcd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732ecc8d62cb0b0552bad87add",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022ecc8d62cb0b0552bad87add",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512ecc8d62cb0b0552bad87add",
+        "width" : 64
+      } ],
+      "name" : "Replicant",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2X0ez1EYIUeqpeyFwHVqcd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3EvN192fNlw0oSDgE19Saj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 62
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3EvN192fNlw0oSDgE19Saj",
+      "id" : "3EvN192fNlw0oSDgE19Saj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba77dbfb81590b9ff444f19dc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a77dbfb81590b9ff444f19dc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a77dbfb81590b9ff444f19dc",
+        "width" : 160
+      } ],
+      "name" : "Replicant's Dream",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3EvN192fNlw0oSDgE19Saj"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=REPLICANT&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 45
+  }
+}

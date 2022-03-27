@@ -1,0 +1,563 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CHAPTER+&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10895
+      },
+      "genres" : [ "bass house", "deep groove house", "house", "uk tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/5yPVuutf3WAXUt1VqDaN1t",
+      "id" : "5yPVuutf3WAXUt1VqDaN1t",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb67d42ea83964ef51373a4151",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517467d42ea83964ef51373a4151",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17867d42ea83964ef51373a4151",
+        "width" : 160
+      } ],
+      "name" : "Chapter & Verse",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:5yPVuutf3WAXUt1VqDaN1t"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 46034
+      },
+      "genres" : [ "dream pop", "dreamgaze", "noise pop", "nu gaze", "reading indie", "shoegaze" ],
+      "href" : "https://api.spotify.com/v1/artists/3r94PF71LWRI5K6wqclNjQ",
+      "id" : "3r94PF71LWRI5K6wqclNjQ",
+      "images" : [ {
+        "height" : 750,
+        "url" : "https://i.scdn.co/image/e00fcc7f12f99031c4ea6c4970d5116928c9d195",
+        "width" : 1000
+      }, {
+        "height" : 480,
+        "url" : "https://i.scdn.co/image/1bd3cb9bacdf76cd5339a4b78dd69205666118cd",
+        "width" : 640
+      }, {
+        "height" : 150,
+        "url" : "https://i.scdn.co/image/152206e6f78f57ee06d1b772e8c95ecb6c9b0e0c",
+        "width" : 200
+      }, {
+        "height" : 48,
+        "url" : "https://i.scdn.co/image/da932b7df3cc7337997e08779b5d6123829ade26",
+        "width" : 64
+      } ],
+      "name" : "Chapterhouse",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:3r94PF71LWRI5K6wqclNjQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Bqsbmh24Qjg1sugGDNUoh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 124
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7Bqsbmh24Qjg1sugGDNUoh",
+      "id" : "7Bqsbmh24Qjg1sugGDNUoh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd692600c42d41ec32d6e3d1d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d692600c42d41ec32d6e3d1d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d692600c42d41ec32d6e3d1d",
+        "width" : 160
+      } ],
+      "name" : "Calm Chapter",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:7Bqsbmh24Qjg1sugGDNUoh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0cydA1OTsIawYcHI79NmBu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2226
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0cydA1OTsIawYcHI79NmBu",
+      "id" : "0cydA1OTsIawYcHI79NmBu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde1499b94056f4547c1e88a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde1499b94056f4547c1e88a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde1499b94056f4547c1e88a",
+        "width" : 64
+      } ],
+      "name" : "Chapter 8",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:0cydA1OTsIawYcHI79NmBu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cHBpxIOcQfyOAX1MWI734"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8205
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1cHBpxIOcQfyOAX1MWI734",
+      "id" : "1cHBpxIOcQfyOAX1MWI734",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2ea50925f5cff43b27fa7f0b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742ea50925f5cff43b27fa7f0b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782ea50925f5cff43b27fa7f0b",
+        "width" : 160
+      } ],
+      "name" : "Chapter 47",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:1cHBpxIOcQfyOAX1MWI734"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Us5KnZKEz3Y5eand0peXC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20923
+      },
+      "genres" : [ "deep christian rock" ],
+      "href" : "https://api.spotify.com/v1/artists/0Us5KnZKEz3Y5eand0peXC",
+      "id" : "0Us5KnZKEz3Y5eand0peXC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27320c5cdb42a52aee8516a4f13",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0220c5cdb42a52aee8516a4f13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485120c5cdb42a52aee8516a4f13",
+        "width" : 64
+      } ],
+      "name" : "2nd Chapter Of Acts",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Us5KnZKEz3Y5eand0peXC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6XrBkpnSI0PyIaBw15qwU0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3370
+      },
+      "genres" : [ "reggae rock" ],
+      "href" : "https://api.spotify.com/v1/artists/6XrBkpnSI0PyIaBw15qwU0",
+      "id" : "6XrBkpnSI0PyIaBw15qwU0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27386dbff0cc023c80c124de305",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0286dbff0cc023c80c124de305",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485186dbff0cc023c80c124de305",
+        "width" : 64
+      } ],
+      "name" : "Chapter 11",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:6XrBkpnSI0PyIaBw15qwU0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fQODutjI9YVEXAzIqN8w8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 356
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4fQODutjI9YVEXAzIqN8w8",
+      "id" : "4fQODutjI9YVEXAzIqN8w8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe8f3b8983bf14a1248ff8d09",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e8f3b8983bf14a1248ff8d09",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e8f3b8983bf14a1248ff8d09",
+        "width" : 160
+      } ],
+      "name" : "Chapters",
+      "popularity" : 23,
+      "type" : "artist",
+      "uri" : "spotify:artist:4fQODutjI9YVEXAzIqN8w8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1857
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6hJhjhNdtSCfZhQiqN03lq",
+      "id" : "6hJhjhNdtSCfZhQiqN03lq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6c5106e59c99bf34059e4e0b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746c5106e59c99bf34059e4e0b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786c5106e59c99bf34059e4e0b",
+        "width" : 160
+      } ],
+      "name" : "Void Chapter",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:6hJhjhNdtSCfZhQiqN03lq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4GWDqnuqX2eDc4wD84Zu7k"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4220
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4GWDqnuqX2eDc4wD84Zu7k",
+      "id" : "4GWDqnuqX2eDc4wD84Zu7k",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738a847b0ae1be3497a514cbe5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028a847b0ae1be3497a514cbe5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518a847b0ae1be3497a514cbe5",
+        "width" : 64
+      } ],
+      "name" : "The Bad Chapter",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:4GWDqnuqX2eDc4wD84Zu7k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LBT80WTPeTR3D1ByX4AXT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0LBT80WTPeTR3D1ByX4AXT",
+      "id" : "0LBT80WTPeTR3D1ByX4AXT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b558ce7e11b3062c13b4f96",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b558ce7e11b3062c13b4f96",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b558ce7e11b3062c13b4f96",
+        "width" : 64
+      } ],
+      "name" : "Chapter Eighteen",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:0LBT80WTPeTR3D1ByX4AXT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Obxlsc4O0Q2Q36ugS7fbN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3994
+      },
+      "genres" : [ "jazz rock" ],
+      "href" : "https://api.spotify.com/v1/artists/4Obxlsc4O0Q2Q36ugS7fbN",
+      "id" : "4Obxlsc4O0Q2Q36ugS7fbN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ac448c792b472cf2314e21c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ac448c792b472cf2314e21c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ac448c792b472cf2314e21c7",
+        "width" : 64
+      } ],
+      "name" : "Manfred Mann Chapter Three",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Obxlsc4O0Q2Q36ugS7fbN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22gy9ytgjYn1lGux67VYy6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2279
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/22gy9ytgjYn1lGux67VYy6",
+      "id" : "22gy9ytgjYn1lGux67VYy6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3d5043e149f7ce9beef72a60",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743d5043e149f7ce9beef72a60",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783d5043e149f7ce9beef72a60",
+        "width" : 160
+      } ],
+      "name" : "chapter 13",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:22gy9ytgjYn1lGux67VYy6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5m5xiVOeNtvyy20oCSaq0O"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 142
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5m5xiVOeNtvyy20oCSaq0O",
+      "id" : "5m5xiVOeNtvyy20oCSaq0O",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2f296bb67786c70516bfd5a9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742f296bb67786c70516bfd5a9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782f296bb67786c70516bfd5a9",
+        "width" : 160
+      } ],
+      "name" : "Chapter",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:5m5xiVOeNtvyy20oCSaq0O"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0a3LMT0Jtt91cH7dhhyC78"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1960
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0a3LMT0Jtt91cH7dhhyC78",
+      "id" : "0a3LMT0Jtt91cH7dhhyC78",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe09e4c7fd572bc2c23c29f22",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e09e4c7fd572bc2c23c29f22",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e09e4c7fd572bc2c23c29f22",
+        "width" : 160
+      } ],
+      "name" : "Chapter and Verse",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:0a3LMT0Jtt91cH7dhhyC78"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/41KNQsXxCVR0OhcHUXKDOg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/41KNQsXxCVR0OhcHUXKDOg",
+      "id" : "41KNQsXxCVR0OhcHUXKDOg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e49c19429ad692bf60cf2269",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e49c19429ad692bf60cf2269",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e49c19429ad692bf60cf2269",
+        "width" : 64
+      } ],
+      "name" : "Game Chapter",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:41KNQsXxCVR0OhcHUXKDOg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1FVIY1oZ9Y2qLF5jLs5f3F"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 351
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1FVIY1oZ9Y2qLF5jLs5f3F",
+      "id" : "1FVIY1oZ9Y2qLF5jLs5f3F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a8c3010853471fd446324945",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a8c3010853471fd446324945",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a8c3010853471fd446324945",
+        "width" : 64
+      } ],
+      "name" : "The Final Chapter",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:1FVIY1oZ9Y2qLF5jLs5f3F"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mHG2Lg3HcUqC0KSGsj9W7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 98
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1mHG2Lg3HcUqC0KSGsj9W7",
+      "id" : "1mHG2Lg3HcUqC0KSGsj9W7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebdafd3c21924d5d0b26f2ee18",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174dafd3c21924d5d0b26f2ee18",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178dafd3c21924d5d0b26f2ee18",
+        "width" : 160
+      } ],
+      "name" : "Tiny Chapter",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:1mHG2Lg3HcUqC0KSGsj9W7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SuofyMgF8cS5L0EymWKvw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1SuofyMgF8cS5L0EymWKvw",
+      "id" : "1SuofyMgF8cS5L0EymWKvw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733de97df18ebc825b3e5b9bde",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023de97df18ebc825b3e5b9bde",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513de97df18ebc825b3e5b9bde",
+        "width" : 64
+      } ],
+      "name" : "Chapter6",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:1SuofyMgF8cS5L0EymWKvw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ne8aEFYblfGS2ETXbZdmd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6ne8aEFYblfGS2ETXbZdmd",
+      "id" : "6ne8aEFYblfGS2ETXbZdmd",
+      "images" : [ ],
+      "name" : "Final Chapter",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:6ne8aEFYblfGS2ETXbZdmd"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=CHAPTER+&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 375
+  }
+}

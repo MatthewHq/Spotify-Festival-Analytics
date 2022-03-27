@@ -1,0 +1,835 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6L7a6wPGpvLtTwOsMLnF1z",
+        "id" : "6L7a6wPGpvLtTwOsMLnF1z",
+        "name" : "D-Block & S-te-Fan",
+        "type" : "artist",
+        "uri" : "spotify:artist:6L7a6wPGpvLtTwOsMLnF1z"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+        "id" : "7E6DrjKJieOdJKO8mbwCMO",
+        "name" : "D-Sturb",
+        "type" : "artist",
+        "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1rzyctURoeR2Ovg5CtOeSG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1rzyctURoeR2Ovg5CtOeSG",
+      "id" : "1rzyctURoeR2Ovg5CtOeSG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a1e7091ae67b856fc9060c34",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a1e7091ae67b856fc9060c34",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a1e7091ae67b856fc9060c34",
+        "width" : 64
+      } ],
+      "name" : "Feel It!",
+      "release_date" : "2020-01-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1rzyctURoeR2Ovg5CtOeSG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6L7a6wPGpvLtTwOsMLnF1z",
+      "id" : "6L7a6wPGpvLtTwOsMLnF1z",
+      "name" : "D-Block & S-te-Fan",
+      "type" : "artist",
+      "uri" : "spotify:artist:6L7a6wPGpvLtTwOsMLnF1z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236903,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLS761900777"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/01xdiGuSuIf5qZulm1uqkY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/01xdiGuSuIf5qZulm1uqkY",
+    "id" : "01xdiGuSuIf5qZulm1uqkY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feel It!",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8768dd6484056e132cbd9904dffe491e59de1c14?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:01xdiGuSuIf5qZulm1uqkY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7IeovKzVkfcG9mIJGNzTcT",
+        "id" : "7IeovKzVkfcG9mIJGNzTcT",
+        "name" : "Ran-D",
+        "type" : "artist",
+        "uri" : "spotify:artist:7IeovKzVkfcG9mIJGNzTcT"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+        "id" : "7E6DrjKJieOdJKO8mbwCMO",
+        "name" : "D-Sturb",
+        "type" : "artist",
+        "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3vH8Rv37KXuUZzSHICjTnm",
+        "id" : "3vH8Rv37KXuUZzSHICjTnm",
+        "name" : "XCEPTION",
+        "type" : "artist",
+        "uri" : "spotify:artist:3vH8Rv37KXuUZzSHICjTnm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2OgkWxZ9dl8en3NBbNmyzs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2OgkWxZ9dl8en3NBbNmyzs",
+      "id" : "2OgkWxZ9dl8en3NBbNmyzs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27392bb4513fcf798a8b778e5e9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0292bb4513fcf798a8b778e5e9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485192bb4513fcf798a8b778e5e9",
+        "width" : 64
+      } ],
+      "name" : "Dance With The Devil",
+      "release_date" : "2021-02-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2OgkWxZ9dl8en3NBbNmyzs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7IeovKzVkfcG9mIJGNzTcT",
+      "id" : "7IeovKzVkfcG9mIJGNzTcT",
+      "name" : "Ran-D",
+      "type" : "artist",
+      "uri" : "spotify:artist:7IeovKzVkfcG9mIJGNzTcT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3vH8Rv37KXuUZzSHICjTnm",
+      "id" : "3vH8Rv37KXuUZzSHICjTnm",
+      "name" : "XCEPTION",
+      "type" : "artist",
+      "uri" : "spotify:artist:3vH8Rv37KXuUZzSHICjTnm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 252236,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLH3Q2100772"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5VCUf3CJuflyaCHf7Fa4mS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5VCUf3CJuflyaCHf7Fa4mS",
+    "id" : "5VCUf3CJuflyaCHf7Fa4mS",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dance With The Devil",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/71758d928ea7db4eb2d3c33b0427727eb329f4fa?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5VCUf3CJuflyaCHf7Fa4mS"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+        "id" : "7E6DrjKJieOdJKO8mbwCMO",
+        "name" : "D-Sturb",
+        "type" : "artist",
+        "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0caJEGgVuXuSHhhrMCmlkI",
+        "id" : "0caJEGgVuXuSHhhrMCmlkI",
+        "name" : "Sefa",
+        "type" : "artist",
+        "uri" : "spotify:artist:0caJEGgVuXuSHhhrMCmlkI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/41EARIsWmMrMC8jtJkRlDy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/41EARIsWmMrMC8jtJkRlDy",
+      "id" : "41EARIsWmMrMC8jtJkRlDy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27318dd624fab6b21516ba41dd3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0218dd624fab6b21516ba41dd3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485118dd624fab6b21516ba41dd3",
+        "width" : 64
+      } ],
+      "name" : "Nothing Like The Oldschool",
+      "release_date" : "2018-10-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:41EARIsWmMrMC8jtJkRlDy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0caJEGgVuXuSHhhrMCmlkI",
+      "id" : "0caJEGgVuXuSHhhrMCmlkI",
+      "name" : "Sefa",
+      "type" : "artist",
+      "uri" : "spotify:artist:0caJEGgVuXuSHhhrMCmlkI"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236030,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLFL71800473"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1UymZaSfQII4vUkz4U5btm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1UymZaSfQII4vUkz4U5btm",
+    "id" : "1UymZaSfQII4vUkz4U5btm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nothing Like The Oldschool",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dfd0e655a2160119bf956d851e9d496961ac3409?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1UymZaSfQII4vUkz4U5btm"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+        "id" : "7E6DrjKJieOdJKO8mbwCMO",
+        "name" : "D-Sturb",
+        "type" : "artist",
+        "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1DkbEYr9F1abCjJUr3VWby"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1DkbEYr9F1abCjJUr3VWby",
+      "id" : "1DkbEYr9F1abCjJUr3VWby",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3e5fb4d3faf0240d5427bf8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3e5fb4d3faf0240d5427bf8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3e5fb4d3faf0240d5427bf8",
+        "width" : 64
+      } ],
+      "name" : "Wanna Stay",
+      "release_date" : "2021-10-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1DkbEYr9F1abCjJUr3VWby"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193548,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLFL72100685"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5nXwto7SKQ5cp4XhLv5aNB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5nXwto7SKQ5cp4XhLv5aNB",
+    "id" : "5nXwto7SKQ5cp4XhLv5aNB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wanna Stay",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/93e9d2f6ca074e4a13582583a2632198742c3334?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5nXwto7SKQ5cp4XhLv5aNB"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+        "id" : "7E6DrjKJieOdJKO8mbwCMO",
+        "name" : "D-Sturb",
+        "type" : "artist",
+        "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2CREMC4YATn7Bx9ZQku6IH",
+        "id" : "2CREMC4YATn7Bx9ZQku6IH",
+        "name" : "Vertile",
+        "type" : "artist",
+        "uri" : "spotify:artist:2CREMC4YATn7Bx9ZQku6IH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5w4hGGTJfyNy7damrlOtOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5w4hGGTJfyNy7damrlOtOY",
+      "id" : "5w4hGGTJfyNy7damrlOtOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27364fcba1944dd548f1ec19752",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0264fcba1944dd548f1ec19752",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485164fcba1944dd548f1ec19752",
+        "width" : 64
+      } ],
+      "name" : "Party At My Place (Vertile remix)",
+      "release_date" : "2021-12-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:5w4hGGTJfyNy7damrlOtOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/07E7avQ9K8W8Gr6BCx8aU9",
+      "id" : "07E7avQ9K8W8Gr6BCx8aU9",
+      "name" : "Alee",
+      "type" : "artist",
+      "uri" : "spotify:artist:07E7avQ9K8W8Gr6BCx8aU9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CREMC4YATn7Bx9ZQku6IH",
+      "id" : "2CREMC4YATn7Bx9ZQku6IH",
+      "name" : "Vertile",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CREMC4YATn7Bx9ZQku6IH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 189166,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLFL72100881"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7vlnsFTtXPgvScUtyAC2gX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7vlnsFTtXPgvScUtyAC2gX",
+    "id" : "7vlnsFTtXPgvScUtyAC2gX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Party At My Place - Vertile remix",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b2d9f0a2be2d1632cb4068b109edd823fd15bdc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7vlnsFTtXPgvScUtyAC2gX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+        "id" : "7E6DrjKJieOdJKO8mbwCMO",
+        "name" : "D-Sturb",
+        "type" : "artist",
+        "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1aQ5RklusunvA9N3kqbbJA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1aQ5RklusunvA9N3kqbbJA",
+        "id" : "1aQ5RklusunvA9N3kqbbJA",
+        "name" : "Sogma",
+        "type" : "artist",
+        "uri" : "spotify:artist:1aQ5RklusunvA9N3kqbbJA"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4EnzLaY6syM2lVhfMRolW2",
+        "id" : "4EnzLaY6syM2lVhfMRolW2",
+        "name" : "E-Life",
+        "type" : "artist",
+        "uri" : "spotify:artist:4EnzLaY6syM2lVhfMRolW2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/16IE2rXEo2ohpYEBpR4tV8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/16IE2rXEo2ohpYEBpR4tV8",
+      "id" : "16IE2rXEo2ohpYEBpR4tV8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a136b39e235d789a19705d44",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a136b39e235d789a19705d44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a136b39e235d789a19705d44",
+        "width" : 64
+      } ],
+      "name" : "Hold On",
+      "release_date" : "2020-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:16IE2rXEo2ohpYEBpR4tV8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aQ5RklusunvA9N3kqbbJA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aQ5RklusunvA9N3kqbbJA",
+      "id" : "1aQ5RklusunvA9N3kqbbJA",
+      "name" : "Sogma",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aQ5RklusunvA9N3kqbbJA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EnzLaY6syM2lVhfMRolW2",
+      "id" : "4EnzLaY6syM2lVhfMRolW2",
+      "name" : "E-Life",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EnzLaY6syM2lVhfMRolW2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 316012,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLFL72000263"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/45gh5MYw011EZWyBffqveu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/45gh5MYw011EZWyBffqveu",
+    "id" : "45gh5MYw011EZWyBffqveu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hold On",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e9e242ac1fa3448e8f82525767a919f5eabb6ab9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:45gh5MYw011EZWyBffqveu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+        "id" : "7E6DrjKJieOdJKO8mbwCMO",
+        "name" : "D-Sturb",
+        "type" : "artist",
+        "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7rL3CpbbDSsbP5iIsuagJ6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7rL3CpbbDSsbP5iIsuagJ6",
+      "id" : "7rL3CpbbDSsbP5iIsuagJ6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738f0fbb3a959f186fb7ca692c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028f0fbb3a959f186fb7ca692c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518f0fbb3a959f186fb7ca692c",
+        "width" : 64
+      } ],
+      "name" : "World Out There",
+      "release_date" : "2020-05-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7rL3CpbbDSsbP5iIsuagJ6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202495,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLFL71900522"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2MxsTNQvvAJuuHK1V6nMQV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2MxsTNQvvAJuuHK1V6nMQV",
+    "id" : "2MxsTNQvvAJuuHK1V6nMQV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "World Out There",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/639c7f19c29036e828863f42efb284700a4f57c7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2MxsTNQvvAJuuHK1V6nMQV"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Ij56hbjOTHq8RgutQwfxC",
+        "id" : "3Ij56hbjOTHq8RgutQwfxC",
+        "name" : "Radical Redemption",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Ij56hbjOTHq8RgutQwfxC"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+        "id" : "7E6DrjKJieOdJKO8mbwCMO",
+        "name" : "D-Sturb",
+        "type" : "artist",
+        "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33aOhvYIclgwh92WQ7KCYL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33aOhvYIclgwh92WQ7KCYL",
+      "id" : "33aOhvYIclgwh92WQ7KCYL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27372cc0c2a978f62272fff3659",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0272cc0c2a978f62272fff3659",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485172cc0c2a978f62272fff3659",
+        "width" : 64
+      } ],
+      "name" : "Dome Of Drums",
+      "release_date" : "2021-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:33aOhvYIclgwh92WQ7KCYL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ij56hbjOTHq8RgutQwfxC",
+      "id" : "3Ij56hbjOTHq8RgutQwfxC",
+      "name" : "Radical Redemption",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ij56hbjOTHq8RgutQwfxC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 248000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLFL72100852"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6tlx1RjLXCXHMcoY1jFdV6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6tlx1RjLXCXHMcoY1jFdV6",
+    "id" : "6tlx1RjLXCXHMcoY1jFdV6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dome Of Drums",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0766cf023786b214138edc9f47354c9c6991f13c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6tlx1RjLXCXHMcoY1jFdV6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5eHs2hHfUzGizdnrLjc3CW",
+        "id" : "5eHs2hHfUzGizdnrLjc3CW",
+        "name" : "Act of Rage",
+        "type" : "artist",
+        "uri" : "spotify:artist:5eHs2hHfUzGizdnrLjc3CW"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5rCeW3CMf0wcvwhLZ0LaP4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5rCeW3CMf0wcvwhLZ0LaP4",
+      "id" : "5rCeW3CMf0wcvwhLZ0LaP4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d31634de3dda4f059642b52f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d31634de3dda4f059642b52f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d31634de3dda4f059642b52f",
+        "width" : 64
+      } ],
+      "name" : "Sabotage",
+      "release_date" : "2017-12-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:5rCeW3CMf0wcvwhLZ0LaP4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5eHs2hHfUzGizdnrLjc3CW",
+      "id" : "5eHs2hHfUzGizdnrLjc3CW",
+      "name" : "Act of Rage",
+      "type" : "artist",
+      "uri" : "spotify:artist:5eHs2hHfUzGizdnrLjc3CW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 250838,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "NLFL71700666"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2YwJuDLYiA2pi8NCAjNJTv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2YwJuDLYiA2pi8NCAjNJTv",
+    "id" : "2YwJuDLYiA2pi8NCAjNJTv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let The Games Begin",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/01da3732dce6d6c89be6db4b2b06eec4998f06f9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2YwJuDLYiA2pi8NCAjNJTv"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+        "id" : "7E6DrjKJieOdJKO8mbwCMO",
+        "name" : "D-Sturb",
+        "type" : "artist",
+        "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6q5t7HvOnpmpDHA34LDl9r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6q5t7HvOnpmpDHA34LDl9r",
+      "id" : "6q5t7HvOnpmpDHA34LDl9r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c460f6035cb7b83b7514db49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c460f6035cb7b83b7514db49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c460f6035cb7b83b7514db49",
+        "width" : 64
+      } ],
+      "name" : "Partystarter",
+      "release_date" : "2021-04-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6q5t7HvOnpmpDHA34LDl9r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E6DrjKJieOdJKO8mbwCMO",
+      "id" : "7E6DrjKJieOdJKO8mbwCMO",
+      "name" : "D-Sturb",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E6DrjKJieOdJKO8mbwCMO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 244645,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLFL72100100"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6rJRzzKjqwLnhRs8Tk3ESj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6rJRzzKjqwLnhRs8Tk3ESj",
+    "id" : "6rJRzzKjqwLnhRs8Tk3ESj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Partystarter",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b99053f998f683fd4a29d5b95128ad1dd9d4cf85?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6rJRzzKjqwLnhRs8Tk3ESj"
+  } ]
+}

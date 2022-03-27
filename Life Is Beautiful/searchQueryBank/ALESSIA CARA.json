@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=ALESSIA+CARA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10102222
+      },
+      "genres" : [ "canadian contemporary r&b", "canadian pop", "dance pop", "electropop", "pop", "post-teen pop" ],
+      "href" : "https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR",
+      "id" : "2wUjUUtkb5lvLKcGKsKqsR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe74b7398634a741f74858dc7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e74b7398634a741f74858dc7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e74b7398634a741f74858dc7",
+        "width" : 160
+      } ],
+      "name" : "Alessia Cara",
+      "popularity" : 80,
+      "type" : "artist",
+      "uri" : "spotify:artist:2wUjUUtkb5lvLKcGKsKqsR"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

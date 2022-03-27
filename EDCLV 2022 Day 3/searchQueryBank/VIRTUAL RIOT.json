@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=VIRTUAL+RIOT&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 306821
+      },
+      "genres" : [ "brostep", "complextro", "dubstep", "edm", "electro house", "future bass", "gaming dubstep", "melodic dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/4FXGRMSHh2JjHxVwS8dhH1",
+      "id" : "4FXGRMSHh2JjHxVwS8dhH1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6c406665423f5eac0024e689",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746c406665423f5eac0024e689",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786c406665423f5eac0024e689",
+        "width" : 160
+      } ],
+      "name" : "Virtual Riot",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:4FXGRMSHh2JjHxVwS8dhH1"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

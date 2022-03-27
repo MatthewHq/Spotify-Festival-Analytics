@@ -1,0 +1,43 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CRIME+FAMILY&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68sM17cdUhxrrpfLTsVbXn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 45
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/68sM17cdUhxrrpfLTsVbXn",
+      "id" : "68sM17cdUhxrrpfLTsVbXn",
+      "images" : [ ],
+      "name" : "Crime Family",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:68sM17cdUhxrrpfLTsVbXn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28lbwxI0EKsYYTmuCVjZtQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/28lbwxI0EKsYYTmuCVjZtQ",
+      "id" : "28lbwxI0EKsYYTmuCVjZtQ",
+      "images" : [ ],
+      "name" : "Reginelli Gambino Crime Family",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:28lbwxI0EKsYYTmuCVjZtQ"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

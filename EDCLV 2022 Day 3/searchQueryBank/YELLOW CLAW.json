@@ -1,0 +1,131 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=YELLOW+CLAW&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 994545
+      },
+      "genres" : [ "bass trap", "edm", "electro house", "electronic trap", "pop dance" ],
+      "href" : "https://api.spotify.com/v1/artists/47z7ZrgFoBvVpCnElCE3Zh",
+      "id" : "47z7ZrgFoBvVpCnElCE3Zh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb935c33066d5c8094f876ed70",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174935c33066d5c8094f876ed70",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178935c33066d5c8094f876ed70",
+        "width" : 160
+      } ],
+      "name" : "Yellow Claw",
+      "popularity" : 69,
+      "type" : "artist",
+      "uri" : "spotify:artist:47z7ZrgFoBvVpCnElCE3Zh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1C6Yysu1tBNzbLl7VhfCrc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 64
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1C6Yysu1tBNzbLl7VhfCrc",
+      "id" : "1C6Yysu1tBNzbLl7VhfCrc",
+      "images" : [ ],
+      "name" : "Yellow Claw",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:1C6Yysu1tBNzbLl7VhfCrc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DsdEYVG4wEuHKLMsklBNt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 473
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2DsdEYVG4wEuHKLMsklBNt",
+      "id" : "2DsdEYVG4wEuHKLMsklBNt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738efb2d4b85056b04be33b150",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028efb2d4b85056b04be33b150",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518efb2d4b85056b04be33b150",
+        "width" : 64
+      } ],
+      "name" : "Yellow Claw",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:2DsdEYVG4wEuHKLMsklBNt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3W1ngtATnVgwbL1Ha2BG9c"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2820
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3W1ngtATnVgwbL1Ha2BG9c",
+      "id" : "3W1ngtATnVgwbL1Ha2BG9c",
+      "images" : [ ],
+      "name" : "三代目 J SOUL BROTHERS from EXILE TRIBE feat. Yellow Claw",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:3W1ngtATnVgwbL1Ha2BG9c"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2L7erjYnzCnaGfYIieMWls"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 42
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2L7erjYnzCnaGfYIieMWls",
+      "id" : "2L7erjYnzCnaGfYIieMWls",
+      "images" : [ ],
+      "name" : "SEREBRO feat. YELLOW CLAW",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:2L7erjYnzCnaGfYIieMWls"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/79ADyxHHynnZHh3DWBWsk7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 389
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/79ADyxHHynnZHh3DWBWsk7",
+      "id" : "79ADyxHHynnZHh3DWBWsk7",
+      "images" : [ ],
+      "name" : "The Opposites & Yellow Claw",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:79ADyxHHynnZHh3DWBWsk7"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6
+  }
+}

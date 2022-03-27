@@ -1,0 +1,862 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0quOpHBDwcOmM5B9V3TPpL",
+        "id" : "0quOpHBDwcOmM5B9V3TPpL",
+        "name" : "Ben Kim",
+        "type" : "artist",
+        "uri" : "spotify:artist:0quOpHBDwcOmM5B9V3TPpL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+        "name" : "LP Giobbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/69Jz6rL189yH01zQZzm7Y9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/69Jz6rL189yH01zQZzm7Y9",
+      "id" : "69Jz6rL189yH01zQZzm7Y9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738271a5b943ea587646e03bdd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028271a5b943ea587646e03bdd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518271a5b943ea587646e03bdd",
+        "width" : 64
+      } ],
+      "name" : "Somebody To Love",
+      "release_date" : "2022-01-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:69Jz6rL189yH01zQZzm7Y9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0quOpHBDwcOmM5B9V3TPpL",
+      "id" : "0quOpHBDwcOmM5B9V3TPpL",
+      "name" : "Ben Kim",
+      "type" : "artist",
+      "uri" : "spotify:artist:0quOpHBDwcOmM5B9V3TPpL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 222720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "ZZOPM2221710"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6VKpDRWz9HAUOEpElNvjSi",
+    "id" : "6VKpDRWz9HAUOEpElNvjSi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Somebody To Love",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6711e01c78f0604f46befd3ce1ce11fad9f4c420?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6VKpDRWz9HAUOEpElNvjSi"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+        "name" : "LP Giobbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Sz2jslaxjcw2VM5zYh2jK",
+        "id" : "0Sz2jslaxjcw2VM5zYh2jK",
+        "name" : "Kaleena Zanders",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Sz2jslaxjcw2VM5zYh2jK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ZD3lsDNczYTYLhnKGiGxj",
+      "id" : "1ZD3lsDNczYTYLhnKGiGxj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f34b2ed43251eff6246a6fe8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f34b2ed43251eff6246a6fe8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f34b2ed43251eff6246a6fe8",
+        "width" : 64
+      } ],
+      "name" : "Carry Us",
+      "release_date" : "2021-06-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1ZD3lsDNczYTYLhnKGiGxj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Sz2jslaxjcw2VM5zYh2jK",
+      "id" : "0Sz2jslaxjcw2VM5zYh2jK",
+      "name" : "Kaleena Zanders",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Sz2jslaxjcw2VM5zYh2jK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238264,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFPL2100066"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/40U8KhwvDcaoBFYV4hKfRn",
+    "id" : "40U8KhwvDcaoBFYV4hKfRn",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Carry Us",
+    "popularity" : 60,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:40U8KhwvDcaoBFYV4hKfRn"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+        "name" : "LP Giobbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6fh4UOwrr34e2yTDWnsA3f"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6fh4UOwrr34e2yTDWnsA3f",
+      "id" : "6fh4UOwrr34e2yTDWnsA3f",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27381b92fd84dd624ca1a5617b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0281b92fd84dd624ca1a5617b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485181b92fd84dd624ca1a5617b7",
+        "width" : 64
+      } ],
+      "name" : "Togetherness",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6fh4UOwrr34e2yTDWnsA3f"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hdb3ZH5gpJxqFPdXRGmdC",
+      "id" : "6hdb3ZH5gpJxqFPdXRGmdC",
+      "name" : "hermixalot",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hdb3ZH5gpJxqFPdXRGmdC"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 220952,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2212679"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4aXij4j5BNOKKNrxgA6wc6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4aXij4j5BNOKKNrxgA6wc6",
+    "id" : "4aXij4j5BNOKKNrxgA6wc6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Togetherness",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7735f2f67bacd21e90ac7bdf6e803be902f41425?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4aXij4j5BNOKKNrxgA6wc6"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+        "name" : "LP Giobbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/224Zsim3dmWXWYUXFuHv0o",
+        "id" : "224Zsim3dmWXWYUXFuHv0o",
+        "name" : "HANA",
+        "type" : "artist",
+        "uri" : "spotify:artist:224Zsim3dmWXWYUXFuHv0o"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0CBPN1mIPmYvZLKmbH4dd5",
+      "id" : "0CBPN1mIPmYvZLKmbH4dd5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27390e3aa56d61bb1b022fcda6e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0290e3aa56d61bb1b022fcda6e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485190e3aa56d61bb1b022fcda6e",
+        "width" : 64
+      } ],
+      "name" : "Close Your Eyes - Spotify Singles",
+      "release_date" : "2021-08-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0CBPN1mIPmYvZLKmbH4dd5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/224Zsim3dmWXWYUXFuHv0o",
+      "id" : "224Zsim3dmWXWYUXFuHv0o",
+      "name" : "HANA",
+      "type" : "artist",
+      "uri" : "spotify:artist:224Zsim3dmWXWYUXFuHv0o"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 201720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2195133"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1BiWBZrvcUh7cDCqHsjb2u",
+    "id" : "1BiWBZrvcUh7cDCqHsjb2u",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Close Your Eyes - Spotify Singles",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9105ba6c185ff12d68a08056d0f309a483090d2d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1BiWBZrvcUh7cDCqHsjb2u"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+        "name" : "LP Giobbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/71t5uC7AYxisT7Z55Y2Kqd",
+        "id" : "71t5uC7AYxisT7Z55Y2Kqd",
+        "name" : "Bklava",
+        "type" : "artist",
+        "uri" : "spotify:artist:71t5uC7AYxisT7Z55Y2Kqd"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3GTekC6u6cCRqbJtSzsqdT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3GTekC6u6cCRqbJtSzsqdT",
+      "id" : "3GTekC6u6cCRqbJtSzsqdT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d432dfebc0182c9941874201",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d432dfebc0182c9941874201",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d432dfebc0182c9941874201",
+        "width" : 64
+      } ],
+      "name" : "Sinner",
+      "release_date" : "2022-03-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3GTekC6u6cCRqbJtSzsqdT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/71t5uC7AYxisT7Z55Y2Kqd",
+      "id" : "71t5uC7AYxisT7Z55Y2Kqd",
+      "name" : "Bklava",
+      "type" : "artist",
+      "uri" : "spotify:artist:71t5uC7AYxisT7Z55Y2Kqd"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238357,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2220657"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3LqnR4dZYdZoaVivSIidKH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3LqnR4dZYdZoaVivSIidKH",
+    "id" : "3LqnR4dZYdZoaVivSIidKH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sinner",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4e6a729b7c291756c54e8f1d3c1b5ec77b31174f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3LqnR4dZYdZoaVivSIidKH"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7tm9Tuc70geXOOyKhtZHIj",
+        "id" : "7tm9Tuc70geXOOyKhtZHIj",
+        "name" : "Chris Lorenzo",
+        "type" : "artist",
+        "uri" : "spotify:artist:7tm9Tuc70geXOOyKhtZHIj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+        "name" : "LP Giobbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3KtuR0XfemCzYsFgiYT7c8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3KtuR0XfemCzYsFgiYT7c8",
+      "id" : "3KtuR0XfemCzYsFgiYT7c8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736821f6e3863de71a1e7879e5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026821f6e3863de71a1e7879e5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516821f6e3863de71a1e7879e5",
+        "width" : 64
+      } ],
+      "name" : "California Dreamin'",
+      "release_date" : "2022-02-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3KtuR0XfemCzYsFgiYT7c8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7tm9Tuc70geXOOyKhtZHIj",
+      "id" : "7tm9Tuc70geXOOyKhtZHIj",
+      "name" : "Chris Lorenzo",
+      "type" : "artist",
+      "uri" : "spotify:artist:7tm9Tuc70geXOOyKhtZHIj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XFmkmsCbCoR7wlqaZdt64",
+      "id" : "0XFmkmsCbCoR7wlqaZdt64",
+      "name" : "High Jinx",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XFmkmsCbCoR7wlqaZdt64"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 144761,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG12200382"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2AwFU2BnJRlEpjDtu04e6S"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2AwFU2BnJRlEpjDtu04e6S",
+    "id" : "2AwFU2BnJRlEpjDtu04e6S",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "California Dreamin' (feat. High Jinx) (LP Giobbi Remix)",
+    "popularity" : 59,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2AwFU2BnJRlEpjDtu04e6S"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/75nC6MXUalYZSOd7OfNkwq",
+        "id" : "75nC6MXUalYZSOd7OfNkwq",
+        "name" : "Tensnake",
+        "type" : "artist",
+        "uri" : "spotify:artist:75nC6MXUalYZSOd7OfNkwq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4jPA6KrvGWwAnWwCAo3gk8",
+        "id" : "4jPA6KrvGWwAnWwCAo3gk8",
+        "name" : "Cara Melín",
+        "type" : "artist",
+        "uri" : "spotify:artist:4jPA6KrvGWwAnWwCAo3gk8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hAoKf5xkhdK0myoWXKQgS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hAoKf5xkhdK0myoWXKQgS",
+      "id" : "4hAoKf5xkhdK0myoWXKQgS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27363e3327a6c3d43d310510947",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0263e3327a6c3d43d310510947",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485163e3327a6c3d43d310510947",
+        "width" : 64
+      } ],
+      "name" : "Antibodies",
+      "release_date" : "2021-07-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4hAoKf5xkhdK0myoWXKQgS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/75nC6MXUalYZSOd7OfNkwq",
+      "id" : "75nC6MXUalYZSOd7OfNkwq",
+      "name" : "Tensnake",
+      "type" : "artist",
+      "uri" : "spotify:artist:75nC6MXUalYZSOd7OfNkwq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jPA6KrvGWwAnWwCAo3gk8",
+      "id" : "4jPA6KrvGWwAnWwCAo3gk8",
+      "name" : "Cara Melín",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jPA6KrvGWwAnWwCAo3gk8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 312226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712105871"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6a8LfgC5aAaHNhsQcGQY1r",
+    "id" : "6a8LfgC5aAaHNhsQcGQY1r",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Antibodies - LP Giobbi Remix",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fe98419038f3a9838d1d438ac3193ca038274b6a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6a8LfgC5aAaHNhsQcGQY1r"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+        "name" : "LP Giobbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3xlmQmCJ52Ip0bktQWPUG4",
+        "id" : "3xlmQmCJ52Ip0bktQWPUG4",
+        "name" : "Amazonian Rockstar",
+        "type" : "artist",
+        "uri" : "spotify:artist:3xlmQmCJ52Ip0bktQWPUG4"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/24R2FgklbS0E9JTpNQiZrf",
+      "id" : "24R2FgklbS0E9JTpNQiZrf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27375861e1103a3093c8b1b2143",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0275861e1103a3093c8b1b2143",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485175861e1103a3093c8b1b2143",
+        "width" : 64
+      } ],
+      "name" : "Say A Little Prayer",
+      "release_date" : "2021-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:24R2FgklbS0E9JTpNQiZrf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3xlmQmCJ52Ip0bktQWPUG4",
+      "id" : "3xlmQmCJ52Ip0bktQWPUG4",
+      "name" : "Amazonian Rockstar",
+      "type" : "artist",
+      "uri" : "spotify:artist:3xlmQmCJ52Ip0bktQWPUG4"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209351,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V2100249"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5dYZ382ddDN8xBdJLx7d9e",
+    "id" : "5dYZ382ddDN8xBdJLx7d9e",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Say A Little Prayer",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cb545f30bc6b20c964da6c629af07dc25a92b6fd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5dYZ382ddDN8xBdJLx7d9e"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+        "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+        "name" : "LP Giobbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3xxRhjD7z41Q0hnNEjIifc",
+        "id" : "3xxRhjD7z41Q0hnNEjIifc",
+        "name" : "Crush Club",
+        "type" : "artist",
+        "uri" : "spotify:artist:3xxRhjD7z41Q0hnNEjIifc"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3zu1awuyss9dK1e4dQKdIJ",
+      "id" : "3zu1awuyss9dK1e4dQKdIJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736c76f3c3907e445bc2c1d955",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026c76f3c3907e445bc2c1d955",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516c76f3c3907e445bc2c1d955",
+        "width" : 64
+      } ],
+      "name" : "O Retha",
+      "release_date" : "2021-10-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3zu1awuyss9dK1e4dQKdIJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3xxRhjD7z41Q0hnNEjIifc",
+      "id" : "3xxRhjD7z41Q0hnNEjIifc",
+      "name" : "Crush Club",
+      "type" : "artist",
+      "uri" : "spotify:artist:3xxRhjD7z41Q0hnNEjIifc"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 228407,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCPZ2120069"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/132fXaozCi3EKmNgTnWmiW",
+    "id" : "132fXaozCi3EKmNgTnWmiW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "O Retha",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dd425bb6fd84d0168551b811534fdce2f4b5e16d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:132fXaozCi3EKmNgTnWmiW"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3FLUBwpAnaIlIKeaBfsxFe",
+        "id" : "3FLUBwpAnaIlIKeaBfsxFe",
+        "name" : "Kito",
+        "type" : "artist",
+        "uri" : "spotify:artist:3FLUBwpAnaIlIKeaBfsxFe"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Avx0lSSSHNdu5poOJRAzz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Avx0lSSSHNdu5poOJRAzz",
+      "id" : "0Avx0lSSSHNdu5poOJRAzz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27360c44da2afc850cb976c56b3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0260c44da2afc850cb976c56b3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485160c44da2afc850cb976c56b3",
+        "width" : 64
+      } ],
+      "name" : "Steal My Clothes",
+      "release_date" : "2021-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0Avx0lSSSHNdu5poOJRAzz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3FLUBwpAnaIlIKeaBfsxFe",
+      "id" : "3FLUBwpAnaIlIKeaBfsxFe",
+      "name" : "Kito",
+      "type" : "artist",
+      "uri" : "spotify:artist:3FLUBwpAnaIlIKeaBfsxFe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1o2NpYGqHiCq7FoiYdyd1x",
+      "id" : "1o2NpYGqHiCq7FoiYdyd1x",
+      "name" : "Bea Miller",
+      "type" : "artist",
+      "uri" : "spotify:artist:1o2NpYGqHiCq7FoiYdyd1x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "name" : "LP Giobbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 205440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG12104631"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Esm09YZlCd58xR08xT021",
+    "id" : "6Esm09YZlCd58xR08xT021",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Steal My Clothes (ft. Bea Miller) – LP Giobbi Remix",
+    "popularity" : 57,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6Esm09YZlCd58xR08xT021"
+  } ]
+}

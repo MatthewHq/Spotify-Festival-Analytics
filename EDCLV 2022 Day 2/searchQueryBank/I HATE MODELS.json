@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=I+HATE+MODELS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 109049
+      },
+      "genres" : [ "dark techno", "french techno", "industrial techno", "minimal dub" ],
+      "href" : "https://api.spotify.com/v1/artists/0KqSULB80ft2H3aFg6kJmN",
+      "id" : "0KqSULB80ft2H3aFg6kJmN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb46ecc2f7a8359b6338f4b2bc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517446ecc2f7a8359b6338f4b2bc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17846ecc2f7a8359b6338f4b2bc",
+        "width" : 160
+      } ],
+      "name" : "I Hate Models",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:0KqSULB80ft2H3aFg6kJmN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1NiOzyaQeu3kQ7TNGVRWUy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 58
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1NiOzyaQeu3kQ7TNGVRWUy",
+      "id" : "1NiOzyaQeu3kQ7TNGVRWUy",
+      "images" : [ ],
+      "name" : "I Hate Models",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:1NiOzyaQeu3kQ7TNGVRWUy"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

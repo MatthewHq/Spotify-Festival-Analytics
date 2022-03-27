@@ -1,0 +1,87 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=HYBRID+MINDS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 106859
+      },
+      "genres" : [ "drum and bass", "liquid funk" ],
+      "href" : "https://api.spotify.com/v1/artists/05lF0DUkLJqiW5o70SScyR",
+      "id" : "05lF0DUkLJqiW5o70SScyR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc870cbec8d47b13dbb0cbea2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c870cbec8d47b13dbb0cbea2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c870cbec8d47b13dbb0cbea2",
+        "width" : 160
+      } ],
+      "name" : "Hybrid Minds",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:05lF0DUkLJqiW5o70SScyR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49PdNpyUlk2c7vpr1RApOr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 149
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/49PdNpyUlk2c7vpr1RApOr",
+      "id" : "49PdNpyUlk2c7vpr1RApOr",
+      "images" : [ ],
+      "name" : "Hybrid Minds feat. Katie's Ambition",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:49PdNpyUlk2c7vpr1RApOr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2eJlH7zLXkKfuOnfCPcNwU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2eJlH7zLXkKfuOnfCPcNwU",
+      "id" : "2eJlH7zLXkKfuOnfCPcNwU",
+      "images" : [ ],
+      "name" : "Hybrid Minds feat. Jasmine Spence",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:2eJlH7zLXkKfuOnfCPcNwU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Gu2jJ7OeLrj05TUsKoMGG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 42
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4Gu2jJ7OeLrj05TUsKoMGG",
+      "id" : "4Gu2jJ7OeLrj05TUsKoMGG",
+      "images" : [ ],
+      "name" : "Hybrid Minds",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Gu2jJ7OeLrj05TUsKoMGG"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

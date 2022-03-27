@@ -1,0 +1,523 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=WESTEND&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8448
+      },
+      "genres" : [ "bass house", "house" ],
+      "href" : "https://api.spotify.com/v1/artists/4epc3Bd0DOBA0kDywkRAsu",
+      "id" : "4epc3Bd0DOBA0kDywkRAsu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebdff0eddaadf9987ae096782c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174dff0eddaadf9987ae096782c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178dff0eddaadf9987ae096782c",
+        "width" : 160
+      } ],
+      "name" : "Westend",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:4epc3Bd0DOBA0kDywkRAsu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GlZOCmRFQ2AZxjUeJ2zbY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1GlZOCmRFQ2AZxjUeJ2zbY",
+      "id" : "1GlZOCmRFQ2AZxjUeJ2zbY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b2694e27279b315c85bcdfb8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b2694e27279b315c85bcdfb8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b2694e27279b315c85bcdfb8",
+        "width" : 64
+      } ],
+      "name" : "WESTEND",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:1GlZOCmRFQ2AZxjUeJ2zbY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0HaG0FgLppnqm1WHvtzUXu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 229
+      },
+      "genres" : [ "background jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/0HaG0FgLppnqm1WHvtzUXu",
+      "id" : "0HaG0FgLppnqm1WHvtzUXu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736616bc2ff0c48423aa5a25de",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026616bc2ff0c48423aa5a25de",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516616bc2ff0c48423aa5a25de",
+        "width" : 64
+      } ],
+      "name" : "Westend Jazz Trio",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:0HaG0FgLppnqm1WHvtzUXu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ghjjvtDmprJK2GRI1kXpU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 192
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2ghjjvtDmprJK2GRI1kXpU",
+      "id" : "2ghjjvtDmprJK2GRI1kXpU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1a2db5d96e06dcc3a8166270",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741a2db5d96e06dcc3a8166270",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781a2db5d96e06dcc3a8166270",
+        "width" : 160
+      } ],
+      "name" : "WestEndShawty",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ghjjvtDmprJK2GRI1kXpU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4SIUiZEikEKimM7BjiH0Gd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 37
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4SIUiZEikEKimM7BjiH0Gd",
+      "id" : "4SIUiZEikEKimM7BjiH0Gd",
+      "images" : [ ],
+      "name" : "Caroline Westendorp",
+      "popularity" : 23,
+      "type" : "artist",
+      "uri" : "spotify:artist:4SIUiZEikEKimM7BjiH0Gd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/70kf0eIGVLOenLu4YYbZoR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 92
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/70kf0eIGVLOenLu4YYbZoR",
+      "id" : "70kf0eIGVLOenLu4YYbZoR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c2f224ee1f0fbbfa47cbeea9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c2f224ee1f0fbbfa47cbeea9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c2f224ee1f0fbbfa47cbeea9",
+        "width" : 64
+      } ],
+      "name" : "Westend Stage",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:70kf0eIGVLOenLu4YYbZoR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rd9z6Cy4xiMxphHnzyXXm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 18
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3Rd9z6Cy4xiMxphHnzyXXm",
+      "id" : "3Rd9z6Cy4xiMxphHnzyXXm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8b3b31d8e33c0c72f9f708c3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748b3b31d8e33c0c72f9f708c3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788b3b31d8e33c0c72f9f708c3",
+        "width" : 160
+      } ],
+      "name" : "Westend3",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rd9z6Cy4xiMxphHnzyXXm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7F8I0pPGYQp8UgXuXj9h4A"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 616
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7F8I0pPGYQp8UgXuXj9h4A",
+      "id" : "7F8I0pPGYQp8UgXuXj9h4A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f73e8f135c2c0a1ad9cdfcf2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f73e8f135c2c0a1ad9cdfcf2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f73e8f135c2c0a1ad9cdfcf2",
+        "width" : 64
+      } ],
+      "name" : "The West End Performers",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:7F8I0pPGYQp8UgXuXj9h4A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0wOyyhzjXoeUQvdvMyI99v"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0wOyyhzjXoeUQvdvMyI99v",
+      "id" : "0wOyyhzjXoeUQvdvMyI99v",
+      "images" : [ ],
+      "name" : "WestendSoundz",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:0wOyyhzjXoeUQvdvMyI99v"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/70BqN5HXvyTInXWeMXINJa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 814
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/70BqN5HXvyTInXWeMXINJa",
+      "id" : "70BqN5HXvyTInXWeMXINJa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc3f63a37016ff73fcd5d5222",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c3f63a37016ff73fcd5d5222",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c3f63a37016ff73fcd5d5222",
+        "width" : 160
+      } ],
+      "name" : "West End Icon",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:70BqN5HXvyTInXWeMXINJa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5j8nnKERIIBIZoH63wNzxt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 60
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5j8nnKERIIBIZoH63wNzxt",
+      "id" : "5j8nnKERIIBIZoH63wNzxt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4aa513466e303fbb5f71ea95",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744aa513466e303fbb5f71ea95",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784aa513466e303fbb5f71ea95",
+        "width" : 160
+      } ],
+      "name" : "WestendGhoul",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:5j8nnKERIIBIZoH63wNzxt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oMvOJzq322VZK0pnqohLV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3oMvOJzq322VZK0pnqohLV",
+      "id" : "3oMvOJzq322VZK0pnqohLV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733f4ef0d0bd67ff52852a44ff",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023f4ef0d0bd67ff52852a44ff",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513f4ef0d0bd67ff52852a44ff",
+        "width" : 64
+      } ],
+      "name" : "WestEndd",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3oMvOJzq322VZK0pnqohLV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4TnDsV5xgUYYA8d90pufrc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4TnDsV5xgUYYA8d90pufrc",
+      "id" : "4TnDsV5xgUYYA8d90pufrc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb78ac2f4fba869de2e9275f0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b78ac2f4fba869de2e9275f0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b78ac2f4fba869de2e9275f0",
+        "width" : 160
+      } ],
+      "name" : "WestEndBaby",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4TnDsV5xgUYYA8d90pufrc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xjOeFDOKAPOkEo1D2ibgS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 103
+      },
+      "genres" : [ "classic eurovision" ],
+      "href" : "https://api.spotify.com/v1/artists/3xjOeFDOKAPOkEo1D2ibgS",
+      "id" : "3xjOeFDOKAPOkEo1D2ibgS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ba8aa64f185dda9d36098bef",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ba8aa64f185dda9d36098bef",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ba8aa64f185dda9d36098bef",
+        "width" : 64
+      } ],
+      "name" : "Westend",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:3xjOeFDOKAPOkEo1D2ibgS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6LQQFyNG8oQj8zi36W3wT8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6LQQFyNG8oQj8zi36W3wT8",
+      "id" : "6LQQFyNG8oQj8zi36W3wT8",
+      "images" : [ ],
+      "name" : "Westendorp",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6LQQFyNG8oQj8zi36W3wT8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6JdTNGWRaWsZ45LYhO9ayH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6JdTNGWRaWsZ45LYhO9ayH",
+      "id" : "6JdTNGWRaWsZ45LYhO9ayH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27382254296c882536ad84f8d5d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0282254296c882536ad84f8d5d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485182254296c882536ad84f8d5d",
+        "width" : 64
+      } ],
+      "name" : "Westend Quon",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6JdTNGWRaWsZ45LYhO9ayH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2m4UmAgB4oYNiNynMibIVr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2m4UmAgB4oYNiNynMibIVr",
+      "id" : "2m4UmAgB4oYNiNynMibIVr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fb5df5a60c0d89e6619fa150",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fb5df5a60c0d89e6619fa150",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fb5df5a60c0d89e6619fa150",
+        "width" : 64
+      } ],
+      "name" : "WestendJah",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2m4UmAgB4oYNiNynMibIVr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Dd42onXbuVOkQMJ8pLsHw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Dd42onXbuVOkQMJ8pLsHw",
+      "id" : "0Dd42onXbuVOkQMJ8pLsHw",
+      "images" : [ ],
+      "name" : "Westend Shawty",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Dd42onXbuVOkQMJ8pLsHw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2JXMoS4vIwREs2Yzkq9xlE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2JXMoS4vIwREs2Yzkq9xlE",
+      "id" : "2JXMoS4vIwREs2Yzkq9xlE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731ece42432b7e3cdbb22cd47a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021ece42432b7e3cdbb22cd47a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511ece42432b7e3cdbb22cd47a",
+        "width" : 64
+      } ],
+      "name" : "Westend",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:2JXMoS4vIwREs2Yzkq9xlE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TB375H5wRZUjF0rASh9A3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6TB375H5wRZUjF0rASh9A3",
+      "id" : "6TB375H5wRZUjF0rASh9A3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27365915c9109b3042bc82e147b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0265915c9109b3042bc82e147b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485165915c9109b3042bc82e147b",
+        "width" : 64
+      } ],
+      "name" : "WESTENDORFF ANDREAS",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6TB375H5wRZUjF0rASh9A3"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=WESTEND&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 86
+  }
+}

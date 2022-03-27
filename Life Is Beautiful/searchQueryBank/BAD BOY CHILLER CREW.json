@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BAD+BOY+CHILLER+CREW&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 130417
+      },
+      "genres" : [ "indie hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/5SRr4ZJMoygWecytkIwlaV",
+      "id" : "5SRr4ZJMoygWecytkIwlaV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb3257875bf8de45c4e98bdfd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b3257875bf8de45c4e98bdfd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b3257875bf8de45c4e98bdfd",
+        "width" : 160
+      } ],
+      "name" : "Bad Boy Chiller Crew",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:5SRr4ZJMoygWecytkIwlaV"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

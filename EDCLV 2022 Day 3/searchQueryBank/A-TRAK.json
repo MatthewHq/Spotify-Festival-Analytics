@@ -1,0 +1,463 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=A-TRAK&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 120412
+      },
+      "genres" : [ "canadian electronic", "edm", "electro house", "turntablism" ],
+      "href" : "https://api.spotify.com/v1/artists/3TaUSUXn41GixL7zbvrIDt",
+      "id" : "3TaUSUXn41GixL7zbvrIDt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb75434c7917ba4d75e025f5e2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517475434c7917ba4d75e025f5e2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17875434c7917ba4d75e025f5e2",
+        "width" : 160
+      } ],
+      "name" : "A-Trak",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:3TaUSUXn41GixL7zbvrIDt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2753857
+      },
+      "genres" : [ "banda", "musica mexicana", "nueva musica mexicana", "ranchera" ],
+      "href" : "https://api.spotify.com/v1/artists/4LFOoXhMhnq9U8VsZkSwxl",
+      "id" : "4LFOoXhMhnq9U8VsZkSwxl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb61c3e2ab067240dcbd3933bf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517461c3e2ab067240dcbd3933bf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17861c3e2ab067240dcbd3933bf",
+        "width" : 160
+      } ],
+      "name" : "Edwin Luna y La Trakalosa de Monterrey",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:4LFOoXhMhnq9U8VsZkSwxl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43NbAflMu2EEPziIsqnxJe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/43NbAflMu2EEPziIsqnxJe",
+      "id" : "43NbAflMu2EEPziIsqnxJe",
+      "images" : [ ],
+      "name" : "A-Trak",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:43NbAflMu2EEPziIsqnxJe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53qtAeLvaNgWcrDMm2g3Yu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 223
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/53qtAeLvaNgWcrDMm2g3Yu",
+      "id" : "53qtAeLvaNgWcrDMm2g3Yu",
+      "images" : [ ],
+      "name" : "A-Trak feat. Juicy J, Jim Jones, Flatbush Zombies, El-P",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:53qtAeLvaNgWcrDMm2g3Yu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2tltgg6YBVu8S8R5QV71HL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2490
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2tltgg6YBVu8S8R5QV71HL",
+      "id" : "2tltgg6YBVu8S8R5QV71HL",
+      "images" : [ ],
+      "name" : "Ewdin Luna y la Trakalosa de Monterrey",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:2tltgg6YBVu8S8R5QV71HL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12nn1Canph6aHBF9cwra7N"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 113
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/12nn1Canph6aHBF9cwra7N",
+      "id" : "12nn1Canph6aHBF9cwra7N",
+      "images" : [ ],
+      "name" : "DJ A-Trak",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:12nn1Canph6aHBF9cwra7N"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4q982TUgulD2B7ZeRCoPKd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4q982TUgulD2B7ZeRCoPKd",
+      "id" : "4q982TUgulD2B7ZeRCoPKd",
+      "images" : [ ],
+      "name" : "A Trakkzz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4q982TUgulD2B7ZeRCoPKd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0bxkS8BDIInKRx9IyeukVx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1680
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0bxkS8BDIInKRx9IyeukVx",
+      "id" : "0bxkS8BDIInKRx9IyeukVx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebda53da12904ac44d33a38a6a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174da53da12904ac44d33a38a6a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178da53da12904ac44d33a38a6a",
+        "width" : 160
+      } ],
+      "name" : "adams traktor",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:0bxkS8BDIInKRx9IyeukVx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4sIPdG16pPQnf2jb5j6YOd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 559
+      },
+      "genres" : [ "musica purepecha" ],
+      "href" : "https://api.spotify.com/v1/artists/4sIPdG16pPQnf2jb5j6YOd",
+      "id" : "4sIPdG16pPQnf2jb5j6YOd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b146b4d5aa1d36e02bc86aa8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b146b4d5aa1d36e02bc86aa8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b146b4d5aa1d36e02bc86aa8",
+        "width" : 64
+      } ],
+      "name" : "La Traketera Banda Ardiente",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:4sIPdG16pPQnf2jb5j6YOd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ldWNiMW61xU6hP60gIBC8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4ldWNiMW61xU6hP60gIBC8",
+      "id" : "4ldWNiMW61xU6hP60gIBC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb92ead6e7b3958a2f8465b83d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517492ead6e7b3958a2f8465b83d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17892ead6e7b3958a2f8465b83d",
+        "width" : 160
+      } ],
+      "name" : "TRAKFACE A3KPR",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ldWNiMW61xU6hP60gIBC8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6dzOaE9U1b5X6NrbPhEjhj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 125
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6dzOaE9U1b5X6NrbPhEjhj",
+      "id" : "6dzOaE9U1b5X6NrbPhEjhj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f5ccb84628b8b6aea30a6847",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f5ccb84628b8b6aea30a6847",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f5ccb84628b8b6aea30a6847",
+        "width" : 64
+      } ],
+      "name" : "The Trakya All Stars",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:6dzOaE9U1b5X6NrbPhEjhj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SM7yuJqekKT25fLgKYDJe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 277
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5SM7yuJqekKT25fLgKYDJe",
+      "id" : "5SM7yuJqekKT25fLgKYDJe",
+      "images" : [ ],
+      "name" : "Majah Onna Trakk & Blaza",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:5SM7yuJqekKT25fLgKYDJe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0YlK6I9IbMLLcs9rgOldgb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0YlK6I9IbMLLcs9rgOldgb",
+      "id" : "0YlK6I9IbMLLcs9rgOldgb",
+      "images" : [ ],
+      "name" : "trak atiks",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0YlK6I9IbMLLcs9rgOldgb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5kG1DDccTFPk6Vqfn2M83X"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5kG1DDccTFPk6Vqfn2M83X",
+      "id" : "5kG1DDccTFPk6Vqfn2M83X",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27317e9e0914eaf35ee853a06e7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0217e9e0914eaf35ee853a06e7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485117e9e0914eaf35ee853a06e7",
+        "width" : 64
+      } ],
+      "name" : "Trakkz Aladdin",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5kG1DDccTFPk6Vqfn2M83X"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ygOEcjbcIcdgScoc5XpkP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2ygOEcjbcIcdgScoc5XpkP",
+      "id" : "2ygOEcjbcIcdgScoc5XpkP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27303301123bb2896a466d232cd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0203301123bb2896a466d232cd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485103301123bb2896a466d232cd",
+        "width" : 64
+      } ],
+      "name" : "Athenis Trakis",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ygOEcjbcIcdgScoc5XpkP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FHzxbrEOrZiM8EwcHNAeP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7FHzxbrEOrZiM8EwcHNAeP",
+      "id" : "7FHzxbrEOrZiM8EwcHNAeP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27374bc5089d1b8c1f286be4baf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0274bc5089d1b8c1f286be4baf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485174bc5089d1b8c1f286be4baf",
+        "width" : 64
+      } ],
+      "name" : "AP Traks",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7FHzxbrEOrZiM8EwcHNAeP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1LwooMfEYENYcZetS3Qy3T"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1LwooMfEYENYcZetS3Qy3T",
+      "id" : "1LwooMfEYENYcZetS3Qy3T",
+      "images" : [ ],
+      "name" : "Trakt Abstraktu",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1LwooMfEYENYcZetS3Qy3T"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34GDKXPjQElKki8kbA5o1z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/34GDKXPjQElKki8kbA5o1z",
+      "id" : "34GDKXPjQElKki8kbA5o1z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf8739a07e1c27f723eb2c25f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f8739a07e1c27f723eb2c25f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f8739a07e1c27f723eb2c25f",
+        "width" : 160
+      } ],
+      "name" : "Ab$trakk",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:34GDKXPjQElKki8kbA5o1z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37vPCzSX2KbE2oxuaYxBUp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 43
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/37vPCzSX2KbE2oxuaYxBUp",
+      "id" : "37vPCzSX2KbE2oxuaYxBUp",
+      "images" : [ ],
+      "name" : "A - Trak",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:37vPCzSX2KbE2oxuaYxBUp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64NnsrSLErfaQSNhuAqTLj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/64NnsrSLErfaQSNhuAqTLj",
+      "id" : "64NnsrSLErfaQSNhuAqTLj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4df93971eb3e533fadf95e5f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744df93971eb3e533fadf95e5f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784df93971eb3e533fadf95e5f",
+        "width" : 160
+      } ],
+      "name" : "Anushka Trakroo",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:64NnsrSLErfaQSNhuAqTLj"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=A-TRAK&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 60
+  }
+}

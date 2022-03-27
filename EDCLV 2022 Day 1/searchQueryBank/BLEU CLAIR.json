@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=BLEU+CLAIR&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 26360
+      },
+      "genres" : [ "bass house", "electro house", "indonesian edm" ],
+      "href" : "https://api.spotify.com/v1/artists/7kA4sEagpoNK91I7wr9tYr",
+      "id" : "7kA4sEagpoNK91I7wr9tYr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb32cb9da2d7fa954f7b9446b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517432cb9da2d7fa954f7b9446b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17832cb9da2d7fa954f7b9446b9",
+        "width" : 160
+      } ],
+      "name" : "Bleu Clair",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:7kA4sEagpoNK91I7wr9tYr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2i19yMZZ3alOVwQIqJzJhz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2i19yMZZ3alOVwQIqJzJhz",
+      "id" : "2i19yMZZ3alOVwQIqJzJhz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d519680041b734799715730f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d519680041b734799715730f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d519680041b734799715730f",
+        "width" : 64
+      } ],
+      "name" : "Bleu Clair, Annora",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2i19yMZZ3alOVwQIqJzJhz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gUMpnjcYRQB0Ay9kdvxLr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1gUMpnjcYRQB0Ay9kdvxLr",
+      "id" : "1gUMpnjcYRQB0Ay9kdvxLr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27350953669ceeb4d96deae5be7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0250953669ceeb4d96deae5be7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485150953669ceeb4d96deae5be7",
+        "width" : 64
+      } ],
+      "name" : "Bleu Clair, Paper Planes",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1gUMpnjcYRQB0Ay9kdvxLr"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=JOSEPH+CAPRIATI&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 151230
+      },
+      "genres" : [ "deep minimal techno", "italian techno", "minimal techno", "tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/7onsqSWPufMm5ZnUCECDpf",
+      "id" : "7onsqSWPufMm5ZnUCECDpf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf3b5d49167672ae324f9f27b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f3b5d49167672ae324f9f27b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f3b5d49167672ae324f9f27b",
+        "width" : 160
+      } ],
+      "name" : "Joseph Capriati",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:7onsqSWPufMm5ZnUCECDpf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44jmVOOQ6z9m5S2GEI81tO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 178
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/44jmVOOQ6z9m5S2GEI81tO",
+      "id" : "44jmVOOQ6z9m5S2GEI81tO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733562cd18d74593ec4869a270",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023562cd18d74593ec4869a270",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513562cd18d74593ec4869a270",
+        "width" : 64
+      } ],
+      "name" : "Markantonio & Joseph Capriati",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:44jmVOOQ6z9m5S2GEI81tO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60mWYTm8d33osIf7sLJi1P"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/60mWYTm8d33osIf7sLJi1P",
+      "id" : "60mWYTm8d33osIf7sLJi1P",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b626df19b95fa05bae0ee29",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b626df19b95fa05bae0ee29",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b626df19b95fa05bae0ee29",
+        "width" : 64
+      } ],
+      "name" : "Markantonio, Joseph Capriati, Alberto Pascual, Flavio Diaz, Frankyeffe, Simone Tavazzi, Elia, Alessio Mereu, Electric Rescue & Vladimir Acic",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:60mWYTm8d33osIf7sLJi1P"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

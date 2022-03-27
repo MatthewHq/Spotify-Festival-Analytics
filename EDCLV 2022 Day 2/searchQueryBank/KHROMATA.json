@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=KHROMATA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4qZkbvcIR78hf7pxIAyYpi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 222
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4qZkbvcIR78hf7pxIAyYpi",
+      "id" : "4qZkbvcIR78hf7pxIAyYpi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcd7e6bbd5bab97a2f3919542",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cd7e6bbd5bab97a2f3919542",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cd7e6bbd5bab97a2f3919542",
+        "width" : 160
+      } ],
+      "name" : "Khromata",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4qZkbvcIR78hf7pxIAyYpi"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

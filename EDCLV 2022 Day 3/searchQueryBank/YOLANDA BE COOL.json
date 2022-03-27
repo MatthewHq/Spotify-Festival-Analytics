@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=YOLANDA+BE+COOL&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38565
+      },
+      "genres" : [ "australian dance", "australian house", "bass house" ],
+      "href" : "https://api.spotify.com/v1/artists/4KkHjCe8ouh8C2P9LPoD4F",
+      "id" : "4KkHjCe8ouh8C2P9LPoD4F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb5e11c917bd598941f221577",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b5e11c917bd598941f221577",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b5e11c917bd598941f221577",
+        "width" : 160
+      } ],
+      "name" : "Yolanda Be Cool",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:4KkHjCe8ouh8C2P9LPoD4F"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0xajukdLPR2ylqV3tkD56h"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13816
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0xajukdLPR2ylqV3tkD56h",
+      "id" : "0xajukdLPR2ylqV3tkD56h",
+      "images" : [ ],
+      "name" : "Yolanda Be Cool & DCUP",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:0xajukdLPR2ylqV3tkD56h"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1scb6FWtSPBeKKqO7gRv2o"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1scb6FWtSPBeKKqO7gRv2o",
+      "id" : "1scb6FWtSPBeKKqO7gRv2o",
+      "images" : [ ],
+      "name" : "made famous by yolanda be cool",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1scb6FWtSPBeKKqO7gRv2o"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

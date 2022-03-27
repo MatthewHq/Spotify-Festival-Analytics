@@ -1,0 +1,826 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2avRYQUWQpIkzJOEkf0MdY",
+        "id" : "2avRYQUWQpIkzJOEkf0MdY",
+        "name" : "Kx5",
+        "type" : "artist",
+        "uri" : "spotify:artist:2avRYQUWQpIkzJOEkf0MdY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+        "id" : "2CIMQHirSU0MQqyYHq0eOx",
+        "name" : "deadmau5",
+        "type" : "artist",
+        "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+        "id" : "6TQj5BFPooTa08A7pk8AQ1",
+        "name" : "Kaskade",
+        "type" : "artist",
+        "uri" : "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1VvswDkZLX5hUgFW7F79GI",
+      "id" : "1VvswDkZLX5hUgFW7F79GI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733e94f86c2d955a8245702a8c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023e94f86c2d955a8245702a8c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513e94f86c2d955a8245702a8c",
+        "width" : 64
+      } ],
+      "name" : "Escape (feat. Hayla)",
+      "release_date" : "2022-03-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1VvswDkZLX5hUgFW7F79GI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2avRYQUWQpIkzJOEkf0MdY",
+      "id" : "2avRYQUWQpIkzJOEkf0MdY",
+      "name" : "Kx5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2avRYQUWQpIkzJOEkf0MdY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+      "id" : "6TQj5BFPooTa08A7pk8AQ1",
+      "name" : "Kaskade",
+      "type" : "artist",
+      "uri" : "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4yX6mpMyBGf9UfvBB8JJrc",
+      "id" : "4yX6mpMyBGf9UfvBB8JJrc",
+      "name" : "Hayla",
+      "type" : "artist",
+      "uri" : "spotify:artist:4yX6mpMyBGf9UfvBB8JJrc"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240445,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBTDG1302438"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/10oKSzRcwbZsog2uq2gb4b",
+    "id" : "10oKSzRcwbZsog2uq2gb4b",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Escape (feat. Hayla)",
+    "popularity" : 76,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c89fadc45fa374c90186e2ded19c1e8e796b24eb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:10oKSzRcwbZsog2uq2gb4b"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4aKdmOXdUKX07HVd3sGgzw",
+        "id" : "4aKdmOXdUKX07HVd3sGgzw",
+        "name" : "Rezz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4aKdmOXdUKX07HVd3sGgzw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+        "id" : "2CIMQHirSU0MQqyYHq0eOx",
+        "name" : "deadmau5",
+        "type" : "artist",
+        "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/28WW07Sx0IrAXAb1xDDnD3",
+      "id" : "28WW07Sx0IrAXAb1xDDnD3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ec08c4260fd2adefbef1296f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ec08c4260fd2adefbef1296f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ec08c4260fd2adefbef1296f",
+        "width" : 64
+      } ],
+      "name" : "Hypnocurrency",
+      "release_date" : "2021-04-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:28WW07Sx0IrAXAb1xDDnD3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4aKdmOXdUKX07HVd3sGgzw",
+      "id" : "4aKdmOXdUKX07HVd3sGgzw",
+      "name" : "Rezz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4aKdmOXdUKX07HVd3sGgzw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 292524,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBTDG1302245"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3evAUkYDPeLX5kn0LbvGz4",
+    "id" : "3evAUkYDPeLX5kn0LbvGz4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hypnocurrency",
+    "popularity" : 69,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5b856cb14a21234e6757a99d0d8c4047f66dc8a9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3evAUkYDPeLX5kn0LbvGz4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+        "id" : "2CIMQHirSU0MQqyYHq0eOx",
+        "name" : "deadmau5",
+        "type" : "artist",
+        "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5pdyjBIaY5o1yOyexGIUc6",
+        "id" : "5pdyjBIaY5o1yOyexGIUc6",
+        "name" : "Lights",
+        "type" : "artist",
+        "uri" : "spotify:artist:5pdyjBIaY5o1yOyexGIUc6"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1u7CRR2ketwfxA3FKGzEPK",
+      "id" : "1u7CRR2ketwfxA3FKGzEPK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731923b215a7523aa32a6959c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021923b215a7523aa32a6959c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511923b215a7523aa32a6959c0",
+        "width" : 64
+      } ],
+      "name" : "When The Summer Dies",
+      "release_date" : "2021-07-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1u7CRR2ketwfxA3FKGzEPK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5pdyjBIaY5o1yOyexGIUc6",
+      "id" : "5pdyjBIaY5o1yOyexGIUc6",
+      "name" : "Lights",
+      "type" : "artist",
+      "uri" : "spotify:artist:5pdyjBIaY5o1yOyexGIUc6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 329531,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBTDG1302257"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0mjGSve5fXuesAutgeN9OI",
+    "id" : "0mjGSve5fXuesAutgeN9OI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "When The Summer Dies",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8fe2e9572af2efbcc435101ed5e90a661d93016f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0mjGSve5fXuesAutgeN9OI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+        "id" : "2CIMQHirSU0MQqyYHq0eOx",
+        "name" : "deadmau5",
+        "type" : "artist",
+        "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3eNZDL2rqTVvmiC1f0yFwF",
+      "id" : "3eNZDL2rqTVvmiC1f0yFwF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e05790d82cd4932f818cac38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e05790d82cd4932f818cac38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e05790d82cd4932f818cac38",
+        "width" : 64
+      } ],
+      "name" : "For Lack of a Better Name (The Extended Mixes)",
+      "release_date" : "2009",
+      "release_date_precision" : "year",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:3eNZDL2rqTVvmiC1f0yFwF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2SNg8nqwOHF1eZgRnL9zes",
+      "id" : "2SNg8nqwOHF1eZgRnL9zes",
+      "name" : "Rob Swire",
+      "type" : "artist",
+      "uri" : "spotify:artist:2SNg8nqwOHF1eZgRnL9zes"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 328746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS10900757"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ezkJgagRPZ39KCTrKcSI7",
+    "id" : "3ezkJgagRPZ39KCTrKcSI7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ghosts 'n' Stuff (feat. Rob Swire)",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0bd69a31a98ed055329e8b582aaa355127c36779?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3ezkJgagRPZ39KCTrKcSI7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+        "id" : "2CIMQHirSU0MQqyYHq0eOx",
+        "name" : "deadmau5",
+        "type" : "artist",
+        "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1DH1jrRHjCyAEDwTmHmMZe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1DH1jrRHjCyAEDwTmHmMZe",
+      "id" : "1DH1jrRHjCyAEDwTmHmMZe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e2a9ce098fbcca00011e8a2c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e2a9ce098fbcca00011e8a2c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e2a9ce098fbcca00011e8a2c",
+        "width" : 64
+      } ],
+      "name" : "mau5ville: Level 1",
+      "release_date" : "2018-07-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:1DH1jrRHjCyAEDwTmHmMZe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2SNg8nqwOHF1eZgRnL9zes",
+      "id" : "2SNg8nqwOHF1eZgRnL9zes",
+      "name" : "Rob Swire",
+      "type" : "artist",
+      "uri" : "spotify:artist:2SNg8nqwOHF1eZgRnL9zes"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214670,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBTDG1301491"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2nLgWMdYPO35GGpwX2xo23"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2nLgWMdYPO35GGpwX2xo23",
+    "id" : "2nLgWMdYPO35GGpwX2xo23",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Monophobia",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/981f5b03883ca5fbf67f89fe191c3b4bf8b43b4d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2nLgWMdYPO35GGpwX2xo23"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1N9n8MSxrr4Emhb566493b",
+        "id" : "1N9n8MSxrr4Emhb566493b",
+        "name" : "Morgan Page",
+        "type" : "artist",
+        "uri" : "spotify:artist:1N9n8MSxrr4Emhb566493b"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2WLFwif81NStLAwtQQtsFs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2WLFwif81NStLAwtQQtsFs",
+      "id" : "2WLFwif81NStLAwtQQtsFs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733c18ca03ecd6842bd65625bc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023c18ca03ecd6842bd65625bc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513c18ca03ecd6842bd65625bc",
+        "width" : 64
+      } ],
+      "name" : "The Longest Road",
+      "release_date" : "2018-12-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:2WLFwif81NStLAwtQQtsFs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1N9n8MSxrr4Emhb566493b",
+      "id" : "1N9n8MSxrr4Emhb566493b",
+      "name" : "Morgan Page",
+      "type" : "artist",
+      "uri" : "spotify:artist:1N9n8MSxrr4Emhb566493b"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3j4FHbC5zwmYGJ7r0ZgaMt",
+      "id" : "3j4FHbC5zwmYGJ7r0ZgaMt",
+      "name" : "Lissie",
+      "type" : "artist",
+      "uri" : "spotify:artist:3j4FHbC5zwmYGJ7r0ZgaMt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 239213,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAN110800088"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/77w8cBOdasP7aNcPD9Dec8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/77w8cBOdasP7aNcPD9Dec8",
+    "id" : "77w8cBOdasP7aNcPD9Dec8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Longest Road - deadmau5 Remix Edit",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/552095faf67b62d4c7b933f40e4debb97aaadcc4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:77w8cBOdasP7aNcPD9Dec8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+        "id" : "6TQj5BFPooTa08A7pk8AQ1",
+        "name" : "Kaskade",
+        "type" : "artist",
+        "uri" : "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2SZJP9Nd73rvadObrh7mdc",
+      "id" : "2SZJP9Nd73rvadObrh7mdc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eb53ec4ded8035b0a18c3a83",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eb53ec4ded8035b0a18c3a83",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eb53ec4ded8035b0a18c3a83",
+        "width" : 64
+      } ],
+      "name" : "Strobelite Seduction",
+      "release_date" : "2008-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2SZJP9Nd73rvadObrh7mdc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+      "id" : "6TQj5BFPooTa08A7pk8AQ1",
+      "name" : "Kaskade",
+      "type" : "artist",
+      "uri" : "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 283040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS10800096"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/62h4GYm6aTqS0dsfJtKYIX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/62h4GYm6aTqS0dsfJtKYIX",
+    "id" : "62h4GYm6aTqS0dsfJtKYIX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Remember",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/237b71e8fee6bada0965d87514b0ee78df4e0b61?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:62h4GYm6aTqS0dsfJtKYIX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+        "id" : "2CIMQHirSU0MQqyYHq0eOx",
+        "name" : "deadmau5",
+        "type" : "artist",
+        "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5bDYz7FFarDT3C2oSNDi6S"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5bDYz7FFarDT3C2oSNDi6S",
+      "id" : "5bDYz7FFarDT3C2oSNDi6S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ec6491105bb2a58a173c513",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ec6491105bb2a58a173c513",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ec6491105bb2a58a173c513",
+        "width" : 64
+      } ],
+      "name" : "Strobe",
+      "release_date" : "2010-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:5bDYz7FFarDT3C2oSNDi6S"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBTDG0900152"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0pgEx0eQPVh3fDpJcP4BqL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0pgEx0eQPVh3fDpJcP4BqL",
+    "id" : "0pgEx0eQPVh3fDpJcP4BqL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Strobe - Radio Edit",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d57bd05b2d5e50733e3ac00c71151797a82f3638?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0pgEx0eQPVh3fDpJcP4BqL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+        "id" : "2CIMQHirSU0MQqyYHq0eOx",
+        "name" : "deadmau5",
+        "type" : "artist",
+        "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1vN0ln5O00vAWe5FEmUUst"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1vN0ln5O00vAWe5FEmUUst",
+      "id" : "1vN0ln5O00vAWe5FEmUUst",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733bdb35926a35c9730203be09",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023bdb35926a35c9730203be09",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513bdb35926a35c9730203be09",
+        "width" : 64
+      } ],
+      "name" : "Random Album Title (Unmixed Extended Versions)",
+      "release_date" : "2008-09-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:1vN0ln5O00vAWe5FEmUUst"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6TQj5BFPooTa08A7pk8AQ1",
+      "id" : "6TQj5BFPooTa08A7pk8AQ1",
+      "name" : "Kaskade",
+      "type" : "artist",
+      "uri" : "spotify:artist:6TQj5BFPooTa08A7pk8AQ1"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 593604,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS10810548"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/24oJ33zUPIfFXVfc39g7E6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/24oJ33zUPIfFXVfc39g7E6",
+    "id" : "24oJ33zUPIfFXVfc39g7E6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I Remember - Vocal Mix",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ca4ec7f320ff7b89a7d062bc555728250f7778a8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:24oJ33zUPIfFXVfc39g7E6"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+        "id" : "2CIMQHirSU0MQqyYHq0eOx",
+        "name" : "deadmau5",
+        "type" : "artist",
+        "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
+        "id" : "7gP3bB2nilZXLfPHJhMdvc",
+        "name" : "Foster The People",
+        "type" : "artist",
+        "uri" : "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3DUcJ8bqyo4cZNt97VkmKi",
+      "id" : "3DUcJ8bqyo4cZNt97VkmKi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738caab4d0a5283edd54c4b05e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028caab4d0a5283edd54c4b05e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518caab4d0a5283edd54c4b05e",
+        "width" : 64
+      } ],
+      "name" : "Hyperlandia",
+      "release_date" : "2021-10-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:3DUcJ8bqyo4cZNt97VkmKi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
+      "id" : "7gP3bB2nilZXLfPHJhMdvc",
+      "name" : "Foster The People",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 349591,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBTDG1302400"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Vd53EHIw4lEfe7rqHSctN",
+    "id" : "4Vd53EHIw4lEfe7rqHSctN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hyperlandia - Vocal Mix",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/80ddd886499596711be7ad160b84dc703fc48907?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Vd53EHIw4lEfe7rqHSctN"
+  } ]
+}

@@ -1,0 +1,555 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=GABRIEL+&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 167348
+      },
+      "genres" : [ "classical", "post-romantic era" ],
+      "href" : "https://api.spotify.com/v1/artists/2gClsBep1tt1rv1CN210SO",
+      "id" : "2gClsBep1tt1rv1CN210SO",
+      "images" : [ {
+        "height" : 745,
+        "url" : "https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64",
+        "width" : 1000
+      }, {
+        "height" : 477,
+        "url" : "https://i.scdn.co/image/c0ee11a2481b76687afca183384b45a081eb7993",
+        "width" : 640
+      }, {
+        "height" : 149,
+        "url" : "https://i.scdn.co/image/b628adc617b1cb96963c9f41c9fd46f840a65e48",
+        "width" : 200
+      }, {
+        "height" : 48,
+        "url" : "https://i.scdn.co/image/779d55b7389b4ec732343e193f8a01442bb6ce8b",
+        "width" : 64
+      } ],
+      "name" : "Gabriel Fauré",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:2gClsBep1tt1rv1CN210SO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6338561
+      },
+      "genres" : [ "cancion melodica", "latin", "latin pop", "mariachi", "musica mexicana", "ranchera" ],
+      "href" : "https://api.spotify.com/v1/artists/2MRBDr0crHWE5JwPceFncq",
+      "id" : "2MRBDr0crHWE5JwPceFncq",
+      "images" : [ {
+        "height" : 1066,
+        "url" : "https://i.scdn.co/image/022102638a204d6cb0bb6276ba2656f9c92bf2c3",
+        "width" : 1000
+      }, {
+        "height" : 682,
+        "url" : "https://i.scdn.co/image/d82a0dee228b5a991f8c7207a3fe65117e23f3eb",
+        "width" : 640
+      }, {
+        "height" : 213,
+        "url" : "https://i.scdn.co/image/a6e023b30c5d500cda3da892a01ed521d58b14eb",
+        "width" : 200
+      }, {
+        "height" : 68,
+        "url" : "https://i.scdn.co/image/3661070b60de6828f49bf12541571ad930c79a02",
+        "width" : 64
+      } ],
+      "name" : "Juan Gabriel",
+      "popularity" : 78,
+      "type" : "artist",
+      "uri" : "spotify:artist:2MRBDr0crHWE5JwPceFncq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 641593
+      },
+      "genres" : [ "acoustic pop", "alt z", "electropop", "indie poptimism", "neo mellow", "neo-singer-songwriter", "pop", "pop rock", "uk pop", "viral pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ",
+      "id" : "3w6zswp5THsSKYLICUbDTZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba1d4cbf1a4ef8dc8cbeac755",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a1d4cbf1a4ef8dc8cbeac755",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a1d4cbf1a4ef8dc8cbeac755",
+        "width" : 160
+      } ],
+      "name" : "Gabrielle Aplin",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:3w6zswp5THsSKYLICUbDTZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 456524
+      },
+      "genres" : [ "corrido", "corridos tumbados", "nueva musica mexicana", "sierreno" ],
+      "href" : "https://api.spotify.com/v1/artists/6RPeBghYnSwGV6FOw7huuN",
+      "id" : "6RPeBghYnSwGV6FOw7huuN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb386e23dec9dd13f5e50b0a3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b386e23dec9dd13f5e50b0a3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b386e23dec9dd13f5e50b0a3",
+        "width" : 160
+      } ],
+      "name" : "Esteban Gabriel",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:6RPeBghYnSwGV6FOw7huuN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0fSj8MxxUSzY9fBNRmmuWU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1900
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0fSj8MxxUSzY9fBNRmmuWU",
+      "id" : "0fSj8MxxUSzY9fBNRmmuWU",
+      "images" : [ ],
+      "name" : "Gabriella Montez",
+      "popularity" : 55,
+      "type" : "artist",
+      "uri" : "spotify:artist:0fSj8MxxUSzY9fBNRmmuWU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2824820
+      },
+      "genres" : [ "latin", "latin pop", "mariachi", "ranchera" ],
+      "href" : "https://api.spotify.com/v1/artists/41ESHLayJ5sDKjAOv6cMhe",
+      "id" : "41ESHLayJ5sDKjAOv6cMhe",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/6197e7c6b9dd409219abf5e5cbe1973002dad331",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/b1fad1e0e7314c6fb2dfe299faf904a30999743a",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/6c491a00d9cb778b562a2e4f313b07c5d52e5a99",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/f30acb276105f2a551d9f9a3bac8203bdf77929f",
+        "width" : 64
+      } ],
+      "name" : "Ana Gabriel",
+      "popularity" : 74,
+      "type" : "artist",
+      "uri" : "spotify:artist:41ESHLayJ5sDKjAOv6cMhe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21556
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0GyAZiIV45rnBBf4KdGLS7",
+      "id" : "0GyAZiIV45rnBBf4KdGLS7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c954588ba864e5785206dda7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c954588ba864e5785206dda7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c954588ba864e5785206dda7",
+        "width" : 64
+      } ],
+      "name" : "Gabriella",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:0GyAZiIV45rnBBf4KdGLS7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1312023
+      },
+      "genres" : [ "album rock", "art rock", "classic rock", "mellow gold", "permanent wave", "rock", "soft rock", "symphonic rock" ],
+      "href" : "https://api.spotify.com/v1/artists/7C4sUpWGlTy7IANjruj02I",
+      "id" : "7C4sUpWGlTy7IANjruj02I",
+      "images" : [ {
+        "height" : 1024,
+        "url" : "https://i.scdn.co/image/ad5dbe5032b439728af9e711e8c0922a3aebcdbb",
+        "width" : 1000
+      }, {
+        "height" : 655,
+        "url" : "https://i.scdn.co/image/685e5729b7dcef8e8547b842c450d2e740d910c8",
+        "width" : 640
+      }, {
+        "height" : 205,
+        "url" : "https://i.scdn.co/image/c02039c16cbb9ec7173e7638c76b41b0835f7c00",
+        "width" : 200
+      }, {
+        "height" : 66,
+        "url" : "https://i.scdn.co/image/8d2831641166234375cdbcd397c2339818422660",
+        "width" : 64
+      } ],
+      "name" : "Peter Gabriel",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:7C4sUpWGlTy7IANjruj02I"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8160
+      },
+      "genres" : [ "latin american classical piano" ],
+      "href" : "https://api.spotify.com/v1/artists/0zn66Km3MeK24VuWUZydgr",
+      "id" : "0zn66Km3MeK24VuWUZydgr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb34b162aac8795fa4b1f23a8f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517434b162aac8795fa4b1f23a8f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17834b162aac8795fa4b1f23a8f",
+        "width" : 160
+      } ],
+      "name" : "Gabriela Montero",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:0zn66Km3MeK24VuWUZydgr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 243
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0IFKI1ya1XM9LGVktNS2cS",
+      "id" : "0IFKI1ya1XM9LGVktNS2cS",
+      "images" : [ ],
+      "name" : "Gabriella Flores",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:0IFKI1ya1XM9LGVktNS2cS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 65652
+      },
+      "genres" : [ "rap cristiano", "reggaeton cristiano" ],
+      "href" : "https://api.spotify.com/v1/artists/0rOLLmeuTbBAx7YKcVEECH",
+      "id" : "0rOLLmeuTbBAx7YKcVEECH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe9c83884ac857f6ce02a112c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e9c83884ac857f6ce02a112c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e9c83884ac857f6ce02a112c",
+        "width" : 160
+      } ],
+      "name" : "GabrielRodriguezEMC",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:0rOLLmeuTbBAx7YKcVEECH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4mB2yDrWdUxy5tISyQPvpu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 122945
+      },
+      "genres" : [ "comedy", "latino comedy" ],
+      "href" : "https://api.spotify.com/v1/artists/4mB2yDrWdUxy5tISyQPvpu",
+      "id" : "4mB2yDrWdUxy5tISyQPvpu",
+      "images" : [ {
+        "height" : 1068,
+        "url" : "https://i.scdn.co/image/1be04bdb815b7b1e162bf88c2857c00404be4407",
+        "width" : 1000
+      }, {
+        "height" : 683,
+        "url" : "https://i.scdn.co/image/a480dcd46d44fccfa3bea8616dd1c419594465f7",
+        "width" : 640
+      }, {
+        "height" : 214,
+        "url" : "https://i.scdn.co/image/8e6ff25ccfafea8935a84c5b6a0cdc6de3d3674e",
+        "width" : 200
+      }, {
+        "height" : 68,
+        "url" : "https://i.scdn.co/image/7608fe614485837eba46791ebd69967047d92e75",
+        "width" : 64
+      } ],
+      "name" : "Gabriel Iglesias",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:4mB2yDrWdUxy5tISyQPvpu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 374660
+      },
+      "genres" : [ "acoustic rock", "rumba", "world" ],
+      "href" : "https://api.spotify.com/v1/artists/7vX3cMVyW8gtDA4y855ynF",
+      "id" : "7vX3cMVyW8gtDA4y855ynF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb966eb8a41213874e0e1e43a0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174966eb8a41213874e0e1e43a0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178966eb8a41213874e0e1e43a0",
+        "width" : 160
+      } ],
+      "name" : "Rodrigo y Gabriela",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:7vX3cMVyW8gtDA4y855ynF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 215341
+      },
+      "genres" : [ "british soul", "dance pop", "europop", "new wave pop" ],
+      "href" : "https://api.spotify.com/v1/artists/7rftfGIYEeZ79sLb58ZBDi",
+      "id" : "7rftfGIYEeZ79sLb58ZBDi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0736094d6a96b568125d3356",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740736094d6a96b568125d3356",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780736094d6a96b568125d3356",
+        "width" : 160
+      } ],
+      "name" : "Gabrielle",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:7rftfGIYEeZ79sLb58ZBDi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5973
+      },
+      "genres" : [ "background piano", "neo-classical" ],
+      "href" : "https://api.spotify.com/v1/artists/1vYrIm6O7VtBGszIWe75mB",
+      "id" : "1vYrIm6O7VtBGszIWe75mB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf04e2471c6cbe59b0391552c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f04e2471c6cbe59b0391552c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f04e2471c6cbe59b0391552c",
+        "width" : 160
+      } ],
+      "name" : "Gabríel Ólafs",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:1vYrIm6O7VtBGszIWe75mB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Wz58hooEMatVPyStifnoo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5Wz58hooEMatVPyStifnoo",
+      "id" : "5Wz58hooEMatVPyStifnoo",
+      "images" : [ ],
+      "name" : "Gabriela M. Soto",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Wz58hooEMatVPyStifnoo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0K6PfxKmrBfId9GnQZADfM",
+      "id" : "0K6PfxKmrBfId9GnQZADfM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ab24a48feac942235c1a26da",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ab24a48feac942235c1a26da",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ab24a48feac942235c1a26da",
+        "width" : 64
+      } ],
+      "name" : "Gabriel Auer",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:0K6PfxKmrBfId9GnQZADfM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 424
+      },
+      "genres" : [ "lo-fi brasileiro" ],
+      "href" : "https://api.spotify.com/v1/artists/2CLLtlHM5RuNUdDe7b7YwL",
+      "id" : "2CLLtlHM5RuNUdDe7b7YwL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7f716e868c2d6f65edaf14be",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747f716e868c2d6f65edaf14be",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787f716e868c2d6f65edaf14be",
+        "width" : 160
+      } ],
+      "name" : "Gabriel Cavalcanti",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:2CLLtlHM5RuNUdDe7b7YwL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75200
+      },
+      "genres" : [ "edm", "progressive house", "progressive trance", "trance", "uplifting trance" ],
+      "href" : "https://api.spotify.com/v1/artists/64KfnYe81Wld2AkG4bkGIV",
+      "id" : "64KfnYe81Wld2AkG4bkGIV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebff53f90b3cb1e6a83b3fba70",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ff53f90b3cb1e6a83b3fba70",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ff53f90b3cb1e6a83b3fba70",
+        "width" : 160
+      } ],
+      "name" : "Gabriel & Dresden",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:64KfnYe81Wld2AkG4bkGIV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 83046
+      },
+      "genres" : [ "alternative r&b", "indie jazz", "indie soul" ],
+      "href" : "https://api.spotify.com/v1/artists/1R4GxRuSVTPSb6oy56SPST",
+      "id" : "1R4GxRuSVTPSb6oy56SPST",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2296d1038fed4f5a70fea3fa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742296d1038fed4f5a70fea3fa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782296d1038fed4f5a70fea3fa",
+        "width" : 160
+      } ],
+      "name" : "Gabriel Garzón-Montano",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:1R4GxRuSVTPSb6oy56SPST"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=GABRIEL+&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6699
+  }
+}

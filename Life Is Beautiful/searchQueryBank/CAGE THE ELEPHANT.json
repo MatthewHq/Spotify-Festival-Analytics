@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CAGE+THE+ELEPHANT&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2832652
+      },
+      "genres" : [ "modern rock", "punk blues", "rock" ],
+      "href" : "https://api.spotify.com/v1/artists/26T3LtbuGT1Fu9m0eRq5X3",
+      "id" : "26T3LtbuGT1Fu9m0eRq5X3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7d994f7e137c10249de19455",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747d994f7e137c10249de19455",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787d994f7e137c10249de19455",
+        "width" : 160
+      } ],
+      "name" : "Cage The Elephant",
+      "popularity" : 79,
+      "type" : "artist",
+      "uri" : "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

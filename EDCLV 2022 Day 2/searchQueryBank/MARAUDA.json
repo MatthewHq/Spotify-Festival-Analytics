@@ -1,0 +1,131 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=MARAUDA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 49424
+      },
+      "genres" : [ "deathstep", "dubstep", "gaming dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/3YLUvWzk9eBm1WrHFlZxM4",
+      "id" : "3YLUvWzk9eBm1WrHFlZxM4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb210b181aa4be49081035a18c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174210b181aa4be49081035a18c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178210b181aa4be49081035a18c",
+        "width" : 160
+      } ],
+      "name" : "MARAUDA",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:3YLUvWzk9eBm1WrHFlZxM4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67O5XvDVmG6HVcUeuhazmo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 69
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/67O5XvDVmG6HVcUeuhazmo",
+      "id" : "67O5XvDVmG6HVcUeuhazmo",
+      "images" : [ ],
+      "name" : "Marauda",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:67O5XvDVmG6HVcUeuhazmo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5l4m4PRYQvcAuKLmVGZ9Bb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5l4m4PRYQvcAuKLmVGZ9Bb",
+      "id" : "5l4m4PRYQvcAuKLmVGZ9Bb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb70d8210e22a107c1742e5687",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517470d8210e22a107c1742e5687",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17870d8210e22a107c1742e5687",
+        "width" : 160
+      } ],
+      "name" : "Maraudaman",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5l4m4PRYQvcAuKLmVGZ9Bb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7G2AHnqd57Ci3IRookExcZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7G2AHnqd57Ci3IRookExcZ",
+      "id" : "7G2AHnqd57Ci3IRookExcZ",
+      "images" : [ ],
+      "name" : "Vers.: Sandro Marauda",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7G2AHnqd57Ci3IRookExcZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kbFuUtVGMA0N486aHPjX6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7kbFuUtVGMA0N486aHPjX6",
+      "id" : "7kbFuUtVGMA0N486aHPjX6",
+      "images" : [ ],
+      "name" : "Midnight Maraudaz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7kbFuUtVGMA0N486aHPjX6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ltwJ5adbWwQbmbE7CPnxm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7ltwJ5adbWwQbmbE7CPnxm",
+      "id" : "7ltwJ5adbWwQbmbE7CPnxm",
+      "images" : [ ],
+      "name" : "LIL Feez X Maraudaman",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7ltwJ5adbWwQbmbE7CPnxm"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 6
+  }
+}

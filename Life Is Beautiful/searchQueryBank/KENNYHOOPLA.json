@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=KENNYHOOPLA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 138443
+      },
+      "genres" : [ "modern rock", "pop punk" ],
+      "href" : "https://api.spotify.com/v1/artists/5ObBtv5VunwwhQaXXnUrsM",
+      "id" : "5ObBtv5VunwwhQaXXnUrsM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebefb00d6e34b3c4a1ae67723f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174efb00d6e34b3c4a1ae67723f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178efb00d6e34b3c4a1ae67723f",
+        "width" : 160
+      } ],
+      "name" : "KennyHoopla",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ObBtv5VunwwhQaXXnUrsM"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

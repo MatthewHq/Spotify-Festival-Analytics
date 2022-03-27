@@ -1,0 +1,123 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=NEIL+FRANCES&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 93388
+      },
+      "genres" : [ "indie soul" ],
+      "href" : "https://api.spotify.com/v1/artists/587PA35pRGL1JwQr6idJbb",
+      "id" : "587PA35pRGL1JwQr6idJbb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd4290ba8a5b43d681242ed2b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d4290ba8a5b43d681242ed2b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d4290ba8a5b43d681242ed2b",
+        "width" : 160
+      } ],
+      "name" : "NEIL FRANCES",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:587PA35pRGL1JwQr6idJbb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30937
+      },
+      "genres" : [ "classical performance", "opera", "orchestral performance" ],
+      "href" : "https://api.spotify.com/v1/artists/7silW8RiEOoLBgAg5JBCL1",
+      "id" : "7silW8RiEOoLBgAg5JBCL1",
+      "images" : [ {
+        "height" : 480,
+        "url" : "https://i.scdn.co/image/d013a9936db457f5336b03c7b3611ce7420c7cbb",
+        "width" : 300
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/fc0d354c0054983e900bbf641c50db1af88753a9",
+        "width" : 200
+      }, {
+        "height" : 102,
+        "url" : "https://i.scdn.co/image/c769e10eb5f3e209db4073d02a4cb9d03f6e1894",
+        "width" : 64
+      } ],
+      "name" : "Riccardo Muti",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:7silW8RiEOoLBgAg5JBCL1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JgflXUs4imNYRUSN1auTV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3JgflXUs4imNYRUSN1auTV",
+      "id" : "3JgflXUs4imNYRUSN1auTV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731c560f589676ac5e301097d0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021c560f589676ac5e301097d0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511c560f589676ac5e301097d0",
+        "width" : 64
+      } ],
+      "name" : "Frances O'Neill",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3JgflXUs4imNYRUSN1auTV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6bjRLRzgdIvKmfp5Rc3lVf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6bjRLRzgdIvKmfp5Rc3lVf",
+      "id" : "6bjRLRzgdIvKmfp5Rc3lVf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273045ad8212dcacb91714732e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02045ad8212dcacb91714732e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851045ad8212dcacb91714732e2",
+        "width" : 64
+      } ],
+      "name" : "O'Neil Francesca",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6bjRLRzgdIvKmfp5Rc3lVf"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

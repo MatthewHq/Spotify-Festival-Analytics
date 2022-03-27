@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=WAX+MOTIF&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 65389
+      },
+      "genres" : [ "bass house", "edm", "electro house", "electronic trap", "house" ],
+      "href" : "https://api.spotify.com/v1/artists/7zm3aSdmGiOkTt0aZFSO8R",
+      "id" : "7zm3aSdmGiOkTt0aZFSO8R",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3dd87efdeb9141526973749e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743dd87efdeb9141526973749e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783dd87efdeb9141526973749e",
+        "width" : 160
+      } ],
+      "name" : "Wax Motif",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:7zm3aSdmGiOkTt0aZFSO8R"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0W2cuPy2JhezXq2jybdtRH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0W2cuPy2JhezXq2jybdtRH",
+      "id" : "0W2cuPy2JhezXq2jybdtRH",
+      "images" : [ ],
+      "name" : "Tom Piper & Wax Motif ft. Charlie Mumbles",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0W2cuPy2JhezXq2jybdtRH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ysPqnEU53tUqQEY9Ino3E"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 143
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4ysPqnEU53tUqQEY9Ino3E",
+      "id" : "4ysPqnEU53tUqQEY9Ino3E",
+      "images" : [ ],
+      "name" : "Wax Motif & Neoteric",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ysPqnEU53tUqQEY9Ino3E"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=TEMPO+GIUSTO&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9382
+      },
+      "genres" : [ "finnish edm", "progressive house", "progressive trance", "tech trance", "trance", "uplifting trance" ],
+      "href" : "https://api.spotify.com/v1/artists/0m0RB1rz2K4biPY7teHR6R",
+      "id" : "0m0RB1rz2K4biPY7teHR6R",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc977abdd6430f5426dd003eb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c977abdd6430f5426dd003eb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c977abdd6430f5426dd003eb",
+        "width" : 160
+      } ],
+      "name" : "Tempo Giusto",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:0m0RB1rz2K4biPY7teHR6R"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ngJBlcx3dTY6r5b5rzONz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3ngJBlcx3dTY6r5b5rzONz",
+      "id" : "3ngJBlcx3dTY6r5b5rzONz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273160fa0b2a469a1db64d7a5a8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02160fa0b2a469a1db64d7a5a8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851160fa0b2a469a1db64d7a5a8",
+        "width" : 64
+      } ],
+      "name" : "Orchestra Tempo Giusto",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:3ngJBlcx3dTY6r5b5rzONz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qfpvUG1mMrwnXvIrN8CLt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0qfpvUG1mMrwnXvIrN8CLt",
+      "id" : "0qfpvUG1mMrwnXvIrN8CLt",
+      "images" : [ ],
+      "name" : "Tempo Giusto",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0qfpvUG1mMrwnXvIrN8CLt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78nHPE1PkHk6JLFWNm0bmO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/78nHPE1PkHk6JLFWNm0bmO",
+      "id" : "78nHPE1PkHk6JLFWNm0bmO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b6b5d91c5d08f68a2e10fd53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b6b5d91c5d08f68a2e10fd53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b6b5d91c5d08f68a2e10fd53",
+        "width" : 64
+      } ],
+      "name" : "Memoire & Bliss, Tempo Giusto",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:78nHPE1PkHk6JLFWNm0bmO"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

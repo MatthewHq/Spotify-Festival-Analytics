@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=ILARIO+ALICANTE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 70290
+      },
+      "genres" : [ "minimal techno", "tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/4dCGOzY3HL7dZnQ8XU7DDD",
+      "id" : "4dCGOzY3HL7dZnQ8XU7DDD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc854e679cc34b0ec8f37b048",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c854e679cc34b0ec8f37b048",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c854e679cc34b0ec8f37b048",
+        "width" : 160
+      } ],
+      "name" : "Ilario Alicante",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:4dCGOzY3HL7dZnQ8XU7DDD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4o9vGdYofO7aR0aOWc9BAY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4o9vGdYofO7aR0aOWc9BAY",
+      "id" : "4o9vGdYofO7aR0aOWc9BAY",
+      "images" : [ ],
+      "name" : "Ilario Alicante",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4o9vGdYofO7aR0aOWc9BAY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6luzIh0xf4se1Ftj78anUv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6luzIh0xf4se1Ftj78anUv",
+      "id" : "6luzIh0xf4se1Ftj78anUv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355f7148830467be8c12c21b1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255f7148830467be8c12c21b1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155f7148830467be8c12c21b1",
+        "width" : 64
+      } ],
+      "name" : "Ilario Alicante pres. RAIL",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6luzIh0xf4se1Ftj78anUv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3i6oTnAig1qMI3gIWMl6wS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3i6oTnAig1qMI3gIWMl6wS",
+      "id" : "3i6oTnAig1qMI3gIWMl6wS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a8e3bac668bd776e98abc88a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a8e3bac668bd776e98abc88a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a8e3bac668bd776e98abc88a",
+        "width" : 64
+      } ],
+      "name" : "Todd Bodine & Ilario Alicante",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3i6oTnAig1qMI3gIWMl6wS"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

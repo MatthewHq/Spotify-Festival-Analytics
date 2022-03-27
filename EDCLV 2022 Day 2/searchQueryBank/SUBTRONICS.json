@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SUBTRONICS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 148176
+      },
+      "genres" : [ "dubstep", "edm", "electro house", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebda3630f6732d14437a4ab33d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174da3630f6732d14437a4ab33d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178da3630f6732d14437a4ab33d",
+        "width" : 160
+      } ],
+      "name" : "Subtronics",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/335wTggMzSTV7PYqfJo3RX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 34
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/335wTggMzSTV7PYqfJo3RX",
+      "id" : "335wTggMzSTV7PYqfJo3RX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f9d7607c3c16fd8d107dd64b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f9d7607c3c16fd8d107dd64b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f9d7607c3c16fd8d107dd64b",
+        "width" : 64
+      } ],
+      "name" : "Dack Janiels, Subtronics",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:335wTggMzSTV7PYqfJo3RX"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

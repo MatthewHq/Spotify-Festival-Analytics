@@ -1,0 +1,907 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7jp5R1aY7kmwBYX3jIu9yk",
+        "id" : "7jp5R1aY7kmwBYX3jIu9yk",
+        "name" : "Jebroer",
+        "type" : "artist",
+        "uri" : "spotify:artist:7jp5R1aY7kmwBYX3jIu9yk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1QpDBsLPy4pazlvEb5pUtt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1QpDBsLPy4pazlvEb5pUtt",
+      "id" : "1QpDBsLPy4pazlvEb5pUtt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c7be331617bd30c7e00955cf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c7be331617bd30c7e00955cf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c7be331617bd30c7e00955cf",
+        "width" : 64
+      } ],
+      "name" : "Jebroer 4 Life",
+      "release_date" : "2019-05-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:1QpDBsLPy4pazlvEb5pUtt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jp5R1aY7kmwBYX3jIu9yk",
+      "id" : "7jp5R1aY7kmwBYX3jIu9yk",
+      "name" : "Jebroer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jp5R1aY7kmwBYX3jIu9yk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/123hDJRbi4KtCdBaaKNHW6",
+      "id" : "123hDJRbi4KtCdBaaKNHW6",
+      "name" : "Paul Elstak",
+      "type" : "artist",
+      "uri" : "spotify:artist:123hDJRbi4KtCdBaaKNHW6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181359,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "NLR1T1700014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2JXu6sJxvmlruASa9oiyMG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2JXu6sJxvmlruASa9oiyMG",
+    "id" : "2JXu6sJxvmlruASa9oiyMG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Engeltje",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b0dafce72399809af28154b7957e5e4d42b3d10?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2JXu6sJxvmlruASa9oiyMG"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7jp5R1aY7kmwBYX3jIu9yk",
+        "id" : "7jp5R1aY7kmwBYX3jIu9yk",
+        "name" : "Jebroer",
+        "type" : "artist",
+        "uri" : "spotify:artist:7jp5R1aY7kmwBYX3jIu9yk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4m45ub4wgI8vMdPJ0jZnIE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4m45ub4wgI8vMdPJ0jZnIE",
+      "id" : "4m45ub4wgI8vMdPJ0jZnIE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a73de3d2f3f0ff3005d3adac",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a73de3d2f3f0ff3005d3adac",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a73de3d2f3f0ff3005d3adac",
+        "width" : 64
+      } ],
+      "name" : "Radikal",
+      "release_date" : "2018-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4m45ub4wgI8vMdPJ0jZnIE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jp5R1aY7kmwBYX3jIu9yk",
+      "id" : "7jp5R1aY7kmwBYX3jIu9yk",
+      "name" : "Jebroer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jp5R1aY7kmwBYX3jIu9yk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/123hDJRbi4KtCdBaaKNHW6",
+      "id" : "123hDJRbi4KtCdBaaKNHW6",
+      "name" : "Paul Elstak",
+      "type" : "artist",
+      "uri" : "spotify:artist:123hDJRbi4KtCdBaaKNHW6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 179096,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLS241800433"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1AQfku2ERvi5Gu5YqS24i1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1AQfku2ERvi5Gu5YqS24i1",
+    "id" : "1AQfku2ERvi5Gu5YqS24i1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Engel",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6a84b54d22cff0c06b9ae56ad02a0b45df3a9914?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1AQfku2ERvi5Gu5YqS24i1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/35LVfE1wsiXr4tdKnYliJ8",
+      "id" : "35LVfE1wsiXr4tdKnYliJ8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27316386b212b50920183e11711",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0216386b212b50920183e11711",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485116386b212b50920183e11711",
+        "width" : 64
+      } ],
+      "name" : "Mad World",
+      "release_date" : "2020-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:35LVfE1wsiXr4tdKnYliJ8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+      "id" : "0CbeG1224FS58EUx4tPevZ",
+      "name" : "Timmy Trumpet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jp5R1aY7kmwBYX3jIu9yk",
+      "id" : "7jp5R1aY7kmwBYX3jIu9yk",
+      "name" : "Jebroer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jp5R1aY7kmwBYX3jIu9yk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 142663,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "NLZ542001735"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/03kInDEY3Go2ysuIQKdxMv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/03kInDEY3Go2ysuIQKdxMv",
+    "id" : "03kInDEY3Go2ysuIQKdxMv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Child Of The Devil",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0a5f325fd16ff965a7375f7f580bb6f0788e08e1?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:03kInDEY3Go2ysuIQKdxMv"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/37awA8DFCAnCCL7aqYbDnD",
+        "id" : "37awA8DFCAnCCL7aqYbDnD",
+        "name" : "Blasterjaxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:37awA8DFCAnCCL7aqYbDnD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+        "id" : "1naX4fxuRaDFlj9tGfIUZk",
+        "name" : "Dr Phunk",
+        "type" : "artist",
+        "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6kK6lCbJfPgDH6plFWQQID",
+        "id" : "6kK6lCbJfPgDH6plFWQQID",
+        "name" : "Maikki",
+        "type" : "artist",
+        "uri" : "spotify:artist:6kK6lCbJfPgDH6plFWQQID"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2z4RpZGaJLwbgI9ukXzjwu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2z4RpZGaJLwbgI9ukXzjwu",
+      "id" : "2z4RpZGaJLwbgI9ukXzjwu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4b9799e93a9d2b214aa4c5f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4b9799e93a9d2b214aa4c5f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4b9799e93a9d2b214aa4c5f",
+        "width" : 64
+      } ],
+      "name" : "Insomniacs (feat. Maikki)",
+      "release_date" : "2021-09-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2z4RpZGaJLwbgI9ukXzjwu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37awA8DFCAnCCL7aqYbDnD",
+      "id" : "37awA8DFCAnCCL7aqYbDnD",
+      "name" : "Blasterjaxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:37awA8DFCAnCCL7aqYbDnD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kK6lCbJfPgDH6plFWQQID",
+      "id" : "6kK6lCbJfPgDH6plFWQQID",
+      "name" : "Maikki",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kK6lCbJfPgDH6plFWQQID"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 160000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLZ542101382"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4rvpLAFUpsyrdEPA6J5WuT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4rvpLAFUpsyrdEPA6J5WuT",
+    "id" : "4rvpLAFUpsyrdEPA6J5WuT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Insomniacs (feat. Maikki)",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/78eaea07724fc2a96c5d4ce073eb1b4a35d0a25a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4rvpLAFUpsyrdEPA6J5WuT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WGE3kO8ULME2ErBcOksSR",
+        "id" : "6WGE3kO8ULME2ErBcOksSR",
+        "name" : "KAAZE",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WGE3kO8ULME2ErBcOksSR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+        "id" : "1naX4fxuRaDFlj9tGfIUZk",
+        "name" : "Dr Phunk",
+        "type" : "artist",
+        "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Hev8xILHmKYJfo4qvM8wY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Hev8xILHmKYJfo4qvM8wY",
+      "id" : "0Hev8xILHmKYJfo4qvM8wY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d2acf9cdbb2280768db4183b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d2acf9cdbb2280768db4183b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d2acf9cdbb2280768db4183b",
+        "width" : 64
+      } ],
+      "name" : "End Of The World (Dr Phunk Remix)",
+      "release_date" : "2018-03-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0Hev8xILHmKYJfo4qvM8wY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WGE3kO8ULME2ErBcOksSR",
+      "id" : "6WGE3kO8ULME2ErBcOksSR",
+      "name" : "KAAZE",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WGE3kO8ULME2ErBcOksSR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5d1oOpLkM76Tgr2zWMTYkm",
+      "id" : "5d1oOpLkM76Tgr2zWMTYkm",
+      "name" : "Jonathan Mendelsohn",
+      "type" : "artist",
+      "uri" : "spotify:artist:5d1oOpLkM76Tgr2zWMTYkm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 169593,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLQ8D1700455"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4OPTaJwdcRCAb2u2UjWF9Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4OPTaJwdcRCAb2u2UjWF9Y",
+    "id" : "4OPTaJwdcRCAb2u2UjWF9Y",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "End Of The World - Dr Phunk Remix",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8bb1ebd3be6b566df37cb42114b1f16284a1cedc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4OPTaJwdcRCAb2u2UjWF9Y"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7jp5R1aY7kmwBYX3jIu9yk",
+        "id" : "7jp5R1aY7kmwBYX3jIu9yk",
+        "name" : "Jebroer",
+        "type" : "artist",
+        "uri" : "spotify:artist:7jp5R1aY7kmwBYX3jIu9yk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4m45ub4wgI8vMdPJ0jZnIE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4m45ub4wgI8vMdPJ0jZnIE",
+      "id" : "4m45ub4wgI8vMdPJ0jZnIE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a73de3d2f3f0ff3005d3adac",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a73de3d2f3f0ff3005d3adac",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a73de3d2f3f0ff3005d3adac",
+        "width" : 64
+      } ],
+      "name" : "Radikal",
+      "release_date" : "2018-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4m45ub4wgI8vMdPJ0jZnIE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jp5R1aY7kmwBYX3jIu9yk",
+      "id" : "7jp5R1aY7kmwBYX3jIu9yk",
+      "name" : "Jebroer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jp5R1aY7kmwBYX3jIu9yk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 173427,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLS241800434"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4KwFsioU9M2QOwwQxBi3IH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4KwFsioU9M2QOwwQxBi3IH",
+    "id" : "4KwFsioU9M2QOwwQxBi3IH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Leben Nach Dem Tod",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f5543c2339f97891feaee52df013ccd6884964cf?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4KwFsioU9M2QOwwQxBi3IH"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+        "id" : "1naX4fxuRaDFlj9tGfIUZk",
+        "name" : "Dr Phunk",
+        "type" : "artist",
+        "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xQvQwZQQuq9R3TdPNbcR8",
+        "id" : "6xQvQwZQQuq9R3TdPNbcR8",
+        "name" : "Bassjackers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2jpzzVpIQvwvjdZWMpLvL7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2jpzzVpIQvwvjdZWMpLvL7",
+      "id" : "2jpzzVpIQvwvjdZWMpLvL7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273778cd6e21a898e686d42e942",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02778cd6e21a898e686d42e942",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851778cd6e21a898e686d42e942",
+        "width" : 64
+      } ],
+      "name" : "Born to Run",
+      "release_date" : "2020-12-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2jpzzVpIQvwvjdZWMpLvL7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xQvQwZQQuq9R3TdPNbcR8",
+      "id" : "6xQvQwZQQuq9R3TdPNbcR8",
+      "name" : "Bassjackers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190183,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEIW12000541"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jTz3Tpx6wUDULHn9HRRAw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jTz3Tpx6wUDULHn9HRRAw",
+    "id" : "6jTz3Tpx6wUDULHn9HRRAw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Born to Run",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c9509592fbcc581cd5fb036ee65affea4cd8f63d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6jTz3Tpx6wUDULHn9HRRAw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6BrvowZBreEkXzJQMpL174",
+        "id" : "6BrvowZBreEkXzJQMpL174",
+        "name" : "Hardwell",
+        "type" : "artist",
+        "uri" : "spotify:artist:6BrvowZBreEkXzJQMpL174"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6aaMlV5Qz8DK66IWgwoUH8",
+        "id" : "6aaMlV5Qz8DK66IWgwoUH8",
+        "name" : "Revealed Recordings",
+        "type" : "artist",
+        "uri" : "spotify:artist:6aaMlV5Qz8DK66IWgwoUH8"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Pn9DreQQj0WtcNqDeBc7S"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Pn9DreQQj0WtcNqDeBc7S",
+      "id" : "4Pn9DreQQj0WtcNqDeBc7S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27319e31d25025fa31557a84693",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0219e31d25025fa31557a84693",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485119e31d25025fa31557a84693",
+        "width" : 64
+      } ],
+      "name" : "Revealed 10 Year Anniversary Remixed",
+      "release_date" : "2021-05-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:4Pn9DreQQj0WtcNqDeBc7S"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6BrvowZBreEkXzJQMpL174",
+      "id" : "6BrvowZBreEkXzJQMpL174",
+      "name" : "Hardwell",
+      "type" : "artist",
+      "uri" : "spotify:artist:6BrvowZBreEkXzJQMpL174"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4m5bANP6wwn3O6xmjYxhTm",
+      "id" : "4m5bANP6wwn3O6xmjYxhTm",
+      "name" : "Mitch Crown",
+      "type" : "artist",
+      "uri" : "spotify:artist:4m5bANP6wwn3O6xmjYxhTm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 195200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLQ8D2100763"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3xOMaVP3Rj9xsDKT8B8O84"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3xOMaVP3Rj9xsDKT8B8O84",
+    "id" : "3xOMaVP3Rj9xsDKT8B8O84",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Spaceman - Dr Phunk Remix",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6189af20ec0ccce5377dd25bd25425dc446626cd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3xOMaVP3Rj9xsDKT8B8O84"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/123hDJRbi4KtCdBaaKNHW6",
+        "id" : "123hDJRbi4KtCdBaaKNHW6",
+        "name" : "Paul Elstak",
+        "type" : "artist",
+        "uri" : "spotify:artist:123hDJRbi4KtCdBaaKNHW6"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+        "id" : "1naX4fxuRaDFlj9tGfIUZk",
+        "name" : "Dr Phunk",
+        "type" : "artist",
+        "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4kRCRlh1eQG31dr3fGTHKF",
+        "id" : "4kRCRlh1eQG31dr3fGTHKF",
+        "name" : "Joel Beukers",
+        "type" : "artist",
+        "uri" : "spotify:artist:4kRCRlh1eQG31dr3fGTHKF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2579Hby3FAEg8JcW2xPYD3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2579Hby3FAEg8JcW2xPYD3",
+      "id" : "2579Hby3FAEg8JcW2xPYD3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273661e24809978b130643718b0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02661e24809978b130643718b0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851661e24809978b130643718b0",
+        "width" : 64
+      } ],
+      "name" : "Groeien (Radio Edit)",
+      "release_date" : "2018-08-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2579Hby3FAEg8JcW2xPYD3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/123hDJRbi4KtCdBaaKNHW6",
+      "id" : "123hDJRbi4KtCdBaaKNHW6",
+      "name" : "Paul Elstak",
+      "type" : "artist",
+      "uri" : "spotify:artist:123hDJRbi4KtCdBaaKNHW6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kRCRlh1eQG31dr3fGTHKF",
+      "id" : "4kRCRlh1eQG31dr3fGTHKF",
+      "name" : "Joel Beukers",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kRCRlh1eQG31dr3fGTHKF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 158844,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLQS91800152"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5o0RoCEFMDrQg0xy0i6t20"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5o0RoCEFMDrQg0xy0i6t20",
+    "id" : "5o0RoCEFMDrQg0xy0i6t20",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Groeien - Radio Edit",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a8893f897b4f654cd3d0324a8955104dcefed78e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5o0RoCEFMDrQg0xy0i6t20"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0XqFDQJjqW5PfhfBCb53LR",
+        "id" : "0XqFDQJjqW5PfhfBCb53LR",
+        "name" : "Sick Individuals",
+        "type" : "artist",
+        "uri" : "spotify:artist:0XqFDQJjqW5PfhfBCb53LR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+        "id" : "1naX4fxuRaDFlj9tGfIUZk",
+        "name" : "Dr Phunk",
+        "type" : "artist",
+        "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7of9MR3BmhFmEn5HgYcRqI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7of9MR3BmhFmEn5HgYcRqI",
+      "id" : "7of9MR3BmhFmEn5HgYcRqI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736f142c458b0df78f0b556f28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026f142c458b0df78f0b556f28",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516f142c458b0df78f0b556f28",
+        "width" : 64
+      } ],
+      "name" : "Symphony (Dr Phunk Remix)",
+      "release_date" : "2019-03-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7of9MR3BmhFmEn5HgYcRqI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XqFDQJjqW5PfhfBCb53LR",
+      "id" : "0XqFDQJjqW5PfhfBCb53LR",
+      "name" : "Sick Individuals",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XqFDQJjqW5PfhfBCb53LR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RTklnRcfHgkQJwFpgOq3t",
+      "id" : "3RTklnRcfHgkQJwFpgOq3t",
+      "name" : "Nevve",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RTklnRcfHgkQJwFpgOq3t"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1naX4fxuRaDFlj9tGfIUZk",
+      "id" : "1naX4fxuRaDFlj9tGfIUZk",
+      "name" : "Dr Phunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1naX4fxuRaDFlj9tGfIUZk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 204350,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLQ8D1900127"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7DmhyegXAiu0yTy7nRI0yg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7DmhyegXAiu0yTy7nRI0yg",
+    "id" : "7DmhyegXAiu0yTy7nRI0yg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Symphony - Dr Phunk Remix",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7a5da0482685cb09a3fea9570334ffb9d4be598f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7DmhyegXAiu0yTy7nRI0yg"
+  } ]
+}

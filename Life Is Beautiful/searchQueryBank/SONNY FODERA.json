@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SONNY+FODERA&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 121096
+      },
+      "genres" : [ "brazilian edm", "dance pop", "deep groove house", "edm", "house", "pop dance", "tropical house", "uk dance" ],
+      "href" : "https://api.spotify.com/v1/artists/39B7ChWwrWDs7zXlsu3MoP",
+      "id" : "39B7ChWwrWDs7zXlsu3MoP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe03987a142f6ba53d230a58c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e03987a142f6ba53d230a58c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e03987a142f6ba53d230a58c",
+        "width" : 160
+      } ],
+      "name" : "Sonny Fodera",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ckopdr1ReY0CA2HCoKmHl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5ckopdr1ReY0CA2HCoKmHl",
+      "id" : "5ckopdr1ReY0CA2HCoKmHl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e74e27673c342eefd9b20f5f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e74e27673c342eefd9b20f5f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e74e27673c342eefd9b20f5f",
+        "width" : 64
+      } ],
+      "name" : "Sonny Fodera",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ckopdr1ReY0CA2HCoKmHl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/27ASIQRX3AvQxgUeTL1HuF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/27ASIQRX3AvQxgUeTL1HuF",
+      "id" : "27ASIQRX3AvQxgUeTL1HuF",
+      "images" : [ ],
+      "name" : "Sonny Fodera",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:27ASIQRX3AvQxgUeTL1HuF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4adaneBXpa5yE3kJkhW4ta"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4adaneBXpa5yE3kJkhW4ta",
+      "id" : "4adaneBXpa5yE3kJkhW4ta",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ea93f58ab9ff172b24d96dc5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ea93f58ab9ff172b24d96dc5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ea93f58ab9ff172b24d96dc5",
+        "width" : 64
+      } ],
+      "name" : "Sonny Fodera",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4adaneBXpa5yE3kJkhW4ta"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

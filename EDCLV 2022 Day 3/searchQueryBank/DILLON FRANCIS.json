@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=DILLON+FRANCIS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1085433
+      },
+      "genres" : [ "brostep", "dance pop", "edm", "electro house", "electronic trap", "electropop", "house", "moombahton", "pop", "pop dance", "slap house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/5R3Hr2cnCCjt220Jmt2xLf",
+      "id" : "5R3Hr2cnCCjt220Jmt2xLf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb40abe2711c71c9927b5513be",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517440abe2711c71c9927b5513be",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17840abe2711c71c9927b5513be",
+        "width" : 160
+      } ],
+      "name" : "Dillon Francis",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

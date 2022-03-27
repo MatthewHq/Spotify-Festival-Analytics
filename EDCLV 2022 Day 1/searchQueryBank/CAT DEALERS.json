@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=CAT+DEALERS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 511129
+      },
+      "genres" : [ "brazilian edm" ],
+      "href" : "https://api.spotify.com/v1/artists/3q2dSq7VZnj8TmoJUyRm40",
+      "id" : "3q2dSq7VZnj8TmoJUyRm40",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb899d8dd94b583f1374514524",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174899d8dd94b583f1374514524",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178899d8dd94b583f1374514524",
+        "width" : 160
+      } ],
+      "name" : "Cat Dealers",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:3q2dSq7VZnj8TmoJUyRm40"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

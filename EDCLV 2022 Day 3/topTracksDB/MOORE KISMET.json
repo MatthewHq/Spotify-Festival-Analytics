@@ -1,0 +1,826 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/66VgJGpaRMwrNaS2MPqIDf",
+        "id" : "66VgJGpaRMwrNaS2MPqIDf",
+        "name" : "Pauline Herr",
+        "type" : "artist",
+        "uri" : "spotify:artist:66VgJGpaRMwrNaS2MPqIDf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/26lf8BWfm91Z4fI0NM1uTd",
+      "id" : "26lf8BWfm91Z4fI0NM1uTd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e62f2876d3e562c90745f43",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e62f2876d3e562c90745f43",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e62f2876d3e562c90745f43",
+        "width" : 64
+      } ],
+      "name" : "Parallel Heartbreak",
+      "release_date" : "2022-01-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:26lf8BWfm91Z4fI0NM1uTd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/66VgJGpaRMwrNaS2MPqIDf",
+      "id" : "66VgJGpaRMwrNaS2MPqIDf",
+      "name" : "Pauline Herr",
+      "type" : "artist",
+      "uri" : "spotify:artist:66VgJGpaRMwrNaS2MPqIDf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202403,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFPL2100104"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5zGOmNgWKgfzn9YcGsNQFx",
+    "id" : "5zGOmNgWKgfzn9YcGsNQFx",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Parallel Heartbreak",
+    "popularity" : 57,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5zGOmNgWKgfzn9YcGsNQFx"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1mFo3mR5ZWTQbNg1RgWj2D",
+        "id" : "1mFo3mR5ZWTQbNg1RgWj2D",
+        "name" : "WYN",
+        "type" : "artist",
+        "uri" : "spotify:artist:1mFo3mR5ZWTQbNg1RgWj2D"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2vEarBohKW4xTClQB24GHh",
+      "id" : "2vEarBohKW4xTClQB24GHh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ae2fd46e566759e2c35d42e6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ae2fd46e566759e2c35d42e6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ae2fd46e566759e2c35d42e6",
+        "width" : 64
+      } ],
+      "name" : "Rumor",
+      "release_date" : "2021-02-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2vEarBohKW4xTClQB24GHh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1mFo3mR5ZWTQbNg1RgWj2D",
+      "id" : "1mFo3mR5ZWTQbNg1RgWj2D",
+      "name" : "WYN",
+      "type" : "artist",
+      "uri" : "spotify:artist:1mFo3mR5ZWTQbNg1RgWj2D"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 278808,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFPL2100012"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2QC2PTvF3yONXlvih301aR",
+    "id" : "2QC2PTvF3yONXlvih301aR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rumor",
+    "popularity" : 57,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2QC2PTvF3yONXlvih301aR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/66VgJGpaRMwrNaS2MPqIDf",
+        "id" : "66VgJGpaRMwrNaS2MPqIDf",
+        "name" : "Pauline Herr",
+        "type" : "artist",
+        "uri" : "spotify:artist:66VgJGpaRMwrNaS2MPqIDf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/40y7qJlPfbOoR6V32c0CcY",
+      "id" : "40y7qJlPfbOoR6V32c0CcY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27356b8013cd1ff06cb3dce4390",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0256b8013cd1ff06cb3dce4390",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485156b8013cd1ff06cb3dce4390",
+        "width" : 64
+      } ],
+      "name" : "You Should Run",
+      "release_date" : "2020-10-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:40y7qJlPfbOoR6V32c0CcY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/66VgJGpaRMwrNaS2MPqIDf",
+      "id" : "66VgJGpaRMwrNaS2MPqIDf",
+      "name" : "Pauline Herr",
+      "type" : "artist",
+      "uri" : "spotify:artist:66VgJGpaRMwrNaS2MPqIDf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 299255,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2087736"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5IH5AcpMQCGSv7vtAL5c6X",
+    "id" : "5IH5AcpMQCGSv7vtAL5c6X",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "You Should Run",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a999da8a8a43d51fea882c63e9810e4d57f020ec?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5IH5AcpMQCGSv7vtAL5c6X"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7sLv4bED064cYa2XhF85og",
+        "id" : "7sLv4bED064cYa2XhF85og",
+        "name" : "Tasha Baxter",
+        "type" : "artist",
+        "uri" : "spotify:artist:7sLv4bED064cYa2XhF85og"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3vKSdCzdcMhNc23QvxrJp1"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3vKSdCzdcMhNc23QvxrJp1",
+      "id" : "3vKSdCzdcMhNc23QvxrJp1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27320bafef7d2cc0216ed6b623f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0220bafef7d2cc0216ed6b623f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485120bafef7d2cc0216ed6b623f",
+        "width" : 64
+      } ],
+      "name" : "Call Of The Unicorn",
+      "release_date" : "2021-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3vKSdCzdcMhNc23QvxrJp1"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7sLv4bED064cYa2XhF85og",
+      "id" : "7sLv4bED064cYa2XhF85og",
+      "name" : "Tasha Baxter",
+      "type" : "artist",
+      "uri" : "spotify:artist:7sLv4bED064cYa2XhF85og"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 190856,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFPL2100120"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2KeKdCw71RYkItxXeW0UyQ",
+    "id" : "2KeKdCw71RYkItxXeW0UyQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Call Of The Unicorn",
+    "popularity" : 52,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2KeKdCw71RYkItxXeW0UyQ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1cfItDeK7Zq8DptVmokzN2",
+      "id" : "1cfItDeK7Zq8DptVmokzN2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273596f7753947396cee23bca1a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02596f7753947396cee23bca1a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851596f7753947396cee23bca1a",
+        "width" : 64
+      } ],
+      "name" : "Flourish",
+      "release_date" : "2021-05-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:1cfItDeK7Zq8DptVmokzN2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YUBqnGDhH4JphZIhi9cdB",
+      "id" : "4YUBqnGDhH4JphZIhi9cdB",
+      "name" : "Laxcity",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YUBqnGDhH4JphZIhi9cdB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 243354,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFPL2100057"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3SYoswG9FXQGGMFphwNNgq",
+    "id" : "3SYoswG9FXQGGMFphwNNgq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Flourish",
+    "popularity" : 46,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3SYoswG9FXQGGMFphwNNgq"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym",
+        "id" : "45dkTj5sMRSjrmBSBeiHym",
+        "name" : "Tate McRae",
+        "type" : "artist",
+        "uri" : "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7kkXWEWYpbZ1gqLpqaA2cR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7kkXWEWYpbZ1gqLpqaA2cR",
+      "id" : "7kkXWEWYpbZ1gqLpqaA2cR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736f88c9143183d1d848f39f4f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026f88c9143183d1d848f39f4f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516f88c9143183d1d848f39f4f",
+        "width" : 64
+      } ],
+      "name" : "slower (Moore Kismet Remix)",
+      "release_date" : "2021-03-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7kkXWEWYpbZ1gqLpqaA2cR"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym",
+      "id" : "45dkTj5sMRSjrmBSBeiHym",
+      "name" : "Tate McRae",
+      "type" : "artist",
+      "uri" : "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 189837,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC12100971"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/58j9yvUXGuQiCEHBDdwRDB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/58j9yvUXGuQiCEHBDdwRDB",
+    "id" : "58j9yvUXGuQiCEHBDdwRDB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "slower - Moore Kismet Remix",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6177b82293b0bdd2a28762688d0b1e88d3c5cc72?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:58j9yvUXGuQiCEHBDdwRDB"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0tBTBuCoZR4a3DsIZDj6KN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0tBTBuCoZR4a3DsIZDj6KN",
+      "id" : "0tBTBuCoZR4a3DsIZDj6KN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bc7b0456c39e22537888814c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bc7b0456c39e22537888814c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bc7b0456c39e22537888814c",
+        "width" : 64
+      } ],
+      "name" : "Flair",
+      "release_date" : "2020-05-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0tBTBuCoZR4a3DsIZDj6KN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E3MHHCkgsYvFJHiKOKmfM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7E3MHHCkgsYvFJHiKOKmfM",
+      "id" : "7E3MHHCkgsYvFJHiKOKmfM",
+      "name" : "Momma Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:7E3MHHCkgsYvFJHiKOKmfM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 203445,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GB7YL2000073"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/603bfdyalNWhlDuMLdINW9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/603bfdyalNWhlDuMLdINW9",
+    "id" : "603bfdyalNWhlDuMLdINW9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Flair",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b48ab51173e12eee6a6b8eff3990a6d8f196d81f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:603bfdyalNWhlDuMLdINW9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Rqtde3IaIsB8JkaBaNbrm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Rqtde3IaIsB8JkaBaNbrm",
+        "id" : "1Rqtde3IaIsB8JkaBaNbrm",
+        "name" : "SHSTR",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Rqtde3IaIsB8JkaBaNbrm"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6JYTGWzQJqkeh25DOQJPIp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6JYTGWzQJqkeh25DOQJPIp",
+      "id" : "6JYTGWzQJqkeh25DOQJPIp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a2f0a35927d1361bee6829a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a2f0a35927d1361bee6829a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a2f0a35927d1361bee6829a",
+        "width" : 64
+      } ],
+      "name" : "Storm",
+      "release_date" : "2018-11-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6JYTGWzQJqkeh25DOQJPIp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Rqtde3IaIsB8JkaBaNbrm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Rqtde3IaIsB8JkaBaNbrm",
+      "id" : "1Rqtde3IaIsB8JkaBaNbrm",
+      "name" : "SHSTR",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Rqtde3IaIsB8JkaBaNbrm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230326,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBLV61804597"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1dwfgrQ8vkmd3XYj8I7vYg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1dwfgrQ8vkmd3XYj8I7vYg",
+    "id" : "1dwfgrQ8vkmd3XYj8I7vYg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Storm",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/371036fa1615afc511160f65f91403eda642dc91?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1dwfgrQ8vkmd3XYj8I7vYg"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6fq8lpmabNBMPao92rMw3m",
+        "id" : "6fq8lpmabNBMPao92rMw3m",
+        "name" : "torr",
+        "type" : "artist",
+        "uri" : "spotify:artist:6fq8lpmabNBMPao92rMw3m"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6uO71Hk90IZluW6RxELq06"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6uO71Hk90IZluW6RxELq06",
+      "id" : "6uO71Hk90IZluW6RxELq06",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737d89b391c33bd97ada7731e3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027d89b391c33bd97ada7731e3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517d89b391c33bd97ada7731e3",
+        "width" : 64
+      } ],
+      "name" : "Autonomy",
+      "release_date" : "2021-04-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6uO71Hk90IZluW6RxELq06"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fq8lpmabNBMPao92rMw3m",
+      "id" : "6fq8lpmabNBMPao92rMw3m",
+      "name" : "torr",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fq8lpmabNBMPao92rMw3m"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 183391,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFPL2100039"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7ElgaUtGnr2HXJZSKfnhhO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7ElgaUtGnr2HXJZSKfnhhO",
+    "id" : "7ElgaUtGnr2HXJZSKfnhhO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Autonomy",
+    "popularity" : 32,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7ElgaUtGnr2HXJZSKfnhhO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+        "id" : "50uPj85gZxHFuFOlNBnnr5",
+        "name" : "Moore Kismet",
+        "type" : "artist",
+        "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/57YPYp8qTeuQen2K4yinE4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/57YPYp8qTeuQen2K4yinE4",
+      "id" : "57YPYp8qTeuQen2K4yinE4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739ebb9f1fdafc1c021ad3c00e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029ebb9f1fdafc1c021ad3c00e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519ebb9f1fdafc1c021ad3c00e",
+        "width" : 64
+      } ],
+      "name" : "Vendetta For Cupid",
+      "release_date" : "2021-03-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:57YPYp8qTeuQen2K4yinE4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50uPj85gZxHFuFOlNBnnr5",
+      "id" : "50uPj85gZxHFuFOlNBnnr5",
+      "name" : "Moore Kismet",
+      "type" : "artist",
+      "uri" : "spotify:artist:50uPj85gZxHFuFOlNBnnr5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ekCKsrLpp6xf8kJ2AUJVU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ekCKsrLpp6xf8kJ2AUJVU",
+      "id" : "4ekCKsrLpp6xf8kJ2AUJVU",
+      "name" : "TYGKO",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ekCKsrLpp6xf8kJ2AUJVU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 232004,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZFPL2100026"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ZYw2g4nkNIFsysyEZxLgP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ZYw2g4nkNIFsysyEZxLgP",
+    "id" : "1ZYw2g4nkNIFsysyEZxLgP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Vendetta For Cupid",
+    "popularity" : 31,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1ZYw2g4nkNIFsysyEZxLgP"
+  } ]
+}

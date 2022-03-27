@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=LP+GIOBBI&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16105
+      },
+      "genres" : [ "edm", "electro house", "house", "pop dance" ],
+      "href" : "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id" : "3oKnyRhYWzNsTiss5n4Z1J",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfa2e59e3fdeb6785382500b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fa2e59e3fdeb6785382500b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fa2e59e3fdeb6785382500b9",
+        "width" : 160
+      } ],
+      "name" : "LP Giobbi",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

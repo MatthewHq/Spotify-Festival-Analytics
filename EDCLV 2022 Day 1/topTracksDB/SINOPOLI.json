@@ -1,0 +1,79 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nwIPv4P6LtbGz9CNX0YqN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nwIPv4P6LtbGz9CNX0YqN",
+        "id" : "6nwIPv4P6LtbGz9CNX0YqN",
+        "name" : "Sinopoli",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nwIPv4P6LtbGz9CNX0YqN"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5rHMO48w81ZKNunlgve1Fo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5rHMO48w81ZKNunlgve1Fo",
+      "id" : "5rHMO48w81ZKNunlgve1Fo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273360edb73b3447d17d56cdf76",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02360edb73b3447d17d56cdf76",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851360edb73b3447d17d56cdf76",
+        "width" : 64
+      } ],
+      "name" : "Sexta-Feira 13",
+      "release_date" : "2021-10-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5rHMO48w81ZKNunlgve1Fo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nwIPv4P6LtbGz9CNX0YqN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nwIPv4P6LtbGz9CNX0YqN",
+      "id" : "6nwIPv4P6LtbGz9CNX0YqN",
+      "name" : "Sinopoli",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nwIPv4P6LtbGz9CNX0YqN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Ca7Av7iroX02uMEZopKfd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Ca7Av7iroX02uMEZopKfd",
+      "id" : "2Ca7Av7iroX02uMEZopKfd",
+      "name" : "fazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Ca7Av7iroX02uMEZopKfd"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 161652,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QZNWS2197691"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5XxKfYy0URrtl2QSarKNaQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5XxKfYy0URrtl2QSarKNaQ",
+    "id" : "5XxKfYy0URrtl2QSarKNaQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Sexta-Feira 13",
+    "popularity" : 3,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f26fd57346fc6156557710118efeb2f62f8f1827?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5XxKfYy0URrtl2QSarKNaQ"
+  } ]
+}

@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=FUNTCASE&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 87600
+      },
+      "genres" : [ "brostep", "deathstep", "dubstep", "filthstep", "gaming dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/6v1BAWFVNPbPJlnFHWR78D",
+      "id" : "6v1BAWFVNPbPJlnFHWR78D",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb65fd8a07aaff1deb71726bbd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517465fd8a07aaff1deb71726bbd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17865fd8a07aaff1deb71726bbd",
+        "width" : 160
+      } ],
+      "name" : "FuntCase",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:6v1BAWFVNPbPJlnFHWR78D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7AUlkRo8182x4ulheUcnnE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 291
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7AUlkRo8182x4ulheUcnnE",
+      "id" : "7AUlkRo8182x4ulheUcnnE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731679e0a862b153f0994851eb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021679e0a862b153f0994851eb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511679e0a862b153f0994851eb",
+        "width" : 64
+      } ],
+      "name" : "Cookie Monsta and FuntCase",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7AUlkRo8182x4ulheUcnnE"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

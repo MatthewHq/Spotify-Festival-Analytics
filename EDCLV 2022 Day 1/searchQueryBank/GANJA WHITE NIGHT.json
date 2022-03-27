@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=GANJA+WHITE+NIGHT&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 160600
+      },
+      "genres" : [ "edm", "electro house", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6a093f3ca0f5e122e964b590",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746a093f3ca0f5e122e964b590",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786a093f3ca0f5e122e964b590",
+        "width" : 160
+      } ],
+      "name" : "Ganja White Night",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4HFA5xH5dhPVV5AjCL7rdb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 469
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4HFA5xH5dhPVV5AjCL7rdb",
+      "id" : "4HFA5xH5dhPVV5AjCL7rdb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273575ecc6fccae21d69d7881bc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02575ecc6fccae21d69d7881bc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851575ecc6fccae21d69d7881bc",
+        "width" : 64
+      } ],
+      "name" : "Ganja White Night & Simon",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:4HFA5xH5dhPVV5AjCL7rdb"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

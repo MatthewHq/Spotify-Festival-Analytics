@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SUB+FOCUS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 323887
+      },
+      "genres" : [ "dancefloor dnb", "drum and bass", "uk dance", "uk dnb" ],
+      "href" : "https://api.spotify.com/v1/artists/0QaSiI5TLA4N7mcsdxShDO",
+      "id" : "0QaSiI5TLA4N7mcsdxShDO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb134fbb5b5243836d4091c77d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174134fbb5b5243836d4091c77d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178134fbb5b5243836d4091c77d",
+        "width" : 160
+      } ],
+      "name" : "Sub Focus",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:0QaSiI5TLA4N7mcsdxShDO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7A6QbQIX28qrMkqh0Wv55K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 153
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7A6QbQIX28qrMkqh0Wv55K",
+      "id" : "7A6QbQIX28qrMkqh0Wv55K",
+      "images" : [ ],
+      "name" : "TC feat. Sub Focus",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:7A6QbQIX28qrMkqh0Wv55K"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

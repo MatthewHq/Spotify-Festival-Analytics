@@ -1,0 +1,515 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=GETTER&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 298030
+      },
+      "genres" : [ "brostep", "dark trap", "edm", "electro house", "electronic trap", "filthstep", "underground hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/3QryVD03gGZOLQQXjy3EoA",
+      "id" : "3QryVD03gGZOLQQXjy3EoA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb82504d534c072b1d72e38a8c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517482504d534c072b1d72e38a8c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17882504d534c072b1d72e38a8c",
+        "width" : 160
+      } ],
+      "name" : "Getter",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:3QryVD03gGZOLQQXjy3EoA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11775
+      },
+      "genres" : [ "estonian pop", "eurovision" ],
+      "href" : "https://api.spotify.com/v1/artists/10pMyCRhDkBpyuc38QOlKf",
+      "id" : "10pMyCRhDkBpyuc38QOlKf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb38ef4c0359d26eec72fb64d0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517438ef4c0359d26eec72fb64d0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17838ef4c0359d26eec72fb64d0",
+        "width" : 160
+      } ],
+      "name" : "Getter Jaani",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:10pMyCRhDkBpyuc38QOlKf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ZTkzM3fQ5DjteUeYnVKIb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11190
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6ZTkzM3fQ5DjteUeYnVKIb",
+      "id" : "6ZTkzM3fQ5DjteUeYnVKIb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba342c914e9b525b66e7bae87",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a342c914e9b525b66e7bae87",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a342c914e9b525b66e7bae87",
+        "width" : 160
+      } ],
+      "name" : "Getters",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:6ZTkzM3fQ5DjteUeYnVKIb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19986
+      },
+      "genres" : [ "neo-rockabilly", "psychobilly", "rock-and-roll", "rockabilly" ],
+      "href" : "https://api.spotify.com/v1/artists/5UR2Ohlvs9osiEwbJVQHiq",
+      "id" : "5UR2Ohlvs9osiEwbJVQHiq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733fda9dec41b53e85071f5131",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023fda9dec41b53e85071f5131",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513fda9dec41b53e85071f5131",
+        "width" : 64
+      } ],
+      "name" : "The Go Getters",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:5UR2Ohlvs9osiEwbJVQHiq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NudVy7B3CgnW4MDAIi1y7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2NudVy7B3CgnW4MDAIi1y7",
+      "id" : "2NudVy7B3CgnW4MDAIi1y7",
+      "images" : [ ],
+      "name" : "Getter",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:2NudVy7B3CgnW4MDAIi1y7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4rfZ6EHhiR0C4CIbnfxPCs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 185
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4rfZ6EHhiR0C4CIbnfxPCs",
+      "id" : "4rfZ6EHhiR0C4CIbnfxPCs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273edc5f3e08990796b8eb48bdb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02edc5f3e08990796b8eb48bdb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851edc5f3e08990796b8eb48bdb",
+        "width" : 64
+      } ],
+      "name" : "Get Go Getter",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:4rfZ6EHhiR0C4CIbnfxPCs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7d11tzp052qhl7qkp9Kd6l"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 70
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7d11tzp052qhl7qkp9Kd6l",
+      "id" : "7d11tzp052qhl7qkp9Kd6l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c0c9173c7fd41c8443596fa6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c0c9173c7fd41c8443596fa6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c0c9173c7fd41c8443596fa6",
+        "width" : 64
+      } ],
+      "name" : "Getter",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:7d11tzp052qhl7qkp9Kd6l"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08TI37tqds4HVbAn65uFXI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/08TI37tqds4HVbAn65uFXI",
+      "id" : "08TI37tqds4HVbAn65uFXI",
+      "images" : [ ],
+      "name" : "Go-Getters Club",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:08TI37tqds4HVbAn65uFXI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qGVLASs0i42A8Zh8w1VNw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6qGVLASs0i42A8Zh8w1VNw",
+      "id" : "6qGVLASs0i42A8Zh8w1VNw",
+      "images" : [ ],
+      "name" : "Getter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6qGVLASs0i42A8Zh8w1VNw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46bwU54KLQXhunCY1SsVLW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 164
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/46bwU54KLQXhunCY1SsVLW",
+      "id" : "46bwU54KLQXhunCY1SsVLW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe59a0e24a82ca7b2b06527f1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e59a0e24a82ca7b2b06527f1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e59a0e24a82ca7b2b06527f1",
+        "width" : 160
+      } ],
+      "name" : "Miles Getter",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:46bwU54KLQXhunCY1SsVLW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6D7NYzgzXKmNvMbLheDJQC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 116
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6D7NYzgzXKmNvMbLheDJQC",
+      "id" : "6D7NYzgzXKmNvMbLheDJQC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346e118ffeb28d1905702d568",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246e118ffeb28d1905702d568",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146e118ffeb28d1905702d568",
+        "width" : 64
+      } ],
+      "name" : "Getter!",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6D7NYzgzXKmNvMbLheDJQC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5IHvyFiEuzMadl1ZAZDAFs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5IHvyFiEuzMadl1ZAZDAFs",
+      "id" : "5IHvyFiEuzMadl1ZAZDAFs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732ed8acc64ae48de6ecfc4e46",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022ed8acc64ae48de6ecfc4e46",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512ed8acc64ae48de6ecfc4e46",
+        "width" : 64
+      } ],
+      "name" : "Getter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5IHvyFiEuzMadl1ZAZDAFs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uCfSgpVG53CpnsHpq4i3D"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3uCfSgpVG53CpnsHpq4i3D",
+      "id" : "3uCfSgpVG53CpnsHpq4i3D",
+      "images" : [ ],
+      "name" : "kitty getter",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:3uCfSgpVG53CpnsHpq4i3D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mDubjqvciDpy5jEjzgFvy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 389
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6mDubjqvciDpy5jEjzgFvy",
+      "id" : "6mDubjqvciDpy5jEjzgFvy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fa6e4d4c846528b93a6d14e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fa6e4d4c846528b93a6d14e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fa6e4d4c846528b93a6d14e",
+        "width" : 64
+      } ],
+      "name" : "Jane Getter",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:6mDubjqvciDpy5jEjzgFvy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yhooyNXukLLqWtBcA0Nu8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1yhooyNXukLLqWtBcA0Nu8",
+      "id" : "1yhooyNXukLLqWtBcA0Nu8",
+      "images" : [ ],
+      "name" : "Go Getter0",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1yhooyNXukLLqWtBcA0Nu8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2RsuDfEsuKWNNzD8jOC1P4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 449
+      },
+      "genres" : [ "deep progressive rock" ],
+      "href" : "https://api.spotify.com/v1/artists/2RsuDfEsuKWNNzD8jOC1P4",
+      "id" : "2RsuDfEsuKWNNzD8jOC1P4",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/ab6772690000c46cb25eaa57e4d8580ae1ab365e",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6772690000dd22b25eaa57e4d8580ae1ab365e",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/ab6772690000bac3b25eaa57e4d8580ae1ab365e",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67726900008f74b25eaa57e4d8580ae1ab365e",
+        "width" : 64
+      } ],
+      "name" : "Jane Getter Premonition",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:2RsuDfEsuKWNNzD8jOC1P4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nmSzG7o7sOsuUEaAr1OHp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0nmSzG7o7sOsuUEaAr1OHp",
+      "id" : "0nmSzG7o7sOsuUEaAr1OHp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734859f1d935237e1ffea456eb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024859f1d935237e1ffea456eb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514859f1d935237e1ffea456eb",
+        "width" : 64
+      } ],
+      "name" : "Ashton Getter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0nmSzG7o7sOsuUEaAr1OHp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2HtIHoOzvS6eyhIiVjqeVV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 152
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2HtIHoOzvS6eyhIiVjqeVV",
+      "id" : "2HtIHoOzvS6eyhIiVjqeVV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd57247f32eadb83f34d22eb7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d57247f32eadb83f34d22eb7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d57247f32eadb83f34d22eb7",
+        "width" : 160
+      } ],
+      "name" : "CHANT Da Go Getter",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:2HtIHoOzvS6eyhIiVjqeVV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FluCA56zrx1BDABerZE5y"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6FluCA56zrx1BDABerZE5y",
+      "id" : "6FluCA56zrx1BDABerZE5y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27372a6d9cdb4e71b3bf4105af1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0272a6d9cdb4e71b3bf4105af1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485172a6d9cdb4e71b3bf4105af1",
+        "width" : 64
+      } ],
+      "name" : "Fabri$ Getter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6FluCA56zrx1BDABerZE5y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1F3lC0rDGEvTpGY8ItW9zm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 56
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1F3lC0rDGEvTpGY8ItW9zm",
+      "id" : "1F3lC0rDGEvTpGY8ItW9zm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0a92f01a8607df2c3ce62e77",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740a92f01a8607df2c3ce62e77",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780a92f01a8607df2c3ce62e77",
+        "width" : 160
+      } ],
+      "name" : "Jess Getter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1F3lC0rDGEvTpGY8ItW9zm"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=GETTER&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 58
+  }
+}

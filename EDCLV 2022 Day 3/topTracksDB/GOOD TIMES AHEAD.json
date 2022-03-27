@@ -1,0 +1,817 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bj5GrcLom5gZFF5t949Xl",
+        "id" : "1bj5GrcLom5gZFF5t949Xl",
+        "name" : "Martin Solveig",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bj5GrcLom5gZFF5t949Xl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+        "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+        "name" : "Good Times Ahead",
+        "type" : "artist",
+        "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vI4F2iMd1CM9Jw9WQuJyN",
+      "id" : "0vI4F2iMd1CM9Jw9WQuJyN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a49acaf4f99a54d736828540",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a49acaf4f99a54d736828540",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a49acaf4f99a54d736828540",
+        "width" : 64
+      } ],
+      "name" : "Intoxicated (Radio Edit)",
+      "release_date" : "2015-10-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0vI4F2iMd1CM9Jw9WQuJyN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1bj5GrcLom5gZFF5t949Xl",
+      "id" : "1bj5GrcLom5gZFF5t949Xl",
+      "name" : "Martin Solveig",
+      "type" : "artist",
+      "uri" : "spotify:artist:1bj5GrcLom5gZFF5t949Xl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK98Q1500003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0dbQ4h3cs8QE5fOPMYdDrX",
+    "id" : "0dbQ4h3cs8QE5fOPMYdDrX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Intoxicated - Radio Edit",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/82402d34e116b571a27dc6edaa9d4d4cb0be4684?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0dbQ4h3cs8QE5fOPMYdDrX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+        "id" : "5fMUXHkw8R8eOP2RNVYEZX",
+        "name" : "Diplo",
+        "type" : "artist",
+        "uri" : "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4c7lxBZCbR8SQsoVvO2lCb",
+      "id" : "4c7lxBZCbR8SQsoVvO2lCb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b22eee282f4dc761c23e2486",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b22eee282f4dc761c23e2486",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b22eee282f4dc761c23e2486",
+        "width" : 64
+      } ],
+      "name" : "Random White Dude Be Everywhere",
+      "release_date" : "2014-07-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:4c7lxBZCbR8SQsoVvO2lCb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+      "id" : "5fMUXHkw8R8eOP2RNVYEZX",
+      "name" : "Diplo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 174398,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V1300276"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/20c8kwM60klIrU9LIYNv0X"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/20c8kwM60klIrU9LIYNv0X",
+    "id" : "20c8kwM60klIrU9LIYNv0X",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Boy Oh Boy",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/75f42662e461322524d47b55eafdf2ffa719b8a6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:20c8kwM60klIrU9LIYNv0X"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+        "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+        "name" : "Good Times Ahead",
+        "type" : "artist",
+        "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4do8v7rn5kSlH98AnV12P1"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4do8v7rn5kSlH98AnV12P1",
+      "id" : "4do8v7rn5kSlH98AnV12P1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934c617ef4aff378a67762b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934c617ef4aff378a67762b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934c617ef4aff378a67762b",
+        "width" : 64
+      } ],
+      "name" : "Red Lips (feat. Sam Bruno) [Skrillex Remix]",
+      "release_date" : "2015-11-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4do8v7rn5kSlH98AnV12P1"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2PgOtERwe37cW1U9z7zAHb",
+      "id" : "2PgOtERwe37cW1U9z7zAHb",
+      "name" : "Sam Bruno",
+      "type" : "artist",
+      "uri" : "spotify:artist:2PgOtERwe37cW1U9z7zAHb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+      "id" : "5he5w2lnU9x7JFhnwcekXX",
+      "name" : "Skrillex",
+      "type" : "artist",
+      "uri" : "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 223448,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21503908"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6mNMp0g3zkg1K7uBpn07zl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6mNMp0g3zkg1K7uBpn07zl",
+    "id" : "6mNMp0g3zkg1K7uBpn07zl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Red Lips (feat. Sam Bruno) - Skrillex Remix",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e0eeb92a25eb11da20a214a7b49f3de77b4382d0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6mNMp0g3zkg1K7uBpn07zl"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+        "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+        "name" : "Good Times Ahead",
+        "type" : "artist",
+        "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7D7gToSUwjOPdnpNdQHCKd",
+      "id" : "7D7gToSUwjOPdnpNdQHCKd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a1da84a89a487a094bb4bba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a1da84a89a487a094bb4bba",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a1da84a89a487a094bb4bba",
+        "width" : 64
+      } ],
+      "name" : "Good Times Ahead",
+      "release_date" : "2016-10-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7D7gToSUwjOPdnpNdQHCKd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AA8eXtzqh5ykxtafLaPOi",
+      "id" : "4AA8eXtzqh5ykxtafLaPOi",
+      "name" : "What So Not",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AA8eXtzqh5ykxtafLaPOi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fW1JQP4DfDyNqvYQ5m4Ju",
+      "id" : "5fW1JQP4DfDyNqvYQ5m4Ju",
+      "name" : "Tunji Ige",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fW1JQP4DfDyNqvYQ5m4Ju"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214714,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB11601287"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Vad9kkHv0DZZ0ioJdRrYV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Vad9kkHv0DZZ0ioJdRrYV",
+    "id" : "3Vad9kkHv0DZZ0ioJdRrYV",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feel It (feat. Tunji Ige)",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f791ca388eafad6d160719adbbe74e9f6e75e950?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3Vad9kkHv0DZZ0ioJdRrYV"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bj5GrcLom5gZFF5t949Xl",
+        "id" : "1bj5GrcLom5gZFF5t949Xl",
+        "name" : "Martin Solveig",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bj5GrcLom5gZFF5t949Xl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+        "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+        "name" : "Good Times Ahead",
+        "type" : "artist",
+        "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7IE3RROiOTUwMUPnff3NNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7IE3RROiOTUwMUPnff3NNZ",
+      "id" : "7IE3RROiOTUwMUPnff3NNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f3ee9e8a5313a39a72235a73",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f3ee9e8a5313a39a72235a73",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f3ee9e8a5313a39a72235a73",
+        "width" : 64
+      } ],
+      "name" : "Intoxicated (Original Mix)",
+      "release_date" : "2015-10-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7IE3RROiOTUwMUPnff3NNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1bj5GrcLom5gZFF5t949Xl",
+      "id" : "1bj5GrcLom5gZFF5t949Xl",
+      "name" : "Martin Solveig",
+      "type" : "artist",
+      "uri" : "spotify:artist:1bj5GrcLom5gZFF5t949Xl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 257279,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK98Q1400002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1pJCc8ItTbsSLNzQvpVwEL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1pJCc8ItTbsSLNzQvpVwEL",
+    "id" : "1pJCc8ItTbsSLNzQvpVwEL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Intoxicated",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a8eadcab0f9808942eb001fedeb7ba0847cc14f8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1pJCc8ItTbsSLNzQvpVwEL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7yPPzu5UdAK7yagQqjEZQm",
+        "id" : "7yPPzu5UdAK7yagQqjEZQm",
+        "name" : "Party Favor",
+        "type" : "artist",
+        "uri" : "spotify:artist:7yPPzu5UdAK7yagQqjEZQm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6kDQ4uisku1cm591Y1ix3Q"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6kDQ4uisku1cm591Y1ix3Q",
+      "id" : "6kDQ4uisku1cm591Y1ix3Q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389ea0945a0184fc07808dc01",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289ea0945a0184fc07808dc01",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189ea0945a0184fc07808dc01",
+        "width" : 64
+      } ],
+      "name" : "Layers",
+      "release_date" : "2019-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:6kDQ4uisku1cm591Y1ix3Q"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yPPzu5UdAK7yagQqjEZQm",
+      "id" : "7yPPzu5UdAK7yagQqjEZQm",
+      "name" : "Party Favor",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yPPzu5UdAK7yagQqjEZQm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 237251,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USZ4V1900079"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4G7zxD9wKSKeAEjbKF0fHs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4G7zxD9wKSKeAEjbKF0fHs",
+    "id" : "4G7zxD9wKSKeAEjbKF0fHs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Work It Out",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/33e4c10c99f086c4ce29cc8c5a2be30417663eb3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4G7zxD9wKSKeAEjbKF0fHs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+        "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+        "name" : "Good Times Ahead",
+        "type" : "artist",
+        "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7D7gToSUwjOPdnpNdQHCKd",
+      "id" : "7D7gToSUwjOPdnpNdQHCKd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a1da84a89a487a094bb4bba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a1da84a89a487a094bb4bba",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a1da84a89a487a094bb4bba",
+        "width" : 64
+      } ],
+      "name" : "Good Times Ahead",
+      "release_date" : "2016-10-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7D7gToSUwjOPdnpNdQHCKd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ZavqCJe7uqkRpISes0NFi",
+      "id" : "2ZavqCJe7uqkRpISes0NFi",
+      "name" : "Iamsu!",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZavqCJe7uqkRpISes0NFi"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 187722,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USWB11601292"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2inooHmXD4YMC1CbDvda8r"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2inooHmXD4YMC1CbDvda8r",
+    "id" : "2inooHmXD4YMC1CbDvda8r",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Contract (feat. Iamsu)",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5f2fdd9ae98a0aea3d9b1863eb691e27bbbcf30f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:2inooHmXD4YMC1CbDvda8r"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Isy6kedDrgPYoTS1dazA9",
+        "id" : "3Isy6kedDrgPYoTS1dazA9",
+        "name" : "Sean Paul",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Isy6kedDrgPYoTS1dazA9"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+        "id" : "1vyhD5VmyZ7KMfW5gqLgo5",
+        "name" : "J Balvin",
+        "type" : "artist",
+        "uri" : "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/08jjrwkMiZboulzCz7fQwe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/08jjrwkMiZboulzCz7fQwe",
+      "id" : "08jjrwkMiZboulzCz7fQwe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273997b5f9eb5e0ae817fd3df36",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02997b5f9eb5e0ae817fd3df36",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851997b5f9eb5e0ae817fd3df36",
+        "width" : 64
+      } ],
+      "name" : "Contra La Pared (Remixes)",
+      "release_date" : "2019-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:08jjrwkMiZboulzCz7fQwe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Isy6kedDrgPYoTS1dazA9",
+      "id" : "3Isy6kedDrgPYoTS1dazA9",
+      "name" : "Sean Paul",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Isy6kedDrgPYoTS1dazA9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
+      "id" : "1vyhD5VmyZ7KMfW5gqLgo5",
+      "name" : "J Balvin",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 257274,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM71902702"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5RE2mMitKRWTQuh1jSzlBu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5RE2mMitKRWTQuh1jSzlBu",
+    "id" : "5RE2mMitKRWTQuh1jSzlBu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Contra La Pared - GTA Remix",
+    "popularity" : 50,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5RE2mMitKRWTQuh1jSzlBu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+        "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+        "name" : "Good Times Ahead",
+        "type" : "artist",
+        "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7D7gToSUwjOPdnpNdQHCKd",
+      "id" : "7D7gToSUwjOPdnpNdQHCKd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a1da84a89a487a094bb4bba",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a1da84a89a487a094bb4bba",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a1da84a89a487a094bb4bba",
+        "width" : 64
+      } ],
+      "name" : "Good Times Ahead",
+      "release_date" : "2016-10-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7D7gToSUwjOPdnpNdQHCKd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id" : "68kEuyFKyqrdQQLLsmiatm",
+      "name" : "Vince Staples",
+      "type" : "artist",
+      "uri" : "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 168254,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USWB11601286"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1K0VQGwAHUSavDdPZ2aTAY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1K0VQGwAHUSavDdPZ2aTAY",
+    "id" : "1K0VQGwAHUSavDdPZ2aTAY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Little Bit of This (feat. Vince Staples)",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c23f9c2dce08f2ba987a6045ad744c811ff79707?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1K0VQGwAHUSavDdPZ2aTAY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+        "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+        "name" : "Good Times Ahead",
+        "type" : "artist",
+        "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/395EvXClydIElIo8YXrlkA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/395EvXClydIElIo8YXrlkA",
+      "id" : "395EvXClydIElIo8YXrlkA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730f0f240bb9b7c40663fbb5c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020f0f240bb9b7c40663fbb5c9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510f0f240bb9b7c40663fbb5c9",
+        "width" : 64
+      } ],
+      "name" : "DTG VOL. 1",
+      "release_date" : "2015-03-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:395EvXClydIElIo8YXrlkA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M7RdR9ZP52h2mfNLmiHtU",
+      "id" : "6M7RdR9ZP52h2mfNLmiHtU",
+      "name" : "Good Times Ahead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2PgOtERwe37cW1U9z7zAHb",
+      "id" : "2PgOtERwe37cW1U9z7zAHb",
+      "name" : "Sam Bruno",
+      "type" : "artist",
+      "uri" : "spotify:artist:2PgOtERwe37cW1U9z7zAHb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 232386,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USWB11503807"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0nLpuD9YMKexqFWLc5zbE8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0nLpuD9YMKexqFWLc5zbE8",
+    "id" : "0nLpuD9YMKexqFWLc5zbE8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Red Lips (feat. Sam Bruno)",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0dff0c159b704d76353196299ce49372e286ed04?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0nLpuD9YMKexqFWLc5zbE8"
+  } ]
+}

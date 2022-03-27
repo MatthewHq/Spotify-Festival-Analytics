@@ -1,0 +1,71 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=OMAH+LAY&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 380969
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5yOvAmpIR7hVxiS6Ls5DPO",
+      "id" : "5yOvAmpIR7hVxiS6Ls5DPO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb00b662d5080255cbc82537a2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517400b662d5080255cbc82537a2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17800b662d5080255cbc82537a2",
+        "width" : 160
+      } ],
+      "name" : "Omah Lay",
+      "popularity" : 73,
+      "type" : "artist",
+      "uri" : "spotify:artist:5yOvAmpIR7hVxiS6Ls5DPO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4sG4AcarDSZ4kRx6xsbKRa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4sG4AcarDSZ4kRx6xsbKRa",
+      "id" : "4sG4AcarDSZ4kRx6xsbKRa",
+      "images" : [ ],
+      "name" : "Omah Lay",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4sG4AcarDSZ4kRx6xsbKRa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4XefqsKq4bL7qkSgzbjJsr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4XefqsKq4bL7qkSgzbjJsr",
+      "id" : "4XefqsKq4bL7qkSgzbjJsr",
+      "images" : [ ],
+      "name" : "omah lay",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4XefqsKq4bL7qkSgzbjJsr"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

@@ -1,0 +1,898 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7tm9Tuc70geXOOyKhtZHIj",
+        "id" : "7tm9Tuc70geXOOyKhtZHIj",
+        "name" : "Chris Lorenzo",
+        "type" : "artist",
+        "uri" : "spotify:artist:7tm9Tuc70geXOOyKhtZHIj"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6IwSRKffabEdwOZvUjght0",
+      "id" : "6IwSRKffabEdwOZvUjght0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27305ac3a37f62bd4b1103590a0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0205ac3a37f62bd4b1103590a0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485105ac3a37f62bd4b1103590a0",
+        "width" : 64
+      } ],
+      "name" : "Fly With Us",
+      "release_date" : "2021-09-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6IwSRKffabEdwOZvUjght0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7tm9Tuc70geXOOyKhtZHIj",
+      "id" : "7tm9Tuc70geXOOyKhtZHIj",
+      "name" : "Chris Lorenzo",
+      "type" : "artist",
+      "uri" : "spotify:artist:7tm9Tuc70geXOOyKhtZHIj"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 248437,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL2101646"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0aEIw4siCqZ8hlDrvtlRep",
+    "id" : "0aEIw4siCqZ8hlDrvtlRep",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fly With Us",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/12558c3b43f66f6f8c5a53d818fe78a8512cab69?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0aEIw4siCqZ8hlDrvtlRep"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5r8uFFa8SgWYY9otnRmLlw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5r8uFFa8SgWYY9otnRmLlw",
+        "id" : "5r8uFFa8SgWYY9otnRmLlw",
+        "name" : "Night Bass",
+        "type" : "artist",
+        "uri" : "spotify:artist:5r8uFFa8SgWYY9otnRmLlw"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7HudruvaISdJ2DyD85XyKv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7HudruvaISdJ2DyD85XyKv",
+      "id" : "7HudruvaISdJ2DyD85XyKv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27342b4a74cc143f35fdf0a2167",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0242b4a74cc143f35fdf0a2167",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485142b4a74cc143f35fdf0a2167",
+        "width" : 64
+      } ],
+      "name" : "Night Bass Remixed Vol. 1",
+      "release_date" : "2017-07-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:7HudruvaISdJ2DyD85XyKv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7tm9Tuc70geXOOyKhtZHIj",
+      "id" : "7tm9Tuc70geXOOyKhtZHIj",
+      "name" : "Chris Lorenzo",
+      "type" : "artist",
+      "uri" : "spotify:artist:7tm9Tuc70geXOOyKhtZHIj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7zm3aSdmGiOkTt0aZFSO8R",
+      "id" : "7zm3aSdmGiOkTt0aZFSO8R",
+      "name" : "Wax Motif",
+      "type" : "artist",
+      "uri" : "spotify:artist:7zm3aSdmGiOkTt0aZFSO8R"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 278400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL1700770"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/30Ek6vDZ77PWTQS9HiV3xB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/30Ek6vDZ77PWTQS9HiV3xB",
+    "id" : "30Ek6vDZ77PWTQS9HiV3xB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fly Kicks - Wax Motif Remix",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f1d66af6caa41b077626e563500302f323be3e02?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:30Ek6vDZ77PWTQS9HiV3xB"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0oQ4s2gqzSvD7G1t97kO2y",
+        "id" : "0oQ4s2gqzSvD7G1t97kO2y",
+        "name" : "Qlank",
+        "type" : "artist",
+        "uri" : "spotify:artist:0oQ4s2gqzSvD7G1t97kO2y"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2pFjYsNEe6hIBcRH4PT8m0",
+        "id" : "2pFjYsNEe6hIBcRH4PT8m0",
+        "name" : "Queen Millz",
+        "type" : "artist",
+        "uri" : "spotify:artist:2pFjYsNEe6hIBcRH4PT8m0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3VGbzt6PlueHOq7bn5Tquk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3VGbzt6PlueHOq7bn5Tquk",
+      "id" : "3VGbzt6PlueHOq7bn5Tquk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735d98ab10271ba6e4081bc302",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025d98ab10271ba6e4081bc302",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515d98ab10271ba6e4081bc302",
+        "width" : 64
+      } ],
+      "name" : "Suffocating",
+      "release_date" : "2021-07-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3VGbzt6PlueHOq7bn5Tquk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0oQ4s2gqzSvD7G1t97kO2y",
+      "id" : "0oQ4s2gqzSvD7G1t97kO2y",
+      "name" : "Qlank",
+      "type" : "artist",
+      "uri" : "spotify:artist:0oQ4s2gqzSvD7G1t97kO2y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2pFjYsNEe6hIBcRH4PT8m0",
+      "id" : "2pFjYsNEe6hIBcRH4PT8m0",
+      "name" : "Queen Millz",
+      "type" : "artist",
+      "uri" : "spotify:artist:2pFjYsNEe6hIBcRH4PT8m0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 174000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL2101365"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0RL0kFseGHilQyinJa0eO8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0RL0kFseGHilQyinJa0eO8",
+    "id" : "0RL0kFseGHilQyinJa0eO8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Suffocating",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2f6c57729a227106bddc0db7e921fd4d77c34f55?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0RL0kFseGHilQyinJa0eO8"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XiiUuK68XNdHaHOAF5hnT",
+        "id" : "2XiiUuK68XNdHaHOAF5hnT",
+        "name" : "Curbi",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XiiUuK68XNdHaHOAF5hnT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3magqmwQzm2mdGgI83lC3S",
+      "id" : "3magqmwQzm2mdGgI83lC3S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273308b34fbe449a8889149a256",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02308b34fbe449a8889149a256",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851308b34fbe449a8889149a256",
+        "width" : 64
+      } ],
+      "name" : "Crave The Bassline",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3magqmwQzm2mdGgI83lC3S"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XiiUuK68XNdHaHOAF5hnT",
+      "id" : "2XiiUuK68XNdHaHOAF5hnT",
+      "name" : "Curbi",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XiiUuK68XNdHaHOAF5hnT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 166962,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL2200496"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3QzBzeXfDNR15U6X98zz1q",
+    "id" : "3QzBzeXfDNR15U6X98zz1q",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Crave The Bassline",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/30b81d0d8fbce4a5b754e5f59124286eda9cf012?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3QzBzeXfDNR15U6X98zz1q"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Ecng98JLorpsVdazNr0Ry",
+        "id" : "7Ecng98JLorpsVdazNr0Ry",
+        "name" : "Darkzy",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Ecng98JLorpsVdazNr0Ry"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WjX4pepHwXa85B9KMk0PY",
+        "id" : "6WjX4pepHwXa85B9KMk0PY",
+        "name" : "P Money",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WjX4pepHwXa85B9KMk0PY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/35SzRaDCN9sThUGJwWstIH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/35SzRaDCN9sThUGJwWstIH",
+      "id" : "35SzRaDCN9sThUGJwWstIH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730278dc1eb9185ad758e5428e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020278dc1eb9185ad758e5428e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510278dc1eb9185ad758e5428e",
+        "width" : 64
+      } ],
+      "name" : "Vibes on Tap",
+      "release_date" : "2020-12-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:35SzRaDCN9sThUGJwWstIH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Ecng98JLorpsVdazNr0Ry",
+      "id" : "7Ecng98JLorpsVdazNr0Ry",
+      "name" : "Darkzy",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Ecng98JLorpsVdazNr0Ry"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WjX4pepHwXa85B9KMk0PY",
+      "id" : "6WjX4pepHwXa85B9KMk0PY",
+      "name" : "P Money",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WjX4pepHwXa85B9KMk0PY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 252000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR26V2089647"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Gr57mnG8D5S2DRvnBPEaT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Gr57mnG8D5S2DRvnBPEaT",
+    "id" : "1Gr57mnG8D5S2DRvnBPEaT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Vibes on Tap",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5d1f5340364bebdef4658f6d54ad37976b1cf8dc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1Gr57mnG8D5S2DRvnBPEaT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2EIMq4BGKqgFQnZqBns0Ki"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2EIMq4BGKqgFQnZqBns0Ki",
+      "id" : "2EIMq4BGKqgFQnZqBns0Ki",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aefbaf3da7aaaf411bf7b76f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aefbaf3da7aaaf411bf7b76f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aefbaf3da7aaaf411bf7b76f",
+        "width" : 64
+      } ],
+      "name" : "Bass Inside",
+      "release_date" : "2016-04-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2EIMq4BGKqgFQnZqBns0Ki"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 264000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USAT21601116"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0oUTyBEY3NQzmu2VuoKpSH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0oUTyBEY3NQzmu2VuoKpSH",
+    "id" : "0oUTyBEY3NQzmu2VuoKpSH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bass Inside",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/85ebfa241357f30ebbb2b4761fc729803618f1ee?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0oUTyBEY3NQzmu2VuoKpSH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/34FdHQePHZ12S0ieFogpgO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/34FdHQePHZ12S0ieFogpgO",
+      "id" : "34FdHQePHZ12S0ieFogpgO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739c3b06fcfcbec07f70532486",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029c3b06fcfcbec07f70532486",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519c3b06fcfcbec07f70532486",
+        "width" : 64
+      } ],
+      "name" : "Hi8",
+      "release_date" : "2019-09-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:34FdHQePHZ12S0ieFogpgO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Sz2jslaxjcw2VM5zYh2jK",
+      "id" : "0Sz2jslaxjcw2VM5zYh2jK",
+      "name" : "Kaleena Zanders",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Sz2jslaxjcw2VM5zYh2jK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 175000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL1901071"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/53E9F6JQX1Z7vFLHq2yLV1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/53E9F6JQX1Z7vFLHq2yLV1",
+    "id" : "53E9F6JQX1Z7vFLHq2yLV1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Final Fantasy - Original Mix",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/15714d5b4205edd5312b378d0b0548d62c1d35c6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:53E9F6JQX1Z7vFLHq2yLV1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4QWmN97HRZya55JvxN3I5a",
+        "id" : "4QWmN97HRZya55JvxN3I5a",
+        "name" : "Taiki Nulight",
+        "type" : "artist",
+        "uri" : "spotify:artist:4QWmN97HRZya55JvxN3I5a"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3j5TSMiIF9HhZSrNrlueCd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3j5TSMiIF9HhZSrNrlueCd",
+      "id" : "3j5TSMiIF9HhZSrNrlueCd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733285f5af265e32a61edf775d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023285f5af265e32a61edf775d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513285f5af265e32a61edf775d",
+        "width" : 64
+      } ],
+      "name" : "Gold Star",
+      "release_date" : "2020-07-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3j5TSMiIF9HhZSrNrlueCd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4QWmN97HRZya55JvxN3I5a",
+      "id" : "4QWmN97HRZya55JvxN3I5a",
+      "name" : "Taiki Nulight",
+      "type" : "artist",
+      "uri" : "spotify:artist:4QWmN97HRZya55JvxN3I5a"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 182325,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL2001226"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0f8kI9h3enq3ZKMZCxxJN3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0f8kI9h3enq3ZKMZCxxJN3",
+    "id" : "0f8kI9h3enq3ZKMZCxxJN3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gold Star",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a976c403d28c87dee2475f147f04e2a233279f9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0f8kI9h3enq3ZKMZCxxJN3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+        "id" : "1KpCi9BOfviCVhmpI4G2sY",
+        "name" : "Tchami",
+        "type" : "artist",
+        "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GaPIF26mniFIX3T3Pv66l",
+        "id" : "3GaPIF26mniFIX3T3Pv66l",
+        "name" : "Kate Wild",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GaPIF26mniFIX3T3Pv66l"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3VsmKcDSYFgCPivwxqPz10"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3VsmKcDSYFgCPivwxqPz10",
+      "id" : "3VsmKcDSYFgCPivwxqPz10",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c394d9e21f4d937a0a651308",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c394d9e21f4d937a0a651308",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c394d9e21f4d937a0a651308",
+        "width" : 64
+      } ],
+      "name" : "Only One",
+      "release_date" : "2022-01-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3VsmKcDSYFgCPivwxqPz10"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KpCi9BOfviCVhmpI4G2sY",
+      "id" : "1KpCi9BOfviCVhmpI4G2sY",
+      "name" : "Tchami",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KpCi9BOfviCVhmpI4G2sY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3GaPIF26mniFIX3T3Pv66l",
+      "id" : "3GaPIF26mniFIX3T3Pv66l",
+      "name" : "Kate Wild",
+      "type" : "artist",
+      "uri" : "spotify:artist:3GaPIF26mniFIX3T3Pv66l"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224062,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USYBL2102439"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/55W0oMOGVIDMVsHbfOC5zA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/55W0oMOGVIDMVsHbfOC5zA",
+    "id" : "55W0oMOGVIDMVsHbfOC5zA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Only One",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8fdb5569a01428b430927dd03e0b63d6bf653d44?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:55W0oMOGVIDMVsHbfOC5zA"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+        "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+        "name" : "AC Slater",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7kA4sEagpoNK91I7wr9tYr",
+        "id" : "7kA4sEagpoNK91I7wr9tYr",
+        "name" : "Bleu Clair",
+        "type" : "artist",
+        "uri" : "spotify:artist:7kA4sEagpoNK91I7wr9tYr"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3GaPIF26mniFIX3T3Pv66l",
+        "id" : "3GaPIF26mniFIX3T3Pv66l",
+        "name" : "Kate Wild",
+        "type" : "artist",
+        "uri" : "spotify:artist:3GaPIF26mniFIX3T3Pv66l"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6blqmHrgEubFGOJOcIsCUj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6blqmHrgEubFGOJOcIsCUj",
+      "id" : "6blqmHrgEubFGOJOcIsCUj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d739793041062b5e97055733",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d739793041062b5e97055733",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d739793041062b5e97055733",
+        "width" : 64
+      } ],
+      "name" : "Green Light (feat. Kate Wild)",
+      "release_date" : "2021-08-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6blqmHrgEubFGOJOcIsCUj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EqFMCnVGBRNmwPlk2f3Uc",
+      "id" : "6EqFMCnVGBRNmwPlk2f3Uc",
+      "name" : "AC Slater",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7kA4sEagpoNK91I7wr9tYr",
+      "id" : "7kA4sEagpoNK91I7wr9tYr",
+      "name" : "Bleu Clair",
+      "type" : "artist",
+      "uri" : "spotify:artist:7kA4sEagpoNK91I7wr9tYr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3GaPIF26mniFIX3T3Pv66l",
+      "id" : "3GaPIF26mniFIX3T3Pv66l",
+      "name" : "Kate Wild",
+      "type" : "artist",
+      "uri" : "spotify:artist:3GaPIF26mniFIX3T3Pv66l"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 157500,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CYA112001013"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4SnBJPqAZmf18gF4vlqEWL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4SnBJPqAZmf18gF4vlqEWL",
+    "id" : "4SnBJPqAZmf18gF4vlqEWL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Green Light (feat. Kate Wild)",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/60a229218e79e16880077b0a0a14db2ce1bf1833?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4SnBJPqAZmf18gF4vlqEWL"
+  } ]
+}

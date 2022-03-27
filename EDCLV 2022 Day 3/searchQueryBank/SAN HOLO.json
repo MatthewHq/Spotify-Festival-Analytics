@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=SAN+HOLO&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 655391
+      },
+      "genres" : [ "edm", "electronic trap", "electropop", "future bass", "pop dance", "pop edm", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/0jNDKefhfSbLR9sFvcPLHo",
+      "id" : "0jNDKefhfSbLR9sFvcPLHo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbea280428d4ffabf1d7b0095",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bea280428d4ffabf1d7b0095",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bea280428d4ffabf1d7b0095",
+        "width" : 160
+      } ],
+      "name" : "San Holo",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:0jNDKefhfSbLR9sFvcPLHo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2RedOBlLVKYyaQYdGGWEtQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2RedOBlLVKYyaQYdGGWEtQ",
+      "id" : "2RedOBlLVKYyaQYdGGWEtQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a7d786dc8f1773f5bfbc888",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a7d786dc8f1773f5bfbc888",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a7d786dc8f1773f5bfbc888",
+        "width" : 64
+      } ],
+      "name" : "Holographic Sands",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2RedOBlLVKYyaQYdGGWEtQ"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

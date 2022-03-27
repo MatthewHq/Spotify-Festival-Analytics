@@ -1,0 +1,103 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=RICO+NASTY&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 881732
+      },
+      "genres" : [ "dance pop", "dmv rap", "escape room", "pop", "trap queen" ],
+      "href" : "https://api.spotify.com/v1/artists/2OaHYHb2XcFPvqL3VsyPzU",
+      "id" : "2OaHYHb2XcFPvqL3VsyPzU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1e3d4b0dbd0be9184096449c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741e3d4b0dbd0be9184096449c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781e3d4b0dbd0be9184096449c",
+        "width" : 160
+      } ],
+      "name" : "Rico Nasty",
+      "popularity" : 71,
+      "type" : "artist",
+      "uri" : "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cbnAr7eYKBSzqSOZzuDT6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5cbnAr7eYKBSzqSOZzuDT6",
+      "id" : "5cbnAr7eYKBSzqSOZzuDT6",
+      "images" : [ ],
+      "name" : "Rico Nasty",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:5cbnAr7eYKBSzqSOZzuDT6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6d2vsSOxwN56G2gvFgDDZw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6d2vsSOxwN56G2gvFgDDZw",
+      "id" : "6d2vsSOxwN56G2gvFgDDZw",
+      "images" : [ ],
+      "name" : "Mallory Merk & Rico Nasty",
+      "popularity" : 29,
+      "type" : "artist",
+      "uri" : "spotify:artist:6d2vsSOxwN56G2gvFgDDZw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43Kn4mLRCt02W9hFKcmRNz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/43Kn4mLRCt02W9hFKcmRNz",
+      "id" : "43Kn4mLRCt02W9hFKcmRNz",
+      "images" : [ ],
+      "name" : "Rico Nasty & Hoodrich Pablo Juan",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:43Kn4mLRCt02W9hFKcmRNz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wrP0EVy1Na8f1s1EjHSbj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7wrP0EVy1Na8f1s1EjHSbj",
+      "id" : "7wrP0EVy1Na8f1s1EjHSbj",
+      "images" : [ ],
+      "name" : "Original Song - Rico nasty \" Smack A b*tch\"",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7wrP0EVy1Na8f1s1EjHSbj"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5
+  }
+}

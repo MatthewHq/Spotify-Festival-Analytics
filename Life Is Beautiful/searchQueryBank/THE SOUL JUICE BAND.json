@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=THE+SOUL+JUICE+BAND&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iGKEK8SC93nhaTOAl7Pcz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 339
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2iGKEK8SC93nhaTOAl7Pcz",
+      "id" : "2iGKEK8SC93nhaTOAl7Pcz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0ef6f74dab2774ab43b09328",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740ef6f74dab2774ab43b09328",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780ef6f74dab2774ab43b09328",
+        "width" : 160
+      } ],
+      "name" : "The Soul Juice Band",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:2iGKEK8SC93nhaTOAl7Pcz"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}
