@@ -26,9 +26,8 @@ Click on image below to go to spreadsheet below containing exported CSV data res
 With 435 top tracks to sort through, this examplem shows the usefulness of using a pivot table to quickly sort top track data by danceability, constantly showcasing two particular artists that would otherwise most likely be looked over per their low follower count, actually being good choices for attendees who might want to dance. Adding the track url then allows the browser to look at the actual song and decide based on listening
 [![video discussion](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/readmeSources/pivot.jpg?raw=true)](https://docs.google.com/spreadsheets/d/1mtFT8Uqi2-639NRQHsrvIffb3SRx6czsqH5JREp7WNs/edit#gid=502333132)
 
-A chart using artist CSV data sorting them by Spotify followers
-![byFollowers](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/readmeSources/artistsByFollowers.jpg?raw=true)
-
+A chart using artist CSV data sorting them by Spotify followers, Click for Full Chart
+[![byFollowers](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/readmeSources/artistsByFollowersMini.jpg?raw=true)](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/readmeSources/artistsByFollowers.jpg?raw=true)
 
 
 ## Module Walkthrough
