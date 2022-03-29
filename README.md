@@ -16,7 +16,9 @@ to be used for analyzing a festival lineup of artists and helping with where to 
   * Spotify Playlist Creation!
     *  After initially completing this project I came back to work on user authorization flow as opposed to client credential flow which allowed for creation of playlists. So after sorting out songs based on different criteria I can quickly generate festival lineup playlists to share!
 
-Note the example festival used here is "CRSSD FEST 2022"
+# Real-World Results
+Ended up generating a couple playlists in the span of a few minutes, that gained 270+ user followers!
+![image](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/readmeSources/quicklyGeneratedPlaylists.jpg?raw=true)]
 
 Click on image below to go to spreadsheet below containing exported CSV data results
 [![image](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/readmeSources/googleSheet.jpg?raw=true)](https://docs.google.com/spreadsheets/d/1mtFT8Uqi2-639NRQHsrvIffb3SRx6czsqH5JREp7WNs/edit?usp=sharing)
@@ -89,8 +91,3 @@ await dbManage.allTracksToCSVcustom(festivalTitle)
   * Decided to go a little purist on this one with the libraries after trying out spotify's own recommended starting guide and realizing that it was using a recently deprecated    module: "request" 
   * REVISION: Actually started implementing user auth with 'express' after coming back to potentially add some features. The original non user-specific code is still true to only native node
   * Reason for using express is to listen in on a spotify authorization callback
- 
-
-
-
-
