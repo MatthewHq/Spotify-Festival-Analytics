@@ -17,7 +17,7 @@ to be used for analyzing a festival lineup of artists and helping with where to 
     *  After initially completing this project I came back to work on user authorization flow as opposed to client credential flow which allowed for creation of playlists. So after sorting out songs based on different criteria I can quickly generate festival lineup playlists to share!
 
 # Real-World Results
-Ended up generating a couple playlists in the span of a few minutes, that gained 270+ user followers!
+### **270+ user followers** after a weekend on these playlists generated in just a few minutes!
 ![image](https://github.com/MatthewHoque/Spotify-Festival-Analytics/blob/main/readmeSources/quicklyGeneratedPlaylists.jpg?raw=true)]
 
 Click on image below to go to spreadsheet below containing exported CSV data results
