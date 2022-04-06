@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Darksiderz&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XwoaxvFx5Y67ZdLQt2TMa"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2133
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1XwoaxvFx5Y67ZdLQt2TMa",
+      "id" : "1XwoaxvFx5Y67ZdLQt2TMa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf8fc6717f3a9a4bc8ac73c75",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f8fc6717f3a9a4bc8ac73c75",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f8fc6717f3a9a4bc8ac73c75",
+        "width" : 160
+      } ],
+      "name" : "Darksiderz",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:1XwoaxvFx5Y67ZdLQt2TMa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tXInRugLmIBafG6YclUs5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3tXInRugLmIBafG6YclUs5",
+      "id" : "3tXInRugLmIBafG6YclUs5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27320cb63471c8fbe8c10756565",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0220cb63471c8fbe8c10756565",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485120cb63471c8fbe8c10756565",
+        "width" : 64
+      } ],
+      "name" : "Nandhow Darksiderz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3tXInRugLmIBafG6YclUs5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gd79wWOFN4GgZaLcbSaRI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3gd79wWOFN4GgZaLcbSaRI",
+      "id" : "3gd79wWOFN4GgZaLcbSaRI",
+      "images" : [ ],
+      "name" : "The Darksiderz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3gd79wWOFN4GgZaLcbSaRI"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

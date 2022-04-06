@@ -1,0 +1,781 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0ZpPLGn0OkRMl2Y9Twn16K",
+        "id" : "0ZpPLGn0OkRMl2Y9Twn16K",
+        "name" : "G-Rex",
+        "type" : "artist",
+        "uri" : "spotify:artist:0ZpPLGn0OkRMl2Y9Twn16K"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5ReAd8oYqVaNkHrkipdhrI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5ReAd8oYqVaNkHrkipdhrI",
+      "id" : "5ReAd8oYqVaNkHrkipdhrI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730c2aaf4869d5cf8f848f4ae3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020c2aaf4869d5cf8f848f4ae3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510c2aaf4869d5cf8f848f4ae3",
+        "width" : 64
+      } ],
+      "name" : "Purple Haze",
+      "release_date" : "2019-09-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5ReAd8oYqVaNkHrkipdhrI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ZpPLGn0OkRMl2Y9Twn16K",
+      "id" : "0ZpPLGn0OkRMl2Y9Twn16K",
+      "name" : "G-Rex",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ZpPLGn0OkRMl2Y9Twn16K"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 204093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM81900313"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2gYUofi4dLuvv54fVSMXwf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2gYUofi4dLuvv54fVSMXwf",
+    "id" : "2gYUofi4dLuvv54fVSMXwf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Purple Haze",
+    "popularity" : 41,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2gYUofi4dLuvv54fVSMXwf"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6j78LtFLqDG65Ju57NUM5N",
+        "id" : "6j78LtFLqDG65Ju57NUM5N",
+        "name" : "Wreckno",
+        "type" : "artist",
+        "uri" : "spotify:artist:6j78LtFLqDG65Ju57NUM5N"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Fwu1JBMmy1PzUUORgvhyZ",
+      "id" : "2Fwu1JBMmy1PzUUORgvhyZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735bc57cad2964bb57713e0231",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025bc57cad2964bb57713e0231",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515bc57cad2964bb57713e0231",
+        "width" : 64
+      } ],
+      "name" : "DUMP TRUCC",
+      "release_date" : "2022-03-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2Fwu1JBMmy1PzUUORgvhyZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6j78LtFLqDG65Ju57NUM5N",
+      "id" : "6j78LtFLqDG65Ju57NUM5N",
+      "name" : "Wreckno",
+      "type" : "artist",
+      "uri" : "spotify:artist:6j78LtFLqDG65Ju57NUM5N"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 150000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CAUM82200051"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/33rKsURXyPeltTOrErKYA3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/33rKsURXyPeltTOrErKYA3",
+    "id" : "33rKsURXyPeltTOrErKYA3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "DUMP TRUCC",
+    "popularity" : 40,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:33rKsURXyPeltTOrErKYA3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3a9qv6NLHnsVxJUtKOMHvD",
+        "id" : "3a9qv6NLHnsVxJUtKOMHvD",
+        "name" : "The Glitch Mob",
+        "type" : "artist",
+        "uri" : "spotify:artist:3a9qv6NLHnsVxJUtKOMHvD"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3auWbKALSk3JmrQQse0IFd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3auWbKALSk3JmrQQse0IFd",
+      "id" : "3auWbKALSk3JmrQQse0IFd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ec885ee896ac7fe09c2ee58a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ec885ee896ac7fe09c2ee58a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ec885ee896ac7fe09c2ee58a",
+        "width" : 64
+      } ],
+      "name" : "Lazer Vision",
+      "release_date" : "2019-10-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3auWbKALSk3JmrQQse0IFd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3a9qv6NLHnsVxJUtKOMHvD",
+      "id" : "3a9qv6NLHnsVxJUtKOMHvD",
+      "name" : "The Glitch Mob",
+      "type" : "artist",
+      "uri" : "spotify:artist:3a9qv6NLHnsVxJUtKOMHvD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 249617,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMBZ91900084"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2egYOYM2xf18aiLu5XR3Xj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2egYOYM2xf18aiLu5XR3Xj",
+    "id" : "2egYOYM2xf18aiLu5XR3Xj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lazer Vision",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/839401ebf2688635c36500b89761165a15c371f2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2egYOYM2xf18aiLu5XR3Xj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2c2X6dr1PHctH24BxNOjHi",
+        "id" : "2c2X6dr1PHctH24BxNOjHi",
+        "name" : "Eprom",
+        "type" : "artist",
+        "uri" : "spotify:artist:2c2X6dr1PHctH24BxNOjHi"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2SRFeendto1MWq00nxZpMd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2SRFeendto1MWq00nxZpMd",
+      "id" : "2SRFeendto1MWq00nxZpMd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273838a609b4c719fec2ec6c511",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02838a609b4c719fec2ec6c511",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851838a609b4c719fec2ec6c511",
+        "width" : 64
+      } ],
+      "name" : "Humanoid 2.0",
+      "release_date" : "2018-08-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2SRFeendto1MWq00nxZpMd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2c2X6dr1PHctH24BxNOjHi",
+      "id" : "2c2X6dr1PHctH24BxNOjHi",
+      "name" : "Eprom",
+      "type" : "artist",
+      "uri" : "spotify:artist:2c2X6dr1PHctH24BxNOjHi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213818,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKACT1830072"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3yXWBtDHv1q68Z9rPryu1k"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3yXWBtDHv1q68Z9rPryu1k",
+    "id" : "3yXWBtDHv1q68Z9rPryu1k",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Humanoid 2.0",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c78ead6217d7f3bd855aa9bb0c37a0190c830ed8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3yXWBtDHv1q68Z9rPryu1k"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0oUq8kLkjrb3VYP6YEdyK2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0oUq8kLkjrb3VYP6YEdyK2",
+      "id" : "0oUq8kLkjrb3VYP6YEdyK2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b10512b5e9aa3462de435c75",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b10512b5e9aa3462de435c75",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b10512b5e9aa3462de435c75",
+        "width" : 64
+      } ],
+      "name" : "Give Me A Bassline",
+      "release_date" : "2021-07-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0oUq8kLkjrb3VYP6YEdyK2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 246695,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZHCR2100148"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/18yckkeVuvwhEH2f3cGApd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/18yckkeVuvwhEH2f3cGApd",
+    "id" : "18yckkeVuvwhEH2f3cGApd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Give Me A Bassline",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5246808dae8e175f8db7ec387b531fb5103e6250?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:18yckkeVuvwhEH2f3cGApd"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jCTirgapx94wqkkHZR1rv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jCTirgapx94wqkkHZR1rv",
+      "id" : "1jCTirgapx94wqkkHZR1rv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273921c263348b219a4030355cc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02921c263348b219a4030355cc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851921c263348b219a4030355cc",
+        "width" : 64
+      } ],
+      "name" : "Digital Death EP",
+      "release_date" : "2022-02-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:1jCTirgapx94wqkkHZR1rv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 164887,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2205392"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2NrU98Z2W1rEvLRumC2DI9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2NrU98Z2W1rEvLRumC2DI9",
+    "id" : "2NrU98Z2W1rEvLRumC2DI9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Error",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/638698a3b9d735c494961c824c649ed5d450d616?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2NrU98Z2W1rEvLRumC2DI9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5VjPvMZB9D6b9XEeXMg8SB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5VjPvMZB9D6b9XEeXMg8SB",
+        "id" : "5VjPvMZB9D6b9XEeXMg8SB",
+        "name" : "BeauDamian",
+        "type" : "artist",
+        "uri" : "spotify:artist:5VjPvMZB9D6b9XEeXMg8SB"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5Oi9A71T0wUXIq3AO3XHEX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5Oi9A71T0wUXIq3AO3XHEX",
+      "id" : "5Oi9A71T0wUXIq3AO3XHEX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738041f462c09c973d61fae61a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028041f462c09c973d61fae61a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518041f462c09c973d61fae61a",
+        "width" : 64
+      } ],
+      "name" : "Faux Bourdon",
+      "release_date" : "2017-06-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5Oi9A71T0wUXIq3AO3XHEX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5VjPvMZB9D6b9XEeXMg8SB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5VjPvMZB9D6b9XEeXMg8SB",
+      "id" : "5VjPvMZB9D6b9XEeXMg8SB",
+      "name" : "BeauDamian",
+      "type" : "artist",
+      "uri" : "spotify:artist:5VjPvMZB9D6b9XEeXMg8SB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202500,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLRD51632030"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1E3rbtbf2cq3TH9UiyX2q2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1E3rbtbf2cq3TH9UiyX2q2",
+    "id" : "1E3rbtbf2cq3TH9UiyX2q2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Faux Bourdon",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8ec1a03bd8efda5f65f5b28fbdb573b49e7f27fb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1E3rbtbf2cq3TH9UiyX2q2"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6wZNWeliJC53unSTXWin00"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6wZNWeliJC53unSTXWin00",
+      "id" : "6wZNWeliJC53unSTXWin00",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/349d715cce7a84b73353b62c873a1e9277ba65e7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/2adcae8aac1db29576cf6e6ef1b43eb2e081be1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/18950cf42c942a6e528f1af1d34d98a225eb9c5e",
+        "width" : 64
+      } ],
+      "name" : "Meltdown E.P.",
+      "release_date" : "2016-04-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:6wZNWeliJC53unSTXWin00"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 241000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBP4E1600195"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Y88xH29KS3HFCS5qruBPQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Y88xH29KS3HFCS5qruBPQ",
+    "id" : "4Y88xH29KS3HFCS5qruBPQ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Meltdown",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ae4a3cc3adf0acf41e1daf6ee0de091afbfe7a5f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Y88xH29KS3HFCS5qruBPQ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1WGex9YdmT4TZjmmMirZA8",
+        "id" : "1WGex9YdmT4TZjmmMirZA8",
+        "name" : "Dirty Audio",
+        "type" : "artist",
+        "uri" : "spotify:artist:1WGex9YdmT4TZjmmMirZA8"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/68n9ZlCePAGQQkoy68S1hX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/68n9ZlCePAGQQkoy68S1hX",
+      "id" : "68n9ZlCePAGQQkoy68S1hX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738a7d5f33e6f07d31a2fd6175",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028a7d5f33e6f07d31a2fd6175",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518a7d5f33e6f07d31a2fd6175",
+        "width" : 64
+      } ],
+      "name" : "Mind",
+      "release_date" : "2018-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:68n9ZlCePAGQQkoy68S1hX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1WGex9YdmT4TZjmmMirZA8",
+      "id" : "1WGex9YdmT4TZjmmMirZA8",
+      "name" : "Dirty Audio",
+      "type" : "artist",
+      "uri" : "spotify:artist:1WGex9YdmT4TZjmmMirZA8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 166400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1836154"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5i31OqjRaycRmz3NLrTCpt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5i31OqjRaycRmz3NLrTCpt",
+    "id" : "5i31OqjRaycRmz3NLrTCpt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mind",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ccb8271f79d8d38733894db32454762dc61e5030?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5i31OqjRaycRmz3NLrTCpt"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+        "id" : "1XXHaDxpaVojtY2QKYaQzl",
+        "name" : "ZEKE BEATS",
+        "type" : "artist",
+        "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jCTirgapx94wqkkHZR1rv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jCTirgapx94wqkkHZR1rv",
+      "id" : "1jCTirgapx94wqkkHZR1rv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273921c263348b219a4030355cc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02921c263348b219a4030355cc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851921c263348b219a4030355cc",
+        "width" : 64
+      } ],
+      "name" : "Digital Death EP",
+      "release_date" : "2022-02-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:1jCTirgapx94wqkkHZR1rv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XXHaDxpaVojtY2QKYaQzl",
+      "id" : "1XXHaDxpaVojtY2QKYaQzl",
+      "name" : "ZEKE BEATS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XXHaDxpaVojtY2QKYaQzl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 221089,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2205391"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/49T5BjUCMpiSEV1CM7pdUH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/49T5BjUCMpiSEV1CM7pdUH",
+    "id" : "49T5BjUCMpiSEV1CM7pdUH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Psycho",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/355959bcc2ae81d50efbc75a57537cfa0e25e565?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:49T5BjUCMpiSEV1CM7pdUH"
+  } ]
+}

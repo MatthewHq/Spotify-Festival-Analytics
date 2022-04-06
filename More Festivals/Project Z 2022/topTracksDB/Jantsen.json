@@ -1,0 +1,808 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
+        "id" : "25oLRSUjJk4YHNUsQXk7Ut",
+        "name" : "GRiZ",
+        "type" : "artist",
+        "uri" : "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0jbN6pCIbmO9hPXMynQ2P8",
+      "id" : "0jbN6pCIbmO9hPXMynQ2P8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733162adab44a7b757b9a52be8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023162adab44a7b757b9a52be8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513162adab44a7b757b9a52be8",
+        "width" : 64
+      } ],
+      "name" : "Rainbow Brain",
+      "release_date" : "2021-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:0jbN6pCIbmO9hPXMynQ2P8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
+      "id" : "25oLRSUjJk4YHNUsQXk7Ut",
+      "name" : "GRiZ",
+      "type" : "artist",
+      "uri" : "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 226206,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2127865"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5nz3dwffS8W2WDWRa9SgfR",
+    "id" : "5nz3dwffS8W2WDWRa9SgfR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Burn Up The Floor",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8c4e0bc09536b33b118b72282be4b8cf950b011a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5nz3dwffS8W2WDWRa9SgfR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1JPy5PsJtkhftfdr6saN2i",
+        "id" : "1JPy5PsJtkhftfdr6saN2i",
+        "name" : "Bassnectar",
+        "type" : "artist",
+        "uri" : "spotify:artist:1JPy5PsJtkhftfdr6saN2i"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4srGW7sv7mxNqjl9bTOopo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4srGW7sv7mxNqjl9bTOopo",
+      "id" : "4srGW7sv7mxNqjl9bTOopo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb9ec8cad51c165e76118462",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb9ec8cad51c165e76118462",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb9ec8cad51c165e76118462",
+        "width" : 64
+      } ],
+      "name" : "Reflective (Part 4)",
+      "release_date" : "2019-04-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4srGW7sv7mxNqjl9bTOopo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1JPy5PsJtkhftfdr6saN2i",
+      "id" : "1JPy5PsJtkhftfdr6saN2i",
+      "name" : "Bassnectar",
+      "type" : "artist",
+      "uri" : "spotify:artist:1JPy5PsJtkhftfdr6saN2i"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6VaCJv2KP3kU8uZiezGkgM",
+      "id" : "6VaCJv2KP3kU8uZiezGkgM",
+      "name" : "Born I",
+      "type" : "artist",
+      "uri" : "spotify:artist:6VaCJv2KP3kU8uZiezGkgM"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 244090,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USATO1900114"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3oFD49LOJdWfgKUtaSbMJr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3oFD49LOJdWfgKUtaSbMJr",
+    "id" : "3oFD49LOJdWfgKUtaSbMJr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "It's About To Get Hectic (feat. Born I)",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a56a573b2b44354838bcaf2e3e161eaad04707d5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3oFD49LOJdWfgKUtaSbMJr"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+        "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+        "name" : "Jantsen",
+        "type" : "artist",
+        "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3unZGyor9pJhCeUgaTrhft"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3unZGyor9pJhCeUgaTrhft",
+      "id" : "3unZGyor9pJhCeUgaTrhft",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c8dc973c15acb4b8e89d4484",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c8dc973c15acb4b8e89d4484",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c8dc973c15acb4b8e89d4484",
+        "width" : 64
+      } ],
+      "name" : "Gutter Juice",
+      "release_date" : "2020-06-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:3unZGyor9pJhCeUgaTrhft"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 251589,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBUM92000079"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3yxCWsMkhttpZ9PE5xyUap"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3yxCWsMkhttpZ9PE5xyUap",
+    "id" : "3yxCWsMkhttpZ9PE5xyUap",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Jiggle",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d754d7c8968fde40ee5bed1190a3b31681a8ea11?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3yxCWsMkhttpZ9PE5xyUap"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1JPy5PsJtkhftfdr6saN2i",
+        "id" : "1JPy5PsJtkhftfdr6saN2i",
+        "name" : "Bassnectar",
+        "type" : "artist",
+        "uri" : "spotify:artist:1JPy5PsJtkhftfdr6saN2i"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1gk2lMtinBat3fdyCRlVEO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1gk2lMtinBat3fdyCRlVEO",
+      "id" : "1gk2lMtinBat3fdyCRlVEO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dfd3e144d0ba6684c9f319ca",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dfd3e144d0ba6684c9f319ca",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dfd3e144d0ba6684c9f319ca",
+        "width" : 64
+      } ],
+      "name" : "Reflective (Part 3)",
+      "release_date" : "2018-08-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:1gk2lMtinBat3fdyCRlVEO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1JPy5PsJtkhftfdr6saN2i",
+      "id" : "1JPy5PsJtkhftfdr6saN2i",
+      "name" : "Bassnectar",
+      "type" : "artist",
+      "uri" : "spotify:artist:1JPy5PsJtkhftfdr6saN2i"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SL4dEIbl6t868Dk303NE5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SL4dEIbl6t868Dk303NE5",
+      "id" : "5SL4dEIbl6t868Dk303NE5",
+      "name" : "RD",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SL4dEIbl6t868Dk303NE5"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 278571,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P1822007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3BE95i1ufWMoMJwpwDtkTo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3BE95i1ufWMoMJwpwDtkTo",
+    "id" : "3BE95i1ufWMoMJwpwDtkTo",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Heavyweight Sound (feat. RD)",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/49163464741722137b5b36d213cab2a25f7ee014?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3BE95i1ufWMoMJwpwDtkTo"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1JPy5PsJtkhftfdr6saN2i",
+        "id" : "1JPy5PsJtkhftfdr6saN2i",
+        "name" : "Bassnectar",
+        "type" : "artist",
+        "uri" : "spotify:artist:1JPy5PsJtkhftfdr6saN2i"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3dAc2qeDGD5TDRa6e4uXcB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3dAc2qeDGD5TDRa6e4uXcB",
+      "id" : "3dAc2qeDGD5TDRa6e4uXcB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735a3f9f9de27744501ba77130",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025a3f9f9de27744501ba77130",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515a3f9f9de27744501ba77130",
+        "width" : 64
+      } ],
+      "name" : "Noise vs Beauty",
+      "release_date" : "2014-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3dAc2qeDGD5TDRa6e4uXcB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1JPy5PsJtkhftfdr6saN2i",
+      "id" : "1JPy5PsJtkhftfdr6saN2i",
+      "name" : "Bassnectar",
+      "type" : "artist",
+      "uri" : "spotify:artist:1JPy5PsJtkhftfdr6saN2i"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sDyTDjzGxcvyhLn5x9RyY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sDyTDjzGxcvyhLn5x9RyY",
+      "id" : "6sDyTDjzGxcvyhLn5x9RyY",
+      "name" : "Fashawn",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sDyTDjzGxcvyhLn5x9RyY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3LLs28LJVlXAjWc8UDkcQZ",
+      "id" : "3LLs28LJVlXAjWc8UDkcQZ",
+      "name" : "Zion I",
+      "type" : "artist",
+      "uri" : "spotify:artist:3LLs28LJVlXAjWc8UDkcQZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212571,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQY51483635"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0MF391cptMRWJwkIynqf5V"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0MF391cptMRWJwkIynqf5V",
+    "id" : "0MF391cptMRWJwkIynqf5V",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lost in the Crowd (feat. Fashawn, Zion I)",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5dcdf1d6f2372d0c22fd743f1d71ec6084b7998d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0MF391cptMRWJwkIynqf5V"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+        "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+        "name" : "Jantsen",
+        "type" : "artist",
+        "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6JU4RsXcN7rLafs39HwFxf",
+        "id" : "6JU4RsXcN7rLafs39HwFxf",
+        "name" : "Mersiv",
+        "type" : "artist",
+        "uri" : "spotify:artist:6JU4RsXcN7rLafs39HwFxf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7zcJ9YmlJAjLGdcNfkMYEq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7zcJ9YmlJAjLGdcNfkMYEq",
+      "id" : "7zcJ9YmlJAjLGdcNfkMYEq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27350fbb86c688259e1549fc73c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0250fbb86c688259e1549fc73c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485150fbb86c688259e1549fc73c",
+        "width" : 64
+      } ],
+      "name" : "Get Crazy",
+      "release_date" : "2020-05-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7zcJ9YmlJAjLGdcNfkMYEq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6JU4RsXcN7rLafs39HwFxf",
+      "id" : "6JU4RsXcN7rLafs39HwFxf",
+      "name" : "Mersiv",
+      "type" : "artist",
+      "uri" : "spotify:artist:6JU4RsXcN7rLafs39HwFxf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 272000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2038337"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0oxEJNSzpiknfwbIekLdPo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0oxEJNSzpiknfwbIekLdPo",
+    "id" : "0oxEJNSzpiknfwbIekLdPo",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Get Crazy",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2b95615c9288018ce17a2f3fe967f173c3653c30?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0oxEJNSzpiknfwbIekLdPo"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+        "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+        "name" : "Jantsen",
+        "type" : "artist",
+        "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+        "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+        "name" : "Dirt Monkey",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7v3klaxOWbKij4kNWrCZcm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7v3klaxOWbKij4kNWrCZcm",
+        "id" : "7v3klaxOWbKij4kNWrCZcm",
+        "name" : "Notixx",
+        "type" : "artist",
+        "uri" : "spotify:artist:7v3klaxOWbKij4kNWrCZcm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1LLLTaTr2FSZeNqTFhxtVN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1LLLTaTr2FSZeNqTFhxtVN",
+      "id" : "1LLLTaTr2FSZeNqTFhxtVN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a3b885326f33c87af1274132",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a3b885326f33c87af1274132",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a3b885326f33c87af1274132",
+        "width" : 64
+      } ],
+      "name" : "Massive",
+      "release_date" : "2016-11-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1LLLTaTr2FSZeNqTFhxtVN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7v3klaxOWbKij4kNWrCZcm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7v3klaxOWbKij4kNWrCZcm",
+      "id" : "7v3klaxOWbKij4kNWrCZcm",
+      "name" : "Notixx",
+      "type" : "artist",
+      "uri" : "spotify:artist:7v3klaxOWbKij4kNWrCZcm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200275,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZS1Z1628164"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2e8T8fiOWzeomK0uGysOTh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2e8T8fiOWzeomK0uGysOTh",
+    "id" : "2e8T8fiOWzeomK0uGysOTh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Massive",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6122c64f842535c60d83ac8bcd117ff9e2459900?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2e8T8fiOWzeomK0uGysOTh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1JPy5PsJtkhftfdr6saN2i",
+        "id" : "1JPy5PsJtkhftfdr6saN2i",
+        "name" : "Bassnectar",
+        "type" : "artist",
+        "uri" : "spotify:artist:1JPy5PsJtkhftfdr6saN2i"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7pThn7zuJaXDdPOi7KiGsc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7pThn7zuJaXDdPOi7KiGsc",
+      "id" : "7pThn7zuJaXDdPOi7KiGsc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d812623fb35b8b94eb8a0edc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d812623fb35b8b94eb8a0edc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d812623fb35b8b94eb8a0edc",
+        "width" : 64
+      } ],
+      "name" : "Vava Voom",
+      "release_date" : "2012-04-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:7pThn7zuJaXDdPOi7KiGsc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1JPy5PsJtkhftfdr6saN2i",
+      "id" : "1JPy5PsJtkhftfdr6saN2i",
+      "name" : "Bassnectar",
+      "type" : "artist",
+      "uri" : "spotify:artist:1JPy5PsJtkhftfdr6saN2i"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 294857,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQY51253217"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2623IM1lncJvO6JyiNyVXp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2623IM1lncJvO6JyiNyVXp",
+    "id" : "2623IM1lncJvO6JyiNyVXp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "What",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fbe3304fd16a7eb284dc0001752d97675327cf38?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2623IM1lncJvO6JyiNyVXp"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+        "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+        "name" : "Jantsen",
+        "type" : "artist",
+        "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1bdRN5vEwPEwDkCSgiammY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1bdRN5vEwPEwDkCSgiammY",
+      "id" : "1bdRN5vEwPEwDkCSgiammY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bd84ac7d440f82a9f03d5a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bd84ac7d440f82a9f03d5a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bd84ac7d440f82a9f03d5a23",
+        "width" : 64
+      } ],
+      "name" : "Take Me There",
+      "release_date" : "2016-08-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1bdRN5vEwPEwDkCSgiammY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 298461,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLZJ1696018"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5rqQ2L8MsRFNqLES22YIqR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5rqQ2L8MsRFNqLES22YIqR",
+    "id" : "5rqQ2L8MsRFNqLES22YIqR",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Take Me There",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/098def9d65f3191218cd0c77e3486562e982b150?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5rqQ2L8MsRFNqLES22YIqR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+        "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+        "name" : "Jantsen",
+        "type" : "artist",
+        "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3wcn2dxhPjPptdKKLUUnoS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3wcn2dxhPjPptdKKLUUnoS",
+      "id" : "3wcn2dxhPjPptdKKLUUnoS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7ee2600278735e6bbe6a72e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7ee2600278735e6bbe6a72e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7ee2600278735e6bbe6a72e",
+        "width" : 64
+      } ],
+      "name" : "Nasty",
+      "release_date" : "2020-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3wcn2dxhPjPptdKKLUUnoS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "name" : "Jantsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212571,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QZHCR2000031"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3i6pfNO1Jt4ApUfZqjyN0K"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3i6pfNO1Jt4ApUfZqjyN0K",
+    "id" : "3i6pfNO1Jt4ApUfZqjyN0K",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nasty",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2824486c38caa0364a2b0c39b130e5fc0a04070b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3i6pfNO1Jt4ApUfZqjyN0K"
+  } ]
+}

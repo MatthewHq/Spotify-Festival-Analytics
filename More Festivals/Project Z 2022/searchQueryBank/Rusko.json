@@ -1,0 +1,539 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Rusko&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 278233
+      },
+      "genres" : [ "bassline", "brostep", "classic dubstep", "electro house", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/4BTcOR2hEQZQQL5AMo5u10",
+      "id" : "4BTcOR2hEQZQQL5AMo5u10",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebae19e1bff2cfee1f310b95cb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ae19e1bff2cfee1f310b95cb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ae19e1bff2cfee1f310b95cb",
+        "width" : 160
+      } ],
+      "name" : "Rusko",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:4BTcOR2hEQZQQL5AMo5u10"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1571095
+      },
+      "genres" : [ "chicano rap", "gangster rap", "hardcore hip hop", "hip hop", "rap", "rap rock", "west coast rap" ],
+      "href" : "https://api.spotify.com/v1/artists/4P0dddbxPil35MNN9G2MEX",
+      "id" : "4P0dddbxPil35MNN9G2MEX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcc9097281a479a76d696c5bf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cc9097281a479a76d696c5bf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cc9097281a479a76d696c5bf",
+        "width" : 160
+      } ],
+      "name" : "Cypress Hill",
+      "popularity" : 72,
+      "type" : "artist",
+      "uri" : "spotify:artist:4P0dddbxPil35MNN9G2MEX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7988168
+      },
+      "genres" : [ "brostep", "complextro", "edm", "electro", "pop rap" ],
+      "href" : "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+      "id" : "5he5w2lnU9x7JFhnwcekXX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3b4b7eaaf58759b58626de37",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743b4b7eaaf58759b58626de37",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783b4b7eaaf58759b58626de37",
+        "width" : 160
+      } ],
+      "name" : "Skrillex",
+      "popularity" : 81,
+      "type" : "artist",
+      "uri" : "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WwTvt3zJLcycYUUYsviai"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 283
+      },
+      "genres" : [ "electropowerpop" ],
+      "href" : "https://api.spotify.com/v1/artists/4WwTvt3zJLcycYUUYsviai",
+      "id" : "4WwTvt3zJLcycYUUYsviai",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc2af76b3765d144cdd29465a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c2af76b3765d144cdd29465a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c2af76b3765d144cdd29465a",
+        "width" : 160
+      } ],
+      "name" : "Rusko Star",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:4WwTvt3zJLcycYUUYsviai"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hXj2qMI3vdB1pRlLYiilX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6hXj2qMI3vdB1pRlLYiilX",
+      "id" : "6hXj2qMI3vdB1pRlLYiilX",
+      "images" : [ ],
+      "name" : "Ruskotasku",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6hXj2qMI3vdB1pRlLYiilX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4MoRS7w8c75Dwy8m4QDb8M"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 98
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4MoRS7w8c75Dwy8m4QDb8M",
+      "id" : "4MoRS7w8c75Dwy8m4QDb8M",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8da7dd04763132cb0cb123e8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748da7dd04763132cb0cb123e8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788da7dd04763132cb0cb123e8",
+        "width" : 160
+      } ],
+      "name" : "Rusko",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4MoRS7w8c75Dwy8m4QDb8M"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NPS0KGBAPs91r1dVadSoz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 170
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6NPS0KGBAPs91r1dVadSoz",
+      "id" : "6NPS0KGBAPs91r1dVadSoz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd8c96f500be6cb9396db46cd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d8c96f500be6cb9396db46cd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d8c96f500be6cb9396db46cd",
+        "width" : 160
+      } ],
+      "name" : "ruskov",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:6NPS0KGBAPs91r1dVadSoz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/273bX71JnOIK32IRNLTIj8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/273bX71JnOIK32IRNLTIj8",
+      "id" : "273bX71JnOIK32IRNLTIj8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe17d591bdc24734147c80f79",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e17d591bdc24734147c80f79",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e17d591bdc24734147c80f79",
+        "width" : 160
+      } ],
+      "name" : "Ruskof",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:273bX71JnOIK32IRNLTIj8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77WLsft9iUofyKuaGY69dn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/77WLsft9iUofyKuaGY69dn",
+      "id" : "77WLsft9iUofyKuaGY69dn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733a25bd3e254ada03e37fab0f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023a25bd3e254ada03e37fab0f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513a25bd3e254ada03e37fab0f",
+        "width" : 64
+      } ],
+      "name" : "Rusko",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:77WLsft9iUofyKuaGY69dn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hJYDNltcuxWpdHmlA1WDl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2hJYDNltcuxWpdHmlA1WDl",
+      "id" : "2hJYDNltcuxWpdHmlA1WDl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273db6e1e38ecbb507f6f11538b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02db6e1e38ecbb507f6f11538b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851db6e1e38ecbb507f6f11538b",
+        "width" : 64
+      } ],
+      "name" : "RusKol",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2hJYDNltcuxWpdHmlA1WDl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/29uTkX0SekbFnJ22pyovjt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/29uTkX0SekbFnJ22pyovjt",
+      "id" : "29uTkX0SekbFnJ22pyovjt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735852f8d5f05e69f5728b7bde",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025852f8d5f05e69f5728b7bde",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515852f8d5f05e69f5728b7bde",
+        "width" : 64
+      } ],
+      "name" : "Ruskov",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:29uTkX0SekbFnJ22pyovjt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2nXXq9C2gsdLBGxZZwuaPX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2nXXq9C2gsdLBGxZZwuaPX",
+      "id" : "2nXXq9C2gsdLBGxZZwuaPX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce1ed98a6dfe2720b9b28b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce1ed98a6dfe2720b9b28b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce1ed98a6dfe2720b9b28b77",
+        "width" : 64
+      } ],
+      "name" : "Ruskoinc",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2nXXq9C2gsdLBGxZZwuaPX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5000ypZJKHcnSkZVnatcXe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5000ypZJKHcnSkZVnatcXe",
+      "id" : "5000ypZJKHcnSkZVnatcXe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb82be220cdb75862dea669974",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517482be220cdb75862dea669974",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17882be220cdb75862dea669974",
+        "width" : 160
+      } ],
+      "name" : "ruskorbin",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5000ypZJKHcnSkZVnatcXe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wUVE4yHKjTLKrcLuNYcqE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5wUVE4yHKjTLKrcLuNYcqE",
+      "id" : "5wUVE4yHKjTLKrcLuNYcqE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273169b3d3a63057b508cf07e75",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02169b3d3a63057b508cf07e75",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851169b3d3a63057b508cf07e75",
+        "width" : 64
+      } ],
+      "name" : "RUSKOLBASS",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5wUVE4yHKjTLKrcLuNYcqE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78jPZ4DhEmev66O4iK7mht"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/78jPZ4DhEmev66O4iK7mht",
+      "id" : "78jPZ4DhEmev66O4iK7mht",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f4021adb44865c8e53127af0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f4021adb44865c8e53127af0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f4021adb44865c8e53127af0",
+        "width" : 64
+      } ],
+      "name" : "RuskoRichie",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:78jPZ4DhEmev66O4iK7mht"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1VjlurQwrVnjKKq7Eaj0PZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1VjlurQwrVnjKKq7Eaj0PZ",
+      "id" : "1VjlurQwrVnjKKq7Eaj0PZ",
+      "images" : [ ],
+      "name" : "Ruskoff",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1VjlurQwrVnjKKq7Eaj0PZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ddpAbxAaGweTfM3la9yCN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ddpAbxAaGweTfM3la9yCN",
+      "id" : "1ddpAbxAaGweTfM3la9yCN",
+      "images" : [ ],
+      "name" : "Ruskov",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ddpAbxAaGweTfM3la9yCN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46xlxeeLfnCIrRSLRrFbyR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/46xlxeeLfnCIrRSLRrFbyR",
+      "id" : "46xlxeeLfnCIrRSLRrFbyR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730073af4d69f0d5d1a44c878a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020073af4d69f0d5d1a44c878a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510073af4d69f0d5d1a44c878a",
+        "width" : 64
+      } ],
+      "name" : "Ruskoll",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:46xlxeeLfnCIrRSLRrFbyR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ZQ5ecPU7eNXBZzppslJEj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 77
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4ZQ5ecPU7eNXBZzppslJEj",
+      "id" : "4ZQ5ecPU7eNXBZzppslJEj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcca232edc593c5b58ad98e78",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cca232edc593c5b58ad98e78",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cca232edc593c5b58ad98e78",
+        "width" : 160
+      } ],
+      "name" : "Ruskovic",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ZQ5ecPU7eNXBZzppslJEj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0N0XQqMJVtluq5qPKqzVqw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7238
+      },
+      "genres" : [ "classic dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/0N0XQqMJVtluq5qPKqzVqw",
+      "id" : "0N0XQqMJVtluq5qPKqzVqw",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/830a806b8dac582324e02ae50355220953c60051",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/1b75a255c4827f80358a2e674b5a6e769b70d85d",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/fe578203885ed5813eeb052f69a4b01beb53d4ec",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/7b8c98dca17323262f1e103132976b192c549df0",
+        "width" : 64
+      } ],
+      "name" : "Caspa & Rusko",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:0N0XQqMJVtluq5qPKqzVqw"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Rusko&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 47
+  }
+}

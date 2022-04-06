@@ -7,7 +7,7 @@ import * as userDbManage from './userDbManage.js'
 
 async function main() {
     //MAIN PROCEDURE HERE ++++++++++++++++
-    let festivalTitle = "EDCLV 2022 Day 3"
+    let festivalTitle = "Project Z 2022"
 
     // dbManage.iniFestival(festivalTitle)
 
@@ -40,7 +40,7 @@ async function main() {
 
 
         // let lineByLineToJSON = await userDbManage.lineByLineToJSON('./mainDB/userData/playlistTracks.txt')
-        await userSpotifyRequests.bulkToPlaylistAdd()
+        // await userSpotifyRequests.bulkToPlaylistAdd()
 
     }, 2000);
     //END USER PROCEDURE HERE ++++++++++++++++++

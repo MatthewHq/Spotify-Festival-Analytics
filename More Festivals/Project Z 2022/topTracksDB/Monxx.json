@@ -1,0 +1,745 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0J2xztV8lNZC93cUiSnwqu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0J2xztV8lNZC93cUiSnwqu",
+      "id" : "0J2xztV8lNZC93cUiSnwqu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334ab6f25bcfcc28c7b9c211f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234ab6f25bcfcc28c7b9c211f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134ab6f25bcfcc28c7b9c211f",
+        "width" : 64
+      } ],
+      "name" : "World of Wonk",
+      "release_date" : "2019-04-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0J2xztV8lNZC93cUiSnwqu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 186195,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMEZE1949931"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4mDCwXhl5GRtolTMZPPWN0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4mDCwXhl5GRtolTMZPPWN0",
+    "id" : "4mDCwXhl5GRtolTMZPPWN0",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Falling (VIP)",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fb98527696f3afa1a3a32243dd27ddfcf5f192e4?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:4mDCwXhl5GRtolTMZPPWN0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0J2xztV8lNZC93cUiSnwqu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0J2xztV8lNZC93cUiSnwqu",
+      "id" : "0J2xztV8lNZC93cUiSnwqu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334ab6f25bcfcc28c7b9c211f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234ab6f25bcfcc28c7b9c211f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134ab6f25bcfcc28c7b9c211f",
+        "width" : 64
+      } ],
+      "name" : "World of Wonk",
+      "release_date" : "2019-04-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0J2xztV8lNZC93cUiSnwqu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4wwHbT1V6hoLyOvS4gZVyy",
+      "id" : "4wwHbT1V6hoLyOvS4gZVyy",
+      "name" : "Bassboy",
+      "type" : "artist",
+      "uri" : "spotify:artist:4wwHbT1V6hoLyOvS4gZVyy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 206538,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMEZE1949942"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/55yI52B4zYUeJbG7eJa4gO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/55yI52B4zYUeJbG7eJa4gO",
+    "id" : "55yI52B4zYUeJbG7eJa4gO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gas Tank",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1920831bea0b1e71be7deb5651c34568e5480848?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:55yI52B4zYUeJbG7eJa4gO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Q4EjCvH0bXSgonUY640hJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Q4EjCvH0bXSgonUY640hJ",
+      "id" : "0Q4EjCvH0bXSgonUY640hJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dafc32406dbdf3ef82fe98d2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dafc32406dbdf3ef82fe98d2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dafc32406dbdf3ef82fe98d2",
+        "width" : 64
+      } ],
+      "name" : "WONKAHOLIC REMIXED EP",
+      "release_date" : "2020-12-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:0Q4EjCvH0bXSgonUY640hJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6bWRCpJ69GQnmrL7gE4WHf",
+      "id" : "6bWRCpJ69GQnmrL7gE4WHf",
+      "name" : "Automhate",
+      "type" : "artist",
+      "uri" : "spotify:artist:6bWRCpJ69GQnmrL7gE4WHf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/75YeSAKC6xPhgkjnltCmGB",
+      "id" : "75YeSAKC6xPhgkjnltCmGB",
+      "name" : "HOL!",
+      "type" : "artist",
+      "uri" : "spotify:artist:75YeSAKC6xPhgkjnltCmGB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 172155,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2125172"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/39bmhIQm1AumbEc6t6Kv99"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/39bmhIQm1AumbEc6t6Kv99",
+    "id" : "39bmhIQm1AumbEc6t6Kv99",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "ID - HOL! Remix",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3e1f2a5c94913185d0fa2fcbedc152a3317a1c73?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:39bmhIQm1AumbEc6t6Kv99"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0J2xztV8lNZC93cUiSnwqu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0J2xztV8lNZC93cUiSnwqu",
+      "id" : "0J2xztV8lNZC93cUiSnwqu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334ab6f25bcfcc28c7b9c211f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234ab6f25bcfcc28c7b9c211f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134ab6f25bcfcc28c7b9c211f",
+        "width" : 64
+      } ],
+      "name" : "World of Wonk",
+      "release_date" : "2019-04-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0J2xztV8lNZC93cUiSnwqu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WjX4pepHwXa85B9KMk0PY",
+      "id" : "6WjX4pepHwXa85B9KMk0PY",
+      "name" : "P Money",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WjX4pepHwXa85B9KMk0PY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 204808,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMEZE1949957"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4TrdFp2m3PdsKjjyaB2LXm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4TrdFp2m3PdsKjjyaB2LXm",
+    "id" : "4TrdFp2m3PdsKjjyaB2LXm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "World Of Wonk",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/49a621ce1a88d5b0deb5b56501ac0d37bb951112?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4TrdFp2m3PdsKjjyaB2LXm"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6J2qhcenSXB26oXD776u2M"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6J2qhcenSXB26oXD776u2M",
+      "id" : "6J2qhcenSXB26oXD776u2M",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a87d4262e8b2c22394283d9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a87d4262e8b2c22394283d9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a87d4262e8b2c22394283d9",
+        "width" : 64
+      } ],
+      "name" : "JEWELS",
+      "release_date" : "2022-02-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6J2qhcenSXB26oXD776u2M"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 213891,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2206665"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0KmFhR3PQ79TXVD6hfXe8C"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0KmFhR3PQ79TXVD6hfXe8C",
+    "id" : "0KmFhR3PQ79TXVD6hfXe8C",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "JEWELS",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/19b99362a048ba3c1354cc3976fc4adcf2ffbfac?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0KmFhR3PQ79TXVD6hfXe8C"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3V1h3kAdiVDBiwlY2i6dJz",
+        "id" : "3V1h3kAdiVDBiwlY2i6dJz",
+        "name" : "12th Planet",
+        "type" : "artist",
+        "uri" : "spotify:artist:3V1h3kAdiVDBiwlY2i6dJz"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2A4PECCAcMmu7LFw8XzDhh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2A4PECCAcMmu7LFw8XzDhh",
+      "id" : "2A4PECCAcMmu7LFw8XzDhh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ad863c835aff6debc07dfb7d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ad863c835aff6debc07dfb7d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ad863c835aff6debc07dfb7d",
+        "width" : 64
+      } ],
+      "name" : "Ribbit",
+      "release_date" : "2019-10-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2A4PECCAcMmu7LFw8XzDhh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3V1h3kAdiVDBiwlY2i6dJz",
+      "id" : "3V1h3kAdiVDBiwlY2i6dJz",
+      "name" : "12th Planet",
+      "type" : "artist",
+      "uri" : "spotify:artist:3V1h3kAdiVDBiwlY2i6dJz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 171200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1956589"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1mneobUFtwAgEFaOhvAqcf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1mneobUFtwAgEFaOhvAqcf",
+    "id" : "1mneobUFtwAgEFaOhvAqcf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ribbit",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/60b8f999f1e29b73a6213225fe116295109f98da?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1mneobUFtwAgEFaOhvAqcf"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Z5iP5iNWqOxCtjVbvDOBp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Z5iP5iNWqOxCtjVbvDOBp",
+      "id" : "0Z5iP5iNWqOxCtjVbvDOBp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273779890f370ed6171d0ebffc4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02779890f370ed6171d0ebffc4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851779890f370ed6171d0ebffc4",
+        "width" : 64
+      } ],
+      "name" : "Wonk Train",
+      "release_date" : "2019-06-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0Z5iP5iNWqOxCtjVbvDOBp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 181608,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMEZE1949771"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0m4BvQqvuGXRs6jtEciMmj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0m4BvQqvuGXRs6jtEciMmj",
+    "id" : "0m4BvQqvuGXRs6jtEciMmj",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wonk Train",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5978b970a1d6ae9892e50fc95e41e19a87dca2c8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0m4BvQqvuGXRs6jtEciMmj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4820AP0lvBGJjSK0PXgZgo",
+        "id" : "4820AP0lvBGJjSK0PXgZgo",
+        "name" : "IVORY",
+        "type" : "artist",
+        "uri" : "spotify:artist:4820AP0lvBGJjSK0PXgZgo"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2YdnpwdS69s4a9QiF6RXSu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2YdnpwdS69s4a9QiF6RXSu",
+      "id" : "2YdnpwdS69s4a9QiF6RXSu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e1e73ca4399ac9ac02b0f665",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e1e73ca4399ac9ac02b0f665",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e1e73ca4399ac9ac02b0f665",
+        "width" : 64
+      } ],
+      "name" : "Last Chance",
+      "release_date" : "2017-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2YdnpwdS69s4a9QiF6RXSu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4820AP0lvBGJjSK0PXgZgo",
+      "id" : "4820AP0lvBGJjSK0PXgZgo",
+      "name" : "IVORY",
+      "type" : "artist",
+      "uri" : "spotify:artist:4820AP0lvBGJjSK0PXgZgo"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193741,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBLFP1797155"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7IWZj5VLApK1b8q3AUzM7c"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7IWZj5VLApK1b8q3AUzM7c",
+    "id" : "7IWZj5VLApK1b8q3AUzM7c",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Last Chance",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e105a13f16479d712ab65cb46bf7bed724e67339?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7IWZj5VLApK1b8q3AUzM7c"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0d9mccpaXX5NAtljOGnH0M"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0d9mccpaXX5NAtljOGnH0M",
+      "id" : "0d9mccpaXX5NAtljOGnH0M",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734920cef4ac0e45ae0a98c2c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024920cef4ac0e45ae0a98c2c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514920cef4ac0e45ae0a98c2c4",
+        "width" : 64
+      } ],
+      "name" : "WONKAHOLIC",
+      "release_date" : "2019-12-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0d9mccpaXX5NAtljOGnH0M"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 157050,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMEZE1949311"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/10q6tB9NbT6JgRjETprbpM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/10q6tB9NbT6JgRjETprbpM",
+    "id" : "10q6tB9NbT6JgRjETprbpM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "WONKAHOLIC",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ade92b9a4aeaabfdcaf16b25888bd6f413b79a0c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:10q6tB9NbT6JgRjETprbpM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+        "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+        "name" : "Monxx",
+        "type" : "artist",
+        "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3aykj3mszhVZJZFjnPzcmq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3aykj3mszhVZJZFjnPzcmq",
+      "id" : "3aykj3mszhVZJZFjnPzcmq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273adf0fb75972e81b3a1140bf9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02adf0fb75972e81b3a1140bf9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851adf0fb75972e81b3a1140bf9",
+        "width" : 64
+      } ],
+      "name" : "Fck It Up",
+      "release_date" : "2021-10-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3aykj3mszhVZJZFjnPzcmq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FJC1Wce3SiCCbIoYwVWq0",
+      "id" : "2FJC1Wce3SiCCbIoYwVWq0",
+      "name" : "Monxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FJC1Wce3SiCCbIoYwVWq0"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 182441,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR0013049"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4WVcg5UfTSiaZUbMyM7EgW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4WVcg5UfTSiaZUbMyM7EgW",
+    "id" : "4WVcg5UfTSiaZUbMyM7EgW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fck It Up",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/110d1194322f88bdfbd6b0c2a891b6045ee69dc7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4WVcg5UfTSiaZUbMyM7EgW"
+  } ]
+}

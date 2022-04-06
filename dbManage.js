@@ -53,7 +53,7 @@ export async function artistCollect(festivalTitle) {
         for (let i = 0; i < files.length; i++) {
             // console.log("ASYNC CHECKPOINT INNER FOR LOOP ARTISTCOLLECT")
             let artistQuery = fs.readFileSync(searchQBPath + '/' + files[i], 'utf8')
-            console.log(files[i])
+            
             artistQuery = JSON.parse(artistQuery)
 
             if (artistQuery.artists.items.length != 0) {
@@ -81,6 +81,7 @@ export async function artistCollect(festivalTitle) {
                         }
                     }
                     if (compare < 500) {
+                        console.log(files[i] +" - "+compare)
                         promises.push(promiseWriteFile(artistDBPath + files[i], JSON.stringify(artistQuery.artists.items[index])))
                         // console.log(promises)
                         // console.log("promises^")

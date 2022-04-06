@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Jantsen&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 31417
+      },
+      "genres" : [ "brostep", "dubstep", "electronic trap", "filthstep", "glitch hop" ],
+      "href" : "https://api.spotify.com/v1/artists/6rhTnHtyVcRrtuzS1wnLZg",
+      "id" : "6rhTnHtyVcRrtuzS1wnLZg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb57c88cd5b9329109c1653d36",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517457c88cd5b9329109c1653d36",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17857c88cd5b9329109c1653d36",
+        "width" : 160
+      } ],
+      "name" : "Jantsen",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:6rhTnHtyVcRrtuzS1wnLZg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5QBpWXdk519Bq9hWKIkqrm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5QBpWXdk519Bq9hWKIkqrm",
+      "id" : "5QBpWXdk519Bq9hWKIkqrm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27307705800ea074a7f90b7fcb0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0207705800ea074a7f90b7fcb0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485107705800ea074a7f90b7fcb0",
+        "width" : 64
+      } ],
+      "name" : "Jantsen",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5QBpWXdk519Bq9hWKIkqrm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pcKP2yYjKQgqA0VmvM9hN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5pcKP2yYjKQgqA0VmvM9hN",
+      "id" : "5pcKP2yYjKQgqA0VmvM9hN",
+      "images" : [ ],
+      "name" : "Jantsen",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5pcKP2yYjKQgqA0VmvM9hN"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}
