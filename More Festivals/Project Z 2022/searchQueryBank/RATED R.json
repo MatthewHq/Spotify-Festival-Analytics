@@ -1,0 +1,547 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=RATED+R&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1977
+      },
+      "genres" : [ "dubstep", "gaming dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/7LjnXw8QLtGkt9GSwyo7aj",
+      "id" : "7LjnXw8QLtGkt9GSwyo7aj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebad4ea089c30463125d14edd5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ad4ea089c30463125d14edd5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ad4ea089c30463125d14edd5",
+        "width" : 160
+      } ],
+      "name" : "Rated R",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:7LjnXw8QLtGkt9GSwyo7aj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zatRs0nXmeTyBnoLp8P7g"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 120
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4zatRs0nXmeTyBnoLp8P7g",
+      "id" : "4zatRs0nXmeTyBnoLp8P7g",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb60e638c1888f5851fa660842",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517460e638c1888f5851fa660842",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17860e638c1888f5851fa660842",
+        "width" : 160
+      } ],
+      "name" : "Rated X",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:4zatRs0nXmeTyBnoLp8P7g"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TOCiPmiKfCs8VIsSkPEV2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5851
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3TOCiPmiKfCs8VIsSkPEV2",
+      "id" : "3TOCiPmiKfCs8VIsSkPEV2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebabb28dfce39c2a9ef4f7cddb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174abb28dfce39c2a9ef4f7cddb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178abb28dfce39c2a9ef4f7cddb",
+        "width" : 160
+      } ],
+      "name" : "Rated-R Playboy",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:3TOCiPmiKfCs8VIsSkPEV2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1X60BaQIg36au64WaZUUJr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2924
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1X60BaQIg36au64WaZUUJr",
+      "id" : "1X60BaQIg36au64WaZUUJr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebccf748de058a768977489340",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ccf748de058a768977489340",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ccf748de058a768977489340",
+        "width" : 160
+      } ],
+      "name" : "Under Rated Society",
+      "popularity" : 29,
+      "type" : "artist",
+      "uri" : "spotify:artist:1X60BaQIg36au64WaZUUJr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05LRDIGtNEioxQrEkGlNXP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1593
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/05LRDIGtNEioxQrEkGlNXP",
+      "id" : "05LRDIGtNEioxQrEkGlNXP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733b0ad4ceb7cd10bfcdfc651c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023b0ad4ceb7cd10bfcdfc651c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513b0ad4ceb7cd10bfcdfc651c",
+        "width" : 64
+      } ],
+      "name" : "Rated R",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:05LRDIGtNEioxQrEkGlNXP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VtrPtqZR1qi7NVTRK7hMX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 232
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2VtrPtqZR1qi7NVTRK7hMX",
+      "id" : "2VtrPtqZR1qi7NVTRK7hMX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb17745666d55e473048a81031",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517417745666d55e473048a81031",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17817745666d55e473048a81031",
+        "width" : 160
+      } ],
+      "name" : "Rated R",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:2VtrPtqZR1qi7NVTRK7hMX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49rx7NXU9MYzJddETBDaxy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 599
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/49rx7NXU9MYzJddETBDaxy",
+      "id" : "49rx7NXU9MYzJddETBDaxy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6b17b447f7af3fae34783f72",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746b17b447f7af3fae34783f72",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786b17b447f7af3fae34783f72",
+        "width" : 160
+      } ],
+      "name" : "Rated R TiY",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:49rx7NXU9MYzJddETBDaxy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iDJi28NVj5Y1OpPtkZCz2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3014
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2iDJi28NVj5Y1OpPtkZCz2",
+      "id" : "2iDJi28NVj5Y1OpPtkZCz2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273555edf4ff561d80845ee1efb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02555edf4ff561d80845ee1efb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851555edf4ff561d80845ee1efb",
+        "width" : 64
+      } ],
+      "name" : "Underrated",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:2iDJi28NVj5Y1OpPtkZCz2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dOpb1iwym7dbBlFze6Cp5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5dOpb1iwym7dbBlFze6Cp5",
+      "id" : "5dOpb1iwym7dbBlFze6Cp5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731acc358ac72dc27bb205cf7f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021acc358ac72dc27bb205cf7f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511acc358ac72dc27bb205cf7f",
+        "width" : 64
+      } ],
+      "name" : "Rated R",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:5dOpb1iwym7dbBlFze6Cp5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5hty81ocCtpCsRJQfk8T4F"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 218
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5hty81ocCtpCsRJQfk8T4F",
+      "id" : "5hty81ocCtpCsRJQfk8T4F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb001288552c3a4485d9931f5e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174001288552c3a4485d9931f5e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178001288552c3a4485d9931f5e",
+        "width" : 160
+      } ],
+      "name" : "RatedOurSavior",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:5hty81ocCtpCsRJQfk8T4F"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19E6W36OJNPJYYjitcM1SR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 55
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/19E6W36OJNPJYYjitcM1SR",
+      "id" : "19E6W36OJNPJYYjitcM1SR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb35447a8555bc9b0951257925",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517435447a8555bc9b0951257925",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17835447a8555bc9b0951257925",
+        "width" : 160
+      } ],
+      "name" : "Rated R & Quis",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:19E6W36OJNPJYYjitcM1SR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dz2BzNz0TSvdKZWaV29hI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1758
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4dz2BzNz0TSvdKZWaV29hI",
+      "id" : "4dz2BzNz0TSvdKZWaV29hI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3d6c20145ca5d459cf8cba3a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743d6c20145ca5d459cf8cba3a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783d6c20145ca5d459cf8cba3a",
+        "width" : 160
+      } ],
+      "name" : "Rated-K",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:4dz2BzNz0TSvdKZWaV29hI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ml5YqHKBKXfEHOlE5K2Cu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 157
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ml5YqHKBKXfEHOlE5K2Cu",
+      "id" : "1ml5YqHKBKXfEHOlE5K2Cu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9f5ddbd8dbe0b2a5eb48d412",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749f5ddbd8dbe0b2a5eb48d412",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789f5ddbd8dbe0b2a5eb48d412",
+        "width" : 160
+      } ],
+      "name" : "Rated R CNY",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ml5YqHKBKXfEHOlE5K2Cu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7E7MWVC1457xf1nuHbOzxZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7E7MWVC1457xf1nuHbOzxZ",
+      "id" : "7E7MWVC1457xf1nuHbOzxZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd43e76573216ae3cabe73b5d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d43e76573216ae3cabe73b5d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d43e76573216ae3cabe73b5d",
+        "width" : 160
+      } ],
+      "name" : "KM X-Rated",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:7E7MWVC1457xf1nuHbOzxZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11YdDAvSlSfeAnI2Ilcjem"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 53
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/11YdDAvSlSfeAnI2Ilcjem",
+      "id" : "11YdDAvSlSfeAnI2Ilcjem",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27392f122fea0b0abd7d3c0fd47",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0292f122fea0b0abd7d3c0fd47",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485192f122fea0b0abd7d3c0fd47",
+        "width" : 64
+      } ],
+      "name" : "Rated-R",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:11YdDAvSlSfeAnI2Ilcjem"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1rhIkWYjrR6odvVoVhha7b"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1rhIkWYjrR6odvVoVhha7b",
+      "id" : "1rhIkWYjrR6odvVoVhha7b",
+      "images" : [ ],
+      "name" : "Rated R",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:1rhIkWYjrR6odvVoVhha7b"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tRO0nkxWbIFzdTOldURRH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4992
+      },
+      "genres" : [ "horrorcore" ],
+      "href" : "https://api.spotify.com/v1/artists/0tRO0nkxWbIFzdTOldURRH",
+      "id" : "0tRO0nkxWbIFzdTOldURRH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcff79f227a4632c298ba4895",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cff79f227a4632c298ba4895",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cff79f227a4632c298ba4895",
+        "width" : 160
+      } ],
+      "name" : "Hex Rated",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:0tRO0nkxWbIFzdTOldURRH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4OpDkZNjh25B0zM3vz0vkS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4OpDkZNjh25B0zM3vz0vkS",
+      "id" : "4OpDkZNjh25B0zM3vz0vkS",
+      "images" : [ ],
+      "name" : "Rated-R Playboy",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4OpDkZNjh25B0zM3vz0vkS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DZ1yvVR6xHw2qWqXANixZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6DZ1yvVR6xHw2qWqXANixZ",
+      "id" : "6DZ1yvVR6xHw2qWqXANixZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738cf7ad6a5ad19583279d31c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028cf7ad6a5ad19583279d31c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518cf7ad6a5ad19583279d31c6",
+        "width" : 64
+      } ],
+      "name" : "Nas Rated",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:6DZ1yvVR6xHw2qWqXANixZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4wQSMZAYAROVJyoA0xSPJl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 72
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4wQSMZAYAROVJyoA0xSPJl",
+      "id" : "4wQSMZAYAROVJyoA0xSPJl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfe89efd6452bf32abbcabb0d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fe89efd6452bf32abbcabb0d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fe89efd6452bf32abbcabb0d",
+        "width" : 160
+      } ],
+      "name" : "Rated R Levar",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4wQSMZAYAROVJyoA0xSPJl"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=RATED+R&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 354
+  }
+}

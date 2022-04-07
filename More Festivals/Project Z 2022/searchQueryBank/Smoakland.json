@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Smoakland&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3923
+      },
+      "genres" : [ "downtempo bass" ],
+      "href" : "https://api.spotify.com/v1/artists/6409kgOB4tZEkNZci6BiUs",
+      "id" : "6409kgOB4tZEkNZci6BiUs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc5cc2fa3cd1440691512fcc0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c5cc2fa3cd1440691512fcc0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c5cc2fa3cd1440691512fcc0",
+        "width" : 160
+      } ],
+      "name" : "Smoakland",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:6409kgOB4tZEkNZci6BiUs"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

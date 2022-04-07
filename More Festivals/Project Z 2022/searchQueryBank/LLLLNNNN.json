@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=LLLLNNNN&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EnVoD5aCLkfAkZR6hFrSR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 595
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5EnVoD5aCLkfAkZR6hFrSR",
+      "id" : "5EnVoD5aCLkfAkZR6hFrSR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb28f06b0cbcd982123bf97b9f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517428f06b0cbcd982123bf97b9f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17828f06b0cbcd982123bf97b9f",
+        "width" : 160
+      } ],
+      "name" : "LLLLNNNN",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:5EnVoD5aCLkfAkZR6hFrSR"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Richter&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 759474
+      },
+      "genres" : [ "compositional ambient", "post-minimalism" ],
+      "href" : "https://api.spotify.com/v1/artists/2VZNmg4vCnew4Pavo8zDdW",
+      "id" : "2VZNmg4vCnew4Pavo8zDdW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbce84a4b1311b0b4c60c0215",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bce84a4b1311b0b4c60c0215",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bce84a4b1311b0b4c60c0215",
+        "width" : 160
+      } ],
+      "name" : "Max Richter",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:2VZNmg4vCnew4Pavo8zDdW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 64327
+      },
+      "genres" : [ "classical", "classical performance", "classical piano", "russian classical piano" ],
+      "href" : "https://api.spotify.com/v1/artists/4hBgCK8FyJ5bV36ZZLB56X",
+      "id" : "4hBgCK8FyJ5bV36ZZLB56X",
+      "images" : [ {
+        "height" : 1323,
+        "url" : "https://i.scdn.co/image/1b73c6aaab0f43cfe569edc79aa96fe458752c57",
+        "width" : 1000
+      }, {
+        "height" : 846,
+        "url" : "https://i.scdn.co/image/8a44644b1835b8c278824146b6c4fc0f7fd8babe",
+        "width" : 640
+      }, {
+        "height" : 265,
+        "url" : "https://i.scdn.co/image/a93d86cb00c68c4e00910a8d57a4f7f7ceeb25f4",
+        "width" : 200
+      }, {
+        "height" : 85,
+        "url" : "https://i.scdn.co/image/473adbd47554f0b0165eeb1c0dc44af188ac8158",
+        "width" : 64
+      } ],
+      "name" : "Sviatoslav Richter",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:4hBgCK8FyJ5bV36ZZLB56X"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2DLiGfmS8hciTINAkqY2XG",
+      "id" : "2DLiGfmS8hciTINAkqY2XG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27331c2527d0dba1f1bba786f79",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0231c2527d0dba1f1bba786f79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485131c2527d0dba1f1bba786f79",
+        "width" : 64
+      } ],
+      "name" : "Richter Gravitas",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:2DLiGfmS8hciTINAkqY2XG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iamDPaou6RYgX0C43Qm6j"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7249
+      },
+      "genres" : [ "classical organ" ],
+      "href" : "https://api.spotify.com/v1/artists/3iamDPaou6RYgX0C43Qm6j",
+      "id" : "3iamDPaou6RYgX0C43Qm6j",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/39e753816892062616df51ce29d475b670d882a8",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/229246814abd156d30450126be0e3d5de1f18c97",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/15e3be1ad692a5a5a29d9c1fe904092dd0091fc2",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/63a57d3bdf038d0b1eb89eb8009b9e70d68f2486",
+        "width" : 64
+      } ],
+      "name" : "Karl Richter",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:3iamDPaou6RYgX0C43Qm6j"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GR9YDdr51tku5kjFgMLB1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22402
+      },
+      "genres" : [ "deep german hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/7GR9YDdr51tku5kjFgMLB1",
+      "id" : "7GR9YDdr51tku5kjFgMLB1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaab94fddad78a0e29461e5c3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aab94fddad78a0e29461e5c3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aab94fddad78a0e29461e5c3",
+        "width" : 160
+      } ],
+      "name" : "Richter",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:7GR9YDdr51tku5kjFgMLB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hcOyKwN5aVxCofcVCOYqb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24472
+      },
+      "genres" : [ "rap rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3hcOyKwN5aVxCofcVCOYqb",
+      "id" : "3hcOyKwN5aVxCofcVCOYqb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731f2899fb649d3a1b626b74ae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021f2899fb649d3a1b626b74ae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511f2899fb649d3a1b626b74ae",
+        "width" : 64
+      } ],
+      "name" : "Johnny Richter",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:3hcOyKwN5aVxCofcVCOYqb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Ad4dWOSVxJ0UTGO3gPb0V"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 120
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Ad4dWOSVxJ0UTGO3gPb0V",
+      "id" : "6Ad4dWOSVxJ0UTGO3gPb0V",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e00f9844a29585170572d979",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e00f9844a29585170572d979",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e00f9844a29585170572d979",
+        "width" : 64
+      } ],
+      "name" : "Richter",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Ad4dWOSVxJ0UTGO3gPb0V"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ePU495MmXnc3Osszvs9rX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2330
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5ePU495MmXnc3Osszvs9rX",
+      "id" : "5ePU495MmXnc3Osszvs9rX",
+      "images" : [ ],
+      "name" : "Joey Richter",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ePU495MmXnc3Osszvs9rX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5HGgI9g9Fuu2blqXL1isBd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 89
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5HGgI9g9Fuu2blqXL1isBd",
+      "id" : "5HGgI9g9Fuu2blqXL1isBd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf12d3d2de5f82ddc0d877a39",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f12d3d2de5f82ddc0d877a39",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f12d3d2de5f82ddc0d877a39",
+        "width" : 160
+      } ],
+      "name" : "Richter",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:5HGgI9g9Fuu2blqXL1isBd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/112R5mLNtVWJrXAmvDQ5ar"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 60
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/112R5mLNtVWJrXAmvDQ5ar",
+      "id" : "112R5mLNtVWJrXAmvDQ5ar",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb992e946c10974c0ab7e660f5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174992e946c10974c0ab7e660f5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178992e946c10974c0ab7e660f5",
+        "width" : 160
+      } ],
+      "name" : "Richter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:112R5mLNtVWJrXAmvDQ5ar"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NZ0vDGLWAN5RgDz8sJTAC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 126
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0NZ0vDGLWAN5RgDz8sJTAC",
+      "id" : "0NZ0vDGLWAN5RgDz8sJTAC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b2eca8cdfa2a2c047c973c6f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b2eca8cdfa2a2c047c973c6f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b2eca8cdfa2a2c047c973c6f",
+        "width" : 64
+      } ],
+      "name" : "Jim Richter",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0NZ0vDGLWAN5RgDz8sJTAC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ew0l8sK6BdgfM2lfru6eH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 129
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Ew0l8sK6BdgfM2lfru6eH",
+      "id" : "0Ew0l8sK6BdgfM2lfru6eH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8850c9e4541389cee3c8faeb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748850c9e4541389cee3c8faeb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788850c9e4541389cee3c8faeb",
+        "width" : 160
+      } ],
+      "name" : "Richter",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ew0l8sK6BdgfM2lfru6eH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36Gn8Yc06oIST4l5VtvLdB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8474
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/36Gn8Yc06oIST4l5VtvLdB",
+      "id" : "36Gn8Yc06oIST4l5VtvLdB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfae1b753ffaa932042566545",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fae1b753ffaa932042566545",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fae1b753ffaa932042566545",
+        "width" : 160
+      } ],
+      "name" : "Kirill Richter",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:36Gn8Yc06oIST4l5VtvLdB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2sF0GKOeuoihgsljkxSSFN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ "spanish indie folk" ],
+      "href" : "https://api.spotify.com/v1/artists/2sF0GKOeuoihgsljkxSSFN",
+      "id" : "2sF0GKOeuoihgsljkxSSFN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dad350d8562d82ff2712b0cd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dad350d8562d82ff2712b0cd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dad350d8562d82ff2712b0cd",
+        "width" : 64
+      } ],
+      "name" : "Richter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2sF0GKOeuoihgsljkxSSFN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 319
+      },
+      "genres" : [ "background piano" ],
+      "href" : "https://api.spotify.com/v1/artists/5EUn1FMsnRUZTJsmXuDy0z",
+      "id" : "5EUn1FMsnRUZTJsmXuDy0z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb2f441f2390b80b14a6cfe43",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b2f441f2390b80b14a6cfe43",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b2f441f2390b80b14a6cfe43",
+        "width" : 160
+      } ],
+      "name" : "Bernadine Richter",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:5EUn1FMsnRUZTJsmXuDy0z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3fe93hy3wKVc0CTMB87MQ9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3fe93hy3wKVc0CTMB87MQ9",
+      "id" : "3fe93hy3wKVc0CTMB87MQ9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb37363dcde98894bf3813b9cd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517437363dcde98894bf3813b9cd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17837363dcde98894bf3813b9cd",
+        "width" : 160
+      } ],
+      "name" : "Richter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3fe93hy3wKVc0CTMB87MQ9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3728
+      },
+      "genres" : [ "classical performance", "viola" ],
+      "href" : "https://api.spotify.com/v1/artists/6x1iIq6sH6TPtCA5IJjA4x",
+      "id" : "6x1iIq6sH6TPtCA5IJjA4x",
+      "images" : [ {
+        "height" : 1261,
+        "url" : "https://i.scdn.co/image/81b0eb3a30acc6227e11ab246e01d866ae1f79d4",
+        "width" : 1000
+      }, {
+        "height" : 807,
+        "url" : "https://i.scdn.co/image/b923d07fe1a060ecdcc83db276d7f1a31e489dde",
+        "width" : 640
+      }, {
+        "height" : 252,
+        "url" : "https://i.scdn.co/image/87ad38f923905db19ce5eb94c3678e2a9f3720eb",
+        "width" : 200
+      }, {
+        "height" : 81,
+        "url" : "https://i.scdn.co/image/21a79fb68d080b8cf93348329857e5487cff5094",
+        "width" : 64
+      } ],
+      "name" : "Yuri Bashmet",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:6x1iIq6sH6TPtCA5IJjA4x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09HrHjlzftEqnKxlCxOxh8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/09HrHjlzftEqnKxlCxOxh8",
+      "id" : "09HrHjlzftEqnKxlCxOxh8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfda3c06f272afed263457698",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fda3c06f272afed263457698",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fda3c06f272afed263457698",
+        "width" : 160
+      } ],
+      "name" : "Richter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:09HrHjlzftEqnKxlCxOxh8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 928
+      },
+      "genres" : [ "christmas instrumental" ],
+      "href" : "https://api.spotify.com/v1/artists/2Salm1AJWZ4jsIX2SLLZDi",
+      "id" : "2Salm1AJWZ4jsIX2SLLZDi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9f1e88aed33488601f813130",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749f1e88aed33488601f813130",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789f1e88aed33488601f813130",
+        "width" : 160
+      } ],
+      "name" : "Chris Richter",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Salm1AJWZ4jsIX2SLLZDi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XYGVl3yZytTrOdK5kvqpJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0XYGVl3yZytTrOdK5kvqpJ",
+      "id" : "0XYGVl3yZytTrOdK5kvqpJ",
+      "images" : [ ],
+      "name" : "Richter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0XYGVl3yZytTrOdK5kvqpJ"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Richter&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 481
+  }
+}

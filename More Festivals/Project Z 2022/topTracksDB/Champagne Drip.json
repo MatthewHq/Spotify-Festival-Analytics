@@ -1,0 +1,799 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+        "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+        "name" : "Champagne Drip",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2eqKyzfDwncG8apOXQYCbt",
+        "id" : "2eqKyzfDwncG8apOXQYCbt",
+        "name" : "Lucii",
+        "type" : "artist",
+        "uri" : "spotify:artist:2eqKyzfDwncG8apOXQYCbt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4don6p3pHlj7Pp01Js7dUb",
+      "id" : "4don6p3pHlj7Pp01Js7dUb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738d4186bd0f6b70d6061ef4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028d4186bd0f6b70d6061ef4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518d4186bd0f6b70d6061ef4c0",
+        "width" : 64
+      } ],
+      "name" : "Me and You",
+      "release_date" : "2020-03-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4don6p3pHlj7Pp01Js7dUb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2eqKyzfDwncG8apOXQYCbt",
+      "id" : "2eqKyzfDwncG8apOXQYCbt",
+      "name" : "Lucii",
+      "type" : "artist",
+      "uri" : "spotify:artist:2eqKyzfDwncG8apOXQYCbt"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 226285,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2010114"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/707qqokrSYnzJO5FoGIvFL",
+    "id" : "707qqokrSYnzJO5FoGIvFL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Me and You",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/56a8c4ca1ef71139d3f836f6d4ad0a9d66a923c9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:707qqokrSYnzJO5FoGIvFL"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+        "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+        "name" : "Champagne Drip",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ICtb6Z2tf7ZgVZy9VTp8Z",
+      "id" : "1ICtb6Z2tf7ZgVZy9VTp8Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f1100c564b1376741d793433",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f1100c564b1376741d793433",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f1100c564b1376741d793433",
+        "width" : 64
+      } ],
+      "name" : "Starman",
+      "release_date" : "2019-02-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:1ICtb6Z2tf7ZgVZy9VTp8Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lxVE44Zjoj1N4j2HhSytE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lxVE44Zjoj1N4j2HhSytE",
+      "id" : "6lxVE44Zjoj1N4j2HhSytE",
+      "name" : "Crystalline",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lxVE44Zjoj1N4j2HhSytE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211875,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1904427"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/10dLRZ7GCIXEuUuONkNcxI",
+    "id" : "10dLRZ7GCIXEuUuONkNcxI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Kaleidoscope (Feat. Crystalline)",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b3c66a7feb6a39f93df3469aefe91705695526e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:10dLRZ7GCIXEuUuONkNcxI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Hrqjumb6WHg2aAUHJHLND",
+        "id" : "3Hrqjumb6WHg2aAUHJHLND",
+        "name" : "LSDREAM",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Hrqjumb6WHg2aAUHJHLND"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4KVo7hcHmc7x12sszqdLAN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4KVo7hcHmc7x12sszqdLAN",
+      "id" : "4KVo7hcHmc7x12sszqdLAN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735b62a82d9ce418ae5fb11e56",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025b62a82d9ce418ae5fb11e56",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515b62a82d9ce418ae5fb11e56",
+        "width" : 64
+      } ],
+      "name" : "RENEGADES OF LIGHT",
+      "release_date" : "2019-04-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4KVo7hcHmc7x12sszqdLAN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Hrqjumb6WHg2aAUHJHLND",
+      "id" : "3Hrqjumb6WHg2aAUHJHLND",
+      "name" : "LSDREAM",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Hrqjumb6WHg2aAUHJHLND"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 238745,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1911365"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Od1ZJW0O6puhUWFzlg85d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Od1ZJW0O6puhUWFzlg85d",
+    "id" : "3Od1ZJW0O6puhUWFzlg85d",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "ETERNAL NOW",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/91a2471cf54bec03b1cb93f964eaa157e66be63a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3Od1ZJW0O6puhUWFzlg85d"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+        "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+        "name" : "Champagne Drip",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0vomb9Zaob10lPzxBcIiNb",
+        "id" : "0vomb9Zaob10lPzxBcIiNb",
+        "name" : "Linney",
+        "type" : "artist",
+        "uri" : "spotify:artist:0vomb9Zaob10lPzxBcIiNb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1pgPPcvCIrsT0zsjjpljEP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1pgPPcvCIrsT0zsjjpljEP",
+      "id" : "1pgPPcvCIrsT0zsjjpljEP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732aacb3c44220768c89879ba7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022aacb3c44220768c89879ba7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512aacb3c44220768c89879ba7",
+        "width" : 64
+      } ],
+      "name" : "In My Dreamz",
+      "release_date" : "2021-07-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1pgPPcvCIrsT0zsjjpljEP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vomb9Zaob10lPzxBcIiNb",
+      "id" : "0vomb9Zaob10lPzxBcIiNb",
+      "name" : "Linney",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vomb9Zaob10lPzxBcIiNb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209361,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2126437"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/62hnC1BHUxLq6er13Nznnd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/62hnC1BHUxLq6er13Nznnd",
+    "id" : "62hnC1BHUxLq6er13Nznnd",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "In My Dreamz",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/843933ec670591d34e75d279a73954127c133641?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:62hnC1BHUxLq6er13Nznnd"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+        "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+        "name" : "Champagne Drip",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5yk9sNsBhjddrKp7lAcgXr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5yk9sNsBhjddrKp7lAcgXr",
+      "id" : "5yk9sNsBhjddrKp7lAcgXr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273237d7d9e53cbc31637b197ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02237d7d9e53cbc31637b197ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851237d7d9e53cbc31637b197ea",
+        "width" : 64
+      } ],
+      "name" : "Of Course I Still Love You",
+      "release_date" : "2016-12-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:5yk9sNsBhjddrKp7lAcgXr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 186093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEA371304667"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/52dYxAe79R1woCCBcangqg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/52dYxAe79R1woCCBcangqg",
+    "id" : "52dYxAe79R1woCCBcangqg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Machines Can Be Our Friends",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0ee13641cf660f4d7370c36d224da4f8682e232d?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:52dYxAe79R1woCCBcangqg"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+        "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+        "name" : "Champagne Drip",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48V5K54Vk4gp6Uth2vGJtG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48V5K54Vk4gp6Uth2vGJtG",
+      "id" : "48V5K54Vk4gp6Uth2vGJtG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27335c17cf2fd19efb9d2a78510",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0235c17cf2fd19efb9d2a78510",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485135c17cf2fd19efb9d2a78510",
+        "width" : 64
+      } ],
+      "name" : "Jovian Days",
+      "release_date" : "2018-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:48V5K54Vk4gp6Uth2vGJtG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06tYi7DxoKe8PfYCeHGGFK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/06tYi7DxoKe8PfYCeHGGFK",
+      "id" : "06tYi7DxoKe8PfYCeHGGFK",
+      "name" : "9 Theory",
+      "type" : "artist",
+      "uri" : "spotify:artist:06tYi7DxoKe8PfYCeHGGFK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0PEiZ6fCgvYJSThXMCajMU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0PEiZ6fCgvYJSThXMCajMU",
+      "id" : "0PEiZ6fCgvYJSThXMCajMU",
+      "name" : "Ashley Mazanec",
+      "type" : "artist",
+      "uri" : "spotify:artist:0PEiZ6fCgvYJSThXMCajMU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 219666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM81800070"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6EwfORhyPfPV69V4gNezAM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6EwfORhyPfPV69V4gNezAM",
+    "id" : "6EwfORhyPfPV69V4gNezAM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Circles",
+    "popularity" : 49,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6EwfORhyPfPV69V4gNezAM"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+        "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+        "name" : "Champagne Drip",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5yk9sNsBhjddrKp7lAcgXr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5yk9sNsBhjddrKp7lAcgXr",
+      "id" : "5yk9sNsBhjddrKp7lAcgXr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273237d7d9e53cbc31637b197ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02237d7d9e53cbc31637b197ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851237d7d9e53cbc31637b197ea",
+        "width" : 64
+      } ],
+      "name" : "Of Course I Still Love You",
+      "release_date" : "2016-12-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:5yk9sNsBhjddrKp7lAcgXr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 274593,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEA371304666"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2YonNPsOfBszCc1UvVCdn7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2YonNPsOfBszCc1UvVCdn7",
+    "id" : "2YonNPsOfBszCc1UvVCdn7",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Oni",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/de9a45b2ec39b4aa8a4a023e6a97e3b2ca25e373?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2YonNPsOfBszCc1UvVCdn7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1FdAQnBdSJVnqLt7bBmFpx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1FdAQnBdSJVnqLt7bBmFpx",
+        "id" : "1FdAQnBdSJVnqLt7bBmFpx",
+        "name" : "BLACK NEON",
+        "type" : "artist",
+        "uri" : "spotify:artist:1FdAQnBdSJVnqLt7bBmFpx"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+        "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+        "name" : "Champagne Drip",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2yB5atX3WhOq1LbWInN1zk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2yB5atX3WhOq1LbWInN1zk",
+      "id" : "2yB5atX3WhOq1LbWInN1zk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733542e1eaf81e9a350527f7d3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023542e1eaf81e9a350527f7d3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513542e1eaf81e9a350527f7d3",
+        "width" : 64
+      } ],
+      "name" : "Midnight In LA (Champagne Drip Remix)",
+      "release_date" : "2021-06-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2yB5atX3WhOq1LbWInN1zk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1FdAQnBdSJVnqLt7bBmFpx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1FdAQnBdSJVnqLt7bBmFpx",
+      "id" : "1FdAQnBdSJVnqLt7bBmFpx",
+      "name" : "BLACK NEON",
+      "type" : "artist",
+      "uri" : "spotify:artist:1FdAQnBdSJVnqLt7bBmFpx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 254310,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NLF712104293"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/62uYdxG9ZeuPjEiMXHbaeL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/62uYdxG9ZeuPjEiMXHbaeL",
+    "id" : "62uYdxG9ZeuPjEiMXHbaeL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Midnight In LA - Champagne Drip Remix",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/70f48aad5fddfeb633a0a2e7aad0b706b186652f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:62uYdxG9ZeuPjEiMXHbaeL"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0kD8IT1CzF7js2XKM9lLLa",
+        "id" : "0kD8IT1CzF7js2XKM9lLLa",
+        "name" : "STARSET",
+        "type" : "artist",
+        "uri" : "spotify:artist:0kD8IT1CzF7js2XKM9lLLa"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+        "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+        "name" : "Champagne Drip",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7C9cs2f5t5IiuoxMAugYYp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7C9cs2f5t5IiuoxMAugYYp",
+      "id" : "7C9cs2f5t5IiuoxMAugYYp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738799b4b51941a488b39f5ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028799b4b51941a488b39f5ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518799b4b51941a488b39f5ef7",
+        "width" : 64
+      } ],
+      "name" : "WAKING UP (Champagne Drip Remix)",
+      "release_date" : "2020-12-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7C9cs2f5t5IiuoxMAugYYp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0kD8IT1CzF7js2XKM9lLLa",
+      "id" : "0kD8IT1CzF7js2XKM9lLLa",
+      "name" : "STARSET",
+      "type" : "artist",
+      "uri" : "spotify:artist:0kD8IT1CzF7js2XKM9lLLa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217894,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US5262023989"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3jZnSIqcEgtO5CslVgf88Q"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3jZnSIqcEgtO5CslVgf88Q",
+    "id" : "3jZnSIqcEgtO5CslVgf88Q",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "WAKING UP - Champagne Drip Remix",
+    "popularity" : 39,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3jZnSIqcEgtO5CslVgf88Q"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Ny7ldBgUotuALx5hSFi4e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Ny7ldBgUotuALx5hSFi4e",
+        "id" : "6Ny7ldBgUotuALx5hSFi4e",
+        "name" : "LUZCID",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Ny7ldBgUotuALx5hSFi4e"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+        "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+        "name" : "Champagne Drip",
+        "type" : "artist",
+        "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4AZOv7CLFU3b3MlhAh9Lhw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4AZOv7CLFU3b3MlhAh9Lhw",
+      "id" : "4AZOv7CLFU3b3MlhAh9Lhw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cd9358e9267250d468edde8e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cd9358e9267250d468edde8e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cd9358e9267250d468edde8e",
+        "width" : 64
+      } ],
+      "name" : "Double Vision",
+      "release_date" : "2019-09-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4AZOv7CLFU3b3MlhAh9Lhw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Ny7ldBgUotuALx5hSFi4e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Ny7ldBgUotuALx5hSFi4e",
+      "id" : "6Ny7ldBgUotuALx5hSFi4e",
+      "name" : "LUZCID",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Ny7ldBgUotuALx5hSFi4e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mVwDyQRNVMy3ZNuTabf6f",
+      "id" : "3mVwDyQRNVMy3ZNuTabf6f",
+      "name" : "Champagne Drip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mVwDyQRNVMy3ZNuTabf6f"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 265600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1945426"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6PogHJSiFvhc23nc8fo49v"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6PogHJSiFvhc23nc8fo49v",
+    "id" : "6PogHJSiFvhc23nc8fo49v",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Double Vision",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/abf804c1515ec7fa6d48449fe4422c562705228f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6PogHJSiFvhc23nc8fo49v"
+  } ]
+}

@@ -1,0 +1,67 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Aweminus&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 25096
+      },
+      "genres" : [ "dubstep", "gaming dubstep", "riddim dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/3sS9RKjrDJMl7zpG3cWHk7",
+      "id" : "3sS9RKjrDJMl7zpG3cWHk7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebddbcf9ddb6c0f7523d52438e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ddbcf9ddb6c0f7523d52438e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ddbcf9ddb6c0f7523d52438e",
+        "width" : 160
+      } ],
+      "name" : "Aweminus",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:3sS9RKjrDJMl7zpG3cWHk7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11YuYpFaEjO9xvSbS6q6L9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/11YuYpFaEjO9xvSbS6q6L9",
+      "id" : "11YuYpFaEjO9xvSbS6q6L9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730573fadbc127b796c13a1c06",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020573fadbc127b796c13a1c06",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510573fadbc127b796c13a1c06",
+        "width" : 64
+      } ],
+      "name" : "Aweminus, Definitive",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:11YuYpFaEjO9xvSbS6q6L9"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

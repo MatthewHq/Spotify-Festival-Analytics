@@ -1,0 +1,575 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=GEO&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3076667
+      },
+      "genres" : [ "contemporary country", "country", "country road", "country rock" ],
+      "href" : "https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd",
+      "id" : "5vngPClqofybhPERIqQMYd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb77f28b2422efbabde324291c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517477f28b2422efbabde324291c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17877f28b2422efbabde324291c",
+        "width" : 160
+      } ],
+      "name" : "George Strait",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:5vngPClqofybhPERIqQMYd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4715143
+      },
+      "genres" : [ "contemporary country", "country", "country pop", "country road", "modern country rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+      "id" : "3b8QkneNDz4JHKKKlLgYZg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aa2d9bd207a62adc3edf6631",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aa2d9bd207a62adc3edf6631",
+        "width" : 160
+      } ],
+      "name" : "Florida Georgia Line",
+      "popularity" : 80,
+      "type" : "artist",
+      "uri" : "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IrT0MoBoHV6n8ue5u6F1p"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3586
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7IrT0MoBoHV6n8ue5u6F1p",
+      "id" : "7IrT0MoBoHV6n8ue5u6F1p",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc5ecf1ef7f8473171837be9b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c5ecf1ef7f8473171837be9b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c5ecf1ef7f8473171837be9b",
+        "width" : 160
+      } ],
+      "name" : "GEO",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:7IrT0MoBoHV6n8ue5u6F1p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 931706
+      },
+      "genres" : [ "country", "country rock", "honky tonk" ],
+      "href" : "https://api.spotify.com/v1/artists/2OpqcUtj10HHvGG6h9VYC5",
+      "id" : "2OpqcUtj10HHvGG6h9VYC5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5f79cb1d93cfa9684c1f6dc9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745f79cb1d93cfa9684c1f6dc9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785f79cb1d93cfa9684c1f6dc9",
+        "width" : 160
+      } ],
+      "name" : "George Jones",
+      "popularity" : 66,
+      "type" : "artist",
+      "uri" : "spotify:artist:2OpqcUtj10HHvGG6h9VYC5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0U1xtc0gukCZNjTf9mY5a1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1552
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0U1xtc0gukCZNjTf9mY5a1",
+      "id" : "0U1xtc0gukCZNjTf9mY5a1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb75af275b12ea7a7c75c7ff0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b75af275b12ea7a7c75c7ff0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b75af275b12ea7a7c75c7ff0",
+        "width" : 160
+      } ],
+      "name" : "GEO",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0U1xtc0gukCZNjTf9mY5a1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3710105
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/19ra5tSw0tWufvUp8GotLo",
+      "id" : "19ra5tSw0tWufvUp8GotLo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc79f565e6a306d3e4b0a4b78",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c79f565e6a306d3e4b0a4b78",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c79f565e6a306d3e4b0a4b78",
+        "width" : 160
+      } ],
+      "name" : "George Michael",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:19ra5tSw0tWufvUp8GotLo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FQnAhScZwpwyvGMYgfqhP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0FQnAhScZwpwyvGMYgfqhP",
+      "id" : "0FQnAhScZwpwyvGMYgfqhP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273945b43cbaabc773f237fed4a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02945b43cbaabc773f237fed4a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851945b43cbaabc773f237fed4a",
+        "width" : 64
+      } ],
+      "name" : "GEORGE",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0FQnAhScZwpwyvGMYgfqhP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3613916
+      },
+      "genres" : [ "folk-pop", "modern rock", "neo-singer-songwriter", "pop", "pop rock" ],
+      "href" : "https://api.spotify.com/v1/artists/2ysnwxxNtSgbb9t1m2Ur4j",
+      "id" : "2ysnwxxNtSgbb9t1m2Ur4j",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfdc751d4099c1ffddb2a0e45",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fdc751d4099c1ffddb2a0e45",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fdc751d4099c1ffddb2a0e45",
+        "width" : 160
+      } ],
+      "name" : "George Ezra",
+      "popularity" : 77,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ysnwxxNtSgbb9t1m2Ur4j"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jV8anfjzTP9toQgKKGBPz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 115
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7jV8anfjzTP9toQgKKGBPz",
+      "id" : "7jV8anfjzTP9toQgKKGBPz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebee6d8ae23519e5ae340e5599",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ee6d8ae23519e5ae340e5599",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ee6d8ae23519e5ae340e5599",
+        "width" : 160
+      } ],
+      "name" : "GEORGE",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:7jV8anfjzTP9toQgKKGBPz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2131014
+      },
+      "genres" : [ "album rock", "beatlesque", "classic rock", "folk rock", "mellow gold", "rock", "soft rock" ],
+      "href" : "https://api.spotify.com/v1/artists/7FIoB5PHdrMZVC3q2HE5MS",
+      "id" : "7FIoB5PHdrMZVC3q2HE5MS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7fda8adcbe0cd99ec83a3bcf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747fda8adcbe0cd99ec83a3bcf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787fda8adcbe0cd99ec83a3bcf",
+        "width" : 160
+      } ],
+      "name" : "George Harrison",
+      "popularity" : 71,
+      "type" : "artist",
+      "uri" : "spotify:artist:7FIoB5PHdrMZVC3q2HE5MS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iIFBDnPEFpR6PCF0Tuh6w"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16951
+      },
+      "genres" : [ "future bass", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/3iIFBDnPEFpR6PCF0Tuh6w",
+      "id" : "3iIFBDnPEFpR6PCF0Tuh6w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0bdae1a456e0c919588929ce",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740bdae1a456e0c919588929ce",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780bdae1a456e0c919588929ce",
+        "width" : 160
+      } ],
+      "name" : "GEOTHEORY",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:3iIFBDnPEFpR6PCF0Tuh6w"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15749
+      },
+      "genres" : [ "uk pop" ],
+      "href" : "https://api.spotify.com/v1/artists/5mYakBbBzPMQTfkVMIgiDM",
+      "id" : "5mYakBbBzPMQTfkVMIgiDM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0bc681483ed1cfb26c7b3d6d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740bc681483ed1cfb26c7b3d6d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780bc681483ed1cfb26c7b3d6d",
+        "width" : 160
+      } ],
+      "name" : "Georgia Ku",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:5mYakBbBzPMQTfkVMIgiDM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MzbZYaTVV4AFVVuls2Md1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 58
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7MzbZYaTVV4AFVVuls2Md1",
+      "id" : "7MzbZYaTVV4AFVVuls2Md1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c152dd273b39d3b6bf592383",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c152dd273b39d3b6bf592383",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c152dd273b39d3b6bf592383",
+        "width" : 64
+      } ],
+      "name" : "G.E.O",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:7MzbZYaTVV4AFVVuls2Md1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 734121
+      },
+      "genres" : [ "baroque", "classical", "early music", "english baroque", "german baroque" ],
+      "href" : "https://api.spotify.com/v1/artists/1QL7yTHrdahRMpvNtn6rI2",
+      "id" : "1QL7yTHrdahRMpvNtn6rI2",
+      "images" : [ {
+        "height" : 1209,
+        "url" : "https://i.scdn.co/image/6391390229a5fb88e8e0d71e3e942b427d12d9a8",
+        "width" : 1000
+      }, {
+        "height" : 774,
+        "url" : "https://i.scdn.co/image/80e4fa2aac467af1b0a13201b585ae0ca27367dc",
+        "width" : 640
+      }, {
+        "height" : 242,
+        "url" : "https://i.scdn.co/image/28e3224e9ba32cc880794fc6192b1836b1bcb09a",
+        "width" : 200
+      }, {
+        "height" : 77,
+        "url" : "https://i.scdn.co/image/ce62fd096aa0cc8cd91b12814adde9fb98463c1a",
+        "width" : 64
+      } ],
+      "name" : "George Frideric Handel",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:1QL7yTHrdahRMpvNtn6rI2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04jksH958EFpzP70kZw8Jt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/04jksH958EFpzP70kZw8Jt",
+      "id" : "04jksH958EFpzP70kZw8Jt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfa79f8da6d7214347e534f7c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fa79f8da6d7214347e534f7c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fa79f8da6d7214347e534f7c",
+        "width" : 160
+      } ],
+      "name" : "G.E.O",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:04jksH958EFpzP70kZw8Jt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 707408
+      },
+      "genres" : [ "album rock", "blues rock", "classic rock", "country rock", "electric blues", "hard rock", "heartland rock", "mellow gold", "rock", "soft rock" ],
+      "href" : "https://api.spotify.com/v1/artists/4n31svBA9GGIYxGxgrQaRK",
+      "id" : "4n31svBA9GGIYxGxgrQaRK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb757998cdb9826e05ca888216",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174757998cdb9826e05ca888216",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178757998cdb9826e05ca888216",
+        "width" : 160
+      } ],
+      "name" : "George Thorogood & The Destroyers",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:4n31svBA9GGIYxGxgrQaRK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0aFKyu9j0c4Qfcli8PYAzS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 51
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0aFKyu9j0c4Qfcli8PYAzS",
+      "id" : "0aFKyu9j0c4Qfcli8PYAzS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6bbdcad6e2d7723915c3f136",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746bbdcad6e2d7723915c3f136",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786bbdcad6e2d7723915c3f136",
+        "width" : 160
+      } ],
+      "name" : "GEORGIE",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0aFKyu9j0c4Qfcli8PYAzS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2924
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0tcbedGX7n5UHrMhVsGmIU",
+      "id" : "0tcbedGX7n5UHrMhVsGmIU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733b93dc6dd05ca592fc245e76",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023b93dc6dd05ca592fc245e76",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513b93dc6dd05ca592fc245e76",
+        "width" : 64
+      } ],
+      "name" : "George Martin",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:0tcbedGX7n5UHrMhVsGmIU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Pq5osG0k0nf5qBQw5FjrF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Pq5osG0k0nf5qBQw5FjrF",
+      "id" : "6Pq5osG0k0nf5qBQw5FjrF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27352b5594dc011e136899fe298",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0252b5594dc011e136899fe298",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485152b5594dc011e136899fe298",
+        "width" : 64
+      } ],
+      "name" : "GEO",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Pq5osG0k0nf5qBQw5FjrF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 599165
+      },
+      "genres" : [ "adult standards", "disco", "jazz funk", "jazz guitar", "quiet storm", "smooth jazz", "soft rock", "soul jazz", "yacht rock" ],
+      "href" : "https://api.spotify.com/v1/artists/4N8BwYTEC6XqykGvXXlmfv",
+      "id" : "4N8BwYTEC6XqykGvXXlmfv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb487b00fa17362b8eab3b16c8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174487b00fa17362b8eab3b16c8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178487b00fa17362b8eab3b16c8",
+        "width" : 160
+      } ],
+      "name" : "George Benson",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:4N8BwYTEC6XqykGvXXlmfv"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=GEO&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 9159
+  }
+}

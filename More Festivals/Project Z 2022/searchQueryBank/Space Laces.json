@@ -1,0 +1,83 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Space+Laces&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 66750
+      },
+      "genres" : [ "brostep", "complextro", "dubstep", "edm", "electro house", "electronic trap", "gaming dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/37PZXblQTqpEWGdjctNcGP",
+      "id" : "37PZXblQTqpEWGdjctNcGP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebccca94f5303e761165cf9e8a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ccca94f5303e761165cf9e8a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ccca94f5303e761165cf9e8a",
+        "width" : 160
+      } ],
+      "name" : "Space Laces",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:37PZXblQTqpEWGdjctNcGP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7kTrtdKNd19lvoWokd1buA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2792
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7kTrtdKNd19lvoWokd1buA",
+      "id" : "7kTrtdKNd19lvoWokd1buA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e80b05ef382a38c863f556e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e80b05ef382a38c863f556e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e80b05ef382a38c863f556e",
+        "width" : 64
+      } ],
+      "name" : "Excision and Space Laces",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:7kTrtdKNd19lvoWokd1buA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5QyW78HLpNTCGI3KrjEnWA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5QyW78HLpNTCGI3KrjEnWA",
+      "id" : "5QyW78HLpNTCGI3KrjEnWA",
+      "images" : [ ],
+      "name" : "Kroyclub, Space Laces",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:5QyW78HLpNTCGI3KrjEnWA"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

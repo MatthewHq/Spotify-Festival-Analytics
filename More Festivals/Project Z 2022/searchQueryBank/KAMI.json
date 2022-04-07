@@ -1,0 +1,559 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=KAMI&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 87156
+      },
+      "genres" : [ "dark trap", "scream rap", "underground hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/7cB6KjTm98hhNE9eeyhcnF",
+      "id" : "7cB6KjTm98hhNE9eeyhcnF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2970f6621233af7148942b07",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742970f6621233af7148942b07",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782970f6621233af7148942b07",
+        "width" : 160
+      } ],
+      "name" : "Kamiyada+",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:7cB6KjTm98hhNE9eeyhcnF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1332
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5nodOFXcI3HPPhfqhWwd06",
+      "id" : "5nodOFXcI3HPPhfqhWwd06",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7999c41fad8344adf5a72e74",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747999c41fad8344adf5a72e74",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787999c41fad8344adf5a72e74",
+        "width" : 160
+      } ],
+      "name" : "KAMI",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:5nodOFXcI3HPPhfqhWwd06"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1031087
+      },
+      "genres" : [ "opm", "pinoy pop punk", "pinoy rock" ],
+      "href" : "https://api.spotify.com/v1/artists/4GBFKKuwmZUnAJt6nBal7A",
+      "id" : "4GBFKKuwmZUnAJt6nBal7A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4c2067bd8b1d156f739e3560",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744c2067bd8b1d156f739e3560",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784c2067bd8b1d156f739e3560",
+        "width" : 160
+      } ],
+      "name" : "Kamikazee",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:4GBFKKuwmZUnAJt6nBal7A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 187333
+      },
+      "genres" : [ "japanese teen pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3sIalaTfShc1biZjHCCVkv",
+      "id" : "3sIalaTfShc1biZjHCCVkv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc7afbd3234bc8f47b88b80ba",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c7afbd3234bc8f47b88b80ba",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c7afbd3234bc8f47b88b80ba",
+        "width" : 160
+      } ],
+      "name" : "Yoh kamiyama",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:3sIalaTfShc1biZjHCCVkv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6gEva36NPRySH6a97kZG4x"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6gEva36NPRySH6a97kZG4x",
+      "id" : "6gEva36NPRySH6a97kZG4x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe0e4a6ce6297101d8d17bae8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e0e4a6ce6297101d8d17bae8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e0e4a6ce6297101d8d17bae8",
+        "width" : 160
+      } ],
+      "name" : "KAMI Ok!",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6gEva36NPRySH6a97kZG4x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BhngrEjaGAD0a8OzzFWlC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12871
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3BhngrEjaGAD0a8OzzFWlC",
+      "id" : "3BhngrEjaGAD0a8OzzFWlC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc29fc35d8c0bc190e621a757",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c29fc35d8c0bc190e621a757",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c29fc35d8c0bc190e621a757",
+        "width" : 160
+      } ],
+      "name" : "KAMI",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:3BhngrEjaGAD0a8OzzFWlC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12029
+      },
+      "genres" : [ "uk contemporary r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/0XSz7OqyhKBKRq4ZU8WpAo",
+      "id" : "0XSz7OqyhKBKRq4ZU8WpAo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebac4690fc1cfa16b624085861",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ac4690fc1cfa16b624085861",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ac4690fc1cfa16b624085861",
+        "width" : 160
+      } ],
+      "name" : "KAMILLE",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:0XSz7OqyhKBKRq4ZU8WpAo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1108
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3GdSQUH1BRtl9UrrtuwJlP",
+      "id" : "3GdSQUH1BRtl9UrrtuwJlP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fab83c7e1cdb1e12b148b618",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fab83c7e1cdb1e12b148b618",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fab83c7e1cdb1e12b148b618",
+        "width" : 64
+      } ],
+      "name" : "Irshad Kamil",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:3GdSQUH1BRtl9UrrtuwJlP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3LZBJFYsHwyMu6pnl3RvUq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3LZBJFYsHwyMu6pnl3RvUq",
+      "id" : "3LZBJFYsHwyMu6pnl3RvUq",
+      "images" : [ ],
+      "name" : "Kamilla Isanbaeva",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:3LZBJFYsHwyMu6pnl3RvUq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3S7pKmNgPNMdwdgMtUwE03"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3S7pKmNgPNMdwdgMtUwE03",
+      "id" : "3S7pKmNgPNMdwdgMtUwE03",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5d1fe20551b87767d5779813",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745d1fe20551b87767d5779813",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785d1fe20551b87767d5779813",
+        "width" : 160
+      } ],
+      "name" : "KAMI",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3S7pKmNgPNMdwdgMtUwE03"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2AYLgq9P1arichVXbNbjVy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10648
+      },
+      "genres" : [ "focus trance", "organic house" ],
+      "href" : "https://api.spotify.com/v1/artists/2AYLgq9P1arichVXbNbjVy",
+      "id" : "2AYLgq9P1arichVXbNbjVy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3abf59b9626af670673af263",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743abf59b9626af670673af263",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783abf59b9626af670673af263",
+        "width" : 160
+      } ],
+      "name" : "Kamilo Sanclemente",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:2AYLgq9P1arichVXbNbjVy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19812
+      },
+      "genres" : [ "j-metal", "japanese power metal", "visual kei" ],
+      "href" : "https://api.spotify.com/v1/artists/0JwCbwaiMVKrIA6cH8fquT",
+      "id" : "0JwCbwaiMVKrIA6cH8fquT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730c0edc613bf56c97b1e2a7d2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020c0edc613bf56c97b1e2a7d2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510c0edc613bf56c97b1e2a7d2",
+        "width" : 64
+      } ],
+      "name" : "KAMIJO",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0JwCbwaiMVKrIA6cH8fquT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7br2tDTtpZMqq8oSVrftlR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20844
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7br2tDTtpZMqq8oSVrftlR",
+      "id" : "7br2tDTtpZMqq8oSVrftlR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebecd72a86afaf5f22d8d63ec1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ecd72a86afaf5f22d8d63ec1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ecd72a86afaf5f22d8d63ec1",
+        "width" : 160
+      } ],
+      "name" : "Kamikazi",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:7br2tDTtpZMqq8oSVrftlR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5OZ7uo8Rkme65EQ2QT37Rm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5OZ7uo8Rkme65EQ2QT37Rm",
+      "id" : "5OZ7uo8Rkme65EQ2QT37Rm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb07e296804f97c1983dec1352",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517407e296804f97c1983dec1352",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17807e296804f97c1983dec1352",
+        "width" : 160
+      } ],
+      "name" : "KÄMÏ",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:5OZ7uo8Rkme65EQ2QT37Rm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19hnen14uXCUMoBAnTmrCp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 117610
+      },
+      "genres" : [ "anime rock", "j-rock" ],
+      "href" : "https://api.spotify.com/v1/artists/19hnen14uXCUMoBAnTmrCp",
+      "id" : "19hnen14uXCUMoBAnTmrCp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377d4a4057066972164b843e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277d4a4057066972164b843e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177d4a4057066972164b843e2",
+        "width" : 64
+      } ],
+      "name" : "Kami-sama, I have noticed",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:19hnen14uXCUMoBAnTmrCp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/41gCOCQAXY3JvH4ZrZ1x0a"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 860
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/41gCOCQAXY3JvH4ZrZ1x0a",
+      "id" : "41gCOCQAXY3JvH4ZrZ1x0a",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6f8ef7239dd963ebfb95bb90",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746f8ef7239dd963ebfb95bb90",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786f8ef7239dd963ebfb95bb90",
+        "width" : 160
+      } ],
+      "name" : "KAMIL",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:41gCOCQAXY3JvH4ZrZ1x0a"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZydLzGMI3JnkcfVrbh6Vn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 34551
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3ZydLzGMI3JnkcfVrbh6Vn",
+      "id" : "3ZydLzGMI3JnkcfVrbh6Vn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebda1dc74d4835b2c5ecc9fe38",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174da1dc74d4835b2c5ecc9fe38",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178da1dc74d4835b2c5ecc9fe38",
+        "width" : 160
+      } ],
+      "name" : "KaMillion",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZydLzGMI3JnkcfVrbh6Vn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4cAHlbNEcUZElFpWAK0lry"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4cAHlbNEcUZElFpWAK0lry",
+      "id" : "4cAHlbNEcUZElFpWAK0lry",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe1b3426c8ca96c362837f099",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e1b3426c8ca96c362837f099",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e1b3426c8ca96c362837f099",
+        "width" : 160
+      } ],
+      "name" : "KAMII",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4cAHlbNEcUZElFpWAK0lry"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 593
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/178pxGCx631sen6g9vqvxP",
+      "id" : "178pxGCx631sen6g9vqvxP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273830476ff74d58f22dcffbb32",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026f5aa66cfb13ec5cf2ae9966",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851830476ff74d58f22dcffbb32",
+        "width" : 64
+      } ],
+      "name" : "Kamiyada",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:178pxGCx631sen6g9vqvxP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jyyByk1ca4r8gaqMYVPUI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 50426
+      },
+      "genres" : [ "electro jazz", "electronica", "jazztronica", "ninja", "nu jazz", "trip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/0jyyByk1ca4r8gaqMYVPUI",
+      "id" : "0jyyByk1ca4r8gaqMYVPUI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba460c311ef95d8efd8251c86",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a460c311ef95d8efd8251c86",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a460c311ef95d8efd8251c86",
+        "width" : 160
+      } ],
+      "name" : "Dzihan & Kamien",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:0jyyByk1ca4r8gaqMYVPUI"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=KAMI&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2876
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Buku&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 43608
+      },
+      "genres" : [ "bass trap", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/0w2QFhEnPG6tLIvkogHbUi",
+      "id" : "0w2QFhEnPG6tLIvkogHbUi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb779d7da3dd7d01cd6db264e0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174779d7da3dd7d01cd6db264e0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178779d7da3dd7d01cd6db264e0",
+        "width" : 160
+      } ],
+      "name" : "Buku",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:0w2QFhEnPG6tLIvkogHbUi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4mKD1jsVWY8OTkDvJUibqQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 499
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4mKD1jsVWY8OTkDvJUibqQ",
+      "id" : "4mKD1jsVWY8OTkDvJUibqQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fa6773305abfba0becc373cd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fa6773305abfba0becc373cd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fa6773305abfba0becc373cd",
+        "width" : 64
+      } ],
+      "name" : "Buku Abi",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:4mKD1jsVWY8OTkDvJUibqQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5b5b1l1cFVYjYBJoCqQX2K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 850
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5b5b1l1cFVYjYBJoCqQX2K",
+      "id" : "5b5b1l1cFVYjYBJoCqQX2K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb2e01139366196663acab7dd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b2e01139366196663acab7dd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b2e01139366196663acab7dd",
+        "width" : 160
+      } ],
+      "name" : "Buku Bandz",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:5b5b1l1cFVYjYBJoCqQX2K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13RGY36nTZw0ezEedQp7rs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2521
+      },
+      "genres" : [ "turkish deep house" ],
+      "href" : "https://api.spotify.com/v1/artists/13RGY36nTZw0ezEedQp7rs",
+      "id" : "13RGY36nTZw0ezEedQp7rs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbf7f78746351fd6f3bc5c571",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bf7f78746351fd6f3bc5c571",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bf7f78746351fd6f3bc5c571",
+        "width" : 160
+      } ],
+      "name" : "Ömer Bükülmezoğlu",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:13RGY36nTZw0ezEedQp7rs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/26kdiAQrPdIEyRc8zVZJxA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 909
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/26kdiAQrPdIEyRc8zVZJxA",
+      "id" : "26kdiAQrPdIEyRc8zVZJxA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb49812111bca22e718144cb4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b49812111bca22e718144cb4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b49812111bca22e718144cb4",
+        "width" : 160
+      } ],
+      "name" : "Bukunmi Oluwasina",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:26kdiAQrPdIEyRc8zVZJxA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 337307
+      },
+      "genres" : [ "afropop", "nigerian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3zaDigUwjHvjOkSn0NDf9x",
+      "id" : "3zaDigUwjHvjOkSn0NDf9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfad0af6a575e377f5b49dd33",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fad0af6a575e377f5b49dd33",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fad0af6a575e377f5b49dd33",
+        "width" : 160
+      } ],
+      "name" : "BNXN fka Buju",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:3zaDigUwjHvjOkSn0NDf9x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31w10aYdvBWe1MDjaGtoIj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 163
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/31w10aYdvBWe1MDjaGtoIj",
+      "id" : "31w10aYdvBWe1MDjaGtoIj",
+      "images" : [ ],
+      "name" : "Bukuru Celestin",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:31w10aYdvBWe1MDjaGtoIj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3LcfCv5M7yliOID69X1hzv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3LcfCv5M7yliOID69X1hzv",
+      "id" : "3LcfCv5M7yliOID69X1hzv",
+      "images" : [ ],
+      "name" : "Erin Buku",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:3LcfCv5M7yliOID69X1hzv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 468129
+      },
+      "genres" : [ "dancehall", "lovers rock", "modern reggae", "old school dancehall", "reggae", "reggae fusion", "roots reggae" ],
+      "href" : "https://api.spotify.com/v1/artists/4wLAjfeqAsV66AocWNcowA",
+      "id" : "4wLAjfeqAsV66AocWNcowA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb942528ebbddb4dac830eadce",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174942528ebbddb4dac830eadce",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178942528ebbddb4dac830eadce",
+        "width" : 160
+      } ],
+      "name" : "Buju Banton",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:4wLAjfeqAsV66AocWNcowA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7pl6TvHRlPyQvUTwUXp5K9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 375
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7pl6TvHRlPyQvUTwUXp5K9",
+      "id" : "7pl6TvHRlPyQvUTwUXp5K9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27369083f4b10ea71d8cad65d95",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0269083f4b10ea71d8cad65d95",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485169083f4b10ea71d8cad65d95",
+        "width" : 64
+      } ],
+      "name" : "Bukue One",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:7pl6TvHRlPyQvUTwUXp5K9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3T46Acf655h1bG3Zb8kcsF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22373
+      },
+      "genres" : [ "azontobeats", "swahili gospel" ],
+      "href" : "https://api.spotify.com/v1/artists/3T46Acf655h1bG3Zb8kcsF",
+      "id" : "3T46Acf655h1bG3Zb8kcsF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737478f49761b88215f4d49db1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027478f49761b88215f4d49db1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517478f49761b88215f4d49db1",
+        "width" : 64
+      } ],
+      "name" : "Bahati Bukuku",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:3T46Acf655h1bG3Zb8kcsF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2534046
+      },
+      "genres" : [ "grupera", "gruperas inmortales", "musica mexicana", "tropical" ],
+      "href" : "https://api.spotify.com/v1/artists/16kOCiqZ1auY4sokSeZuKf",
+      "id" : "16kOCiqZ1auY4sokSeZuKf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf965d7facfd674f3780158a7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f965d7facfd674f3780158a7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f965d7facfd674f3780158a7",
+        "width" : 160
+      } ],
+      "name" : "Los Bukis",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:16kOCiqZ1auY4sokSeZuKf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5URpwVBNcQffODi4erKRBI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1472
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5URpwVBNcQffODi4erKRBI",
+      "id" : "5URpwVBNcQffODi4erKRBI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d4864e4783d41b2d7c251242",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d4864e4783d41b2d7c251242",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d4864e4783d41b2d7c251242",
+        "width" : 64
+      } ],
+      "name" : "Buku Broux",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:5URpwVBNcQffODi4erKRBI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2EynW89mgTPkO7pBTqovla"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 25
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2EynW89mgTPkO7pBTqovla",
+      "id" : "2EynW89mgTPkO7pBTqovla",
+      "images" : [ ],
+      "name" : "Buku",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:2EynW89mgTPkO7pBTqovla"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64vfsqk9SccdA5Eqr8XPP7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/64vfsqk9SccdA5Eqr8XPP7",
+      "id" : "64vfsqk9SccdA5Eqr8XPP7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb607b46a57c6a6a313a8294c9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174607b46a57c6a6a313a8294c9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178607b46a57c6a6a313a8294c9",
+        "width" : 160
+      } ],
+      "name" : "Daniel Bukuru",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:64vfsqk9SccdA5Eqr8XPP7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cSaJyJXa7clYNyTei57Na"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2cSaJyJXa7clYNyTei57Na",
+      "id" : "2cSaJyJXa7clYNyTei57Na",
+      "images" : [ ],
+      "name" : "Buku",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:2cSaJyJXa7clYNyTei57Na"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7JL970rWe6KyGz5uAMhw2m"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7JL970rWe6KyGz5uAMhw2m",
+      "id" : "7JL970rWe6KyGz5uAMhw2m",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27390e4f1bee979e29ca6744bac",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0290e4f1bee979e29ca6744bac",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485190e4f1bee979e29ca6744bac",
+        "width" : 64
+      } ],
+      "name" : "Bukun Gandharba",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:7JL970rWe6KyGz5uAMhw2m"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sKdn5oBWqteKKjK8JXFMg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6sKdn5oBWqteKKjK8JXFMg",
+      "id" : "6sKdn5oBWqteKKjK8JXFMg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738fdb17f70bd3cf8f9cb60718",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028fdb17f70bd3cf8f9cb60718",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518fdb17f70bd3cf8f9cb60718",
+        "width" : 64
+      } ],
+      "name" : "Buku",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6sKdn5oBWqteKKjK8JXFMg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g7VXfdS411cEbFJeiMoKM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7g7VXfdS411cEbFJeiMoKM",
+      "id" : "7g7VXfdS411cEbFJeiMoKM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735985873cf139d700103d0274",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025985873cf139d700103d0274",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515985873cf139d700103d0274",
+        "width" : 64
+      } ],
+      "name" : "Bukurije Vrtin",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:7g7VXfdS411cEbFJeiMoKM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kYL0ugFyojv7MPECkncYT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4kYL0ugFyojv7MPECkncYT",
+      "id" : "4kYL0ugFyojv7MPECkncYT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334e4b35d7af994d99fec840b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234e4b35d7af994d99fec840b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134e4b35d7af994d99fec840b",
+        "width" : 64
+      } ],
+      "name" : "Buku",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4kYL0ugFyojv7MPECkncYT"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Buku&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 158
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+        "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+        "name" : "Midnight Tyrannosaurus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4g6MrFxI34XcrTpNCMLb9Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4g6MrFxI34XcrTpNCMLb9Z",
+      "id" : "4g6MrFxI34XcrTpNCMLb9Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb78977885823252daaaf199",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb78977885823252daaaf199",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb78977885823252daaaf199",
+        "width" : 64
+      } ],
+      "name" : "Step Aside",
+      "release_date" : "2019-10-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4g6MrFxI34XcrTpNCMLb9Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 236800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1958724"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1MZ2r27WC9AgCSNPySgv8B"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1MZ2r27WC9AgCSNPySgv8B",
+    "id" : "1MZ2r27WC9AgCSNPySgv8B",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Step Aside",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e09278abca32e701d010b225ed6e37d28b309153?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1MZ2r27WC9AgCSNPySgv8B"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+        "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+        "name" : "Midnight Tyrannosaurus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/20UIsPo6QoYy8vyRNJ11o4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/20UIsPo6QoYy8vyRNJ11o4",
+      "id" : "20UIsPo6QoYy8vyRNJ11o4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738eec56f71025673fcb82f6e4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028eec56f71025673fcb82f6e4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518eec56f71025673fcb82f6e4",
+        "width" : 64
+      } ],
+      "name" : "Black Label XL 5",
+      "release_date" : "2018-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:20UIsPo6QoYy8vyRNJ11o4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 187874,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL1896101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/42Kla7E5bUL6tVqeaXaF2b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/42Kla7E5bUL6tVqeaXaF2b",
+    "id" : "42Kla7E5bUL6tVqeaXaF2b",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Warp",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/43bd97c4b53029f89244d61e70ef32eaa5610150?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:42Kla7E5bUL6tVqeaXaF2b"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+        "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+        "name" : "Midnight Tyrannosaurus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1KRkp5ps1O80iSrBzz8OKz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1KRkp5ps1O80iSrBzz8OKz",
+      "id" : "1KRkp5ps1O80iSrBzz8OKz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273beb1d654a2173fdbebfe8fad",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02beb1d654a2173fdbebfe8fad",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851beb1d654a2173fdbebfe8fad",
+        "width" : 64
+      } ],
+      "name" : "Tales From The Man Cave",
+      "release_date" : "2020-12-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:1KRkp5ps1O80iSrBzz8OKz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217189,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2115484"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1GUZhfnTke0lEKRTjAgoUu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1GUZhfnTke0lEKRTjAgoUu",
+    "id" : "1GUZhfnTke0lEKRTjAgoUu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Body Count",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3da97a2e10b62250e4c19ca332db9b6dd228932c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1GUZhfnTke0lEKRTjAgoUu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+        "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+        "name" : "Midnight Tyrannosaurus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1uAnKZsQ2VBRGfilRD32m2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1uAnKZsQ2VBRGfilRD32m2",
+      "id" : "1uAnKZsQ2VBRGfilRD32m2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d415ae02c86c30bdb8f4e914",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d415ae02c86c30bdb8f4e914",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d415ae02c86c30bdb8f4e914",
+        "width" : 64
+      } ],
+      "name" : "From The Depths",
+      "release_date" : "2017-11-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:1uAnKZsQ2VBRGfilRD32m2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 270624,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL1793801"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ozLl3p2lBHEyRRrKxlWkX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ozLl3p2lBHEyRRrKxlWkX",
+    "id" : "4ozLl3p2lBHEyRRrKxlWkX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Brain Sludge",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f97db66dd5ca3ec3bb2b9a31bf0d959a05fc7a9b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4ozLl3p2lBHEyRRrKxlWkX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+        "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+        "name" : "Midnight Tyrannosaurus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6wtibkqrl452P4guyD2Hlm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6wtibkqrl452P4guyD2Hlm",
+      "id" : "6wtibkqrl452P4guyD2Hlm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735736b99a379326d43c3c81c8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025736b99a379326d43c3c81c8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515736b99a379326d43c3c81c8",
+        "width" : 64
+      } ],
+      "name" : "Planet Doom",
+      "release_date" : "2022-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:6wtibkqrl452P4guyD2Hlm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Au3D8Hsiy5B8z4C2uH02h",
+      "id" : "3Au3D8Hsiy5B8z4C2uH02h",
+      "name" : "Nimda",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Au3D8Hsiy5B8z4C2uH02h"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 212941,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR2221003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1gbUrCmsJchMppBeC6wL3r"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1gbUrCmsJchMppBeC6wL3r",
+    "id" : "1gbUrCmsJchMppBeC6wL3r",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Cheeki Breeki Song",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/52ced6755bbadc16b5daa48ee3bafb830deab134?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1gbUrCmsJchMppBeC6wL3r"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+        "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+        "name" : "Midnight Tyrannosaurus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HViz6VtkbubRDSMhrpZLZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HViz6VtkbubRDSMhrpZLZ",
+        "id" : "6HViz6VtkbubRDSMhrpZLZ",
+        "name" : "Kadaver",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HViz6VtkbubRDSMhrpZLZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OqYA4jVoYXjWATbVWv9xv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OqYA4jVoYXjWATbVWv9xv",
+      "id" : "4OqYA4jVoYXjWATbVWv9xv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731206f4313e77005889536cb6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021206f4313e77005889536cb6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511206f4313e77005889536cb6",
+        "width" : 64
+      } ],
+      "name" : "Lords of the Void",
+      "release_date" : "2021-03-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4OqYA4jVoYXjWATbVWv9xv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HViz6VtkbubRDSMhrpZLZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HViz6VtkbubRDSMhrpZLZ",
+      "id" : "6HViz6VtkbubRDSMhrpZLZ",
+      "name" : "Kadaver",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HViz6VtkbubRDSMhrpZLZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 226816,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2144303"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/56zsCoxqolyh1uoc69eS1a"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/56zsCoxqolyh1uoc69eS1a",
+    "id" : "56zsCoxqolyh1uoc69eS1a",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lords of the Void",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/092f6b10b2d6775945624cd8cce1ba197fcd8fb7?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:56zsCoxqolyh1uoc69eS1a"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3Tk1PbseeLG1kxqVW8vyHM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3Tk1PbseeLG1kxqVW8vyHM",
+      "id" : "3Tk1PbseeLG1kxqVW8vyHM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730ed56fba097769e193411719",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020ed56fba097769e193411719",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510ed56fba097769e193411719",
+        "width" : 64
+      } ],
+      "name" : "Never Say Die One Hundred",
+      "release_date" : "2017-03-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:3Tk1PbseeLG1kxqVW8vyHM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1EkJy0Tz2PYa8ohGWOnqkw",
+      "id" : "1EkJy0Tz2PYa8ohGWOnqkw",
+      "name" : "EH!DE",
+      "type" : "artist",
+      "uri" : "spotify:artist:1EkJy0Tz2PYa8ohGWOnqkw"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 307216,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GB7YL1710019"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0qWmdV9v1iY6cxLltyNGgs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0qWmdV9v1iY6cxLltyNGgs",
+    "id" : "0qWmdV9v1iY6cxLltyNGgs",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Planet Purge Pt. 2",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/291b96ea2dd8e761f0d94e4bb0a1fd6cd8a132e6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:0qWmdV9v1iY6cxLltyNGgs"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+        "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+        "name" : "Midnight Tyrannosaurus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7a3e4XW0tZob8oVNYswvX6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7a3e4XW0tZob8oVNYswvX6",
+      "id" : "7a3e4XW0tZob8oVNYswvX6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273776aec01d4d8ab058db4de04",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02776aec01d4d8ab058db4de04",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851776aec01d4d8ab058db4de04",
+        "width" : 64
+      } ],
+      "name" : "Mutation",
+      "release_date" : "2019-05-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:7a3e4XW0tZob8oVNYswvX6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193758,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1926169"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5XYouohfUclYeRmXQSSvCk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5XYouohfUclYeRmXQSSvCk",
+    "id" : "5XYouohfUclYeRmXQSSvCk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Banana Planet",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/59042aa51bb5cd26c3148fcca43c9e308035c24a?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5XYouohfUclYeRmXQSSvCk"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+        "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+        "name" : "Midnight Tyrannosaurus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ETQKrP2ajpKLZnTXfR7mQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ETQKrP2ajpKLZnTXfR7mQ",
+      "id" : "1ETQKrP2ajpKLZnTXfR7mQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27395c5b217b3aedef56c705a93",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0295c5b217b3aedef56c705a93",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485195c5b217b3aedef56c705a93",
+        "width" : 64
+      } ],
+      "name" : "Doom Pig Anthem",
+      "release_date" : "2021-12-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1ETQKrP2ajpKLZnTXfR7mQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 255424,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZTGW2100130"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4FFDs3G9Tw54xMOyMM9v6g"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4FFDs3G9Tw54xMOyMM9v6g",
+    "id" : "4FFDs3G9Tw54xMOyMM9v6g",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Doom Pig Anthem",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c9e82c95cb1706fb25f4282dea67e3c557a473c6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4FFDs3G9Tw54xMOyMM9v6g"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2tXUcirItGbDNvLpApQT3z"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2tXUcirItGbDNvLpApQT3z",
+        "id" : "2tXUcirItGbDNvLpApQT3z",
+        "name" : "Megalodon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2tXUcirItGbDNvLpApQT3z"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+        "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+        "name" : "Midnight Tyrannosaurus",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6WRLwSGg9eRHGQpvO7FToc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6WRLwSGg9eRHGQpvO7FToc",
+      "id" : "6WRLwSGg9eRHGQpvO7FToc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fc2f939a8c739a6667e71c75",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fc2f939a8c739a6667e71c75",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fc2f939a8c739a6667e71c75",
+        "width" : 64
+      } ],
+      "name" : "Jurassic",
+      "release_date" : "2017-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6WRLwSGg9eRHGQpvO7FToc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2tXUcirItGbDNvLpApQT3z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2tXUcirItGbDNvLpApQT3z",
+      "id" : "2tXUcirItGbDNvLpApQT3z",
+      "name" : "Megalodon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2tXUcirItGbDNvLpApQT3z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z8O8PugLuKyLFVkZLQDRZ",
+      "id" : "6Z8O8PugLuKyLFVkZLQDRZ",
+      "name" : "Midnight Tyrannosaurus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z8O8PugLuKyLFVkZLQDRZ"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 312400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB7YL1792501"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5VUshSX3COcIVh3Kh4TuA5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5VUshSX3COcIVh3Kh4TuA5",
+    "id" : "5VUshSX3COcIVh3Kh4TuA5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Jurassic",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb4a56b5764093434709330ed622676968123400?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5VUshSX3COcIVh3Kh4TuA5"
+  } ]
+}

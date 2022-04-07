@@ -1,0 +1,123 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Neonix&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dvdjsMgKeEDUGiKxZDFME"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4621
+      },
+      "genres" : [ "dubstep", "gaming dubstep", "riddim dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/3dvdjsMgKeEDUGiKxZDFME",
+      "id" : "3dvdjsMgKeEDUGiKxZDFME",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8b530df30015f11fece011c5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748b530df30015f11fece011c5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788b530df30015f11fece011c5",
+        "width" : 160
+      } ],
+      "name" : "Neonix",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:3dvdjsMgKeEDUGiKxZDFME"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/575XzLLMsw8wtO9a2CmGJr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/575XzLLMsw8wtO9a2CmGJr",
+      "id" : "575XzLLMsw8wtO9a2CmGJr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a3033819420cc460b3fdb0c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a3033819420cc460b3fdb0c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a3033819420cc460b3fdb0c",
+        "width" : 64
+      } ],
+      "name" : "Neonix",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:575XzLLMsw8wtO9a2CmGJr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3N2er94OKOpvQ0QMV2slOe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3N2er94OKOpvQ0QMV2slOe",
+      "id" : "3N2er94OKOpvQ0QMV2slOe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735bb7d19460a2db3ed608bb2f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025bb7d19460a2db3ed608bb2f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515bb7d19460a2db3ed608bb2f",
+        "width" : 64
+      } ],
+      "name" : "Neonix",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3N2er94OKOpvQ0QMV2slOe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4OHqeQsCb6duqeRDspAomU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4OHqeQsCb6duqeRDspAomU",
+      "id" : "4OHqeQsCb6duqeRDspAomU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27328882b0f9d398e1a3acb0d61",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0228882b0f9d398e1a3acb0d61",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485128882b0f9d398e1a3acb0d61",
+        "width" : 64
+      } ],
+      "name" : "Neonix",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4OHqeQsCb6duqeRDspAomU"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

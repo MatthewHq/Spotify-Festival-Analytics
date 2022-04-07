@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Darren+Styles&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 94507
+      },
+      "genres" : [ "happy hardcore", "hardcore techno" ],
+      "href" : "https://api.spotify.com/v1/artists/2gZzTzeACSwFqkMroVxmnm",
+      "id" : "2gZzTzeACSwFqkMroVxmnm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6ec94859874594815b52b478",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746ec94859874594815b52b478",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786ec94859874594815b52b478",
+        "width" : 160
+      } ],
+      "name" : "Darren Styles",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:2gZzTzeACSwFqkMroVxmnm"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

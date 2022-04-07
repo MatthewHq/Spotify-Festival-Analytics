@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=TYEGUYS&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2asjtW7K4OnBYGQ0zBqi4F"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1395
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2asjtW7K4OnBYGQ0zBqi4F",
+      "id" : "2asjtW7K4OnBYGQ0zBqi4F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb631102085c3f51266e547709",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174631102085c3f51266e547709",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178631102085c3f51266e547709",
+        "width" : 160
+      } ],
+      "name" : "TYEGUYS",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:2asjtW7K4OnBYGQ0zBqi4F"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

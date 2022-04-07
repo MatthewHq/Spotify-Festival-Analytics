@@ -1,0 +1,39 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Huxley+Anne&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4366
+      },
+      "genres" : [ "electra" ],
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe6f76abab110f6de2d85d00a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e6f76abab110f6de2d85d00a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e6f76abab110f6de2d85d00a",
+        "width" : 160
+      } ],
+      "name" : "Huxley Anne",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

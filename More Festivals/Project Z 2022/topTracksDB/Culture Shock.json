@@ -1,0 +1,718 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1QMgre3BHX161ZHtWMUu6S",
+        "id" : "1QMgre3BHX161ZHtWMUu6S",
+        "name" : "Dimension",
+        "type" : "artist",
+        "uri" : "spotify:artist:1QMgre3BHX161ZHtWMUu6S"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5iBrKvwaAYaNph01X36NYA",
+      "id" : "5iBrKvwaAYaNph01X36NYA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739f1f05adbc6646a14e11fb39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029f1f05adbc6646a14e11fb39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519f1f05adbc6646a14e11fb39",
+        "width" : 64
+      } ],
+      "name" : "Organ",
+      "release_date" : "2021-03-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5iBrKvwaAYaNph01X36NYA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1QMgre3BHX161ZHtWMUu6S",
+      "id" : "1QMgre3BHX161ZHtWMUu6S",
+      "name" : "Dimension",
+      "type" : "artist",
+      "uri" : "spotify:artist:1QMgre3BHX161ZHtWMUu6S"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2lKeiALM1T2TZrOiTYlLNA",
+      "id" : "2lKeiALM1T2TZrOiTYlLNA",
+      "name" : "Billy Lockett",
+      "type" : "artist",
+      "uri" : "spotify:artist:2lKeiALM1T2TZrOiTYlLNA"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202758,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKFTL1600160"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/04fUHQffhV0d4VeeOkXfMN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/04fUHQffhV0d4VeeOkXfMN",
+    "id" : "04fUHQffhV0d4VeeOkXfMN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Love To Give (with Culture Shock & Billy Lockett)",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/889d36f969b7f934b2df00cb136dc199e153b39c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:04fUHQffhV0d4VeeOkXfMN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+        "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+        "name" : "Culture Shock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/16JF3pUHH5ltDPOztx5FMX",
+      "id" : "16JF3pUHH5ltDPOztx5FMX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bff1462c7e0e82dca7e42beb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bff1462c7e0e82dca7e42beb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bff1462c7e0e82dca7e42beb",
+        "width" : 64
+      } ],
+      "name" : "Sequence",
+      "release_date" : "2019-06-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:16JF3pUHH5ltDPOztx5FMX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 209549,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB5KW1901293"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1g4C1BrGd4O1Dt5y0xue96",
+    "id" : "1g4C1BrGd4O1Dt5y0xue96",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Renaissance (Edit)",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ee7b64f91f44ce9a4d5fae89efc8fd955db65de8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1g4C1BrGd4O1Dt5y0xue96"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1eMmoIprPDWeFdB1FxU6ZV",
+        "id" : "1eMmoIprPDWeFdB1FxU6ZV",
+        "name" : "Au/Ra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1eMmoIprPDWeFdB1FxU6ZV"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7rvQyPqIlW7P4prPBXLrj7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7rvQyPqIlW7P4prPBXLrj7",
+      "id" : "7rvQyPqIlW7P4prPBXLrj7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273617ee1af6cc286d6c18f52bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02617ee1af6cc286d6c18f52bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851617ee1af6cc286d6c18f52bb",
+        "width" : 64
+      } ],
+      "name" : "Panic Room (Culture Shock Remix)",
+      "release_date" : "2018-09-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7rvQyPqIlW7P4prPBXLrj7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1eMmoIprPDWeFdB1FxU6ZV",
+      "id" : "1eMmoIprPDWeFdB1FxU6ZV",
+      "name" : "Au/Ra",
+      "type" : "artist",
+      "uri" : "spotify:artist:1eMmoIprPDWeFdB1FxU6ZV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 286725,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL1801366"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7yahqANoaeBiBRlMZQacCN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7yahqANoaeBiBRlMZQacCN",
+    "id" : "7yahqANoaeBiBRlMZQacCN",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Panic Room - Culture Shock Remix",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4d20412cd995c0107288a91d716b73c81c19960e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7yahqANoaeBiBRlMZQacCN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+        "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+        "name" : "Culture Shock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0HNzYDQTDCBeYVksrNNrXQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0HNzYDQTDCBeYVksrNNrXQ",
+      "id" : "0HNzYDQTDCBeYVksrNNrXQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731258a88b5ec6d24c865ada60",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021258a88b5ec6d24c865ada60",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511258a88b5ec6d24c865ada60",
+        "width" : 64
+      } ],
+      "name" : "Sequel",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0HNzYDQTDCBeYVksrNNrXQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 269298,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB5KW2100964"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/08nptpPyViIoGwVVHMAL5n"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/08nptpPyViIoGwVVHMAL5n",
+    "id" : "08nptpPyViIoGwVVHMAL5n",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Discotheque",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d5bc7cd2d77a23ae4ca6c7994d681383d26d53b8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:08nptpPyViIoGwVVHMAL5n"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+        "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+        "name" : "Culture Shock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0HNzYDQTDCBeYVksrNNrXQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0HNzYDQTDCBeYVksrNNrXQ",
+      "id" : "0HNzYDQTDCBeYVksrNNrXQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731258a88b5ec6d24c865ada60",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021258a88b5ec6d24c865ada60",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511258a88b5ec6d24c865ada60",
+        "width" : 64
+      } ],
+      "name" : "Sequel",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0HNzYDQTDCBeYVksrNNrXQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 241379,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB5KW2003920"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/10mkoHmH0voUA6y0SH5RBt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/10mkoHmH0voUA6y0SH5RBt",
+    "id" : "10mkoHmH0voUA6y0SH5RBt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lost",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/58df874f7c8d70d1b897eecfdbbdaf4ef56efe8f?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:10mkoHmH0voUA6y0SH5RBt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0QaSiI5TLA4N7mcsdxShDO",
+        "id" : "0QaSiI5TLA4N7mcsdxShDO",
+        "name" : "Sub Focus",
+        "type" : "artist",
+        "uri" : "spotify:artist:0QaSiI5TLA4N7mcsdxShDO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkUZ0YXr0Nnx9wCRpGykS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkUZ0YXr0Nnx9wCRpGykS",
+      "id" : "4hkUZ0YXr0Nnx9wCRpGykS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736d48fa1ae07b3028f776ee13",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026d48fa1ae07b3028f776ee13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516d48fa1ae07b3028f776ee13",
+        "width" : 64
+      } ],
+      "name" : "Reworks I",
+      "release_date" : "2021-09-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:4hkUZ0YXr0Nnx9wCRpGykS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0QaSiI5TLA4N7mcsdxShDO",
+      "id" : "0QaSiI5TLA4N7mcsdxShDO",
+      "name" : "Sub Focus",
+      "type" : "artist",
+      "uri" : "spotify:artist:0QaSiI5TLA4N7mcsdxShDO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 264827,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBZA42100284"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7KhINDwLyIfcImRaqeog9r"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7KhINDwLyIfcImRaqeog9r",
+    "id" : "7KhINDwLyIfcImRaqeog9r",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Airplane (Culture Shock Remix)",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7e4ef85465d88dd8da7fc1a5f9c0b00c5e8b944e?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7KhINDwLyIfcImRaqeog9r"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+        "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+        "name" : "Culture Shock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0HNzYDQTDCBeYVksrNNrXQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0HNzYDQTDCBeYVksrNNrXQ",
+      "id" : "0HNzYDQTDCBeYVksrNNrXQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731258a88b5ec6d24c865ada60",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021258a88b5ec6d24c865ada60",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511258a88b5ec6d24c865ada60",
+        "width" : 64
+      } ],
+      "name" : "Sequel",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0HNzYDQTDCBeYVksrNNrXQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0QaSiI5TLA4N7mcsdxShDO",
+      "id" : "0QaSiI5TLA4N7mcsdxShDO",
+      "name" : "Sub Focus",
+      "type" : "artist",
+      "uri" : "spotify:artist:0QaSiI5TLA4N7mcsdxShDO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 249655,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB5KW2200600"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2GZ3TAxyasEWv08Ajcypii"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2GZ3TAxyasEWv08Ajcypii",
+    "id" : "2GZ3TAxyasEWv08Ajcypii",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Recombine",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb91be0b9a66aa43cddf3d0de29edc68a29283d3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2GZ3TAxyasEWv08Ajcypii"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+        "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+        "name" : "Culture Shock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/16JF3pUHH5ltDPOztx5FMX",
+      "id" : "16JF3pUHH5ltDPOztx5FMX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bff1462c7e0e82dca7e42beb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bff1462c7e0e82dca7e42beb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bff1462c7e0e82dca7e42beb",
+        "width" : 64
+      } ],
+      "name" : "Sequence",
+      "release_date" : "2019-06-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:16JF3pUHH5ltDPOztx5FMX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 281706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB5KW1703696"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7fay3lE8ute2UUlbxl44HK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7fay3lE8ute2UUlbxl44HK",
+    "id" : "7fay3lE8ute2UUlbxl44HK",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bunker",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/da5d6faf3c67dcf15e475cc480e109b17a36a9d2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7fay3lE8ute2UUlbxl44HK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+        "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+        "name" : "Culture Shock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0HNzYDQTDCBeYVksrNNrXQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0HNzYDQTDCBeYVksrNNrXQ",
+      "id" : "0HNzYDQTDCBeYVksrNNrXQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731258a88b5ec6d24c865ada60",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021258a88b5ec6d24c865ada60",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511258a88b5ec6d24c865ada60",
+        "width" : 64
+      } ],
+      "name" : "Sequel",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0HNzYDQTDCBeYVksrNNrXQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 196551,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB5KW2103994"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3bziHnTiblEvyiAP1iO3oq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3bziHnTiblEvyiAP1iO3oq",
+    "id" : "3bziHnTiblEvyiAP1iO3oq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Rise",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c3b2cdd52acf6398c20267bd4d6d88b47814d259?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3bziHnTiblEvyiAP1iO3oq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+        "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+        "name" : "Culture Shock",
+        "type" : "artist",
+        "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0HNzYDQTDCBeYVksrNNrXQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0HNzYDQTDCBeYVksrNNrXQ",
+      "id" : "0HNzYDQTDCBeYVksrNNrXQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731258a88b5ec6d24c865ada60",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021258a88b5ec6d24c865ada60",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511258a88b5ec6d24c865ada60",
+        "width" : 64
+      } ],
+      "name" : "Sequel",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:0HNzYDQTDCBeYVksrNNrXQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lp2VnIRXXpC9Wz7hSX6RE",
+      "id" : "6lp2VnIRXXpC9Wz7hSX6RE",
+      "name" : "Culture Shock",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lp2VnIRXXpC9Wz7hSX6RE"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 202068,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GB5KW2001959"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4p6xkRMKsCVfM4vDpMDyOI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4p6xkRMKsCVfM4vDpMDyOI",
+    "id" : "4p6xkRMKsCVfM4vDpMDyOI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Visions",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f5ebb95393dbcf6ab97a984476c54ef1477c7ebb?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4p6xkRMKsCVfM4vDpMDyOI"
+  } ]
+}

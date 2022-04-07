@@ -1,0 +1,808 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+        "id" : "2afZPGbbZnucXCMn4VREnU",
+        "name" : "Mrotek",
+        "type" : "artist",
+        "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/64b1FzJV5njaX6Jcrg5ZEm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/64b1FzJV5njaX6Jcrg5ZEm",
+        "id" : "64b1FzJV5njaX6Jcrg5ZEm",
+        "name" : "Rob Gee",
+        "type" : "artist",
+        "uri" : "spotify:artist:64b1FzJV5njaX6Jcrg5ZEm"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5sGxcS78VtGWlqAryaHLYW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5sGxcS78VtGWlqAryaHLYW",
+      "id" : "5sGxcS78VtGWlqAryaHLYW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736f3dcd3c7261b3ab175aca86",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026f3dcd3c7261b3ab175aca86",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516f3dcd3c7261b3ab175aca86",
+        "width" : 64
+      } ],
+      "name" : "Party Time",
+      "release_date" : "2022-03-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:5sGxcS78VtGWlqAryaHLYW"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64b1FzJV5njaX6Jcrg5ZEm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/64b1FzJV5njaX6Jcrg5ZEm",
+      "id" : "64b1FzJV5njaX6Jcrg5ZEm",
+      "name" : "Rob Gee",
+      "type" : "artist",
+      "uri" : "spotify:artist:64b1FzJV5njaX6Jcrg5ZEm"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 217746,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR2203195"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/04FRaXNGQuRB8lUJKnmw1a"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/04FRaXNGQuRB8lUJKnmw1a",
+    "id" : "04FRaXNGQuRB8lUJKnmw1a",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Party Time",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b948f568b8ba298c8c6d456e26838e1f5a277ed8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:04FRaXNGQuRB8lUJKnmw1a"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5b4RTDc2Q3bNHmv0L8ZPlj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5b4RTDc2Q3bNHmv0L8ZPlj",
+        "id" : "5b4RTDc2Q3bNHmv0L8ZPlj",
+        "name" : "Treachery",
+        "type" : "artist",
+        "uri" : "spotify:artist:5b4RTDc2Q3bNHmv0L8ZPlj"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+        "id" : "2afZPGbbZnucXCMn4VREnU",
+        "name" : "Mrotek",
+        "type" : "artist",
+        "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4D7ge5vDDKI38k7ndxnoPH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4D7ge5vDDKI38k7ndxnoPH",
+      "id" : "4D7ge5vDDKI38k7ndxnoPH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273df81bf5526ab6a0342a38303",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02df81bf5526ab6a0342a38303",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851df81bf5526ab6a0342a38303",
+        "width" : 64
+      } ],
+      "name" : "Unholy Earth",
+      "release_date" : "2021-09-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4D7ge5vDDKI38k7ndxnoPH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5b4RTDc2Q3bNHmv0L8ZPlj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5b4RTDc2Q3bNHmv0L8ZPlj",
+      "id" : "5b4RTDc2Q3bNHmv0L8ZPlj",
+      "name" : "Treachery",
+      "type" : "artist",
+      "uri" : "spotify:artist:5b4RTDc2Q3bNHmv0L8ZPlj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211043,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2198503"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3mLkPPCrWLToVRDwH9NrtB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3mLkPPCrWLToVRDwH9NrtB",
+    "id" : "3mLkPPCrWLToVRDwH9NrtB",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Unholy Earth",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e9be6a95d309a8dbd790df6aa9505cb983c7e2b6?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3mLkPPCrWLToVRDwH9NrtB"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Py8jHB9WFjZU2dux9GWca"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Py8jHB9WFjZU2dux9GWca",
+        "id" : "1Py8jHB9WFjZU2dux9GWca",
+        "name" : "Sledgehammers",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Py8jHB9WFjZU2dux9GWca"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4I098SV5VQY18WTUnp7fa8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4I098SV5VQY18WTUnp7fa8",
+      "id" : "4I098SV5VQY18WTUnp7fa8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733bd9ec840c4eb097f266de69",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023bd9ec840c4eb097f266de69",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513bd9ec840c4eb097f266de69",
+        "width" : 64
+      } ],
+      "name" : "Creation EP",
+      "release_date" : "2018-11-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:4I098SV5VQY18WTUnp7fa8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Py8jHB9WFjZU2dux9GWca"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Py8jHB9WFjZU2dux9GWca",
+      "id" : "1Py8jHB9WFjZU2dux9GWca",
+      "name" : "Sledgehammers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Py8jHB9WFjZU2dux9GWca"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 308665,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681800413"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4PMFWtYO4fh2NdswmBgft9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4PMFWtYO4fh2NdswmBgft9",
+    "id" : "4PMFWtYO4fh2NdswmBgft9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Iron & Steel",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7207c450f63cc3ffcae3fe9d0b285fa8a9221c9c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4PMFWtYO4fh2NdswmBgft9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5F2cEq9Qczc6rvyotjKYp2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5F2cEq9Qczc6rvyotjKYp2",
+        "id" : "5F2cEq9Qczc6rvyotjKYp2",
+        "name" : "The Strangerz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5F2cEq9Qczc6rvyotjKYp2"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+        "id" : "2afZPGbbZnucXCMn4VREnU",
+        "name" : "Mrotek",
+        "type" : "artist",
+        "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6frHEtJRNrtw1T26xgTxGy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6frHEtJRNrtw1T26xgTxGy",
+      "id" : "6frHEtJRNrtw1T26xgTxGy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730cfe5cd0b7f2a47b8b56e522",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020cfe5cd0b7f2a47b8b56e522",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510cfe5cd0b7f2a47b8b56e522",
+        "width" : 64
+      } ],
+      "name" : "Wrath",
+      "release_date" : "2019-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6frHEtJRNrtw1T26xgTxGy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5F2cEq9Qczc6rvyotjKYp2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5F2cEq9Qczc6rvyotjKYp2",
+      "id" : "5F2cEq9Qczc6rvyotjKYp2",
+      "name" : "The Strangerz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5F2cEq9Qczc6rvyotjKYp2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231350,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681900177"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6o8YZr5b2pdUucBtI6Aqeh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6o8YZr5b2pdUucBtI6Aqeh",
+    "id" : "6o8YZr5b2pdUucBtI6Aqeh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wrath",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2aa801f1f9ca3c6f97f66c28de876b88a6390aaa?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6o8YZr5b2pdUucBtI6Aqeh"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+        "id" : "2afZPGbbZnucXCMn4VREnU",
+        "name" : "Mrotek",
+        "type" : "artist",
+        "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6LbcJ2rtWrv5fbc3Mq9a1H"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6LbcJ2rtWrv5fbc3Mq9a1H",
+      "id" : "6LbcJ2rtWrv5fbc3Mq9a1H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e1b49f33eaab968a77db20e0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e1b49f33eaab968a77db20e0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e1b49f33eaab968a77db20e0",
+        "width" : 64
+      } ],
+      "name" : "Vile",
+      "release_date" : "2019-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6LbcJ2rtWrv5fbc3Mq9a1H"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240937,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBLV61906980"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2x77G50wgfEN1EcH1mReJ3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2x77G50wgfEN1EcH1mReJ3",
+    "id" : "2x77G50wgfEN1EcH1mReJ3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Vile - Radio Edit",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/12b543c72a85ec724e62ba086bbf1f491c5a2ee9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2x77G50wgfEN1EcH1mReJ3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6BPReCUBYOimAPOqJqQXLW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6BPReCUBYOimAPOqJqQXLW",
+        "id" : "6BPReCUBYOimAPOqJqQXLW",
+        "name" : "Digital Mindz",
+        "type" : "artist",
+        "uri" : "spotify:artist:6BPReCUBYOimAPOqJqQXLW"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+        "id" : "2afZPGbbZnucXCMn4VREnU",
+        "name" : "Mrotek",
+        "type" : "artist",
+        "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0y4aU6ctOzep62brZ39mWk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0y4aU6ctOzep62brZ39mWk",
+      "id" : "0y4aU6ctOzep62brZ39mWk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273493413fb9bc8a2da127077c3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02493413fb9bc8a2da127077c3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851493413fb9bc8a2da127077c3",
+        "width" : 64
+      } ],
+      "name" : "Dark Forces",
+      "release_date" : "2017-01-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0y4aU6ctOzep62brZ39mWk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BPReCUBYOimAPOqJqQXLW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6BPReCUBYOimAPOqJqQXLW",
+      "id" : "6BPReCUBYOimAPOqJqQXLW",
+      "name" : "Digital Mindz",
+      "type" : "artist",
+      "uri" : "spotify:artist:6BPReCUBYOimAPOqJqQXLW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YeTJu0S8s7BYqraz2VkLk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YeTJu0S8s7BYqraz2VkLk",
+      "id" : "1YeTJu0S8s7BYqraz2VkLk",
+      "name" : "MC Heretik",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YeTJu0S8s7BYqraz2VkLk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 233822,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681700006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5tYiVV1wmNJiilzf29SUNA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5tYiVV1wmNJiilzf29SUNA",
+    "id" : "5tYiVV1wmNJiilzf29SUNA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dark Forces",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c1a425b218fb9ba821102f76ea913cc828dcf208?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5tYiVV1wmNJiilzf29SUNA"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6M9ft167NX8iQZk5Csir6X"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6M9ft167NX8iQZk5Csir6X",
+        "id" : "6M9ft167NX8iQZk5Csir6X",
+        "name" : "Riiho",
+        "type" : "artist",
+        "uri" : "spotify:artist:6M9ft167NX8iQZk5Csir6X"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+        "id" : "2afZPGbbZnucXCMn4VREnU",
+        "name" : "Mrotek",
+        "type" : "artist",
+        "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6xEST2AhoMDjPS0HD6uN4i"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6xEST2AhoMDjPS0HD6uN4i",
+      "id" : "6xEST2AhoMDjPS0HD6uN4i",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733fb77475fa8c078712c5fca4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023fb77475fa8c078712c5fca4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513fb77475fa8c078712c5fca4",
+        "width" : 64
+      } ],
+      "name" : "Fallout",
+      "release_date" : "2016-02-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6xEST2AhoMDjPS0HD6uN4i"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M9ft167NX8iQZk5Csir6X"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M9ft167NX8iQZk5Csir6X",
+      "id" : "6M9ft167NX8iQZk5Csir6X",
+      "name" : "Riiho",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M9ft167NX8iQZk5Csir6X"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YeTJu0S8s7BYqraz2VkLk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YeTJu0S8s7BYqraz2VkLk",
+      "id" : "1YeTJu0S8s7BYqraz2VkLk",
+      "name" : "MC Heretik",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YeTJu0S8s7BYqraz2VkLk"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 284375,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681600068"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Sln42qJaRTTjDcIyHjJGw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Sln42qJaRTTjDcIyHjJGw",
+    "id" : "6Sln42qJaRTTjDcIyHjJGw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fallout - Radio Version",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d637ee0c4646d1e84d3760eb28197a15e7084091?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6Sln42qJaRTTjDcIyHjJGw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+        "id" : "2afZPGbbZnucXCMn4VREnU",
+        "name" : "Mrotek",
+        "type" : "artist",
+        "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5dmP7CJ8KRSvLwUMEII4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5dmP7CJ8KRSvLwUMEII4",
+      "id" : "3l5dmP7CJ8KRSvLwUMEII4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273be628153d7a9cbfc526da6fd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02be628153d7a9cbfc526da6fd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851be628153d7a9cbfc526da6fd",
+        "width" : 64
+      } ],
+      "name" : "Substance Abuse",
+      "release_date" : "2017-02-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3l5dmP7CJ8KRSvLwUMEII4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 272637,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681700069"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/52dQCwrxik1mMFtCcmYJ2d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/52dQCwrxik1mMFtCcmYJ2d",
+    "id" : "52dQCwrxik1mMFtCcmYJ2d",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Substance Abuse",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/37a13027da208388f18c7906a7c7ce9126ed2d89?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:52dQCwrxik1mMFtCcmYJ2d"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5IplmXE0qq3FFjeFmRSc5R"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5IplmXE0qq3FFjeFmRSc5R",
+      "id" : "5IplmXE0qq3FFjeFmRSc5R",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735d065875818f1cc898a0762e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025d065875818f1cc898a0762e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515d065875818f1cc898a0762e",
+        "width" : 64
+      } ],
+      "name" : "The New Age, Pt. III",
+      "release_date" : "2020-03-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:5IplmXE0qq3FFjeFmRSc5R"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 224390,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "AU9G32018804"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5fjfRCk0u2uNuBzxZitSdX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5fjfRCk0u2uNuBzxZitSdX",
+    "id" : "5fjfRCk0u2uNuBzxZitSdX",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "L2R",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a3a23f9fcaea0732e458e0b36f60b36eb6c64195?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5fjfRCk0u2uNuBzxZitSdX"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+        "id" : "2afZPGbbZnucXCMn4VREnU",
+        "name" : "Mrotek",
+        "type" : "artist",
+        "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/37kVwH2sBo0J0ZURJVs8vT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/37kVwH2sBo0J0ZURJVs8vT",
+        "id" : "37kVwH2sBo0J0ZURJVs8vT",
+        "name" : "Radiance",
+        "type" : "artist",
+        "uri" : "spotify:artist:37kVwH2sBo0J0ZURJVs8vT"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/407QnI7UYkkYhAAoibLUP3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/407QnI7UYkkYhAAoibLUP3",
+      "id" : "407QnI7UYkkYhAAoibLUP3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273977a1309b32dabc86428fd4b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02977a1309b32dabc86428fd4b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851977a1309b32dabc86428fd4b",
+        "width" : 64
+      } ],
+      "name" : "Higher Revelation",
+      "release_date" : "2018-08-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:407QnI7UYkkYhAAoibLUP3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2afZPGbbZnucXCMn4VREnU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2afZPGbbZnucXCMn4VREnU",
+      "id" : "2afZPGbbZnucXCMn4VREnU",
+      "name" : "Mrotek",
+      "type" : "artist",
+      "uri" : "spotify:artist:2afZPGbbZnucXCMn4VREnU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37kVwH2sBo0J0ZURJVs8vT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37kVwH2sBo0J0ZURJVs8vT",
+      "id" : "37kVwH2sBo0J0ZURJVs8vT",
+      "name" : "Radiance",
+      "type" : "artist",
+      "uri" : "spotify:artist:37kVwH2sBo0J0ZURJVs8vT"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 289645,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "BEB681800264"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4qlVymi0LSEULj1G2bXZc1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4qlVymi0LSEULj1G2bXZc1",
+    "id" : "4qlVymi0LSEULj1G2bXZc1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Higher Revelation",
+    "popularity" : 8,
+    "preview_url" : "https://p.scdn.co/mp3-preview/31ad1b67803ffca008bb44489a7da5d8fea4cbb9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4qlVymi0LSEULj1G2bXZc1"
+  } ]
+}

@@ -1,0 +1,844 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3a9qv6NLHnsVxJUtKOMHvD",
+        "id" : "3a9qv6NLHnsVxJUtKOMHvD",
+        "name" : "The Glitch Mob",
+        "type" : "artist",
+        "uri" : "spotify:artist:3a9qv6NLHnsVxJUtKOMHvD"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6rad5ivIYtao6nBMtYJDfB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6rad5ivIYtao6nBMtYJDfB",
+      "id" : "6rad5ivIYtao6nBMtYJDfB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735575a00b999113c65f95d696",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025575a00b999113c65f95d696",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515575a00b999113c65f95d696",
+        "width" : 64
+      } ],
+      "name" : "See Without Eyes (Deluxe)",
+      "release_date" : "2018-10-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:6rad5ivIYtao6nBMtYJDfB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3a9qv6NLHnsVxJUtKOMHvD",
+      "id" : "3a9qv6NLHnsVxJUtKOMHvD",
+      "name" : "The Glitch Mob",
+      "type" : "artist",
+      "uri" : "spotify:artist:3a9qv6NLHnsVxJUtKOMHvD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 273383,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QM6N21864650"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2tbAtiycEXydvPBfyCRnoK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2tbAtiycEXydvPBfyCRnoK",
+    "id" : "2tbAtiycEXydvPBfyCRnoK",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Interbeing (Huxley Anne Remix)",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6f57c70494738700a12eddfe8efdbc1ba6b73102?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:2tbAtiycEXydvPBfyCRnoK"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+        "id" : "0jFXLmYqujAAqWWkq0q3RR",
+        "name" : "Huxley Anne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0S8jMXoYfnWBpgKILuHlOE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0S8jMXoYfnWBpgKILuHlOE",
+      "id" : "0S8jMXoYfnWBpgKILuHlOE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27363d2b44da66bdaf658daf575",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0263d2b44da66bdaf658daf575",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485163d2b44da66bdaf658daf575",
+        "width" : 64
+      } ],
+      "name" : "FIGS",
+      "release_date" : "2019-07-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:0S8jMXoYfnWBpgKILuHlOE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 208554,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLZJ1923159"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4x85peITTCKsH134FLYgnG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4x85peITTCKsH134FLYgnG",
+    "id" : "4x85peITTCKsH134FLYgnG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Shame",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2dfec29802c63d91ef5d5b670cacb8076a5d07d0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4x85peITTCKsH134FLYgnG"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2LKHCiasurf2I0EBAAxbAg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2LKHCiasurf2I0EBAAxbAg",
+        "id" : "2LKHCiasurf2I0EBAAxbAg",
+        "name" : "Paint",
+        "type" : "artist",
+        "uri" : "spotify:artist:2LKHCiasurf2I0EBAAxbAg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+        "id" : "0jFXLmYqujAAqWWkq0q3RR",
+        "name" : "Huxley Anne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CCrWKLbAto1EXI2eoG9Vu",
+        "id" : "7CCrWKLbAto1EXI2eoG9Vu",
+        "name" : "Tsuruda",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CCrWKLbAto1EXI2eoG9Vu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Dg8i1Bp75bafzdJfekQ4v"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Dg8i1Bp75bafzdJfekQ4v",
+      "id" : "6Dg8i1Bp75bafzdJfekQ4v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d5485acd14bd483f5a3f40dd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d5485acd14bd483f5a3f40dd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d5485acd14bd483f5a3f40dd",
+        "width" : 64
+      } ],
+      "name" : "Exodus",
+      "release_date" : "2017-08-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:6Dg8i1Bp75bafzdJfekQ4v"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LKHCiasurf2I0EBAAxbAg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2LKHCiasurf2I0EBAAxbAg",
+      "id" : "2LKHCiasurf2I0EBAAxbAg",
+      "name" : "Paint",
+      "type" : "artist",
+      "uri" : "spotify:artist:2LKHCiasurf2I0EBAAxbAg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CCrWKLbAto1EXI2eoG9Vu",
+      "id" : "7CCrWKLbAto1EXI2eoG9Vu",
+      "name" : "Tsuruda",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CCrWKLbAto1EXI2eoG9Vu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 306549,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKCTU1700701"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/63Dq4dP4XQN5NjQocE6Vxp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/63Dq4dP4XQN5NjQocE6Vxp",
+    "id" : "63Dq4dP4XQN5NjQocE6Vxp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Beast Mode",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/abb7a65308e5c117bc2c64fd6c5c6e6ce558bfae?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:63Dq4dP4XQN5NjQocE6Vxp"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2LKHCiasurf2I0EBAAxbAg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2LKHCiasurf2I0EBAAxbAg",
+        "id" : "2LKHCiasurf2I0EBAAxbAg",
+        "name" : "Paint",
+        "type" : "artist",
+        "uri" : "spotify:artist:2LKHCiasurf2I0EBAAxbAg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+        "id" : "0jFXLmYqujAAqWWkq0q3RR",
+        "name" : "Huxley Anne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CCrWKLbAto1EXI2eoG9Vu",
+        "id" : "7CCrWKLbAto1EXI2eoG9Vu",
+        "name" : "Tsuruda",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CCrWKLbAto1EXI2eoG9Vu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Dg8i1Bp75bafzdJfekQ4v"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Dg8i1Bp75bafzdJfekQ4v",
+      "id" : "6Dg8i1Bp75bafzdJfekQ4v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d5485acd14bd483f5a3f40dd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d5485acd14bd483f5a3f40dd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d5485acd14bd483f5a3f40dd",
+        "width" : 64
+      } ],
+      "name" : "Exodus",
+      "release_date" : "2017-08-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:6Dg8i1Bp75bafzdJfekQ4v"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LKHCiasurf2I0EBAAxbAg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2LKHCiasurf2I0EBAAxbAg",
+      "id" : "2LKHCiasurf2I0EBAAxbAg",
+      "name" : "Paint",
+      "type" : "artist",
+      "uri" : "spotify:artist:2LKHCiasurf2I0EBAAxbAg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CCrWKLbAto1EXI2eoG9Vu",
+      "id" : "7CCrWKLbAto1EXI2eoG9Vu",
+      "name" : "Tsuruda",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CCrWKLbAto1EXI2eoG9Vu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 183409,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKCTU1700703"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6zhuOXFt2ypif3cubAhuw5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6zhuOXFt2ypif3cubAhuw5",
+    "id" : "6zhuOXFt2ypif3cubAhuw5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Exodus",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/71dfe687db4bcf54ac1014f1ecd9529d8b97b71c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6zhuOXFt2ypif3cubAhuw5"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2LKHCiasurf2I0EBAAxbAg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2LKHCiasurf2I0EBAAxbAg",
+        "id" : "2LKHCiasurf2I0EBAAxbAg",
+        "name" : "Paint",
+        "type" : "artist",
+        "uri" : "spotify:artist:2LKHCiasurf2I0EBAAxbAg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+        "id" : "0jFXLmYqujAAqWWkq0q3RR",
+        "name" : "Huxley Anne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CCrWKLbAto1EXI2eoG9Vu",
+        "id" : "7CCrWKLbAto1EXI2eoG9Vu",
+        "name" : "Tsuruda",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CCrWKLbAto1EXI2eoG9Vu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Dg8i1Bp75bafzdJfekQ4v"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Dg8i1Bp75bafzdJfekQ4v",
+      "id" : "6Dg8i1Bp75bafzdJfekQ4v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d5485acd14bd483f5a3f40dd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d5485acd14bd483f5a3f40dd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d5485acd14bd483f5a3f40dd",
+        "width" : 64
+      } ],
+      "name" : "Exodus",
+      "release_date" : "2017-08-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:6Dg8i1Bp75bafzdJfekQ4v"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LKHCiasurf2I0EBAAxbAg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2LKHCiasurf2I0EBAAxbAg",
+      "id" : "2LKHCiasurf2I0EBAAxbAg",
+      "name" : "Paint",
+      "type" : "artist",
+      "uri" : "spotify:artist:2LKHCiasurf2I0EBAAxbAg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CCrWKLbAto1EXI2eoG9Vu",
+      "id" : "7CCrWKLbAto1EXI2eoG9Vu",
+      "name" : "Tsuruda",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CCrWKLbAto1EXI2eoG9Vu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 187249,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKCTU1700704"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2NTPqhTOxg5pj61l5xbj2f"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2NTPqhTOxg5pj61l5xbj2f",
+    "id" : "2NTPqhTOxg5pj61l5xbj2f",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Reverie",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eaaef1cda3d5b62c8ebda13133ce6a0b529ca263?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2NTPqhTOxg5pj61l5xbj2f"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+        "id" : "0jFXLmYqujAAqWWkq0q3RR",
+        "name" : "Huxley Anne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0S8jMXoYfnWBpgKILuHlOE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0S8jMXoYfnWBpgKILuHlOE",
+      "id" : "0S8jMXoYfnWBpgKILuHlOE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27363d2b44da66bdaf658daf575",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0263d2b44da66bdaf658daf575",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485163d2b44da66bdaf658daf575",
+        "width" : 64
+      } ],
+      "name" : "FIGS",
+      "release_date" : "2019-07-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:0S8jMXoYfnWBpgKILuHlOE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 248000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLZJ1923155"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3fxGIee95RbZfqoqih2BWp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3fxGIee95RbZfqoqih2BWp",
+    "id" : "3fxGIee95RbZfqoqih2BWp",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Fury",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4ff1e43e585fc9b25fa703c43f915bcaad90b6a3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3fxGIee95RbZfqoqih2BWp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+        "id" : "0jFXLmYqujAAqWWkq0q3RR",
+        "name" : "Huxley Anne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5NXTousQSgPVdYuT32hfIO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5NXTousQSgPVdYuT32hfIO",
+      "id" : "5NXTousQSgPVdYuT32hfIO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bc9aff483dac3f34ab69ea8f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bc9aff483dac3f34ab69ea8f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bc9aff483dac3f34ab69ea8f",
+        "width" : 64
+      } ],
+      "name" : "Ilium",
+      "release_date" : "2017-04-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:5NXTousQSgPVdYuT32hfIO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DyfnCVagQqnxkMCv2L0hN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2DyfnCVagQqnxkMCv2L0hN",
+      "id" : "2DyfnCVagQqnxkMCv2L0hN",
+      "name" : "Flavio Rocha",
+      "type" : "artist",
+      "uri" : "spotify:artist:2DyfnCVagQqnxkMCv2L0hN"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 291750,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US25X1091000"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7AzFUIlE0iCDQGh5stA8lJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7AzFUIlE0iCDQGh5stA8lJ",
+    "id" : "7AzFUIlE0iCDQGh5stA8lJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Celadon",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6d93ce8dc9cb0f21940791b6f7721fe8612185c9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7AzFUIlE0iCDQGh5stA8lJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+        "id" : "0jFXLmYqujAAqWWkq0q3RR",
+        "name" : "Huxley Anne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5NXTousQSgPVdYuT32hfIO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5NXTousQSgPVdYuT32hfIO",
+      "id" : "5NXTousQSgPVdYuT32hfIO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bc9aff483dac3f34ab69ea8f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bc9aff483dac3f34ab69ea8f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bc9aff483dac3f34ab69ea8f",
+        "width" : 64
+      } ],
+      "name" : "Ilium",
+      "release_date" : "2017-04-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:5NXTousQSgPVdYuT32hfIO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 290000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US25X1090998"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5czUw88K2n9ISaZA6YXcO4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5czUw88K2n9ISaZA6YXcO4",
+    "id" : "5czUw88K2n9ISaZA6YXcO4",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Nin",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9ee6a89933ffd1200e97c7a44e88495348addb80?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5czUw88K2n9ISaZA6YXcO4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2LKHCiasurf2I0EBAAxbAg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2LKHCiasurf2I0EBAAxbAg",
+        "id" : "2LKHCiasurf2I0EBAAxbAg",
+        "name" : "Paint",
+        "type" : "artist",
+        "uri" : "spotify:artist:2LKHCiasurf2I0EBAAxbAg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+        "id" : "0jFXLmYqujAAqWWkq0q3RR",
+        "name" : "Huxley Anne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7CCrWKLbAto1EXI2eoG9Vu",
+        "id" : "7CCrWKLbAto1EXI2eoG9Vu",
+        "name" : "Tsuruda",
+        "type" : "artist",
+        "uri" : "spotify:artist:7CCrWKLbAto1EXI2eoG9Vu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Dg8i1Bp75bafzdJfekQ4v"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Dg8i1Bp75bafzdJfekQ4v",
+      "id" : "6Dg8i1Bp75bafzdJfekQ4v",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d5485acd14bd483f5a3f40dd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d5485acd14bd483f5a3f40dd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d5485acd14bd483f5a3f40dd",
+        "width" : 64
+      } ],
+      "name" : "Exodus",
+      "release_date" : "2017-08-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:6Dg8i1Bp75bafzdJfekQ4v"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LKHCiasurf2I0EBAAxbAg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2LKHCiasurf2I0EBAAxbAg",
+      "id" : "2LKHCiasurf2I0EBAAxbAg",
+      "name" : "Paint",
+      "type" : "artist",
+      "uri" : "spotify:artist:2LKHCiasurf2I0EBAAxbAg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CCrWKLbAto1EXI2eoG9Vu",
+      "id" : "7CCrWKLbAto1EXI2eoG9Vu",
+      "name" : "Tsuruda",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CCrWKLbAto1EXI2eoG9Vu"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 299070,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKCTU1700702"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3a0Zcf1wxlRHqSjzTCchnT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3a0Zcf1wxlRHqSjzTCchnT",
+    "id" : "3a0Zcf1wxlRHqSjzTCchnT",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Gaiden",
+    "popularity" : 8,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb4130456b06b855be69585b18e3ae11b64f7c39?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3a0Zcf1wxlRHqSjzTCchnT"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+        "id" : "0jFXLmYqujAAqWWkq0q3RR",
+        "name" : "Huxley Anne",
+        "type" : "artist",
+        "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1T3MS2Ioc18mOSrukZzlcg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1T3MS2Ioc18mOSrukZzlcg",
+      "id" : "1T3MS2Ioc18mOSrukZzlcg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730046ac802216998cdef0d9a6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020046ac802216998cdef0d9a6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510046ac802216998cdef0d9a6",
+        "width" : 64
+      } ],
+      "name" : "Boy, No",
+      "release_date" : "2019-06-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1T3MS2Ioc18mOSrukZzlcg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jFXLmYqujAAqWWkq0q3RR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jFXLmYqujAAqWWkq0q3RR",
+      "id" : "0jFXLmYqujAAqWWkq0q3RR",
+      "name" : "Huxley Anne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jFXLmYqujAAqWWkq0q3RR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NRtJHCVFkNJv8xTEN7AB6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6NRtJHCVFkNJv8xTEN7AB6",
+      "id" : "6NRtJHCVFkNJv8xTEN7AB6",
+      "name" : "HEZEN",
+      "type" : "artist",
+      "uri" : "spotify:artist:6NRtJHCVFkNJv8xTEN7AB6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 184512,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLZJ1923160"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0hpy3bVqyUTXHdU2wbiKQI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0hpy3bVqyUTXHdU2wbiKQI",
+    "id" : "0hpy3bVqyUTXHdU2wbiKQI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Boy, No",
+    "popularity" : 8,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f8b85de403d9e9eb0af06d87db0e446e1c585101?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0hpy3bVqyUTXHdU2wbiKQI"
+  } ]
+}

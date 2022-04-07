@@ -1,0 +1,790 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+        "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+        "name" : "Dirt Monkey",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1mlAkvaCrzWSxS2ATBZh27",
+        "id" : "1mlAkvaCrzWSxS2ATBZh27",
+        "name" : "Kumarion",
+        "type" : "artist",
+        "uri" : "spotify:artist:1mlAkvaCrzWSxS2ATBZh27"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/26PbpU0CeYAoLA1kdnc8EG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/26PbpU0CeYAoLA1kdnc8EG",
+      "id" : "26PbpU0CeYAoLA1kdnc8EG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27376ad2f5bed769e4feb01897b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0276ad2f5bed769e4feb01897b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485176ad2f5bed769e4feb01897b",
+        "width" : 64
+      } ],
+      "name" : "CONKA",
+      "release_date" : "2022-01-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:26PbpU0CeYAoLA1kdnc8EG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1mlAkvaCrzWSxS2ATBZh27",
+      "id" : "1mlAkvaCrzWSxS2ATBZh27",
+      "name" : "Kumarion",
+      "type" : "artist",
+      "uri" : "spotify:artist:1mlAkvaCrzWSxS2ATBZh27"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 196363,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CAUM82200006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0GAfl1Yj1KyioKVdJuGMxJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0GAfl1Yj1KyioKVdJuGMxJ",
+    "id" : "0GAfl1Yj1KyioKVdJuGMxJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "CONKA",
+    "popularity" : 47,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0GAfl1Yj1KyioKVdJuGMxJ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BTcOR2hEQZQQL5AMo5u10",
+        "id" : "4BTcOR2hEQZQQL5AMo5u10",
+        "name" : "Rusko",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BTcOR2hEQZQQL5AMo5u10"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2RVrcYbUcFtq2Mgo3G7nt8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2RVrcYbUcFtq2Mgo3G7nt8",
+      "id" : "2RVrcYbUcFtq2Mgo3G7nt8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27345321c0e0e5d31ae5a412bc3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0245321c0e0e5d31ae5a412bc3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485145321c0e0e5d31ae5a412bc3",
+        "width" : 64
+      } ],
+      "name" : "Sauce",
+      "release_date" : "2020-10-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:2RVrcYbUcFtq2Mgo3G7nt8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BTcOR2hEQZQQL5AMo5u10",
+      "id" : "4BTcOR2hEQZQQL5AMo5u10",
+      "name" : "Rusko",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BTcOR2hEQZQQL5AMo5u10"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 268800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMBZ92026862"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0gYiBub2mvHyDDX9kX2wAm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0gYiBub2mvHyDDX9kX2wAm",
+    "id" : "0gYiBub2mvHyDDX9kX2wAm",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Quarantinis",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/647519ac5664dff51d693be312acc9f0d09acadf?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0gYiBub2mvHyDDX9kX2wAm"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2fRdiG5FNFFs4OjG7p6yxk",
+        "id" : "2fRdiG5FNFFs4OjG7p6yxk",
+        "name" : "SubDocta",
+        "type" : "artist",
+        "uri" : "spotify:artist:2fRdiG5FNFFs4OjG7p6yxk"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5va2K2pf0u3E2mztBwGOGP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5va2K2pf0u3E2mztBwGOGP",
+      "id" : "5va2K2pf0u3E2mztBwGOGP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738e0492d250bdb442642d35c9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028e0492d250bdb442642d35c9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518e0492d250bdb442642d35c9",
+        "width" : 64
+      } ],
+      "name" : "West Coast Wobble",
+      "release_date" : "2018-09-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:5va2K2pf0u3E2mztBwGOGP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2fRdiG5FNFFs4OjG7p6yxk",
+      "id" : "2fRdiG5FNFFs4OjG7p6yxk",
+      "name" : "SubDocta",
+      "type" : "artist",
+      "uri" : "spotify:artist:2fRdiG5FNFFs4OjG7p6yxk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218028,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCADU1840865"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6PY0ANBNZ0071Jm7shTqcl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6PY0ANBNZ0071Jm7shTqcl",
+    "id" : "6PY0ANBNZ0071Jm7shTqcl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "West Coast Wobble",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9c468f9b0692355c81334ec4a88be9e62a3c077b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6PY0ANBNZ0071Jm7shTqcl"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+        "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+        "name" : "Dirt Monkey",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6W2gUXfh52suNzgbphtONL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6W2gUXfh52suNzgbphtONL",
+      "id" : "6W2gUXfh52suNzgbphtONL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273441b683700e2719b33985102",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02441b683700e2719b33985102",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851441b683700e2719b33985102",
+        "width" : 64
+      } ],
+      "name" : "Wubula",
+      "release_date" : "2017-08-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:6W2gUXfh52suNzgbphtONL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 243200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCADE1795994"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4EzXMevYacfWa9uLQbZcA2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4EzXMevYacfWa9uLQbZcA2",
+    "id" : "4EzXMevYacfWa9uLQbZcA2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Lift Off",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/28416f95f542f15bfa90288a633bde3811e83196?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4EzXMevYacfWa9uLQbZcA2"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Ok1Cm5YX5StCQZgH0r2xF",
+        "id" : "4Ok1Cm5YX5StCQZgH0r2xF",
+        "name" : "PEEKABOO",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Ok1Cm5YX5StCQZgH0r2xF"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+        "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+        "name" : "Dirt Monkey",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7N32KkxkcozB75nVADFUtJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7N32KkxkcozB75nVADFUtJ",
+      "id" : "7N32KkxkcozB75nVADFUtJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a1d47c726c44c9751b16d7f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a1d47c726c44c9751b16d7f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a1d47c726c44c9751b16d7f",
+        "width" : 64
+      } ],
+      "name" : "Colossal",
+      "release_date" : "2019-08-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7N32KkxkcozB75nVADFUtJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Ok1Cm5YX5StCQZgH0r2xF",
+      "id" : "4Ok1Cm5YX5StCQZgH0r2xF",
+      "name" : "PEEKABOO",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Ok1Cm5YX5StCQZgH0r2xF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 170580,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR1945158"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/68259QF2vdPWB3zu9YE6Ol"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/68259QF2vdPWB3zu9YE6Ol",
+    "id" : "68259QF2vdPWB3zu9YE6Ol",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Colossal",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b3a7eb9992aa17e048c6ee1c13a4e759c3efce1b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:68259QF2vdPWB3zu9YE6Ol"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+        "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+        "name" : "Dirt Monkey",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1bFUHThVEOIixkg7pKJ6VK",
+        "id" : "1bFUHThVEOIixkg7pKJ6VK",
+        "name" : "Sully",
+        "type" : "artist",
+        "uri" : "spotify:artist:1bFUHThVEOIixkg7pKJ6VK"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Ai9jOCsJ1vNge2s18cHsb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Ai9jOCsJ1vNge2s18cHsb",
+      "id" : "0Ai9jOCsJ1vNge2s18cHsb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734e71025b0946ff0cc705ddee",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024e71025b0946ff0cc705ddee",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514e71025b0946ff0cc705ddee",
+        "width" : 64
+      } ],
+      "name" : "King Kong",
+      "release_date" : "2022-03-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0Ai9jOCsJ1vNge2s18cHsb"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1bFUHThVEOIixkg7pKJ6VK",
+      "id" : "1bFUHThVEOIixkg7pKJ6VK",
+      "name" : "Sully",
+      "type" : "artist",
+      "uri" : "spotify:artist:1bFUHThVEOIixkg7pKJ6VK"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 168295,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USA2P2200610"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5izcyR6xwSnqmdJd4gWpjk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5izcyR6xwSnqmdJd4gWpjk",
+    "id" : "5izcyR6xwSnqmdJd4gWpjk",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "King Kong",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/47d6b4ee46f97bdc342ca13ad446e1995d3bcd47?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5izcyR6xwSnqmdJd4gWpjk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+        "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+        "name" : "Dirt Monkey",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6hZJ396DxDO2Gst5hvb4a0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6hZJ396DxDO2Gst5hvb4a0",
+      "id" : "6hZJ396DxDO2Gst5hvb4a0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fedb523271ce43fb437198e5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fedb523271ce43fb437198e5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fedb523271ce43fb437198e5",
+        "width" : 64
+      } ],
+      "name" : "Primatology",
+      "release_date" : "2019-12-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6hZJ396DxDO2Gst5hvb4a0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
+      "id" : "6UBA15slIuadJ8h2lPRPos",
+      "name" : "Tech N9ne",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UBA15slIuadJ8h2lPRPos"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 234728,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "CA5KR1972614"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ntIKaJ28vOa71fr8Wiohe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ntIKaJ28vOa71fr8Wiohe",
+    "id" : "4ntIKaJ28vOa71fr8Wiohe",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Shut Up",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d9358ce61599abdc187ae0aabf52268256d28684?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4ntIKaJ28vOa71fr8Wiohe"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+        "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+        "name" : "Dirt Monkey",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6W2gUXfh52suNzgbphtONL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6W2gUXfh52suNzgbphtONL",
+      "id" : "6W2gUXfh52suNzgbphtONL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273441b683700e2719b33985102",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02441b683700e2719b33985102",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851441b683700e2719b33985102",
+        "width" : 64
+      } ],
+      "name" : "Wubula",
+      "release_date" : "2017-08-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:6W2gUXfh52suNzgbphtONL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 294000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCADE1795988"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/61mDP9WFbhr4fKz7JpQjyY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/61mDP9WFbhr4fKz7JpQjyY",
+    "id" : "61mDP9WFbhr4fKz7JpQjyY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Warning",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/31d82919d2259f94fa28ef61767b35f709d7a3ad?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:61mDP9WFbhr4fKz7JpQjyY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2vO2xyA5x4rdfDV5bEAJKZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2vO2xyA5x4rdfDV5bEAJKZ",
+        "id" : "2vO2xyA5x4rdfDV5bEAJKZ",
+        "name" : "Illenium, Dirt Monkey",
+        "type" : "artist",
+        "uri" : "spotify:artist:2vO2xyA5x4rdfDV5bEAJKZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+        "id" : "45eNHdiiabvmbp4erw26rg",
+        "name" : "ILLENIUM",
+        "type" : "artist",
+        "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+        "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+        "name" : "Dirt Monkey",
+        "type" : "artist",
+        "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/14S824jumt0PYlNqL9FWtO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/14S824jumt0PYlNqL9FWtO",
+      "id" : "14S824jumt0PYlNqL9FWtO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738be947a6b92b429438adf8cd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028be947a6b92b429438adf8cd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518be947a6b92b429438adf8cd",
+        "width" : 64
+      } ],
+      "name" : "Bring Forth The Pressure - Single",
+      "release_date" : "2016-05-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:14S824jumt0PYlNqL9FWtO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+      "id" : "45eNHdiiabvmbp4erw26rg",
+      "name" : "ILLENIUM",
+      "type" : "artist",
+      "uri" : "spotify:artist:45eNHdiiabvmbp4erw26rg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 165333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QMWZB1511686"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7r5dj3XCojWuJ3iv9OfKi2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7r5dj3XCojWuJ3iv9OfKi2",
+    "id" : "7r5dj3XCojWuJ3iv9OfKi2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Bring Forth The Pressure",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0d4ec89797af47088ea3c04d2c5df7954f6e8b54?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7r5dj3XCojWuJ3iv9OfKi2"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5T8UUzfaHyJtrsE22uXzhc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5T8UUzfaHyJtrsE22uXzhc",
+      "id" : "5T8UUzfaHyJtrsE22uXzhc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b80133aa378be866cad8753a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b80133aa378be866cad8753a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b80133aa378be866cad8753a",
+        "width" : 64
+      } ],
+      "name" : "Depth Perception",
+      "release_date" : "2018-01-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:5T8UUzfaHyJtrsE22uXzhc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dNqUwGTZcQQ09ecTKkCGH",
+      "id" : "5dNqUwGTZcQQ09ecTKkCGH",
+      "name" : "Dirt Monkey",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dNqUwGTZcQQ09ecTKkCGH"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 260214,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCADK1742748"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4GJtlybu9l3hIFsFDZPiWM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4GJtlybu9l3hIFsFDZPiWM",
+    "id" : "4GJtlybu9l3hIFsFDZPiWM",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Warp Drive",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/346dd8e2677e9ceb539165ca4cdce2a28d14d8a9?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4GJtlybu9l3hIFsFDZPiWM"
+  } ]
+}

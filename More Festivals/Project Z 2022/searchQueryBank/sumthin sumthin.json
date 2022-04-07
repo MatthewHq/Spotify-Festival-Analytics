@@ -1,0 +1,451 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=sumthin+sumthin&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17771
+      },
+      "genres" : [ "electronic trap", "future bass", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/2a8ez0A2owcYhFki9860sm",
+      "id" : "2a8ez0A2owcYhFki9860sm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb05950507c5cb4efd719cf609",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517405950507c5cb4efd719cf609",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17805950507c5cb4efd719cf609",
+        "width" : 160
+      } ],
+      "name" : "sumthin sumthin",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:2a8ez0A2owcYhFki9860sm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zHYJWBR2bFAlsvS0gOjhA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1422
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2zHYJWBR2bFAlsvS0gOjhA",
+      "id" : "2zHYJWBR2bFAlsvS0gOjhA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aeadbc537a4189fcdab67e5c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aeadbc537a4189fcdab67e5c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aeadbc537a4189fcdab67e5c",
+        "width" : 64
+      } ],
+      "name" : "Sumthin Terrible",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:2zHYJWBR2bFAlsvS0gOjhA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ogdJg7L2Y1j7FNKELVJwP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ogdJg7L2Y1j7FNKELVJwP",
+      "id" : "1ogdJg7L2Y1j7FNKELVJwP",
+      "images" : [ ],
+      "name" : "Sumthinelse",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ogdJg7L2Y1j7FNKELVJwP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KKoRx0qyjiACw4xMx1Dsg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3KKoRx0qyjiACw4xMx1Dsg",
+      "id" : "3KKoRx0qyjiACw4xMx1Dsg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e0b5762c94f8158693785d91",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e0b5762c94f8158693785d91",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e0b5762c94f8158693785d91",
+        "width" : 64
+      } ],
+      "name" : "Sumthing",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3KKoRx0qyjiACw4xMx1Dsg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jfPVQosFTxebdK4bWM42E"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5jfPVQosFTxebdK4bWM42E",
+      "id" : "5jfPVQosFTxebdK4bWM42E",
+      "images" : [ ],
+      "name" : "Jay Sumthin'",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5jfPVQosFTxebdK4bWM42E"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0gvV5i7VqTqIiPi73y0hjp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0gvV5i7VqTqIiPi73y0hjp",
+      "id" : "0gvV5i7VqTqIiPi73y0hjp",
+      "images" : [ ],
+      "name" : "Murk sumthin",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0gvV5i7VqTqIiPi73y0hjp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02uCQeOTuBeDOHdF149b2w"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/02uCQeOTuBeDOHdF149b2w",
+      "id" : "02uCQeOTuBeDOHdF149b2w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fd0b16cd94c4248dd641f6f6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fd0b16cd94c4248dd641f6f6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fd0b16cd94c4248dd641f6f6",
+        "width" : 64
+      } ],
+      "name" : "Lil Sumthing",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:02uCQeOTuBeDOHdF149b2w"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eRmanXPfOeYWkJ7KjwG9a"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3eRmanXPfOeYWkJ7KjwG9a",
+      "id" : "3eRmanXPfOeYWkJ7KjwG9a",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ddee747a4f9bdfbff59a3c15",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ddee747a4f9bdfbff59a3c15",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ddee747a4f9bdfbff59a3c15",
+        "width" : 64
+      } ],
+      "name" : "Sumthin' Blue",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3eRmanXPfOeYWkJ7KjwG9a"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WqJ8Ieqihp47UawHGKTfp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3WqJ8Ieqihp47UawHGKTfp",
+      "id" : "3WqJ8Ieqihp47UawHGKTfp",
+      "images" : [ ],
+      "name" : "Sumthin' Epic",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3WqJ8Ieqihp47UawHGKTfp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Nztu7tbMcLCY0ysLgp0sX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Nztu7tbMcLCY0ysLgp0sX",
+      "id" : "2Nztu7tbMcLCY0ysLgp0sX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273305b25a82baaa41128384a19",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02305b25a82baaa41128384a19",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851305b25a82baaa41128384a19",
+        "width" : 64
+      } ],
+      "name" : "Sumthing New",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Nztu7tbMcLCY0ysLgp0sX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58RjGu4Vp5gAIrIPHHT64H"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/58RjGu4Vp5gAIrIPHHT64H",
+      "id" : "58RjGu4Vp5gAIrIPHHT64H",
+      "images" : [ ],
+      "name" : "sumthin epic",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:58RjGu4Vp5gAIrIPHHT64H"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3fqaMEqpkzu8A2ZfRNyCBg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3fqaMEqpkzu8A2ZfRNyCBg",
+      "id" : "3fqaMEqpkzu8A2ZfRNyCBg",
+      "images" : [ ],
+      "name" : "Sumthing Feeshy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3fqaMEqpkzu8A2ZfRNyCBg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xARSDAsD7lr4VbC3b8jDe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5xARSDAsD7lr4VbC3b8jDe",
+      "id" : "5xARSDAsD7lr4VbC3b8jDe",
+      "images" : [ ],
+      "name" : "Roll Sumthin'",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5xARSDAsD7lr4VbC3b8jDe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05kGqrnQF5PblAl0CO0TLq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/05kGqrnQF5PblAl0CO0TLq",
+      "id" : "05kGqrnQF5PblAl0CO0TLq",
+      "images" : [ ],
+      "name" : "Sumthing Gucci",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:05kGqrnQF5PblAl0CO0TLq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4GLxFQqXhjX6zNWJ5mqGz0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4GLxFQqXhjX6zNWJ5mqGz0",
+      "id" : "4GLxFQqXhjX6zNWJ5mqGz0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc49c6f8869986f121e4ec5ff",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c49c6f8869986f121e4ec5ff",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c49c6f8869986f121e4ec5ff",
+        "width" : 160
+      } ],
+      "name" : "Minus Sumthing",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4GLxFQqXhjX6zNWJ5mqGz0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Jvhu4iDH8RI3egBpkpuW2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 40
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Jvhu4iDH8RI3egBpkpuW2",
+      "id" : "2Jvhu4iDH8RI3egBpkpuW2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273584a8d442d4dfed7d1635bee",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02584a8d442d4dfed7d1635bee",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851584a8d442d4dfed7d1635bee",
+        "width" : 64
+      } ],
+      "name" : "Sumthing Strange",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Jvhu4iDH8RI3egBpkpuW2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61t6DqaxE4UJJHD3cYWDto"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 51
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/61t6DqaxE4UJJHD3cYWDto",
+      "id" : "61t6DqaxE4UJJHD3cYWDto",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4b8d438c643ed27aeb676181",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744b8d438c643ed27aeb676181",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784b8d438c643ed27aeb676181",
+        "width" : 160
+      } ],
+      "name" : "The Sumthins",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:61t6DqaxE4UJJHD3cYWDto"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3x2uwawtl7HGVH4Jse9u2V"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3x2uwawtl7HGVH4Jse9u2V",
+      "id" : "3x2uwawtl7HGVH4Jse9u2V",
+      "images" : [ ],
+      "name" : "Sumthin Terible",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3x2uwawtl7HGVH4Jse9u2V"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1qllNgtMO00LtNXLwCIao9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1qllNgtMO00LtNXLwCIao9",
+      "id" : "1qllNgtMO00LtNXLwCIao9",
+      "images" : [ ],
+      "name" : "sumthin gunny",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1qllNgtMO00LtNXLwCIao9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5z8pcPj4dqvLY918ZFbBzb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 52
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5z8pcPj4dqvLY918ZFbBzb",
+      "id" : "5z8pcPj4dqvLY918ZFbBzb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb8000b5ac1a3e4d6d3e16dbc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b8000b5ac1a3e4d6d3e16dbc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b8000b5ac1a3e4d6d3e16dbc",
+        "width" : 160
+      } ],
+      "name" : "Sumthing Beddar",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:5z8pcPj4dqvLY918ZFbBzb"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=sumthin+sumthin&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 57
+  }
+}

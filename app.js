@@ -16,7 +16,7 @@ async function main() {
 
         // await spotifyRequests.bulkArtistCache(festivalTitle)
         // await dbManage.artistCollect(festivalTitle)
-
+// 
         // await spotifyRequests.overWriteArtists(festivalTitle)
         // await spotifyRequests.bulkArtistTopTrack(festivalTitle)
 
