@@ -1,0 +1,555 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=reggie+watts&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 67534
+      },
+      "genres" : [ "comic" ],
+      "href" : "https://api.spotify.com/v1/artists/3ni9LX95aVQksOuoHFEbEx",
+      "id" : "3ni9LX95aVQksOuoHFEbEx",
+      "images" : [ {
+        "height" : 667,
+        "url" : "https://i.scdn.co/image/957a9f60f2c72597d29294d896bc38035f3e3012",
+        "width" : 1000
+      }, {
+        "height" : 427,
+        "url" : "https://i.scdn.co/image/6ae423a882b7de3407b491ec3befacaffb86c11d",
+        "width" : 640
+      }, {
+        "height" : 133,
+        "url" : "https://i.scdn.co/image/fcbd9799cec0d31bc1434e3b05e788290557e317",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/167641be3f8de4f3cae307490ba94d3434fca74e",
+        "width" : 64
+      } ],
+      "name" : "Reggie Watts",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:3ni9LX95aVQksOuoHFEbEx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Jy1xyZmeaDfWegZ5QkWv2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Jy1xyZmeaDfWegZ5QkWv2",
+      "id" : "0Jy1xyZmeaDfWegZ5QkWv2",
+      "images" : [ ],
+      "name" : "Reggie Watts of Maktub",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Jy1xyZmeaDfWegZ5QkWv2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 112266
+      },
+      "genres" : [ "bay area indie", "garage pop", "indie garage rock", "oakland indie", "power-pop punk" ],
+      "href" : "https://api.spotify.com/v1/artists/6A5Ns1SpGWTt8SzXPwiqVE",
+      "id" : "6A5Ns1SpGWTt8SzXPwiqVE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2a8721bf74d6ce8682d9795b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742a8721bf74d6ce8682d9795b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782a8721bf74d6ce8682d9795b",
+        "width" : 160
+      } ],
+      "name" : "Shannon & The Clams",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:6A5Ns1SpGWTt8SzXPwiqVE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 162
+      },
+      "genres" : [ "jazz brass" ],
+      "href" : "https://api.spotify.com/v1/artists/14Ou42tZvSnt2LaFXiMp3z",
+      "id" : "14Ou42tZvSnt2LaFXiMp3z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273266c5ba6528efeac2c3a35e6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02266c5ba6528efeac2c3a35e6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851266c5ba6528efeac2c3a35e6",
+        "width" : 64
+      } ],
+      "name" : "Reggie Watkins",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:14Ou42tZvSnt2LaFXiMp3z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VDPs0X6CiBH6cN6Qnv7Kd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3849
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3VDPs0X6CiBH6cN6Qnv7Kd",
+      "id" : "3VDPs0X6CiBH6cN6Qnv7Kd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27342cba5798c2924a9ab325259",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0242cba5798c2924a9ab325259",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485142cba5798c2924a9ab325259",
+        "width" : 64
+      } ],
+      "name" : "Maktub",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:3VDPs0X6CiBH6cN6Qnv7Kd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5gq3n7sArlLhtzuO3mdzx3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 143
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5gq3n7sArlLhtzuO3mdzx3",
+      "id" : "5gq3n7sArlLhtzuO3mdzx3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27387c35fbb1e2c209112dbc56f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0287c35fbb1e2c209112dbc56f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485187c35fbb1e2c209112dbc56f",
+        "width" : 64
+      } ],
+      "name" : "Reggie Warren",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:5gq3n7sArlLhtzuO3mdzx3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 211730
+      },
+      "genres" : [ "instrumental stoner rock", "japanese psychedelic", "japanese psychedelic rock", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/0hrb5WRiNlj8vh3WnCgXFq",
+      "id" : "0hrb5WRiNlj8vh3WnCgXFq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb952b074c07607f6b8afc3f93",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174952b074c07607f6b8afc3f93",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178952b074c07607f6b8afc3f93",
+        "width" : 160
+      } ],
+      "name" : "Kikagaku Moyo",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:0hrb5WRiNlj8vh3WnCgXFq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DhxKxj7g3gQqViN5GsCHS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 581
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2DhxKxj7g3gQqViN5GsCHS",
+      "id" : "2DhxKxj7g3gQqViN5GsCHS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb44cdb83a4a92aad0bb2fed7f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517444cdb83a4a92aad0bb2fed7f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17844cdb83a4a92aad0bb2fed7f",
+        "width" : 160
+      } ],
+      "name" : "Reggie Washington",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:2DhxKxj7g3gQqViN5GsCHS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 126854
+      },
+      "genres" : [ "chamber psych", "indie rock", "modern alternative rock", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/4IeWU3NYBI9mISFVhzXG8f",
+      "id" : "4IeWU3NYBI9mISFVhzXG8f",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1f4c82dd5578030a1bcbd601",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741f4c82dd5578030a1bcbd601",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781f4c82dd5578030a1bcbd601",
+        "width" : 160
+      } ],
+      "name" : "shame",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:4IeWU3NYBI9mISFVhzXG8f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F0Pgewfee7uo4TM12xeVG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4F0Pgewfee7uo4TM12xeVG",
+      "id" : "4F0Pgewfee7uo4TM12xeVG",
+      "images" : [ ],
+      "name" : "ReggieWa'ne",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4F0Pgewfee7uo4TM12xeVG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 171883
+      },
+      "genres" : [ "egg punk", "stockholm indie" ],
+      "href" : "https://api.spotify.com/v1/artists/2nAKP6etu8wXNnezKXgqgg",
+      "id" : "2nAKP6etu8wXNnezKXgqgg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf309aa1b63929627f6be0697",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f309aa1b63929627f6be0697",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f309aa1b63929627f6be0697",
+        "width" : 160
+      } ],
+      "name" : "Viagra Boys",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:2nAKP6etu8wXNnezKXgqgg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Z4o3r4FtuOt5HtHTezycP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5Z4o3r4FtuOt5HtHTezycP",
+      "id" : "5Z4o3r4FtuOt5HtHTezycP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27369500099f535fbc0045f6ff3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0269500099f535fbc0045f6ff3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485169500099f535fbc0045f6ff3",
+        "width" : 64
+      } ],
+      "name" : "Reggie Watson",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Z4o3r4FtuOt5HtHTezycP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 297947
+      },
+      "genres" : [ "indie rock", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/4skJp5OKvcc9eKokiuhi2s",
+      "id" : "4skJp5OKvcc9eKokiuhi2s",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbc5ae9a4284e21fd2e761428",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bc5ae9a4284e21fd2e761428",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bc5ae9a4284e21fd2e761428",
+        "width" : 160
+      } ],
+      "name" : "Pond",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:4skJp5OKvcc9eKokiuhi2s"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75936
+      },
+      "genres" : [ "noise punk" ],
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2dc23250ce8a742f9d095e50",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742dc23250ce8a742f9d095e50",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782dc23250ce8a742f9d095e50",
+        "width" : 160
+      } ],
+      "name" : "Show Me the Body",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 354101
+      },
+      "genres" : [ "art pop", "chamber pop", "chamber psych", "chillwave", "electronica", "electropop", "experimental pop", "indie pop", "indie rock", "seattle indie" ],
+      "href" : "https://api.spotify.com/v1/artists/2ueoLVCXQ948OfhVvAy3Nn",
+      "id" : "2ueoLVCXQ948OfhVvAy3Nn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd36443df36bea9f18e7b0f43",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d36443df36bea9f18e7b0f43",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d36443df36bea9f18e7b0f43",
+        "width" : 160
+      } ],
+      "name" : "Perfume Genius",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ueoLVCXQ948OfhVvAy3Nn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1X88xrhEvsoUjJ6EUHwiWF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 96627
+      },
+      "genres" : [ "indie garage rock", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/1X88xrhEvsoUjJ6EUHwiWF",
+      "id" : "1X88xrhEvsoUjJ6EUHwiWF",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/ab6772690000c46cc7d3427d2c80790a6b62298b",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6772690000dd22c7d3427d2c80790a6b62298b",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/ab6772690000bac3c7d3427d2c80790a6b62298b",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67726900008f74c7d3427d2c80790a6b62298b",
+        "width" : 64
+      } ],
+      "name" : "Fuzz",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:1X88xrhEvsoUjJ6EUHwiWF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 137212
+      },
+      "genres" : [ "art pop", "uk alternative pop" ],
+      "href" : "https://api.spotify.com/v1/artists/09kXLeOXRyfNQMXRaDO4qA",
+      "id" : "09kXLeOXRyfNQMXRaDO4qA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1772815fafe2bdda56ce532d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741772815fafe2bdda56ce532d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781772815fafe2bdda56ce532d",
+        "width" : 160
+      } ],
+      "name" : "Nilüfer Yanya",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:09kXLeOXRyfNQMXRaDO4qA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 225624
+      },
+      "genres" : [ "australian garage punk", "australian psych", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/7GRrLcUxwtQLvOpO7OHO80",
+      "id" : "7GRrLcUxwtQLvOpO7OHO80",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb603deddc4488c0f4d1cd8b1d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174603deddc4488c0f4d1cd8b1d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178603deddc4488c0f4d1cd8b1d",
+        "width" : 160
+      } ],
+      "name" : "Psychedelic Porn Crumpets",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:7GRrLcUxwtQLvOpO7OHO80"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Yh5vHNrVsgQ9UEcj8Rqss"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14623
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Yh5vHNrVsgQ9UEcj8Rqss",
+      "id" : "0Yh5vHNrVsgQ9UEcj8Rqss",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4ee9a7fa8a4edc0e0710df91",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744ee9a7fa8a4edc0e0710df91",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784ee9a7fa8a4edc0e0710df91",
+        "width" : 160
+      } ],
+      "name" : "Wajatta",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Yh5vHNrVsgQ9UEcj8Rqss"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 452159
+      },
+      "genres" : [ "indie garage rock", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/5J81VungUjSVHxlPpTI9KG",
+      "id" : "5J81VungUjSVHxlPpTI9KG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb57e304470606c0f284d6c748",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517457e304470606c0f284d6c748",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17857e304470606c0f284d6c748",
+        "width" : 160
+      } ],
+      "name" : "Mild High Club",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:5J81VungUjSVHxlPpTI9KG"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=reggie+watts&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 22
+  }
+}

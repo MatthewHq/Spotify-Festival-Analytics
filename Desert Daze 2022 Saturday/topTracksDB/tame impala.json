@@ -1,0 +1,709 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/79dL7FLiJFOO0EoehUHQBv",
+      "id" : "79dL7FLiJFOO0EoehUHQBv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79",
+        "width" : 64
+      } ],
+      "name" : "Currents",
+      "release_date" : "2015-07-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:79dL7FLiJFOO0EoehUHQBv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "AUUM71500303"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6K4t31amVTZDgR3sKmwUJJ",
+    "id" : "6K4t31amVTZDgR3sKmwUJJ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "The Less I Know The Better",
+    "popularity" : 85,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:6K4t31amVTZDgR3sKmwUJJ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+        "id" : "3AA28KZvwAUcZuOKwyblJQ",
+        "name" : "Gorillaz",
+        "type" : "artist",
+        "uri" : "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6GI3CJjT2bOnMfprCpjT1d",
+        "id" : "6GI3CJjT2bOnMfprCpjT1d",
+        "name" : "Bootie Brown",
+        "type" : "artist",
+        "uri" : "spotify:artist:6GI3CJjT2bOnMfprCpjT1d"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4V9YFKLqZ5h8nQFTvDQscC",
+      "id" : "4V9YFKLqZ5h8nQFTvDQscC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fda889bb57058a4a1b88edcd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fda889bb57058a4a1b88edcd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fda889bb57058a4a1b88edcd",
+        "width" : 64
+      } ],
+      "name" : "New Gold (feat. Tame Impala and Bootie Brown)",
+      "release_date" : "2022-08-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4V9YFKLqZ5h8nQFTvDQscC"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+      "id" : "3AA28KZvwAUcZuOKwyblJQ",
+      "name" : "Gorillaz",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6GI3CJjT2bOnMfprCpjT1d",
+      "id" : "6GI3CJjT2bOnMfprCpjT1d",
+      "name" : "Bootie Brown",
+      "type" : "artist",
+      "uri" : "spotify:artist:6GI3CJjT2bOnMfprCpjT1d"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 215149,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBAYE2200462"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/64dLd6rVqDLtkXFYrEUHIU",
+    "id" : "64dLd6rVqDLtkXFYrEUHIU",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "New Gold (feat. Tame Impala and Bootie Brown)",
+    "popularity" : 83,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2d4f3af6a427a293cd0a0542242cfe60cd1ff4d3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:64dLd6rVqDLtkXFYrEUHIU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/31qVWUdRrlb8thMvts0yYL",
+      "id" : "31qVWUdRrlb8thMvts0yYL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49",
+        "width" : 64
+      } ],
+      "name" : "The Slow Rush",
+      "release_date" : "2020-02-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:31qVWUdRrlb8thMvts0yYL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 432560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUUM71900935"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0mO6oS60RST2sWmN2FKknP",
+    "id" : "0mO6oS60RST2sWmN2FKknP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "One More Hour",
+    "popularity" : 80,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0mO6oS60RST2sWmN2FKknP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/79dL7FLiJFOO0EoehUHQBv",
+      "id" : "79dL7FLiJFOO0EoehUHQBv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79",
+        "width" : 64
+      } ],
+      "name" : "Currents",
+      "release_date" : "2015-07-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:79dL7FLiJFOO0EoehUHQBv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 318591,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUUM71500296"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5M4yti0QxgqJieUYaEXcpw",
+    "id" : "5M4yti0QxgqJieUYaEXcpw",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Eventually",
+    "popularity" : 79,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5M4yti0QxgqJieUYaEXcpw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/31qVWUdRrlb8thMvts0yYL",
+      "id" : "31qVWUdRrlb8thMvts0yYL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49",
+        "width" : 64
+      } ],
+      "name" : "The Slow Rush",
+      "release_date" : "2020-02-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:31qVWUdRrlb8thMvts0yYL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 237800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUUM71900956"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5hM5arv9KDbCHS0k9uqwjr",
+    "id" : "5hM5arv9KDbCHS0k9uqwjr",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Borderline",
+    "popularity" : 79,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5hM5arv9KDbCHS0k9uqwjr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/79dL7FLiJFOO0EoehUHQBv",
+      "id" : "79dL7FLiJFOO0EoehUHQBv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79",
+        "width" : 64
+      } ],
+      "name" : "Currents",
+      "release_date" : "2015-07-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:79dL7FLiJFOO0EoehUHQBv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 363240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUUM71500302"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/52ojopYMUzeNcudsoz7O9D",
+    "id" : "52ojopYMUzeNcudsoz7O9D",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "New Person, Same Old Mistakes",
+    "popularity" : 79,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:52ojopYMUzeNcudsoz7O9D"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3C2MFZ2iHotUQOSBzdSvM7",
+      "id" : "3C2MFZ2iHotUQOSBzdSvM7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02370c12f82872c9cfaee80193",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851370c12f82872c9cfaee80193",
+        "width" : 64
+      } ],
+      "name" : "Lonerism",
+      "release_date" : "2012-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3C2MFZ2iHotUQOSBzdSvM7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 192960,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUUM71200493"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0LtOwyZoSNZKJWHqjzADpW",
+    "id" : "0LtOwyZoSNZKJWHqjzADpW",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Feels Like We Only Go Backwards",
+    "popularity" : 76,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0LtOwyZoSNZKJWHqjzADpW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/79dL7FLiJFOO0EoehUHQBv",
+      "id" : "79dL7FLiJFOO0EoehUHQBv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79",
+        "width" : 64
+      } ],
+      "name" : "Currents",
+      "release_date" : "2015-07-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:79dL7FLiJFOO0EoehUHQBv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 467586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUUM71500292"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2X485T9Z5Ly0xyaghN73ed",
+    "id" : "2X485T9Z5Ly0xyaghN73ed",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Let It Happen",
+    "popularity" : 75,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2X485T9Z5Ly0xyaghN73ed"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3C2MFZ2iHotUQOSBzdSvM7",
+      "id" : "3C2MFZ2iHotUQOSBzdSvM7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02370c12f82872c9cfaee80193",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851370c12f82872c9cfaee80193",
+        "width" : 64
+      } ],
+      "name" : "Lonerism",
+      "release_date" : "2012-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3C2MFZ2iHotUQOSBzdSvM7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUUM71200495"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6qZjm61s6u8Ead9sWxCDro",
+    "id" : "6qZjm61s6u8Ead9sWxCDro",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Elephant",
+    "popularity" : 72,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6qZjm61s6u8Ead9sWxCDro"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+        "id" : "5INjqkS1o8h1imAzPqGZBb",
+        "name" : "Tame Impala",
+        "type" : "artist",
+        "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/31qVWUdRrlb8thMvts0yYL",
+      "id" : "31qVWUdRrlb8thMvts0yYL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485158267bd34420a00d5cf83a49",
+        "width" : 64
+      } ],
+      "name" : "The Slow Rush",
+      "release_date" : "2020-02-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:31qVWUdRrlb8thMvts0yYL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id" : "5INjqkS1o8h1imAzPqGZBb",
+      "name" : "Tame Impala",
+      "type" : "artist",
+      "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 239266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUUM71900933"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6RZmhpvukfyeSURhf4kZ0d",
+    "id" : "6RZmhpvukfyeSURhf4kZ0d",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Is It True",
+    "popularity" : 70,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6RZmhpvukfyeSURhf4kZ0d"
+  } ]
+}

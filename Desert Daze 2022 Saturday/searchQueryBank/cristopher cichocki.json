@@ -1,0 +1,579 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=cristopher+cichocki&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 48685
+      },
+      "genres" : [ "belgian electronic", "belgian indie", "chamber psych", "electronica" ],
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb58dd652b0bea611d388edc62",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517458dd652b0bea611d388edc62",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17858dd652b0bea611d388edc62",
+        "width" : 160
+      } ],
+      "name" : "Charlotte Adigéry",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 208921
+      },
+      "genres" : [ "alternative hip hop", "escape room", "experimental hip hop", "industrial hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/5HJ2kX5UTwN4Ns8fB5Rn1I",
+      "id" : "5HJ2kX5UTwN4Ns8fB5Rn1I",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcc61b54c332a2c8baaaf375b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cc61b54c332a2c8baaaf375b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cc61b54c332a2c8baaaf375b",
+        "width" : 160
+      } ],
+      "name" : "clipping.",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:5HJ2kX5UTwN4Ns8fB5Rn1I"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 354101
+      },
+      "genres" : [ "art pop", "chamber pop", "chamber psych", "chillwave", "electronica", "electropop", "experimental pop", "indie pop", "indie rock", "seattle indie" ],
+      "href" : "https://api.spotify.com/v1/artists/2ueoLVCXQ948OfhVvAy3Nn",
+      "id" : "2ueoLVCXQ948OfhVvAy3Nn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd36443df36bea9f18e7b0f43",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d36443df36bea9f18e7b0f43",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d36443df36bea9f18e7b0f43",
+        "width" : 160
+      } ],
+      "name" : "Perfume Genius",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ueoLVCXQ948OfhVvAy3Nn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 28558
+      },
+      "genres" : [ "chamber psych", "london indie", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/4iWOyexPqcvgycdx7mLUcl",
+      "id" : "4iWOyexPqcvgycdx7mLUcl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3e21c5c1bf1c3bcc9165fe8f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743e21c5c1bf1c3bcc9165fe8f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783e21c5c1bf1c3bcc9165fe8f",
+        "width" : 160
+      } ],
+      "name" : "Snapped Ankles",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:4iWOyexPqcvgycdx7mLUcl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 361343
+      },
+      "genres" : [ "dream pop", "indie pop", "slowcore" ],
+      "href" : "https://api.spotify.com/v1/artists/5AyEXCtu3xnnsTGCo4RVZh",
+      "id" : "5AyEXCtu3xnnsTGCo4RVZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cd67bffd1bac79ac28e77d79",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cd67bffd1bac79ac28e77d79",
+        "width" : 160
+      } ],
+      "name" : "Duster",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:5AyEXCtu3xnnsTGCo4RVZh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 18846
+      },
+      "genres" : [ "indie garage rock", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/3iqOjs2iwL6ywtcENg1ppm",
+      "id" : "3iqOjs2iwL6ywtcENg1ppm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe6f636dec55d24b4585decd6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e6f636dec55d24b4585decd6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e6f636dec55d24b4585decd6",
+        "width" : 160
+      } ],
+      "name" : "Acid Dad",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:3iqOjs2iwL6ywtcENg1ppm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 194564
+      },
+      "genres" : [ "electronica", "glitch hop", "microhouse", "uk bass", "wonky" ],
+      "href" : "https://api.spotify.com/v1/artists/0IVapwlnM3dEOiMsHXsghT",
+      "id" : "0IVapwlnM3dEOiMsHXsghT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb58bb48ce14516c2ce524a796",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517458bb48ce14516c2ce524a796",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17858bb48ce14516c2ce524a796",
+        "width" : 160
+      } ],
+      "name" : "Nosaj Thing",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:0IVapwlnM3dEOiMsHXsghT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 18130
+      },
+      "genres" : [ "fourth world", "indie jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/7FQiZr787umw7P5dO3zqld",
+      "id" : "7FQiZr787umw7P5dO3zqld",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5df61ea4b0a0c90750ce0e32",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745df61ea4b0a0c90750ce0e32",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785df61ea4b0a0c90750ce0e32",
+        "width" : 160
+      } ],
+      "name" : "John Carroll Kirby",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:7FQiZr787umw7P5dO3zqld"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 159245
+      },
+      "genres" : [ "afrobeat", "funk", "psychedelic soul", "soul", "world" ],
+      "href" : "https://api.spotify.com/v1/artists/4hfcSstwnyuBoek1dQwLkG",
+      "id" : "4hfcSstwnyuBoek1dQwLkG",
+      "images" : [ {
+        "height" : 723,
+        "url" : "https://i.scdn.co/image/6d8c59504d001316fc2c272f64097c76d37e9e77",
+        "width" : 960
+      }, {
+        "height" : 482,
+        "url" : "https://i.scdn.co/image/39317dfd4275550b5d8a60fa5fb3084680f79d2d",
+        "width" : 640
+      }, {
+        "height" : 151,
+        "url" : "https://i.scdn.co/image/cf450a63e55ba43cbaa2cd7408a42cb599f04b06",
+        "width" : 200
+      }, {
+        "height" : 48,
+        "url" : "https://i.scdn.co/image/9b4fb823f4525033e5fe9421a7a4d1d40a7e958f",
+        "width" : 64
+      } ],
+      "name" : "Cymande",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:4hfcSstwnyuBoek1dQwLkG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 67847
+      },
+      "genres" : [ "jazz funk" ],
+      "href" : "https://api.spotify.com/v1/artists/7EhUXju6pssa8o3CvFJTew",
+      "id" : "7EhUXju6pssa8o3CvFJTew",
+      "images" : [ {
+        "height" : 557,
+        "url" : "https://i.scdn.co/image/18f0de0667923c13796b77b177e340a971671548",
+        "width" : 600
+      }, {
+        "height" : 186,
+        "url" : "https://i.scdn.co/image/a9a452ae5438b705f77048064267a2d69be09b04",
+        "width" : 200
+      }, {
+        "height" : 59,
+        "url" : "https://i.scdn.co/image/abdc36752f71106b51107e134882028572cd5dd7",
+        "width" : 64
+      } ],
+      "name" : "Cortex",
+      "popularity" : 48,
+      "type" : "artist",
+      "uri" : "spotify:artist:7EhUXju6pssa8o3CvFJTew"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18SJLvRK2C84Ayo1owImsk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 68
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/18SJLvRK2C84Ayo1owImsk",
+      "id" : "18SJLvRK2C84Ayo1owImsk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb251081bb7b4eac9994ebe6aa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174251081bb7b4eac9994ebe6aa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178251081bb7b4eac9994ebe6aa",
+        "width" : 160
+      } ],
+      "name" : "Heads Are Heavy",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:18SJLvRK2C84Ayo1owImsk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6208
+      },
+      "genres" : [ "neo-psychedelic", "space rock" ],
+      "href" : "https://api.spotify.com/v1/artists/2rVYWIbqIKx8d6hN4owg4A",
+      "id" : "2rVYWIbqIKx8d6hN4owg4A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7027d5b44adbbf323bd13f4d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747027d5b44adbbf323bd13f4d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787027d5b44adbbf323bd13f4d",
+        "width" : 160
+      } ],
+      "name" : "Al Lover",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:2rVYWIbqIKx8d6hN4owg4A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22562
+      },
+      "genres" : [ "dutch indie rock", "latin afrobeat" ],
+      "href" : "https://api.spotify.com/v1/artists/02riqGdWw4EdqKJzOeWRZS",
+      "id" : "02riqGdWw4EdqKJzOeWRZS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1594d8954c03f5e3b89f61be",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741594d8954c03f5e3b89f61be",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781594d8954c03f5e3b89f61be",
+        "width" : 160
+      } ],
+      "name" : "The Mauskovic Dance Band",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:02riqGdWw4EdqKJzOeWRZS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10336
+      },
+      "genres" : [ "australian psych" ],
+      "href" : "https://api.spotify.com/v1/artists/4YmPo9Zke9OYNmV5WW7CMS",
+      "id" : "4YmPo9Zke9OYNmV5WW7CMS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6647aea143e358786e0fbf48",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746647aea143e358786e0fbf48",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786647aea143e358786e0fbf48",
+        "width" : 160
+      } ],
+      "name" : "Divide And Dissolve",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:4YmPo9Zke9OYNmV5WW7CMS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17172
+      },
+      "genres" : [ "hauntology", "outsider" ],
+      "href" : "https://api.spotify.com/v1/artists/6KUKRy1D49ZxwfSFPcV7WF",
+      "id" : "6KUKRy1D49ZxwfSFPcV7WF",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/a6578badb023d855f54edae47cefc23e375e3e50",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/41fd93d3d3c6086fc0a2c7376f41391337314dad",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/83245948afa55739c4e55d858e3480c58721bc91",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/dca7c1a9ef99cfce17ac439f930fb647ba91fc88",
+        "width" : 64
+      } ],
+      "name" : "The Space Lady",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:6KUKRy1D49ZxwfSFPcV7WF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 34930
+      },
+      "genres" : [ "afropop", "tuareg guitar", "world" ],
+      "href" : "https://api.spotify.com/v1/artists/1KQ1687z0hWSabx0YswG54",
+      "id" : "1KQ1687z0hWSabx0YswG54",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebdd45ccdc0c37bdfb8e85c4b6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174dd45ccdc0c37bdfb8e85c4b6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178dd45ccdc0c37bdfb8e85c4b6",
+        "width" : 160
+      } ],
+      "name" : "Imarhan",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:1KQ1687z0hWSabx0YswG54"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9274
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/16eM95zw2t0KRDniuNFKVt",
+      "id" : "16eM95zw2t0KRDniuNFKVt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd0234a9a9c439d3b68034edb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d0234a9a9c439d3b68034edb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d0234a9a9c439d3b68034edb",
+        "width" : 160
+      } ],
+      "name" : "Molly Lewis",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:16eM95zw2t0KRDniuNFKVt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12757
+      },
+      "genres" : [ "electra", "electronica", "float house" ],
+      "href" : "https://api.spotify.com/v1/artists/5Ly0z60jjgsY4rkmjRFtPS",
+      "id" : "5Ly0z60jjgsY4rkmjRFtPS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0b1015b14d90885e67c06b13",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740b1015b14d90885e67c06b13",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780b1015b14d90885e67c06b13",
+        "width" : 160
+      } ],
+      "name" : "Elkka",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Ly0z60jjgsY4rkmjRFtPS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 96462
+      },
+      "genres" : [ "alternative dance", "chillwave", "dream pop", "electropop", "indie rock", "indietronica", "metropopolis" ],
+      "href" : "https://api.spotify.com/v1/artists/1J6xqDysFw6YiQ0vMvIKds",
+      "id" : "1J6xqDysFw6YiQ0vMvIKds",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebdce1a3aee1ffcd8fe640769a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174dce1a3aee1ffcd8fe640769a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178dce1a3aee1ffcd8fe640769a",
+        "width" : 160
+      } ],
+      "name" : "Small Black",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:1J6xqDysFw6YiQ0vMvIKds"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VIQa9l1HW6VPhR9IdJS8C"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 40392
+      },
+      "genres" : [ "la indie" ],
+      "href" : "https://api.spotify.com/v1/artists/4VIQa9l1HW6VPhR9IdJS8C",
+      "id" : "4VIQa9l1HW6VPhR9IdJS8C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbb85f6ae2ee9c8316782bd2b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bb85f6ae2ee9c8316782bd2b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bb85f6ae2ee9c8316782bd2b",
+        "width" : 160
+      } ],
+      "name" : "L.A. WITCH",
+      "popularity" : 30,
+      "type" : "artist",
+      "uri" : "spotify:artist:4VIQa9l1HW6VPhR9IdJS8C"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 20
+  }
+}

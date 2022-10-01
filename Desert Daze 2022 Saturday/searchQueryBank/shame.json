@@ -1,0 +1,579 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=shame&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 126854
+      },
+      "genres" : [ "chamber psych", "indie rock", "modern alternative rock", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/4IeWU3NYBI9mISFVhzXG8f",
+      "id" : "4IeWU3NYBI9mISFVhzXG8f",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1f4c82dd5578030a1bcbd601",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741f4c82dd5578030a1bcbd601",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781f4c82dd5578030a1bcbd601",
+        "width" : 160
+      } ],
+      "name" : "shame",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:4IeWU3NYBI9mISFVhzXG8f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Ezyyu77f1fqfuYmwaogfe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 48872
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Ezyyu77f1fqfuYmwaogfe",
+      "id" : "6Ezyyu77f1fqfuYmwaogfe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfc0e1f0103258134130539e5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fc0e1f0103258134130539e5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fc0e1f0103258134130539e5",
+        "width" : 160
+      } ],
+      "name" : "James and the Shame",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Ezyyu77f1fqfuYmwaogfe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5e9kOcXnAtmqHbgpqPQ5oF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 76
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5e9kOcXnAtmqHbgpqPQ5oF",
+      "id" : "5e9kOcXnAtmqHbgpqPQ5oF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4d19e8a8b42d72974bf4274",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4d19e8a8b42d72974bf4274",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4d19e8a8b42d72974bf4274",
+        "width" : 64
+      } ],
+      "name" : "No Shame",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:5e9kOcXnAtmqHbgpqPQ5oF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16749
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3Z7onAknzpinUu3KtmgeZb",
+      "id" : "3Z7onAknzpinUu3KtmgeZb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2a3b593c4d66e48fdf9bf2f3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742a3b593c4d66e48fdf9bf2f3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782a3b593c4d66e48fdf9bf2f3",
+        "width" : 160
+      } ],
+      "name" : "Avenoir",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:3Z7onAknzpinUu3KtmgeZb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nlXYsUANsIcOQHExAL18d"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9065
+      },
+      "genres" : [ "detroit indie" ],
+      "href" : "https://api.spotify.com/v1/artists/0nlXYsUANsIcOQHExAL18d",
+      "id" : "0nlXYsUANsIcOQHExAL18d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb448a05c349e5fcdbfda20e37",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174448a05c349e5fcdbfda20e37",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178448a05c349e5fcdbfda20e37",
+        "width" : 160
+      } ],
+      "name" : "The High Strung",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0nlXYsUANsIcOQHExAL18d"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62y3BI0eXbJaEo5DoYbC5Z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1521
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/62y3BI0eXbJaEo5DoYbC5Z",
+      "id" : "62y3BI0eXbJaEo5DoYbC5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb78378db8243bcd008117cf2f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517478378db8243bcd008117cf2f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17878378db8243bcd008117cf2f",
+        "width" : 160
+      } ],
+      "name" : "Shameka Dwight",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:62y3BI0eXbJaEo5DoYbC5Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 56069
+      },
+      "genres" : [ "acid house", "big beat", "dance rock", "hardcore techno", "hip house" ],
+      "href" : "https://api.spotify.com/v1/artists/5E704N5StxMVKpalhaJ5L3",
+      "id" : "5E704N5StxMVKpalhaJ5L3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb522186207e68712d6f5eaaaf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174522186207e68712d6f5eaaaf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178522186207e68712d6f5eaaaf",
+        "width" : 160
+      } ],
+      "name" : "The Shamen",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:5E704N5StxMVKpalhaJ5L3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6oNP9O9ydujHHQwVqkFo2b"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 90
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6oNP9O9ydujHHQwVqkFo2b",
+      "id" : "6oNP9O9ydujHHQwVqkFo2b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734692ca2786517e36689d6eb2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024692ca2786517e36689d6eb2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514692ca2786517e36689d6eb2",
+        "width" : 64
+      } ],
+      "name" : "La Strada",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:6oNP9O9ydujHHQwVqkFo2b"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6883
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2GotSKYxVNpUhP64wN6DCP",
+      "id" : "2GotSKYxVNpUhP64wN6DCP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb16b61c390fe237761086ff04",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517416b61c390fe237761086ff04",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17816b61c390fe237761086ff04",
+        "width" : 160
+      } ],
+      "name" : "Shameik Moore",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:2GotSKYxVNpUhP64wN6DCP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3QOpmt9gkW1jNaYBCBadDG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1517
+      },
+      "genres" : [ "finnish punk" ],
+      "href" : "https://api.spotify.com/v1/artists/3QOpmt9gkW1jNaYBCBadDG",
+      "id" : "3QOpmt9gkW1jNaYBCBadDG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273370bcd9feda468f3f134b686",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02370bcd9feda468f3f134b686",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851370bcd9feda468f3f134b686",
+        "width" : 64
+      } ],
+      "name" : "No Shame",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:3QOpmt9gkW1jNaYBCBadDG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1kB9272dj9VkUElky5CLXP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3143
+      },
+      "genres" : [ "british soundtrack" ],
+      "href" : "https://api.spotify.com/v1/artists/1kB9272dj9VkUElky5CLXP",
+      "id" : "1kB9272dj9VkUElky5CLXP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb17d9d6b1e12c1c2960e55043",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517417d9d6b1e12c1c2960e55043",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17817d9d6b1e12c1c2960e55043",
+        "width" : 160
+      } ],
+      "name" : "Harry Escott",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:1kB9272dj9VkUElky5CLXP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/614YsiGpasj83GdNGPiSvH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2719
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/614YsiGpasj83GdNGPiSvH",
+      "id" : "614YsiGpasj83GdNGPiSvH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb03c5deb38dff6fcb5d4683fb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517403c5deb38dff6fcb5d4683fb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17803c5deb38dff6fcb5d4683fb",
+        "width" : 160
+      } ],
+      "name" : "Shameless",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:614YsiGpasj83GdNGPiSvH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7900
+      },
+      "genres" : [ "chinese indie", "taiwan indie", "taiwan pop" ],
+      "href" : "https://api.spotify.com/v1/artists/5vKIV2YjcVSf3wWUkcyCR5",
+      "id" : "5vKIV2YjcVSf3wWUkcyCR5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb20afedf3f66d1933db4fb651",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517420afedf3f66d1933db4fb651",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17820afedf3f66d1933db4fb651",
+        "width" : 160
+      } ],
+      "name" : "Our Shame",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:5vKIV2YjcVSf3wWUkcyCR5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 576771
+      },
+      "genres" : [ "alternative rock", "austindie", "indie rock", "modern rock", "pop rock", "rock" ],
+      "href" : "https://api.spotify.com/v1/artists/0K1q0nXQ8is36PzOKAMbNe",
+      "id" : "0K1q0nXQ8is36PzOKAMbNe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0973020fd7390db68e5ebf1c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740973020fd7390db68e5ebf1c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780973020fd7390db68e5ebf1c",
+        "width" : 160
+      } ],
+      "name" : "Spoon",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:0K1q0nXQ8is36PzOKAMbNe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QFIowD5P1Ej1Pb0gsZPzN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4994
+      },
+      "genres" : [ "deathrock" ],
+      "href" : "https://api.spotify.com/v1/artists/0QFIowD5P1Ej1Pb0gsZPzN",
+      "id" : "0QFIowD5P1Ej1Pb0gsZPzN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd06c035d655deaf27c85735a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d06c035d655deaf27c85735a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d06c035d655deaf27c85735a",
+        "width" : 160
+      } ],
+      "name" : "Secret Shame",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:0QFIowD5P1Ej1Pb0gsZPzN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q6BnAehoOT2Z8luT0M123"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 379
+      },
+      "genres" : [ "alternative roots rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3q6BnAehoOT2Z8luT0M123",
+      "id" : "3q6BnAehoOT2Z8luT0M123",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27393957825aa645f4a1457c7a4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0293957825aa645f4a1457c7a4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485193957825aa645f4a1457c7a4",
+        "width" : 64
+      } ],
+      "name" : "Choo Choo la Rouge",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:3q6BnAehoOT2Z8luT0M123"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0v9rpfactODNpzNylM1TUk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5326
+      },
+      "genres" : [ "belgian rock" ],
+      "href" : "https://api.spotify.com/v1/artists/0v9rpfactODNpzNylM1TUk",
+      "id" : "0v9rpfactODNpzNylM1TUk",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/162a56e998e93dcf091ebce952285e90f72cd647",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d04cd5bb52c43df4da60997e000cc6664b2381ac",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/462f7d359fc0eafcc00747c5935952c961e3ee97",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/5c8078cf77dc8e7fcfa304307179cc6111b8182e",
+        "width" : 64
+      } ],
+      "name" : "Shameboy",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:0v9rpfactODNpzNylM1TUk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2da7ehIX9lFyIDqmjqVZvS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38103
+      },
+      "genres" : [ "indie rock", "seattle indie", "stomp and holler" ],
+      "href" : "https://api.spotify.com/v1/artists/2da7ehIX9lFyIDqmjqVZvS",
+      "id" : "2da7ehIX9lFyIDqmjqVZvS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc91d99a24fbbbb5fd4eb7b65",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c91d99a24fbbbb5fd4eb7b65",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c91d99a24fbbbb5fd4eb7b65",
+        "width" : 160
+      } ],
+      "name" : "Say Hi",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:2da7ehIX9lFyIDqmjqVZvS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5OsRBZmXFhAo0iZDrdA80x"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1741
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5OsRBZmXFhAo0iZDrdA80x",
+      "id" : "5OsRBZmXFhAo0iZDrdA80x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4ce26fa64d70b9f6eeecc439",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744ce26fa64d70b9f6eeecc439",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784ce26fa64d70b9f6eeecc439",
+        "width" : 160
+      } ],
+      "name" : "Shameless.",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:5OsRBZmXFhAo0iZDrdA80x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KqE3rHdX1G6MkvG1lSlbK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1150
+      },
+      "genres" : [ "sunshine pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0KqE3rHdX1G6MkvG1lSlbK",
+      "id" : "0KqE3rHdX1G6MkvG1lSlbK",
+      "images" : [ {
+        "height" : 1163,
+        "url" : "https://i.scdn.co/image/3b7b3dd913cf0cd8fcf1a34c862f9fb6ae0a29db",
+        "width" : 1000
+      }, {
+        "height" : 744,
+        "url" : "https://i.scdn.co/image/4c9b19286ceae93dec2059da24b9d0a19549dd10",
+        "width" : 640
+      }, {
+        "height" : 233,
+        "url" : "https://i.scdn.co/image/cf86de14adbfa1ec3e698bdae821bcc53b5c3c1e",
+        "width" : 200
+      }, {
+        "height" : 74,
+        "url" : "https://i.scdn.co/image/7726c342056a9f632703d625ab49434a1c7afc10",
+        "width" : 64
+      } ],
+      "name" : "Cryan' Shames",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:0KqE3rHdX1G6MkvG1lSlbK"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=shame&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 743
+  }
+}

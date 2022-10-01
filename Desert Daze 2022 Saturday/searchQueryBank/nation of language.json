@@ -1,0 +1,459 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=nation+of+language&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 40949
+      },
+      "genres" : [ "alternative dance", "brooklyn indie" ],
+      "href" : "https://api.spotify.com/v1/artists/5JWBow4ywgKNQ5HBxY8hcz",
+      "id" : "5JWBow4ywgKNQ5HBxY8hcz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8f6273f30a4fa5b2175bf047",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748f6273f30a4fa5b2175bf047",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788f6273f30a4fa5b2175bf047",
+        "width" : 160
+      } ],
+      "name" : "Nation of Language",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5JWBow4ywgKNQ5HBxY8hcz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30121
+      },
+      "genres" : [ "mathcore" ],
+      "href" : "https://api.spotify.com/v1/artists/4V5obzWMr7BHZrjOiQwB4K",
+      "id" : "4V5obzWMr7BHZrjOiQwB4K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd92e0118bad05253ab058304",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d92e0118bad05253ab058304",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d92e0118bad05253ab058304",
+        "width" : 160
+      } ],
+      "name" : "The Armed",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:4V5obzWMr7BHZrjOiQwB4K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35745
+      },
+      "genres" : [ "indie jazz", "indie soul", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/2Ks1Z1scmEDZfaYaCS7Osj",
+      "id" : "2Ks1Z1scmEDZfaYaCS7Osj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0eb5e8b89aa79f62e1bef593",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740eb5e8b89aa79f62e1bef593",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780eb5e8b89aa79f62e1bef593",
+        "width" : 160
+      } ],
+      "name" : "Surprise Chef",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Ks1Z1scmEDZfaYaCS7Osj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18SJLvRK2C84Ayo1owImsk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 68
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/18SJLvRK2C84Ayo1owImsk",
+      "id" : "18SJLvRK2C84Ayo1owImsk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb251081bb7b4eac9994ebe6aa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174251081bb7b4eac9994ebe6aa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178251081bb7b4eac9994ebe6aa",
+        "width" : 160
+      } ],
+      "name" : "Heads Are Heavy",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:18SJLvRK2C84Ayo1owImsk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2O4TjZZ1qnlJWQRHyMXt3H"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 590
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2O4TjZZ1qnlJWQRHyMXt3H",
+      "id" : "2O4TjZZ1qnlJWQRHyMXt3H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc64c3097d0fe873f88bc5c86",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c64c3097d0fe873f88bc5c86",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c64c3097d0fe873f88bc5c86",
+        "width" : 160
+      } ],
+      "name" : "Thebrosfresh",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:2O4TjZZ1qnlJWQRHyMXt3H"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36165
+      },
+      "genres" : [ "afrobeat", "afropop", "world" ],
+      "href" : "https://api.spotify.com/v1/artists/1GQur7dDvAWhKT9u9YwBJZ",
+      "id" : "1GQur7dDvAWhKT9u9YwBJZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7361c1c60adf83e3d66352ef",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747361c1c60adf83e3d66352ef",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787361c1c60adf83e3d66352ef",
+        "width" : 160
+      } ],
+      "name" : "Seun Kuti",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:1GQur7dDvAWhKT9u9YwBJZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17188
+      },
+      "genres" : [ "indie pop" ],
+      "href" : "https://api.spotify.com/v1/artists/7AWyYXZ5tIc0xNSfKLD3QX",
+      "id" : "7AWyYXZ5tIc0xNSfKLD3QX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb784ee705bb1b8c6253023722",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174784ee705bb1b8c6253023722",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178784ee705bb1b8c6253023722",
+        "width" : 160
+      } ],
+      "name" : "girlhouse",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:7AWyYXZ5tIc0xNSfKLD3QX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 43271
+      },
+      "genres" : [ "french garage rock", "french stoner rock", "neo-psychedelic", "rock alternatif francais" ],
+      "href" : "https://api.spotify.com/v1/artists/0x9HCT7ZZlOEfLSVCDi5SO",
+      "id" : "0x9HCT7ZZlOEfLSVCDi5SO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb247ab814d00c3ee319eb2055",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174247ab814d00c3ee319eb2055",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178247ab814d00c3ee319eb2055",
+        "width" : 160
+      } ],
+      "name" : "SLIFT",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0x9HCT7ZZlOEfLSVCDi5SO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11127
+      },
+      "genres" : [ "indie punk", "la indie" ],
+      "href" : "https://api.spotify.com/v1/artists/34ji1NPhqjImjXwOb2kwg4",
+      "id" : "34ji1NPhqjImjXwOb2kwg4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba22d6458aa98abcd0b427889",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a22d6458aa98abcd0b427889",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a22d6458aa98abcd0b427889",
+        "width" : 160
+      } ],
+      "name" : "The Paranoyds",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:34ji1NPhqjImjXwOb2kwg4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29135
+      },
+      "genres" : [ "art pop", "indie folk" ],
+      "href" : "https://api.spotify.com/v1/artists/1WVGbBnzZ5WLZ2PfesIHik",
+      "id" : "1WVGbBnzZ5WLZ2PfesIHik",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5a348631830e87556180cbf7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745a348631830e87556180cbf7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785a348631830e87556180cbf7",
+        "width" : 160
+      } ],
+      "name" : "Cassandra Jenkins",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:1WVGbBnzZ5WLZ2PfesIHik"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 67738
+      },
+      "genres" : [ "alternative r&b", "funk", "indie soul", "neo soul", "soul" ],
+      "href" : "https://api.spotify.com/v1/artists/1plioVQ0mcgAO7uhvWkJJy",
+      "id" : "1plioVQ0mcgAO7uhvWkJJy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb99b304bfd6eb8acdb9a1eea2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517499b304bfd6eb8acdb9a1eea2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17899b304bfd6eb8acdb9a1eea2",
+        "width" : 160
+      } ],
+      "name" : "Lady Wray",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:1plioVQ0mcgAO7uhvWkJJy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 49482
+      },
+      "genres" : [ "country rock", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/54tWKkrjv4bQgKrQrNlecm",
+      "id" : "54tWKkrjv4bQgKrQrNlecm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfcb38ddcb704e738053de3be",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fcb38ddcb704e738053de3be",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fcb38ddcb704e738053de3be",
+        "width" : 160
+      } ],
+      "name" : "Asleep At The Wheel",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:54tWKkrjv4bQgKrQrNlecm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 152345
+      },
+      "genres" : [ "art pop", "indie rock", "london indie", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+      "id" : "3PP6ghmOlDl2jaKaH0avUN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaebcf58177b9739feadb00b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aebcf58177b9739feadb00b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aebcf58177b9739feadb00b9",
+        "width" : 160
+      } ],
+      "name" : "Black Country, New Road",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 137212
+      },
+      "genres" : [ "art pop", "uk alternative pop" ],
+      "href" : "https://api.spotify.com/v1/artists/09kXLeOXRyfNQMXRaDO4qA",
+      "id" : "09kXLeOXRyfNQMXRaDO4qA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1772815fafe2bdda56ce532d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741772815fafe2bdda56ce532d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781772815fafe2bdda56ce532d",
+        "width" : 160
+      } ],
+      "name" : "Nilüfer Yanya",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:09kXLeOXRyfNQMXRaDO4qA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5F3fDx84RYnmx0FGZeRtSF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21270
+      },
+      "genres" : [ "abstract hip hop", "chicago rap" ],
+      "href" : "https://api.spotify.com/v1/artists/5F3fDx84RYnmx0FGZeRtSF",
+      "id" : "5F3fDx84RYnmx0FGZeRtSF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebebfb9aed05b708b0189584ea",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ebfb9aed05b708b0189584ea",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ebfb9aed05b708b0189584ea",
+        "width" : 160
+      } ],
+      "name" : "Serengeti",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:5F3fDx84RYnmx0FGZeRtSF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5265
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3BUpv2goO0OTzcj7yYkRZJ",
+      "id" : "3BUpv2goO0OTzcj7yYkRZJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb51ec3e0ad79f0407ed7df130",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517451ec3e0ad79f0407ed7df130",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17851ec3e0ad79f0407ed7df130",
+        "width" : 160
+      } ],
+      "name" : "JJUUJJUU",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:3BUpv2goO0OTzcj7yYkRZJ"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 16
+  }
+}

@@ -1,0 +1,853 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+        "id" : "0dSnTqwXok006MwsjjlzUl",
+        "name" : "Bolis Pupul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ivk3u8J7qg7YoWUZlnGNz",
+      "id" : "4ivk3u8J7qg7YoWUZlnGNz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b3d07afcd0c6424db7b807c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b3d07afcd0c6424db7b807c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b3d07afcd0c6424db7b807c",
+        "width" : 64
+      } ],
+      "name" : "Topical Dancer",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4ivk3u8J7qg7YoWUZlnGNz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "name" : "Bolis Pupul",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 226253,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKS362100080"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1usZqtTrEPNm8gvn1vN4T8",
+    "id" : "1usZqtTrEPNm8gvn1vN4T8",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ceci n'est pas un cliché",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/86b9d4c7e1893eeccc71a0babc00f57067f40c76?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:1usZqtTrEPNm8gvn1vN4T8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+        "id" : "0dSnTqwXok006MwsjjlzUl",
+        "name" : "Bolis Pupul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ivk3u8J7qg7YoWUZlnGNz",
+      "id" : "4ivk3u8J7qg7YoWUZlnGNz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b3d07afcd0c6424db7b807c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b3d07afcd0c6424db7b807c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b3d07afcd0c6424db7b807c",
+        "width" : 64
+      } ],
+      "name" : "Topical Dancer",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4ivk3u8J7qg7YoWUZlnGNz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "name" : "Bolis Pupul",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 211373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKS362100075"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2x9rv3ELmU2aphoRSfdzKf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2x9rv3ELmU2aphoRSfdzKf",
+    "id" : "2x9rv3ELmU2aphoRSfdzKf",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Blenda",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb04426fd11629116d554972d6d4dc361408f9ba?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2x9rv3ELmU2aphoRSfdzKf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+        "id" : "0dSnTqwXok006MwsjjlzUl",
+        "name" : "Bolis Pupul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ivk3u8J7qg7YoWUZlnGNz",
+      "id" : "4ivk3u8J7qg7YoWUZlnGNz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b3d07afcd0c6424db7b807c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b3d07afcd0c6424db7b807c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b3d07afcd0c6424db7b807c",
+        "width" : 64
+      } ],
+      "name" : "Topical Dancer",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4ivk3u8J7qg7YoWUZlnGNz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "name" : "Bolis Pupul",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 206546,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKS362100084"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0QtfQYHhejBLZshrh684K3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0QtfQYHhejBLZshrh684K3",
+    "id" : "0QtfQYHhejBLZshrh684K3",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "HAHA",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9f51b36ec426dbb42a260148ce22dbde7c5f5a67?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0QtfQYHhejBLZshrh684K3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0hOK8dciK0MuFPOA9MvgMv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0hOK8dciK0MuFPOA9MvgMv",
+      "id" : "0hOK8dciK0MuFPOA9MvgMv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737cff21f18063d67962f01e50",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027cff21f18063d67962f01e50",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517cff21f18063d67962f01e50",
+        "width" : 64
+      } ],
+      "name" : "Paténipat",
+      "release_date" : "2018-11-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0hOK8dciK0MuFPOA9MvgMv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 371993,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBPVV1802581"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0STU4tz5QWwA46G8QkvtK1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0STU4tz5QWwA46G8QkvtK1",
+    "id" : "0STU4tz5QWwA46G8QkvtK1",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Paténipat",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/39b6bcadff33d2955c829986860a8869c9de6dc2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0STU4tz5QWwA46G8QkvtK1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+        "id" : "0dSnTqwXok006MwsjjlzUl",
+        "name" : "Bolis Pupul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ivk3u8J7qg7YoWUZlnGNz",
+      "id" : "4ivk3u8J7qg7YoWUZlnGNz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b3d07afcd0c6424db7b807c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b3d07afcd0c6424db7b807c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b3d07afcd0c6424db7b807c",
+        "width" : 64
+      } ],
+      "name" : "Topical Dancer",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4ivk3u8J7qg7YoWUZlnGNz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "name" : "Bolis Pupul",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKS362100083"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lxVvIdKuCtjNiRXt0HuDt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lxVvIdKuCtjNiRXt0HuDt",
+    "id" : "2lxVvIdKuCtjNiRXt0HuDt",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Making Sense Stop",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6dcae2997ebf94f0bbab1c92f11fa6358824dc3b?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2lxVvIdKuCtjNiRXt0HuDt"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+        "id" : "0dSnTqwXok006MwsjjlzUl",
+        "name" : "Bolis Pupul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43mWhBXSflupNLuNjM5vff",
+        "id" : "43mWhBXSflupNLuNjM5vff",
+        "name" : "Soulwax",
+        "type" : "artist",
+        "uri" : "spotify:artist:43mWhBXSflupNLuNjM5vff"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6rsdi2mdgjHpe91LgEXXtZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6rsdi2mdgjHpe91LgEXXtZ",
+      "id" : "6rsdi2mdgjHpe91LgEXXtZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733cfad14d8aa64855ad3a6720",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023cfad14d8aa64855ad3a6720",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513cfad14d8aa64855ad3a6720",
+        "width" : 64
+      } ],
+      "name" : "Cliché (Soulwax Remix)",
+      "release_date" : "2022-07-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6rsdi2mdgjHpe91LgEXXtZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "name" : "Bolis Pupul",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43mWhBXSflupNLuNjM5vff",
+      "id" : "43mWhBXSflupNLuNjM5vff",
+      "name" : "Soulwax",
+      "type" : "artist",
+      "uri" : "spotify:artist:43mWhBXSflupNLuNjM5vff"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 387168,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKS362200167"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0dqDZbYrSbfPrqMhb5V98z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0dqDZbYrSbfPrqMhb5V98z",
+    "id" : "0dqDZbYrSbfPrqMhb5V98z",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Cliché - Soulwax Remix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/88363ec170d1c78682bef5aefe86d7143b606db2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0dqDZbYrSbfPrqMhb5V98z"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+        "id" : "0dSnTqwXok006MwsjjlzUl",
+        "name" : "Bolis Pupul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ivk3u8J7qg7YoWUZlnGNz",
+      "id" : "4ivk3u8J7qg7YoWUZlnGNz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b3d07afcd0c6424db7b807c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b3d07afcd0c6424db7b807c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b3d07afcd0c6424db7b807c",
+        "width" : 64
+      } ],
+      "name" : "Topical Dancer",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4ivk3u8J7qg7YoWUZlnGNz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "name" : "Bolis Pupul",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 351280,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKS362100085"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/024X0CCgxFHrgGKY1WTFcA",
+    "id" : "024X0CCgxFHrgGKY1WTFcA",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Thank You",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9c0318587bac4051d2d87c4fc1034924fc748af8?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:024X0CCgxFHrgGKY1WTFcA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+        "id" : "0dSnTqwXok006MwsjjlzUl",
+        "name" : "Bolis Pupul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ivk3u8J7qg7YoWUZlnGNz",
+      "id" : "4ivk3u8J7qg7YoWUZlnGNz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b3d07afcd0c6424db7b807c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b3d07afcd0c6424db7b807c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b3d07afcd0c6424db7b807c",
+        "width" : 64
+      } ],
+      "name" : "Topical Dancer",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4ivk3u8J7qg7YoWUZlnGNz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "name" : "Bolis Pupul",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 214093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKS362100074"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6cQKCdlyFHGQkvXLnBx7g2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6cQKCdlyFHGQkvXLnBx7g2",
+    "id" : "6cQKCdlyFHGQkvXLnBx7g2",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Esperanto",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/75988fead220dd0fade73bae7bcc044272bce574?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6cQKCdlyFHGQkvXLnBx7g2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+        "id" : "0dSnTqwXok006MwsjjlzUl",
+        "name" : "Bolis Pupul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ivk3u8J7qg7YoWUZlnGNz",
+      "id" : "4ivk3u8J7qg7YoWUZlnGNz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b3d07afcd0c6424db7b807c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b3d07afcd0c6424db7b807c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b3d07afcd0c6424db7b807c",
+        "width" : 64
+      } ],
+      "name" : "Topical Dancer",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4ivk3u8J7qg7YoWUZlnGNz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "name" : "Bolis Pupul",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 333253,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKS362100077"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Z5NYVw0HnKtBTOoLbDSsl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Z5NYVw0HnKtBTOoLbDSsl",
+    "id" : "6Z5NYVw0HnKtBTOoLbDSsl",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "It Hit Me",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/29df79958ab795a2912ec4a9c3c603baa6285651?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6Z5NYVw0HnKtBTOoLbDSsl"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+        "id" : "0h1gX589xBKUCijeC8Bewy",
+        "name" : "Charlotte Adigéry",
+        "type" : "artist",
+        "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+        "id" : "0dSnTqwXok006MwsjjlzUl",
+        "name" : "Bolis Pupul",
+        "type" : "artist",
+        "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ivk3u8J7qg7YoWUZlnGNz",
+      "id" : "4ivk3u8J7qg7YoWUZlnGNz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730b3d07afcd0c6424db7b807c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020b3d07afcd0c6424db7b807c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510b3d07afcd0c6424db7b807c",
+        "width" : 64
+      } ],
+      "name" : "Topical Dancer",
+      "release_date" : "2022-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:4ivk3u8J7qg7YoWUZlnGNz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h1gX589xBKUCijeC8Bewy",
+      "id" : "0h1gX589xBKUCijeC8Bewy",
+      "name" : "Charlotte Adigéry",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h1gX589xBKUCijeC8Bewy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dSnTqwXok006MwsjjlzUl",
+      "id" : "0dSnTqwXok006MwsjjlzUl",
+      "name" : "Bolis Pupul",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dSnTqwXok006MwsjjlzUl"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 216293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UKS362100076"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3pF6eZf5YWFyKEiQdohbft"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3pF6eZf5YWFyKEiQdohbft",
+    "id" : "3pF6eZf5YWFyKEiQdohbft",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Hey",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1de26d6bda2a0b3eb3ccf38889e3c18b73f42815?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3pF6eZf5YWFyKEiQdohbft"
+  } ]
+}

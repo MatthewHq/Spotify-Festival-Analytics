@@ -1,0 +1,511 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Rezz&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 418090
+      },
+      "genres" : [ "canadian electronic", "edm", "electra", "electro house" ],
+      "href" : "https://api.spotify.com/v1/artists/4aKdmOXdUKX07HVd3sGgzw",
+      "id" : "4aKdmOXdUKX07HVd3sGgzw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd32795654cee9204e8bdcfde",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d32795654cee9204e8bdcfde",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d32795654cee9204e8bdcfde",
+        "width" : 160
+      } ],
+      "name" : "Rezz",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:4aKdmOXdUKX07HVd3sGgzw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37IAmIFuCYtwhxQRlQisDg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9550
+      },
+      "genres" : [ "outsider house" ],
+      "href" : "https://api.spotify.com/v1/artists/37IAmIFuCYtwhxQRlQisDg",
+      "id" : "37IAmIFuCYtwhxQRlQisDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732144bdc432f4b83f59d45ad9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022144bdc432f4b83f59d45ad9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512144bdc432f4b83f59d45ad9",
+        "width" : 64
+      } ],
+      "name" : "Rezzett",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:37IAmIFuCYtwhxQRlQisDg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 18153
+      },
+      "genres" : [ "pacific islands pop" ],
+      "href" : "https://api.spotify.com/v1/artists/14fxWsn0UdNiW2GQIsL1wR",
+      "id" : "14fxWsn0UdNiW2GQIsL1wR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27311d604686a41a5c4a70cb42c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0211d604686a41a5c4a70cb42c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485111d604686a41a5c4a70cb42c",
+        "width" : 64
+      } ],
+      "name" : "Lion Rezz",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:14fxWsn0UdNiW2GQIsL1wR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 169785
+      },
+      "genres" : [ "dubstep", "edm", "electro house", "electronic trap" ],
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebda3630f6732d14437a4ab33d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174da3630f6732d14437a4ab33d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178da3630f6732d14437a4ab33d",
+        "width" : 160
+      } ],
+      "name" : "Subtronics",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2z47z86TL480vsu6kdcwlS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 265
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2z47z86TL480vsu6kdcwlS",
+      "id" : "2z47z86TL480vsu6kdcwlS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb39d0dfaa810fc9060029e3e2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517439d0dfaa810fc9060029e3e2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17839d0dfaa810fc9060029e3e2",
+        "width" : 160
+      } ],
+      "name" : "Rezzy",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:2z47z86TL480vsu6kdcwlS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4H2c41FCNwfcPZWK4ln889"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16643
+      },
+      "genres" : [ "native american hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/4H2c41FCNwfcPZWK4ln889",
+      "id" : "4H2c41FCNwfcPZWK4ln889",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2243dced4fd78110f1514d7b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742243dced4fd78110f1514d7b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782243dced4fd78110f1514d7b",
+        "width" : 160
+      } ],
+      "name" : "Rezcoast Grizz",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:4H2c41FCNwfcPZWK4ln889"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nuBHeYv1iePWdnkXhLBaH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2259
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6nuBHeYv1iePWdnkXhLBaH",
+      "id" : "6nuBHeYv1iePWdnkXhLBaH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb25f9f911dd328f241545400f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517425f9f911dd328f241545400f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17825f9f911dd328f241545400f",
+        "width" : 160
+      } ],
+      "name" : "Stephen Rezza",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:6nuBHeYv1iePWdnkXhLBaH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 162922
+      },
+      "genres" : [ "deathstep", "dubstep", "edm", "electro house", "riddim dubstep" ],
+      "href" : "https://api.spotify.com/v1/artists/2u01kCKA5wDvvztuH8lyT0",
+      "id" : "2u01kCKA5wDvvztuH8lyT0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe963f905506dcad071c96694",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e963f905506dcad071c96694",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e963f905506dcad071c96694",
+        "width" : 160
+      } ],
+      "name" : "SVDDEN DEATH",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:2u01kCKA5wDvvztuH8lyT0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hftuSAfZLP13Cim09LSRW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 429
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3hftuSAfZLP13Cim09LSRW",
+      "id" : "3hftuSAfZLP13Cim09LSRW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273006ea79e15b39b54c0e0911d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02006ea79e15b39b54c0e0911d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851006ea79e15b39b54c0e0911d",
+        "width" : 64
+      } ],
+      "name" : "Rezzy Carter",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:3hftuSAfZLP13Cim09LSRW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QT3RbllDFQ1EgTINu3b8r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 334
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4QT3RbllDFQ1EgTINu3b8r",
+      "id" : "4QT3RbllDFQ1EgTINu3b8r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb43579f1c5e69ecdf1dc94adb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517443579f1c5e69ecdf1dc94adb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17843579f1c5e69ecdf1dc94adb",
+        "width" : 160
+      } ],
+      "name" : "Rezz",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:4QT3RbllDFQ1EgTINu3b8r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7LE8nPA9Ldx3L8sl5QJ4N9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 79
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7LE8nPA9Ldx3L8sl5QJ4N9",
+      "id" : "7LE8nPA9Ldx3L8sl5QJ4N9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb94b71fac143fb4cd346d11e5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517494b71fac143fb4cd346d11e5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17894b71fac143fb4cd346d11e5",
+        "width" : 160
+      } ],
+      "name" : "Rezzaie",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:7LE8nPA9Ldx3L8sl5QJ4N9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zIMF2j8br8ooC9NaI50HN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 41
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3zIMF2j8br8ooC9NaI50HN",
+      "id" : "3zIMF2j8br8ooC9NaI50HN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738e1d68941f734745fcbcf161",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028e1d68941f734745fcbcf161",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518e1d68941f734745fcbcf161",
+        "width" : 64
+      } ],
+      "name" : "Rezz",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:3zIMF2j8br8ooC9NaI50HN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bOSVnWkuUb9H6jZHyJZwG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7bOSVnWkuUb9H6jZHyJZwG",
+      "id" : "7bOSVnWkuUb9H6jZHyJZwG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bc6c0930aa303eceea605457",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bc6c0930aa303eceea605457",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bc6c0930aa303eceea605457",
+        "width" : 64
+      } ],
+      "name" : "REZZO",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:7bOSVnWkuUb9H6jZHyJZwG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/556uAmttohcdiAmhV8masQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/556uAmttohcdiAmhV8masQ",
+      "id" : "556uAmttohcdiAmhV8masQ",
+      "images" : [ ],
+      "name" : "Rezz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:556uAmttohcdiAmhV8masQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Fv1gN2bi0AtUOivDVBjJl"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1Fv1gN2bi0AtUOivDVBjJl",
+      "id" : "1Fv1gN2bi0AtUOivDVBjJl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5438cddc9b3d39ff93bbf3f4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745438cddc9b3d39ff93bbf3f4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785438cddc9b3d39ff93bbf3f4",
+        "width" : 160
+      } ],
+      "name" : "Rezzo Brown",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Fv1gN2bi0AtUOivDVBjJl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6R2yoUtUuJTUZwox9fKLj2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6R2yoUtUuJTUZwox9fKLj2",
+      "id" : "6R2yoUtUuJTUZwox9fKLj2",
+      "images" : [ ],
+      "name" : "Rezz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6R2yoUtUuJTUZwox9fKLj2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6OebFC4is4618ZR3uaq3WU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6OebFC4is4618ZR3uaq3WU",
+      "id" : "6OebFC4is4618ZR3uaq3WU",
+      "images" : [ ],
+      "name" : "Rezzy B",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:6OebFC4is4618ZR3uaq3WU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 945
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5dJQQmKFxJoEovL4YqImlJ",
+      "id" : "5dJQQmKFxJoEovL4YqImlJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb295c2bd869a39413c97eb318",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174295c2bd869a39413c97eb318",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178295c2bd869a39413c97eb318",
+        "width" : 160
+      } ],
+      "name" : "Luca Rezza",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:5dJQQmKFxJoEovL4YqImlJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sUFURma3t8ZbjRTplMMvy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3sUFURma3t8ZbjRTplMMvy",
+      "id" : "3sUFURma3t8ZbjRTplMMvy",
+      "images" : [ ],
+      "name" : "Rezz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3sUFURma3t8ZbjRTplMMvy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g9z5k3eYfo7YJe1DokjWh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7g9z5k3eYfo7YJe1DokjWh",
+      "id" : "7g9z5k3eYfo7YJe1DokjWh",
+      "images" : [ ],
+      "name" : "Rezz",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7g9z5k3eYfo7YJe1DokjWh"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Rezz&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 372
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Grimes&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1748133
+      },
+      "genres" : [ "art pop", "canadian electropop", "dance pop", "electropop", "grave wave", "indietronica", "metropopolis", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id" : "053q0ukIDRgzwTr4vNSwab",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb34771f759ca81a422f5f2b57",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517434771f759ca81a422f5f2b57",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17834771f759ca81a422f5f2b57",
+        "width" : 160
+      } ],
+      "name" : "Grimes",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30075
+      },
+      "genres" : [ "modern country rock", "red dirt", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/21NiIObyfGUR3UPql6UrkP",
+      "id" : "21NiIObyfGUR3UPql6UrkP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3d993ddf217c3aede9463d12",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743d993ddf217c3aede9463d12",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783d993ddf217c3aede9463d12",
+        "width" : 160
+      } ],
+      "name" : "Curtis Grimes",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:21NiIObyfGUR3UPql6UrkP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 392097
+      },
+      "genres" : [ "bass trap", "edm", "electro house", "electronic trap", "electropop", "pop dance", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/5eIbEEQnDM8yuDVB0bimSP",
+      "id" : "5eIbEEQnDM8yuDVB0bimSP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8839d67ee5f8963a1ba5458f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748839d67ee5f8963a1ba5458f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788839d67ee5f8963a1ba5458f",
+        "width" : 160
+      } ],
+      "name" : "RL Grime",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:5eIbEEQnDM8yuDVB0bimSP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PTrX29vKxqFe59hnYb8hx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29389
+      },
+      "genres" : [ "cali rap", "deep underground hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/5PTrX29vKxqFe59hnYb8hx",
+      "id" : "5PTrX29vKxqFe59hnYb8hx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcd51078e0a051a14ac5c0737",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cd51078e0a051a14ac5c0737",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cd51078e0a051a14ac5c0737",
+        "width" : 160
+      } ],
+      "name" : "Marty Grimes",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:5PTrX29vKxqFe59hnYb8hx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1249970
+      },
+      "genres" : [ "afrofuturism", "alternative r&b", "atl hip hop", "electropop", "escape room", "neo soul", "r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/6ueGR6SWhUJfvEhqkvMsVs",
+      "id" : "6ueGR6SWhUJfvEhqkvMsVs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3ea2c03525939b482f8d3bfd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743ea2c03525939b482f8d3bfd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783ea2c03525939b482f8d3bfd",
+        "width" : 160
+      } ],
+      "name" : "Janelle Monáe",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16121
+      },
+      "genres" : [ "compositional ambient", "neo-classical" ],
+      "href" : "https://api.spotify.com/v1/artists/3NkEUEwXXgy5IQixHpsHQ9",
+      "id" : "3NkEUEwXXgy5IQixHpsHQ9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcbcd1f4cbfdfb3a8619cff91",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cbcd1f4cbfdfb3a8619cff91",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cbcd1f4cbfdfb3a8619cff91",
+        "width" : 160
+      } ],
+      "name" : "Rachel Grimes",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:3NkEUEwXXgy5IQixHpsHQ9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1051236
+      },
+      "genres" : [ "birmingham grime", "grime", "instrumental grime", "rap" ],
+      "href" : "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+      "id" : "2p1fiYHYiXz9qi0JJyxBzN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebba2a0554603cc961338b4a1b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ba2a0554603cc961338b4a1b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ba2a0554603cc961338b4a1b",
+        "width" : 160
+      } ],
+      "name" : "Skepta",
+      "popularity" : 71,
+      "type" : "artist",
+      "uri" : "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6u2j7TsJG9au5E6mxPBXMs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 502
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6u2j7TsJG9au5E6mxPBXMs",
+      "id" : "6u2j7TsJG9au5E6mxPBXMs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7248ae9726d9988e242e811e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747248ae9726d9988e242e811e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787248ae9726d9988e242e811e",
+        "width" : 160
+      } ],
+      "name" : "Olivia Grimes",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:6u2j7TsJG9au5E6mxPBXMs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1154687
+      },
+      "genres" : [ "alt z", "art pop", "dance pop", "electropop", "escape room", "pop", "viral rap" ],
+      "href" : "https://api.spotify.com/v1/artists/5mlbvTfWUOfDrUIK6dkNzv",
+      "id" : "5mlbvTfWUOfDrUIK6dkNzv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd33e7df4109493e64b4e3e04",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d33e7df4109493e64b4e3e04",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d33e7df4109493e64b4e3e04",
+        "width" : 160
+      } ],
+      "name" : "Poppy",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:5mlbvTfWUOfDrUIK6dkNzv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5943
+      },
+      "genres" : [ "liverpool indie" ],
+      "href" : "https://api.spotify.com/v1/artists/1YQf1satVqyqSOp5FUvDKx",
+      "id" : "1YQf1satVqyqSOp5FUvDKx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3fa0017163ecb72255f1961f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743fa0017163ecb72255f1961f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783fa0017163ecb72255f1961f",
+        "width" : 160
+      } ],
+      "name" : "Chelcee Grimes",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:1YQf1satVqyqSOp5FUvDKx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 718161
+      },
+      "genres" : [ "alt z", "nz pop", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0Cp8WN4V8Tu4QJQwCN5Md4",
+      "id" : "0Cp8WN4V8Tu4QJQwCN5Md4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb601edd5814db2e41146b22ad",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174601edd5814db2e41146b22ad",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178601edd5814db2e41146b22ad",
+        "width" : 160
+      } ],
+      "name" : "BENEE",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Cp8WN4V8Tu4QJQwCN5Md4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QucvFqzb1bwlDVzE0NF8c"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 875
+      },
+      "genres" : [ "puirt-a-beul" ],
+      "href" : "https://api.spotify.com/v1/artists/0QucvFqzb1bwlDVzE0NF8c",
+      "id" : "0QucvFqzb1bwlDVzE0NF8c",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebebb858e4f8ef0163829ed268",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ebb858e4f8ef0163829ed268",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ebb858e4f8ef0163829ed268",
+        "width" : 160
+      } ],
+      "name" : "Ged Grimes",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:0QucvFqzb1bwlDVzE0NF8c"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1269714
+      },
+      "genres" : [ "alternative dance", "bitpop", "digital hardcore", "indietronica", "neo-synthpop", "new rave", "nintendocore" ],
+      "href" : "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+      "id" : "7K3zpFXBvPcvzhj7zlGJdO",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d90a0865e8bca5e5084049e8adc3485b3880848e",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/455a70605e44303c96a4438012598e5ac0260d58",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/8b202585f9dedf2f7e73dc80cac8ba40e941e7ff",
+        "width" : 64
+      } ],
+      "name" : "Crystal Castles",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6akUh8U7osZCsikGcQTDUG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 184
+      },
+      "genres" : [ "uk dnb" ],
+      "href" : "https://api.spotify.com/v1/artists/6akUh8U7osZCsikGcQTDUG",
+      "id" : "6akUh8U7osZCsikGcQTDUG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe9b8ea63aa71f9742b82fa42",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e9b8ea63aa71f9742b82fa42",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e9b8ea63aa71f9742b82fa42",
+        "width" : 160
+      } ],
+      "name" : "Grimesy",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:6akUh8U7osZCsikGcQTDUG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BU7NJsgNiIZ9JEDc1HeJS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4915
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5BU7NJsgNiIZ9JEDc1HeJS",
+      "id" : "5BU7NJsgNiIZ9JEDc1HeJS",
+      "images" : [ {
+        "height" : 664,
+        "url" : "https://i.scdn.co/image/e45e5fbb9164979e98589ca264b202e26160f81a",
+        "width" : 1000
+      }, {
+        "height" : 425,
+        "url" : "https://i.scdn.co/image/d3f8364d8015c2bfbc5a52c750612190bba4d236",
+        "width" : 640
+      }, {
+        "height" : 133,
+        "url" : "https://i.scdn.co/image/77a74da91bad95c43cbe8a340f225f03ed06f2cb",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/ce54aea84ee8479974913ff1aaf910ecf1e5396e",
+        "width" : 64
+      } ],
+      "name" : "Scott Grimes",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:5BU7NJsgNiIZ9JEDc1HeJS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gwHKbnE227VO3Acq8WIe0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 61
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1gwHKbnE227VO3Acq8WIe0",
+      "id" : "1gwHKbnE227VO3Acq8WIe0",
+      "images" : [ ],
+      "name" : "Grimes",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1gwHKbnE227VO3Acq8WIe0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5DLkREixAcHVDxdBDW8N8d"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 721
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5DLkREixAcHVDxdBDW8N8d",
+      "id" : "5DLkREixAcHVDxdBDW8N8d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b603e767e0c468b9cc43997",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b603e767e0c468b9cc43997",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b603e767e0c468b9cc43997",
+        "width" : 64
+      } ],
+      "name" : "Samantha Grimes",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:5DLkREixAcHVDxdBDW8N8d"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3biSsZZM0VsVKLyWwgbvuC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 76
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3biSsZZM0VsVKLyWwgbvuC",
+      "id" : "3biSsZZM0VsVKLyWwgbvuC",
+      "images" : [ ],
+      "name" : "Grimes",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3biSsZZM0VsVKLyWwgbvuC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bAn4Uy3DF1nCpev9XAlGC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 122
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1bAn4Uy3DF1nCpev9XAlGC",
+      "id" : "1bAn4Uy3DF1nCpev9XAlGC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb4c4a6d1b8575d4b62671057",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b4c4a6d1b8575d4b62671057",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b4c4a6d1b8575d4b62671057",
+        "width" : 160
+      } ],
+      "name" : "Grimeshine",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:1bAn4Uy3DF1nCpev9XAlGC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FQarPh8kc7OVcCIzwAiay"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4FQarPh8kc7OVcCIzwAiay",
+      "id" : "4FQarPh8kc7OVcCIzwAiay",
+      "images" : [ ],
+      "name" : "EJ Grimes",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:4FQarPh8kc7OVcCIzwAiay"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Grimes&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 327
+  }
+}

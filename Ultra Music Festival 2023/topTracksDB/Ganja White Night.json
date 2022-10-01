@@ -1,0 +1,808 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+        "name" : "SLANDER",
+        "type" : "artist",
+        "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6yNMqtPxykHsGzMJe9m5Fg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6yNMqtPxykHsGzMJe9m5Fg",
+      "id" : "6yNMqtPxykHsGzMJe9m5Fg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bbfbb9cd91d8676f68676e59",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bbfbb9cd91d8676f68676e59",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bbfbb9cd91d8676f68676e59",
+        "width" : 64
+      } ],
+      "name" : "Miss You",
+      "release_date" : "2021-09-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6yNMqtPxykHsGzMJe9m5Fg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+      "id" : "20DZAfCuP1TKZl5KcY7z3Q",
+      "name" : "SLANDER",
+      "type" : "artist",
+      "uri" : "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 200000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "CA5KR2198288"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lxoIZS8tpFwbiJyrDYguI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lxoIZS8tpFwbiJyrDYguI",
+    "id" : "2lxoIZS8tpFwbiJyrDYguI",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Miss You",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e0c48c16491654bb9e68ff6254073c956f22f181?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2lxoIZS8tpFwbiJyrDYguI"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+        "id" : "4YJsSCuag8W1TFTgSeEc2k",
+        "name" : "Liquid Stranger",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3ZWcx0FGgPqxpxcQ87cuZM",
+      "id" : "3ZWcx0FGgPqxpxcQ87cuZM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b8916bf004a5f1b1e7cd06f1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b8916bf004a5f1b1e7cd06f1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b8916bf004a5f1b1e7cd06f1",
+        "width" : 64
+      } ],
+      "name" : "Jungle Juice",
+      "release_date" : "2019-09-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3ZWcx0FGgPqxpxcQ87cuZM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YJsSCuag8W1TFTgSeEc2k",
+      "id" : "4YJsSCuag8W1TFTgSeEc2k",
+      "name" : "Liquid Stranger",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YJsSCuag8W1TFTgSeEc2k"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 274966,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAEI1912838"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1VxQboO0KAsIm8MjSShBJv",
+    "id" : "1VxQboO0KAsIm8MjSShBJv",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Jungle Juice",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1837bc4fbd46db0b3ec9317a4fd26178a3e8d222?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1VxQboO0KAsIm8MjSShBJv"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Hrqjumb6WHg2aAUHJHLND",
+        "id" : "3Hrqjumb6WHg2aAUHJHLND",
+        "name" : "LSDREAM",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Hrqjumb6WHg2aAUHJHLND"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4f0FE4P7anMAw408gGqkZT",
+      "id" : "4f0FE4P7anMAw408gGqkZT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ea24a53cf543369694ec3ce8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ea24a53cf543369694ec3ce8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ea24a53cf543369694ec3ce8",
+        "width" : 64
+      } ],
+      "name" : "Badman",
+      "release_date" : "2022-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4f0FE4P7anMAw408gGqkZT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Hrqjumb6WHg2aAUHJHLND",
+      "id" : "3Hrqjumb6WHg2aAUHJHLND",
+      "name" : "LSDREAM",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Hrqjumb6WHg2aAUHJHLND"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 273333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAGF2240430"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5RD6iZpOFkVuT3SW4eAHuZ",
+    "id" : "5RD6iZpOFkVuT3SW4eAHuZ",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Badman",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/895719f0ee95945d3e05d655bad9260af7283c49?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5RD6iZpOFkVuT3SW4eAHuZ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4zlw0jXUzd4dRcqI3Y1OiY",
+        "id" : "4zlw0jXUzd4dRcqI3Y1OiY",
+        "name" : "Boogie T",
+        "type" : "artist",
+        "uri" : "spotify:artist:4zlw0jXUzd4dRcqI3Y1OiY"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Bb2C72deJa9E08QLRAopx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Bb2C72deJa9E08QLRAopx",
+      "id" : "4Bb2C72deJa9E08QLRAopx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bf5d8ee77cb4e0f8cce25c03",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bf5d8ee77cb4e0f8cce25c03",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bf5d8ee77cb4e0f8cce25c03",
+        "width" : 64
+      } ],
+      "name" : "Flava",
+      "release_date" : "2017-06-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4Bb2C72deJa9E08QLRAopx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zlw0jXUzd4dRcqI3Y1OiY",
+      "id" : "4zlw0jXUzd4dRcqI3Y1OiY",
+      "name" : "Boogie T",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zlw0jXUzd4dRcqI3Y1OiY"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 222595,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21701458"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4OwCz4D1JvgPkNjyGrfSAH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4OwCz4D1JvgPkNjyGrfSAH",
+    "id" : "4OwCz4D1JvgPkNjyGrfSAH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Flava",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/66f9dcd219452e42bf6297b8dbe29ba4129eb800?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4OwCz4D1JvgPkNjyGrfSAH"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Ok1Cm5YX5StCQZgH0r2xF",
+        "id" : "4Ok1Cm5YX5StCQZgH0r2xF",
+        "name" : "PEEKABOO",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Ok1Cm5YX5StCQZgH0r2xF"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1nN052r0onvNcxjxFrZKdw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1nN052r0onvNcxjxFrZKdw",
+      "id" : "1nN052r0onvNcxjxFrZKdw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27381e84904807be544ed74edac",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0281e84904807be544ed74edac",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485181e84904807be544ed74edac",
+        "width" : 64
+      } ],
+      "name" : "Mitosis",
+      "release_date" : "2022-07-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1nN052r0onvNcxjxFrZKdw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Ok1Cm5YX5StCQZgH0r2xF",
+      "id" : "4Ok1Cm5YX5StCQZgH0r2xF",
+      "name" : "PEEKABOO",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Ok1Cm5YX5StCQZgH0r2xF"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240380,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAGG2266984"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0zOqoAh2thAbmju80p850h"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0zOqoAh2thAbmju80p850h",
+    "id" : "0zOqoAh2thAbmju80p850h",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Mitosis",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cd9156df76d013d203fb94e2625bc7b8ce3cd904?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0zOqoAh2thAbmju80p850h"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+        "id" : "3NJ94iuAmmMjbszODYT6pO",
+        "name" : "Subtronics",
+        "type" : "artist",
+        "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3wGmyJWnAcbGupP0t19nVU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3wGmyJWnAcbGupP0t19nVU",
+      "id" : "3wGmyJWnAcbGupP0t19nVU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c6a1880c5bca0c517d91f6bd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c6a1880c5bca0c517d91f6bd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c6a1880c5bca0c517d91f6bd",
+        "width" : 64
+      } ],
+      "name" : "Headband",
+      "release_date" : "2019-03-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3wGmyJWnAcbGupP0t19nVU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NJ94iuAmmMjbszODYT6pO",
+      "id" : "3NJ94iuAmmMjbszODYT6pO",
+      "name" : "Subtronics",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NJ94iuAmmMjbszODYT6pO"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 218619,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAED1929657"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/40dMUT9OmYUYgEO5OuWZCy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/40dMUT9OmYUYgEO5OuWZCy",
+    "id" : "40dMUT9OmYUYgEO5OuWZCy",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Headband",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9ce7367b852d1f660c52452442fd5a05218f084c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:40dMUT9OmYUYgEO5OuWZCy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5vS3U2nYaKHQIBNSUAgjdp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5vS3U2nYaKHQIBNSUAgjdp",
+      "id" : "5vS3U2nYaKHQIBNSUAgjdp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739d64e67b580dc522312b5eca",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029d64e67b580dc522312b5eca",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519d64e67b580dc522312b5eca",
+        "width" : 64
+      } ],
+      "name" : "The One",
+      "release_date" : "2019-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5vS3U2nYaKHQIBNSUAgjdp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 287391,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAEL1985881"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2CyR5Pbv5QYWfXpJmyhaVF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2CyR5Pbv5QYWfXpJmyhaVF",
+    "id" : "2CyR5Pbv5QYWfXpJmyhaVF",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Dark Heart Surgery",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/92e5c6681cc990afdf394060f63e17f170a23087?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:2CyR5Pbv5QYWfXpJmyhaVF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4PPjTUhhBcLLR9BbENHYUI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4PPjTUhhBcLLR9BbENHYUI",
+      "id" : "4PPjTUhhBcLLR9BbENHYUI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736c922aad70f88db219560358",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026c922aad70f88db219560358",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516c922aad70f88db219560358",
+        "width" : 64
+      } ],
+      "name" : "Hybrid Distillery",
+      "release_date" : "2015-09-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:4PPjTUhhBcLLR9BbENHYUI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCACG1572873"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/12meTNzgcD8Eup11KXEDR6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/12meTNzgcD8Eup11KXEDR6",
+    "id" : "12meTNzgcD8Eup11KXEDR6",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Champagne",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/49f3f31dd80c1b56525957dbb8aba03d83033dc5?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:12meTNzgcD8Eup11KXEDR6"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        "href" : "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
+        "id" : "25oLRSUjJk4YHNUsQXk7Ut",
+        "name" : "GRiZ",
+        "type" : "artist",
+        "uri" : "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7B5n3tOUAIyahj8TwwPLcN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7B5n3tOUAIyahj8TwwPLcN",
+      "id" : "7B5n3tOUAIyahj8TwwPLcN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733ebe38f95ca71bed3db888f4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023ebe38f95ca71bed3db888f4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513ebe38f95ca71bed3db888f4",
+        "width" : 64
+      } ],
+      "name" : "Ease Your Mind",
+      "release_date" : "2021-03-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7B5n3tOUAIyahj8TwwPLcN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
+      "id" : "25oLRSUjJk4YHNUsQXk7Ut",
+      "name" : "GRiZ",
+      "type" : "artist",
+      "uri" : "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 284081,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAFK2159544"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0uwXneXFLt47MlgvoQDouq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0uwXneXFLt47MlgvoQDouq",
+    "id" : "0uwXneXFLt47MlgvoQDouq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Ease Your Mind",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/56462a07f0b79bead89f111d7459746471425102?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0uwXneXFLt47MlgvoQDouq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+        "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+        "name" : "Ganja White Night",
+        "type" : "artist",
+        "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5W7o8d6xAj8gIyERvzo7rs"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5W7o8d6xAj8gIyERvzo7rs",
+      "id" : "5W7o8d6xAj8gIyERvzo7rs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734e5f485bd1567a60b62ba210",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024e5f485bd1567a60b62ba210",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514e5f485bd1567a60b62ba210",
+        "width" : 64
+      } ],
+      "name" : "The Origins",
+      "release_date" : "2018-02-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5W7o8d6xAj8gIyERvzo7rs"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zlw0jXUzd4dRcqI3Y1OiY",
+      "id" : "4zlw0jXUzd4dRcqI3Y1OiY",
+      "name" : "Boogie T",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zlw0jXUzd4dRcqI3Y1OiY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1a6oIpEh4DGgaqgWg5xwd3",
+      "id" : "1a6oIpEh4DGgaqgWg5xwd3",
+      "name" : "Ganja White Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 267435,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCADL1854691"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0WepSLA1uxKnNanBUC7x3U"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0WepSLA1uxKnNanBUC7x3U",
+    "id" : "0WepSLA1uxKnNanBUC7x3U",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Reminisce",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cfbae43c636c2377f37dc9c0acc78e9c182472cc?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0WepSLA1uxKnNanBUC7x3U"
+  } ]
+}

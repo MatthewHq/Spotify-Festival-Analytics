@@ -1,0 +1,817 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3j6hTtsUB5AkNVj2gUs8j1"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3j6hTtsUB5AkNVj2gUs8j1",
+      "id" : "3j6hTtsUB5AkNVj2gUs8j1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735268eae6aef7783ea5e67270",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025268eae6aef7783ea5e67270",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515268eae6aef7783ea5e67270",
+        "width" : 64
+      } ],
+      "name" : "I’m Solo",
+      "release_date" : "2020-04-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3j6hTtsUB5AkNVj2gUs8j1"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nyZTuyp3znkO3V4TkSN2j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0nyZTuyp3znkO3V4TkSN2j",
+      "id" : "0nyZTuyp3znkO3V4TkSN2j",
+      "name" : "Barry Drift",
+      "type" : "artist",
+      "uri" : "spotify:artist:0nyZTuyp3znkO3V4TkSN2j"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 235537,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKQU2030156"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3YgQmd3NhIymCCDmMpIX5w"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3YgQmd3NhIymCCDmMpIX5w",
+    "id" : "3YgQmd3NhIymCCDmMpIX5w",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "I'm Solo",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7dfe02369c448bf8781b1b1280d4e6612beb1d96?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3YgQmd3NhIymCCDmMpIX5w"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Th7POyVfZgiHJQ64ddV5Y",
+        "id" : "6Th7POyVfZgiHJQ64ddV5Y",
+        "name" : "Rodriguez Jr.",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Th7POyVfZgiHJQ64ddV5Y"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66el5plfkG4TXDYziXMOLz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66el5plfkG4TXDYziXMOLz",
+      "id" : "66el5plfkG4TXDYziXMOLz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b9e6928e64e8d7dd9ce7ac45",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b9e6928e64e8d7dd9ce7ac45",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b9e6928e64e8d7dd9ce7ac45",
+        "width" : 64
+      } ],
+      "name" : "Baobab Remixes",
+      "release_date" : "2017-12-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:66el5plfkG4TXDYziXMOLz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Th7POyVfZgiHJQ64ddV5Y",
+      "id" : "6Th7POyVfZgiHJQ64ddV5Y",
+      "name" : "Rodriguez Jr.",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Th7POyVfZgiHJQ64ddV5Y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 394479,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DECL11200902"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5E2jurkZH7Y6Od8DHOiehG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5E2jurkZH7Y6Od8DHOiehG",
+    "id" : "5E2jurkZH7Y6Od8DHOiehG",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "An Evidence Of Time - Claude VonStroke Remix",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a0df3e2de38cadec20003b53d1b2dda8cf7c2dc2?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5E2jurkZH7Y6Od8DHOiehG"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+        "id" : "6zWcx7zef8u7NfAVhe6iql",
+        "name" : "Get Real",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+        "id" : "3ABaec4jjl95VqmG1iD4k2",
+        "name" : "Green Velvet",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IuM6CZV1zSyZIKl2tbbpj",
+      "id" : "3IuM6CZV1zSyZIKl2tbbpj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734821d2f503cbe38922495128",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024821d2f503cbe38922495128",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514821d2f503cbe38922495128",
+        "width" : 64
+      } ],
+      "name" : "Jolean",
+      "release_date" : "2019-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3IuM6CZV1zSyZIKl2tbbpj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zWcx7zef8u7NfAVhe6iql",
+      "id" : "6zWcx7zef8u7NfAVhe6iql",
+      "name" : "Get Real",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zWcx7zef8u7NfAVhe6iql"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ABaec4jjl95VqmG1iD4k2",
+      "id" : "3ABaec4jjl95VqmG1iD4k2",
+      "name" : "Green Velvet",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193602,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUS11900575"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ng0DafMn7xw3JnzF1Zzmi",
+    "id" : "2ng0DafMn7xw3JnzF1Zzmi",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Jolean",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/17d900385c9e3d2a28fb77dd8681d792f819bfe0?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2ng0DafMn7xw3JnzF1Zzmi"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2rTvgpXa8PA62yBCfwdQxf",
+        "id" : "2rTvgpXa8PA62yBCfwdQxf",
+        "name" : "Nala",
+        "type" : "artist",
+        "uri" : "spotify:artist:2rTvgpXa8PA62yBCfwdQxf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1T4c4zM78AVapYr8irr9Aw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1T4c4zM78AVapYr8irr9Aw",
+      "id" : "1T4c4zM78AVapYr8irr9Aw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b79a2f283d73fea5f7ef52fd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b79a2f283d73fea5f7ef52fd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b79a2f283d73fea5f7ef52fd",
+        "width" : 64
+      } ],
+      "name" : "Everything Is Burning",
+      "release_date" : "2021-09-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1T4c4zM78AVapYr8irr9Aw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2rTvgpXa8PA62yBCfwdQxf",
+      "id" : "2rTvgpXa8PA62yBCfwdQxf",
+      "name" : "Nala",
+      "type" : "artist",
+      "uri" : "spotify:artist:2rTvgpXa8PA62yBCfwdQxf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 355200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKQU2187141"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5kVMQDy8cpGDz7HrFdZifu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5kVMQDy8cpGDz7HrFdZifu",
+    "id" : "5kVMQDy8cpGDz7HrFdZifu",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Everything Is Burning",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f727566ad5dd24297cac9443f8d0334d8e2a039c?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5kVMQDy8cpGDz7HrFdZifu"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2rTvgpXa8PA62yBCfwdQxf",
+        "id" : "2rTvgpXa8PA62yBCfwdQxf",
+        "name" : "Nala",
+        "type" : "artist",
+        "uri" : "spotify:artist:2rTvgpXa8PA62yBCfwdQxf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1T4c4zM78AVapYr8irr9Aw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1T4c4zM78AVapYr8irr9Aw",
+      "id" : "1T4c4zM78AVapYr8irr9Aw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b79a2f283d73fea5f7ef52fd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b79a2f283d73fea5f7ef52fd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b79a2f283d73fea5f7ef52fd",
+        "width" : 64
+      } ],
+      "name" : "Everything Is Burning",
+      "release_date" : "2021-09-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1T4c4zM78AVapYr8irr9Aw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2rTvgpXa8PA62yBCfwdQxf",
+      "id" : "2rTvgpXa8PA62yBCfwdQxf",
+      "name" : "Nala",
+      "type" : "artist",
+      "uri" : "spotify:artist:2rTvgpXa8PA62yBCfwdQxf"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 303397,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKQU2187142"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Q4MaJDLgGDpfhT0kLxhL9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Q4MaJDLgGDpfhT0kLxhL9",
+    "id" : "4Q4MaJDLgGDpfhT0kLxhL9",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Wet State",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bfa069317520259da40d0f045dc37745f8cdb252?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4Q4MaJDLgGDpfhT0kLxhL9"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JWq7Qs3NyKX13mLUdRui5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JWq7Qs3NyKX13mLUdRui5",
+        "id" : "5JWq7Qs3NyKX13mLUdRui5",
+        "name" : "ZDS",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JWq7Qs3NyKX13mLUdRui5"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5bPci7byJkmq1eHgeX2RNb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5bPci7byJkmq1eHgeX2RNb",
+        "id" : "5bPci7byJkmq1eHgeX2RNb",
+        "name" : "KE",
+        "type" : "artist",
+        "uri" : "spotify:artist:5bPci7byJkmq1eHgeX2RNb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3o2qoTt8qnAOs0Cj3ABKbt"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3o2qoTt8qnAOs0Cj3ABKbt",
+      "id" : "3o2qoTt8qnAOs0Cj3ABKbt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/80ac5e51cf365e6d7aa8110abebe346a2a1fe869",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b19b4aa74bccc764cdcd030e759a191458f5c7e1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4e105b8a6338bbd8b8a270d36382d7bcb5e6e023",
+        "width" : 64
+      } ],
+      "name" : "Comments (feat. KE)",
+      "release_date" : "2019-06-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3o2qoTt8qnAOs0Cj3ABKbt"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JWq7Qs3NyKX13mLUdRui5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JWq7Qs3NyKX13mLUdRui5",
+      "id" : "5JWq7Qs3NyKX13mLUdRui5",
+      "name" : "ZDS",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JWq7Qs3NyKX13mLUdRui5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bPci7byJkmq1eHgeX2RNb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5bPci7byJkmq1eHgeX2RNb",
+      "id" : "5bPci7byJkmq1eHgeX2RNb",
+      "name" : "KE",
+      "type" : "artist",
+      "uri" : "spotify:artist:5bPci7byJkmq1eHgeX2RNb"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 231270,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKQU1955988"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0uASTkKRy2Odq1mpN0SLqO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0uASTkKRy2Odq1mpN0SLqO",
+    "id" : "0uASTkKRy2Odq1mpN0SLqO",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Comments (feat. KE)",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb1b72aff1ed319fb5c3ccbb94ce4a219d2527dd?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0uASTkKRy2Odq1mpN0SLqO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0X2423nvaH92bYjYUKCYRI",
+        "id" : "0X2423nvaH92bYjYUKCYRI",
+        "name" : "Eddy M",
+        "type" : "artist",
+        "uri" : "spotify:artist:0X2423nvaH92bYjYUKCYRI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6RGZL0YH5vnbxu3bq9M4Pq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6RGZL0YH5vnbxu3bq9M4Pq",
+      "id" : "6RGZL0YH5vnbxu3bq9M4Pq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/0dc03441783132406ca1fcc5517c741a60f978de",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/5ee179a970cf1ab834e3f9bc58abbb66bed1b333",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3c3edbe7723ad08479e9fcf6520c7f2d9fadec06",
+        "width" : 64
+      } ],
+      "name" : "Getting Hot",
+      "release_date" : "2019-04-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6RGZL0YH5vnbxu3bq9M4Pq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0X2423nvaH92bYjYUKCYRI",
+      "id" : "0X2423nvaH92bYjYUKCYRI",
+      "name" : "Eddy M",
+      "type" : "artist",
+      "uri" : "spotify:artist:0X2423nvaH92bYjYUKCYRI"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 230527,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBKQU1928739"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7kmdOsSxrNJTYbfN4ORjPg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7kmdOsSxrNJTYbfN4ORjPg",
+    "id" : "7kmdOsSxrNJTYbfN4ORjPg",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Getting Hot",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bfb66e3a69a19339489ee235a7e75a1474244036?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7kmdOsSxrNJTYbfN4ORjPg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6zL4IItFC3KfdtvkfxBS6W"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6zL4IItFC3KfdtvkfxBS6W",
+      "id" : "6zL4IItFC3KfdtvkfxBS6W",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0a0f33e6e228fe19c5273fa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0a0f33e6e228fe19c5273fa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0a0f33e6e228fe19c5273fa",
+        "width" : 64
+      } ],
+      "name" : "Beware Of The Bird",
+      "release_date" : "2006-05-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:6zL4IItFC3KfdtvkfxBS6W"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 364088,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBLV61523960"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1KiNEbmfe20LO0jitOp8Ao"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1KiNEbmfe20LO0jitOp8Ao",
+    "id" : "1KiNEbmfe20LO0jitOp8Ao",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Who's Afraid Of Detroit?",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0561e87b7eb3d4531118699ecd9a04d60d23faa3?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1KiNEbmfe20LO0jitOp8Ao"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4Ee6WMtHcFfn34XIdH2x9j"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4Ee6WMtHcFfn34XIdH2x9j",
+      "id" : "4Ee6WMtHcFfn34XIdH2x9j",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cd55cff5c0be07f33e5631cb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cd55cff5c0be07f33e5631cb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cd55cff5c0be07f33e5631cb",
+        "width" : 64
+      } ],
+      "name" : "Barrump",
+      "release_date" : "2015-05-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:4Ee6WMtHcFfn34XIdH2x9j"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 383953,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US75Z1510022"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7bFOkwjxOcGaw6ZULE58Mh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7bFOkwjxOcGaw6ZULE58Mh",
+    "id" : "7bFOkwjxOcGaw6ZULE58Mh",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Make A Cake - Original Mix",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4599581219476f52c9ff40d5aafa8c41893a4241?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7bFOkwjxOcGaw6ZULE58Mh"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+        "id" : "5CYAFhywQTXdZmppCp0ukd",
+        "name" : "Claude VonStroke",
+        "type" : "artist",
+        "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7KCjICJnDLfwOvGOLZZRlh",
+      "id" : "7KCjICJnDLfwOvGOLZZRlh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27370dacdd1df7263b85baa5b8e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0270dacdd1df7263b85baa5b8e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485170dacdd1df7263b85baa5b8e",
+        "width" : 64
+      } ],
+      "name" : "Moody Fuse",
+      "release_date" : "2022-07-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7KCjICJnDLfwOvGOLZZRlh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "name" : "Claude VonStroke",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 411877,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEQ202200027"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6MDaMEgEVbKk5POEdY3TN5",
+    "id" : "6MDaMEgEVbKk5POEdY3TN5",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Moody Fuse",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cfa61b040e7f499d12b068a71633a7065d58f5ee?cid=b161b04bc8624dbe92750da1368b73c0",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6MDaMEgEVbKk5POEdY3TN5"
+  } ]
+}

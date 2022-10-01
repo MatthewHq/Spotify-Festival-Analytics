@@ -1,0 +1,95 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=vinyl+williams&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19597
+      },
+      "genres" : [ "experimental pop", "indie garage rock", "neo-psychedelic", "nu gaze" ],
+      "href" : "https://api.spotify.com/v1/artists/7GJ7lI9jmrNOuxBEcNQHPT",
+      "id" : "7GJ7lI9jmrNOuxBEcNQHPT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc8d1a9492390376d858462d5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c8d1a9492390376d858462d5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c8d1a9492390376d858462d5",
+        "width" : 160
+      } ],
+      "name" : "Vinyl Williams",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:7GJ7lI9jmrNOuxBEcNQHPT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 225624
+      },
+      "genres" : [ "australian garage punk", "australian psych", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/7GRrLcUxwtQLvOpO7OHO80",
+      "id" : "7GRrLcUxwtQLvOpO7OHO80",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb603deddc4488c0f4d1cd8b1d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174603deddc4488c0f4d1cd8b1d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178603deddc4488c0f4d1cd8b1d",
+        "width" : 160
+      } ],
+      "name" : "Psychedelic Porn Crumpets",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:7GRrLcUxwtQLvOpO7OHO80"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37OfAXhSGfjxrODZr2fNX4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1920
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/37OfAXhSGfjxrODZr2fNX4",
+      "id" : "37OfAXhSGfjxrODZr2fNX4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb016e0a3351a457d7d85013d4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174016e0a3351a457d7d85013d4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178016e0a3351a457d7d85013d4",
+        "width" : 160
+      } ],
+      "name" : "Vinyl Villain",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:37OfAXhSGfjxrODZr2fNX4"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 3
+  }
+}

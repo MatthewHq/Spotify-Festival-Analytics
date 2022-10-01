@@ -1,0 +1,295 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Hardwell&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3641612
+      },
+      "genres" : [ "big room", "dance pop", "dutch house", "edm", "electro house", "pop dance", "progressive electro house", "progressive house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/6BrvowZBreEkXzJQMpL174",
+      "id" : "6BrvowZBreEkXzJQMpL174",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1cbb1805834e1767a18a328b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741cbb1805834e1767a18a328b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781cbb1805834e1767a18a328b",
+        "width" : 160
+      } ],
+      "name" : "Hardwell",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:6BrvowZBreEkXzJQMpL174"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2eewCPTQ7Qd52pK2fyYERE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 168
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2eewCPTQ7Qd52pK2fyYERE",
+      "id" : "2eewCPTQ7Qd52pK2fyYERE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273030dea4ee533ab5875a4b581",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02030dea4ee533ab5875a4b581",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851030dea4ee533ab5875a4b581",
+        "width" : 64
+      } ],
+      "name" : "Hardwell & Greatski",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:2eewCPTQ7Qd52pK2fyYERE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/26dFowrfyK3IP6YFHHKLm7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/26dFowrfyK3IP6YFHHKLm7",
+      "id" : "26dFowrfyK3IP6YFHHKLm7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735ac6c9ca0e76115a18de6c6a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025ac6c9ca0e76115a18de6c6a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515ac6c9ca0e76115a18de6c6a",
+        "width" : 64
+      } ],
+      "name" : "Lee Hardwell",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:26dFowrfyK3IP6YFHHKLm7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1huUvqGjiNcAYH0Nd2e3ue"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3697
+      },
+      "genres" : [ "progressive electro house" ],
+      "href" : "https://api.spotify.com/v1/artists/1huUvqGjiNcAYH0Nd2e3ue",
+      "id" : "1huUvqGjiNcAYH0Nd2e3ue",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5e59c11f9b836b1c4d739cf5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745e59c11f9b836b1c4d739cf5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785e59c11f9b836b1c4d739cf5",
+        "width" : 160
+      } ],
+      "name" : "Tristan Garner",
+      "popularity" : 29,
+      "type" : "artist",
+      "uri" : "spotify:artist:1huUvqGjiNcAYH0Nd2e3ue"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TxWzS8EydWnYw2FIYdfSm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 39
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1TxWzS8EydWnYw2FIYdfSm",
+      "id" : "1TxWzS8EydWnYw2FIYdfSm",
+      "images" : [ ],
+      "name" : "Martin Hardwell",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1TxWzS8EydWnYw2FIYdfSm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 51590
+      },
+      "genres" : [ "big room", "edm", "electro house", "pop dance", "progressive electro house" ],
+      "href" : "https://api.spotify.com/v1/artists/0RMeG9M8QFzss9bAbq99KA",
+      "id" : "0RMeG9M8QFzss9bAbq99KA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9c01aab5e8c38392514cda4e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749c01aab5e8c38392514cda4e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789c01aab5e8c38392514cda4e",
+        "width" : 160
+      } ],
+      "name" : "Maddix",
+      "popularity" : 52,
+      "type" : "artist",
+      "uri" : "spotify:artist:0RMeG9M8QFzss9bAbq99KA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tg4l6hwBOnKvVtoTUDRp7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 141
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6tg4l6hwBOnKvVtoTUDRp7",
+      "id" : "6tg4l6hwBOnKvVtoTUDRp7",
+      "images" : [ ],
+      "name" : "Hardwell & Rehab",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6tg4l6hwBOnKvVtoTUDRp7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 608014
+      },
+      "genres" : [ "dutch edm", "dutch house", "edm", "electro house", "pop dance", "progressive electro house", "slap house" ],
+      "href" : "https://api.spotify.com/v1/artists/1V3VTM7VspiQjcmRhC010n",
+      "id" : "1V3VTM7VspiQjcmRhC010n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfb569486d0255801246e9966",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fb569486d0255801246e9966",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fb569486d0255801246e9966",
+        "width" : 160
+      } ],
+      "name" : "Quintino",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:1V3VTM7VspiQjcmRhC010n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3265410
+      },
+      "genres" : [ "belgian dance", "belgian edm", "big room", "dance pop", "edm", "electro house", "pop dance", "progressive electro house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/73jBynjsVtofjRpdpRAJGk",
+      "id" : "73jBynjsVtofjRpdpRAJGk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb02ccfd8ad7d5a445fb1766bc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517402ccfd8ad7d5a445fb1766bc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17802ccfd8ad7d5a445fb1766bc",
+        "width" : 160
+      } ],
+      "name" : "Dimitri Vegas & Like Mike",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15618134
+      },
+      "genres" : [ "dance pop", "dutch edm", "edm", "pop", "pop dance", "progressive house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/60d24wfXkVzDSfLS6hyCjZ",
+      "id" : "60d24wfXkVzDSfLS6hyCjZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb66d17ee8690d2e8d94ee7387",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517466d17ee8690d2e8d94ee7387",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17866d17ee8690d2e8d94ee7387",
+        "width" : 160
+      } ],
+      "name" : "Martin Garrix",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22222695
+      },
+      "genres" : [ "hard rock", "metal", "old school thrash", "rock", "thrash metal" ],
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8101d13bdd630b0889acd2fd",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748101d13bdd630b0889acd2fd",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788101d13bdd630b0889acd2fd",
+        "width" : 160
+      } ],
+      "name" : "Metallica",
+      "popularity" : 82,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 11
+  }
+}

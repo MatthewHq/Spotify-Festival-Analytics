@@ -1,0 +1,511 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=soul+glo&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29026
+      },
+      "genres" : [ "art pop", "escape room", "scream rap" ],
+      "href" : "https://api.spotify.com/v1/artists/0mWrp0C4ShdOjs7P29Gzan",
+      "id" : "0mWrp0C4ShdOjs7P29Gzan",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9a277645bcc34a7b96d00add",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749a277645bcc34a7b96d00add",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789a277645bcc34a7b96d00add",
+        "width" : 160
+      } ],
+      "name" : "Soul Glo",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:0mWrp0C4ShdOjs7P29Gzan"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WDsuY4L6JPSiWYpAMl6P9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1275
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1WDsuY4L6JPSiWYpAMl6P9",
+      "id" : "1WDsuY4L6JPSiWYpAMl6P9",
+      "images" : [ ],
+      "name" : "Soul Glow Activatur",
+      "popularity" : 23,
+      "type" : "artist",
+      "uri" : "spotify:artist:1WDsuY4L6JPSiWYpAMl6P9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75936
+      },
+      "genres" : [ "noise punk" ],
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2dc23250ce8a742f9d095e50",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742dc23250ce8a742f9d095e50",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782dc23250ce8a742f9d095e50",
+        "width" : 160
+      } ],
+      "name" : "Show Me the Body",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0UdpNYGecfevWA0NfJtUer"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 202
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0UdpNYGecfevWA0NfJtUer",
+      "id" : "0UdpNYGecfevWA0NfJtUer",
+      "images" : [ ],
+      "name" : "Soul Glow Activator",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:0UdpNYGecfevWA0NfJtUer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VzyzR6DaEIfasrKKcJ8mI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 381
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3VzyzR6DaEIfasrKKcJ8mI",
+      "id" : "3VzyzR6DaEIfasrKKcJ8mI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb097acabee78d95a7b040c831",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174097acabee78d95a7b040c831",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178097acabee78d95a7b040c831",
+        "width" : 160
+      } ],
+      "name" : "Wet Satin",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:3VzyzR6DaEIfasrKKcJ8mI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4eyJe18lWFnfmWJgJcXqCE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 28
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4eyJe18lWFnfmWJgJcXqCE",
+      "id" : "4eyJe18lWFnfmWJgJcXqCE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27361faf710bd3fdeb265fe8b38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0261faf710bd3fdeb265fe8b38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485161faf710bd3fdeb265fe8b38",
+        "width" : 64
+      } ],
+      "name" : "Soul Glow",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4eyJe18lWFnfmWJgJcXqCE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KyaMU8OFCVs79qnXwbvuS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3KyaMU8OFCVs79qnXwbvuS",
+      "id" : "3KyaMU8OFCVs79qnXwbvuS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27337a8f52aa5387677bc048f99",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0237a8f52aa5387677bc048f99",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485137a8f52aa5387677bc048f99",
+        "width" : 64
+      } ],
+      "name" : "Glockboy Souly",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3KyaMU8OFCVs79qnXwbvuS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 312028
+      },
+      "genres" : [ "hardcore punk", "modern melodic hardcore" ],
+      "href" : "https://api.spotify.com/v1/artists/2qnpHrOzdmOo1S4ox3j17x",
+      "id" : "2qnpHrOzdmOo1S4ox3j17x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb634d95df40053f9e6d9506d8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174634d95df40053f9e6d9506d8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178634d95df40053f9e6d9506d8",
+        "width" : 160
+      } ],
+      "name" : "Turnstile",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:2qnpHrOzdmOo1S4ox3j17x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6MeYJnwFiWdLYeQIKR9XBb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6MeYJnwFiWdLYeQIKR9XBb",
+      "id" : "6MeYJnwFiWdLYeQIKR9XBb",
+      "images" : [ ],
+      "name" : "Pierce Jordan Of Soul Glo",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6MeYJnwFiWdLYeQIKR9XBb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3SZLVi1YbTJ6CRp8JPC6mX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3SZLVi1YbTJ6CRp8JPC6mX",
+      "id" : "3SZLVi1YbTJ6CRp8JPC6mX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ddd1d48ae6c71937808c7c7c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ddd1d48ae6c71937808c7c7c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ddd1d48ae6c71937808c7c7c",
+        "width" : 64
+      } ],
+      "name" : "Glossy Soul",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3SZLVi1YbTJ6CRp8JPC6mX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 152345
+      },
+      "genres" : [ "art pop", "indie rock", "london indie", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+      "id" : "3PP6ghmOlDl2jaKaH0avUN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaebcf58177b9739feadb00b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aebcf58177b9739feadb00b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aebcf58177b9739feadb00b9",
+        "width" : 160
+      } ],
+      "name" : "Black Country, New Road",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gzS3GxhP1GtkceSAwPhmU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 105
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1gzS3GxhP1GtkceSAwPhmU",
+      "id" : "1gzS3GxhP1GtkceSAwPhmU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf3bcf2bd2379af86dc39134c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f3bcf2bd2379af86dc39134c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f3bcf2bd2379af86dc39134c",
+        "width" : 160
+      } ],
+      "name" : "Soul Groove (UK)",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:1gzS3GxhP1GtkceSAwPhmU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2BRMZ2zs6bwCyY867ejk5H"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2BRMZ2zs6bwCyY867ejk5H",
+      "id" : "2BRMZ2zs6bwCyY867ejk5H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734941dece713c6be7f04954ec",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024941dece713c6be7f04954ec",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514941dece713c6be7f04954ec",
+        "width" : 64
+      } ],
+      "name" : "Gloom Soulja",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2BRMZ2zs6bwCyY867ejk5H"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 171883
+      },
+      "genres" : [ "egg punk", "stockholm indie" ],
+      "href" : "https://api.spotify.com/v1/artists/2nAKP6etu8wXNnezKXgqgg",
+      "id" : "2nAKP6etu8wXNnezKXgqgg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf309aa1b63929627f6be0697",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f309aa1b63929627f6be0697",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f309aa1b63929627f6be0697",
+        "width" : 160
+      } ],
+      "name" : "Viagra Boys",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:2nAKP6etu8wXNnezKXgqgg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NI2ar7GCozS2JaqTyU0Ra"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 599
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3NI2ar7GCozS2JaqTyU0Ra",
+      "id" : "3NI2ar7GCozS2JaqTyU0Ra",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737fb132d1018c35322147eaaa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027fb132d1018c35322147eaaa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517fb132d1018c35322147eaaa",
+        "width" : 64
+      } ],
+      "name" : "Soul Flower",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:3NI2ar7GCozS2JaqTyU0Ra"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Jq2CcXJr6uZhUxcBnJ797"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Jq2CcXJr6uZhUxcBnJ797",
+      "id" : "6Jq2CcXJr6uZhUxcBnJ797",
+      "images" : [ ],
+      "name" : "Gloom Soulja",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Jq2CcXJr6uZhUxcBnJ797"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 73899
+      },
+      "genres" : [ "j-punk", "japanese girl punk", "japanese pop punk", "japanese punk rock" ],
+      "href" : "https://api.spotify.com/v1/artists/0HutkALC7kq2L8b9bnZUkq",
+      "id" : "0HutkALC7kq2L8b9bnZUkq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb144a466677d49e1fbf7d78f0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174144a466677d49e1fbf7d78f0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178144a466677d49e1fbf7d78f0",
+        "width" : 160
+      } ],
+      "name" : "Otoboke Beaver",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:0HutkALC7kq2L8b9bnZUkq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 41128
+      },
+      "genres" : [ "boston electronic", "deep disco house" ],
+      "href" : "https://api.spotify.com/v1/artists/0PEfTatx7R08s3nFrn9teD",
+      "id" : "0PEfTatx7R08s3nFrn9teD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe376000de4f07b655b1f0ae8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e376000de4f07b655b1f0ae8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e376000de4f07b655b1f0ae8",
+        "width" : 160
+      } ],
+      "name" : "Soul Clap",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:0PEfTatx7R08s3nFrn9teD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DJ88vdBJuFOt14nWA8Df5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2DJ88vdBJuFOt14nWA8Df5",
+      "id" : "2DJ88vdBJuFOt14nWA8Df5",
+      "images" : [ ],
+      "name" : "Gloria Soul",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2DJ88vdBJuFOt14nWA8Df5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17987
+      },
+      "genres" : [ "art punk" ],
+      "href" : "https://api.spotify.com/v1/artists/0Vll0SNLozOGHbfHbjY4pv",
+      "id" : "0Vll0SNLozOGHbfHbjY4pv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb965cefd6fda173748730f748",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174965cefd6fda173748730f748",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178965cefd6fda173748730f748",
+        "width" : 160
+      } ],
+      "name" : "Sloppy Jane",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Vll0SNLozOGHbfHbjY4pv"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=soul+glo&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 79
+  }
+}

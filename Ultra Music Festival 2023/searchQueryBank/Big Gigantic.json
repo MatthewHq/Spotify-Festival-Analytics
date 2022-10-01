@@ -1,0 +1,111 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Big+Gigantic&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 242033
+      },
+      "genres" : [ "edm", "electronic trap", "electropop", "indie poptimism", "vapor twitch" ],
+      "href" : "https://api.spotify.com/v1/artists/7o7mC95EDbJKTcPAAs8C3r",
+      "id" : "7o7mC95EDbJKTcPAAs8C3r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebed3f89332136e5cb66e263d3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ed3f89332136e5cb66e263d3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ed3f89332136e5cb66e263d3",
+        "width" : 160
+      } ],
+      "name" : "Big Gigantic",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:7o7mC95EDbJKTcPAAs8C3r"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3atpOdeLg8xGigbzCLnNyL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1245
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3atpOdeLg8xGigbzCLnNyL",
+      "id" : "3atpOdeLg8xGigbzCLnNyL",
+      "images" : [ ],
+      "name" : "Big Gigantic & GRiZ",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:3atpOdeLg8xGigbzCLnNyL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22358
+      },
+      "genres" : [ "chiptune" ],
+      "href" : "https://api.spotify.com/v1/artists/6xgUHoQfcHv3MuB9I9z6RO",
+      "id" : "6xgUHoQfcHv3MuB9I9z6RO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb99077b36465aa642785f73c8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517499077b36465aa642785f73c8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17899077b36465aa642785f73c8",
+        "width" : 160
+      } ],
+      "name" : "Big Giant Circles",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:6xgUHoQfcHv3MuB9I9z6RO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3aBze2JNSZZ2pMZlo4232i"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3aBze2JNSZZ2pMZlo4232i",
+      "id" : "3aBze2JNSZZ2pMZlo4232i",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738728d3e6a5289329913da57a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028728d3e6a5289329913da57a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518728d3e6a5289329913da57a",
+        "width" : 64
+      } ],
+      "name" : "Big Giant Tribe",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3aBze2JNSZZ2pMZlo4232i"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Vintage+Culture&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1670754
+      },
+      "genres" : [ "brazilian edm" ],
+      "href" : "https://api.spotify.com/v1/artists/28uJnu5EsrGml2tBd7y8ts",
+      "id" : "28uJnu5EsrGml2tBd7y8ts",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb92b73e7c017ab5359781fe1b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517492b73e7c017ab5359781fe1b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17892b73e7c017ab5359781fe1b",
+        "width" : 160
+      } ],
+      "name" : "Vintage Culture",
+      "popularity" : 72,
+      "type" : "artist",
+      "uri" : "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49OCob31oaz7C82186Oox7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 140
+      },
+      "genres" : [ "brazilian edm" ],
+      "href" : "https://api.spotify.com/v1/artists/49OCob31oaz7C82186Oox7",
+      "id" : "49OCob31oaz7C82186Oox7",
+      "images" : [ ],
+      "name" : "Vintage Culture & theDuo",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:49OCob31oaz7C82186Oox7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11941
+      },
+      "genres" : [ "progressive house", "progressive trance", "progressive trance house", "serbian electronic" ],
+      "href" : "https://api.spotify.com/v1/artists/58dfpnXBkKgFNH2JFtEAv0",
+      "id" : "58dfpnXBkKgFNH2JFtEAv0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebae78ca14dbe41b1d4ddb7d9f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ae78ca14dbe41b1d4ddb7d9f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ae78ca14dbe41b1d4ddb7d9f",
+        "width" : 160
+      } ],
+      "name" : "Vintage & Morelli",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:58dfpnXBkKgFNH2JFtEAv0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6GWG6vAzuEpuDiz2utGkCW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 261
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6GWG6vAzuEpuDiz2utGkCW",
+      "id" : "6GWG6vAzuEpuDiz2utGkCW",
+      "images" : [ ],
+      "name" : "Vintage Culture",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:6GWG6vAzuEpuDiz2utGkCW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FrMqO2Ho6iMA2xS3lu3dh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0FrMqO2Ho6iMA2xS3lu3dh",
+      "id" : "0FrMqO2Ho6iMA2xS3lu3dh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273060f8898c92839c511dee34f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02060f8898c92839c511dee34f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851060f8898c92839c511dee34f",
+        "width" : 64
+      } ],
+      "name" : "Vintage Cafe Culture",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:0FrMqO2Ho6iMA2xS3lu3dh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ByxBomoQDGbZ9OJm3X76d"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 25
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2ByxBomoQDGbZ9OJm3X76d",
+      "id" : "2ByxBomoQDGbZ9OJm3X76d",
+      "images" : [ ],
+      "name" : "Vintage Culture & Love Bites",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ByxBomoQDGbZ9OJm3X76d"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JraOGRsUifPEw39FosWdx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1067
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5JraOGRsUifPEw39FosWdx",
+      "id" : "5JraOGRsUifPEw39FosWdx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb19ba50520d324ed42b325e58",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517419ba50520d324ed42b325e58",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17819ba50520d324ed42b325e58",
+        "width" : 160
+      } ],
+      "name" : "Vintage",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:5JraOGRsUifPEw39FosWdx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5f5mfxC3zijz4RoSNUpfTy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 25812
+      },
+      "genres" : [ "reggae cover" ],
+      "href" : "https://api.spotify.com/v1/artists/5f5mfxC3zijz4RoSNUpfTy",
+      "id" : "5f5mfxC3zijz4RoSNUpfTy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1372ba6eccf414a8cd975ffe",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741372ba6eccf414a8cd975ffe",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781372ba6eccf414a8cd975ffe",
+        "width" : 160
+      } ],
+      "name" : "Vintage Reggae Soundsystem",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5f5mfxC3zijz4RoSNUpfTy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2556
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0qUuZVm9ly1AlsuZyYMQwp",
+      "id" : "0qUuZVm9ly1AlsuZyYMQwp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb790cc5405103faf94d66f3c6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174790cc5405103faf94d66f3c6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178790cc5405103faf94d66f3c6",
+        "width" : 160
+      } ],
+      "name" : "Vintage Worship",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:0qUuZVm9ly1AlsuZyYMQwp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4JSgurWxvs9C5QygU1tQHL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3471
+      },
+      "genres" : [ "beats", "trap beats" ],
+      "href" : "https://api.spotify.com/v1/artists/4JSgurWxvs9C5QygU1tQHL",
+      "id" : "4JSgurWxvs9C5QygU1tQHL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735d2f71353dc83c23c2ddff92",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025d2f71353dc83c23c2ddff92",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515d2f71353dc83c23c2ddff92",
+        "width" : 64
+      } ],
+      "name" : "Vintageman Produkcja Beats",
+      "popularity" : 29,
+      "type" : "artist",
+      "uri" : "spotify:artist:4JSgurWxvs9C5QygU1tQHL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7d8LHZ0VwsCgtgJNFyUAWX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 499
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7d8LHZ0VwsCgtgJNFyUAWX",
+      "id" : "7d8LHZ0VwsCgtgJNFyUAWX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4248e20a31a548c27f03c8ee",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744248e20a31a548c27f03c8ee",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784248e20a31a548c27f03c8ee",
+        "width" : 160
+      } ],
+      "name" : "Vintage Beats Club Vienna",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:7d8LHZ0VwsCgtgJNFyUAWX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6SBEoQGRoWffIQOkxDJLmM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6SBEoQGRoWffIQOkxDJLmM",
+      "id" : "6SBEoQGRoWffIQOkxDJLmM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1e05c9481c9770ef2bb6d781",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741e05c9481c9770ef2bb6d781",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781e05c9481c9770ef2bb6d781",
+        "width" : 160
+      } ],
+      "name" : "Vintage Vanity",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:6SBEoQGRoWffIQOkxDJLmM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/418Pr4IDCFURxkE9LphbGz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4904
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/418Pr4IDCFURxkE9LphbGz",
+      "id" : "418Pr4IDCFURxkE9LphbGz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb21bfd9bd62bd194df67b7305",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517421bfd9bd62bd194df67b7305",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17821bfd9bd62bd194df67b7305",
+        "width" : 160
+      } ],
+      "name" : "Vintage Cafe",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:418Pr4IDCFURxkE9LphbGz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qREvbymgr6mUliwL2F7T8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 32
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3qREvbymgr6mUliwL2F7T8",
+      "id" : "3qREvbymgr6mUliwL2F7T8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273069db6aaa014edff7c6a2894",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02069db6aaa014edff7c6a2894",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851069db6aaa014edff7c6a2894",
+        "width" : 64
+      } ],
+      "name" : "Vintage Cafe Vibes",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:3qREvbymgr6mUliwL2F7T8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3fYucTUzngL80IiUHOhTEj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 85
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3fYucTUzngL80IiUHOhTEj",
+      "id" : "3fYucTUzngL80IiUHOhTEj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f7987db16dfb90eeb30ed040",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f7987db16dfb90eeb30ed040",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f7987db16dfb90eeb30ed040",
+        "width" : 64
+      } ],
+      "name" : "The Vintage Martins",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:3fYucTUzngL80IiUHOhTEj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61MH29rMIyOfuK7KXQznzX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35394
+      },
+      "genres" : [ "icelandic rock", "modern hard rock" ],
+      "href" : "https://api.spotify.com/v1/artists/61MH29rMIyOfuK7KXQznzX",
+      "id" : "61MH29rMIyOfuK7KXQznzX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9a3af8a61dc1996e97cee664",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749a3af8a61dc1996e97cee664",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789a3af8a61dc1996e97cee664",
+        "width" : 160
+      } ],
+      "name" : "The Vintage Caravan",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:61MH29rMIyOfuK7KXQznzX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/197t0dYfJx5S2mxxEHApdf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4133
+      },
+      "genres" : [ "boston hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/197t0dYfJx5S2mxxEHApdf",
+      "id" : "197t0dYfJx5S2mxxEHApdf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5129a208e966eca586e09e2a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745129a208e966eca586e09e2a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785129a208e966eca586e09e2a",
+        "width" : 160
+      } ],
+      "name" : "Vintage Lee",
+      "popularity" : 16,
+      "type" : "artist",
+      "uri" : "spotify:artist:197t0dYfJx5S2mxxEHApdf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6wiUTG4SJ63mW2tGdVNTnc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6wiUTG4SJ63mW2tGdVNTnc",
+      "id" : "6wiUTG4SJ63mW2tGdVNTnc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dd92f88aaadd91bf680ab971",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dd92f88aaadd91bf680ab971",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dd92f88aaadd91bf680ab971",
+        "width" : 64
+      } ],
+      "name" : "Vintage Doctrine",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:6wiUTG4SJ63mW2tGdVNTnc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FjFAWhny4Mmkc4KPK5qlE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 866
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2FjFAWhny4Mmkc4KPK5qlE",
+      "id" : "2FjFAWhny4Mmkc4KPK5qlE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0b14e8c17d8d05613a32fa4d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740b14e8c17d8d05613a32fa4d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780b14e8c17d8d05613a32fa4d",
+        "width" : 160
+      } ],
+      "name" : "Vintage Worship",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:2FjFAWhny4Mmkc4KPK5qlE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/397pCKRaSXkYZvrC9fAb8q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2492
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/397pCKRaSXkYZvrC9fAb8q",
+      "id" : "397pCKRaSXkYZvrC9fAb8q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732ae1d507209a9f454dc6b4d0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022ae1d507209a9f454dc6b4d0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512ae1d507209a9f454dc6b4d0",
+        "width" : 64
+      } ],
+      "name" : "Vintage Lounge Orchestra",
+      "popularity" : 21,
+      "type" : "artist",
+      "uri" : "spotify:artist:397pCKRaSXkYZvrC9fAb8q"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Vintage+Culture&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 83
+  }
+}

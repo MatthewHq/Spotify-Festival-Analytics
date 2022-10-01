@@ -1,0 +1,559 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=sloppy+jane&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17987
+      },
+      "genres" : [ "art punk" ],
+      "href" : "https://api.spotify.com/v1/artists/0Vll0SNLozOGHbfHbjY4pv",
+      "id" : "0Vll0SNLozOGHbfHbjY4pv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb965cefd6fda173748730f748",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174965cefd6fda173748730f748",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178965cefd6fda173748730f748",
+        "width" : 160
+      } ],
+      "name" : "Sloppy Jane",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Vll0SNLozOGHbfHbjY4pv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 33
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2vllrQgjSlv6SFDmhio5un",
+      "id" : "2vllrQgjSlv6SFDmhio5un",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735236723c7bf9a0b00cc3630a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025236723c7bf9a0b00cc3630a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515236723c7bf9a0b00cc3630a",
+        "width" : 64
+      } ],
+      "name" : "Sloppy Jo",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:2vllrQgjSlv6SFDmhio5un"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34yjiylNIWsUUV7JllFyTr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/34yjiylNIWsUUV7JllFyTr",
+      "id" : "34yjiylNIWsUUV7JllFyTr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304f71db7b40ff3f5ed967a79",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204f71db7b40ff3f5ed967a79",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104f71db7b40ff3f5ed967a79",
+        "width" : 64
+      } ],
+      "name" : "Sloppy Jane",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:34yjiylNIWsUUV7JllFyTr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VzyzR6DaEIfasrKKcJ8mI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 381
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3VzyzR6DaEIfasrKKcJ8mI",
+      "id" : "3VzyzR6DaEIfasrKKcJ8mI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb097acabee78d95a7b040c831",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174097acabee78d95a7b040c831",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178097acabee78d95a7b040c831",
+        "width" : 160
+      } ],
+      "name" : "Wet Satin",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:3VzyzR6DaEIfasrKKcJ8mI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55lXkXBQKg24AKyxwp05W8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/55lXkXBQKg24AKyxwp05W8",
+      "id" : "55lXkXBQKg24AKyxwp05W8",
+      "images" : [ ],
+      "name" : "sloppy sleepy",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:55lXkXBQKg24AKyxwp05W8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11127
+      },
+      "genres" : [ "indie punk", "la indie" ],
+      "href" : "https://api.spotify.com/v1/artists/34ji1NPhqjImjXwOb2kwg4",
+      "id" : "34ji1NPhqjImjXwOb2kwg4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba22d6458aa98abcd0b427889",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a22d6458aa98abcd0b427889",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a22d6458aa98abcd0b427889",
+        "width" : 160
+      } ],
+      "name" : "The Paranoyds",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:34ji1NPhqjImjXwOb2kwg4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6LNbO8vo9XREW2tYaGXkFF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 111
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6LNbO8vo9XREW2tYaGXkFF",
+      "id" : "6LNbO8vo9XREW2tYaGXkFF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbdd0d0f67c71ea584074f0fa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bdd0d0f67c71ea584074f0fa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bdd0d0f67c71ea584074f0fa",
+        "width" : 160
+      } ],
+      "name" : "Sloppy Jones",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:6LNbO8vo9XREW2tYaGXkFF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 152345
+      },
+      "genres" : [ "art pop", "indie rock", "london indie", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+      "id" : "3PP6ghmOlDl2jaKaH0avUN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaebcf58177b9739feadb00b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aebcf58177b9739feadb00b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aebcf58177b9739feadb00b9",
+        "width" : 160
+      } ],
+      "name" : "Black Country, New Road",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39oU12K0iNKyJC6NbMrvYm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/39oU12K0iNKyJC6NbMrvYm",
+      "id" : "39oU12K0iNKyJC6NbMrvYm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aae9eb7f05953687ead58b91",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aae9eb7f05953687ead58b91",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aae9eb7f05953687ead58b91",
+        "width" : 64
+      } ],
+      "name" : "Sloppy J",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:39oU12K0iNKyJC6NbMrvYm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 67738
+      },
+      "genres" : [ "alternative r&b", "funk", "indie soul", "neo soul", "soul" ],
+      "href" : "https://api.spotify.com/v1/artists/1plioVQ0mcgAO7uhvWkJJy",
+      "id" : "1plioVQ0mcgAO7uhvWkJJy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb99b304bfd6eb8acdb9a1eea2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517499b304bfd6eb8acdb9a1eea2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17899b304bfd6eb8acdb9a1eea2",
+        "width" : 160
+      } ],
+      "name" : "Lady Wray",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:1plioVQ0mcgAO7uhvWkJJy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36165
+      },
+      "genres" : [ "afrobeat", "afropop", "world" ],
+      "href" : "https://api.spotify.com/v1/artists/1GQur7dDvAWhKT9u9YwBJZ",
+      "id" : "1GQur7dDvAWhKT9u9YwBJZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7361c1c60adf83e3d66352ef",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747361c1c60adf83e3d66352ef",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787361c1c60adf83e3d66352ef",
+        "width" : 160
+      } ],
+      "name" : "Seun Kuti",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:1GQur7dDvAWhKT9u9YwBJZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35745
+      },
+      "genres" : [ "indie jazz", "indie soul", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/2Ks1Z1scmEDZfaYaCS7Osj",
+      "id" : "2Ks1Z1scmEDZfaYaCS7Osj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0eb5e8b89aa79f62e1bef593",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740eb5e8b89aa79f62e1bef593",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780eb5e8b89aa79f62e1bef593",
+        "width" : 160
+      } ],
+      "name" : "Surprise Chef",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Ks1Z1scmEDZfaYaCS7Osj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29026
+      },
+      "genres" : [ "art pop", "escape room", "scream rap" ],
+      "href" : "https://api.spotify.com/v1/artists/0mWrp0C4ShdOjs7P29Gzan",
+      "id" : "0mWrp0C4ShdOjs7P29Gzan",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9a277645bcc34a7b96d00add",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749a277645bcc34a7b96d00add",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789a277645bcc34a7b96d00add",
+        "width" : 160
+      } ],
+      "name" : "Soul Glo",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:0mWrp0C4ShdOjs7P29Gzan"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5265
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3BUpv2goO0OTzcj7yYkRZJ",
+      "id" : "3BUpv2goO0OTzcj7yYkRZJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb51ec3e0ad79f0407ed7df130",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517451ec3e0ad79f0407ed7df130",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17851ec3e0ad79f0407ed7df130",
+        "width" : 160
+      } ],
+      "name" : "JJUUJJUU",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:3BUpv2goO0OTzcj7yYkRZJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 126854
+      },
+      "genres" : [ "chamber psych", "indie rock", "modern alternative rock", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/4IeWU3NYBI9mISFVhzXG8f",
+      "id" : "4IeWU3NYBI9mISFVhzXG8f",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1f4c82dd5578030a1bcbd601",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741f4c82dd5578030a1bcbd601",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781f4c82dd5578030a1bcbd601",
+        "width" : 160
+      } ],
+      "name" : "shame",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:4IeWU3NYBI9mISFVhzXG8f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30121
+      },
+      "genres" : [ "mathcore" ],
+      "href" : "https://api.spotify.com/v1/artists/4V5obzWMr7BHZrjOiQwB4K",
+      "id" : "4V5obzWMr7BHZrjOiQwB4K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd92e0118bad05253ab058304",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d92e0118bad05253ab058304",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d92e0118bad05253ab058304",
+        "width" : 160
+      } ],
+      "name" : "The Armed",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:4V5obzWMr7BHZrjOiQwB4K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23280
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2kRFetyCeU3r24DVyTZVFx",
+      "id" : "2kRFetyCeU3r24DVyTZVFx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe6610137da69dcbf94266ef0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e6610137da69dcbf94266ef0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e6610137da69dcbf94266ef0",
+        "width" : 160
+      } ],
+      "name" : "Surfbort",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:2kRFetyCeU3r24DVyTZVFx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 91218
+      },
+      "genres" : [ "art pop", "indie pop" ],
+      "href" : "https://api.spotify.com/v1/artists/1Uk1GyijF6fSfX4mWq5bfR",
+      "id" : "1Uk1GyijF6fSfX4mWq5bfR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb97a2dc368d4d5b596779cca1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517497a2dc368d4d5b596779cca1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17897a2dc368d4d5b596779cca1",
+        "width" : 160
+      } ],
+      "name" : "Samia",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Uk1GyijF6fSfX4mWq5bfR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 555742
+      },
+      "genres" : [ "alternative r&b", "escape room", "lgbtq+ hip hop", "pop", "trap queen", "viral rap" ],
+      "href" : "https://api.spotify.com/v1/artists/6lay1nwbE6hTx1jivysUAL",
+      "id" : "6lay1nwbE6hTx1jivysUAL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb5407c20bedffb08ee9636b97",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051745407c20bedffb08ee9636b97",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1785407c20bedffb08ee9636b97",
+        "width" : 160
+      } ],
+      "name" : "Princess Nokia",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:6lay1nwbE6hTx1jivysUAL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wBlk7Yg32upbnqrkMxwMw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 218
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3wBlk7Yg32upbnqrkMxwMw",
+      "id" : "3wBlk7Yg32upbnqrkMxwMw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9ad1b5e6458fc2f8f0dcbaf9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749ad1b5e6458fc2f8f0dcbaf9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789ad1b5e6458fc2f8f0dcbaf9",
+        "width" : 160
+      } ],
+      "name" : "Disco Cowboy",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:3wBlk7Yg32upbnqrkMxwMw"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=sloppy+jane&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 25
+  }
+}

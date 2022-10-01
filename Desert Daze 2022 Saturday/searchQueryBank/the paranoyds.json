@@ -1,0 +1,575 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=the+paranoyds&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11127
+      },
+      "genres" : [ "indie punk", "la indie" ],
+      "href" : "https://api.spotify.com/v1/artists/34ji1NPhqjImjXwOb2kwg4",
+      "id" : "34ji1NPhqjImjXwOb2kwg4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba22d6458aa98abcd0b427889",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a22d6458aa98abcd0b427889",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a22d6458aa98abcd0b427889",
+        "width" : 160
+      } ],
+      "name" : "The Paranoyds",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:34ji1NPhqjImjXwOb2kwg4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35745
+      },
+      "genres" : [ "indie jazz", "indie soul", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/2Ks1Z1scmEDZfaYaCS7Osj",
+      "id" : "2Ks1Z1scmEDZfaYaCS7Osj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0eb5e8b89aa79f62e1bef593",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740eb5e8b89aa79f62e1bef593",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780eb5e8b89aa79f62e1bef593",
+        "width" : 160
+      } ],
+      "name" : "Surprise Chef",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Ks1Z1scmEDZfaYaCS7Osj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xR0a2qurNH1PUikEUi6kB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5779
+      },
+      "genres" : [ "ska mexicano" ],
+      "href" : "https://api.spotify.com/v1/artists/4xR0a2qurNH1PUikEUi6kB",
+      "id" : "4xR0a2qurNH1PUikEUi6kB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb66b186d1de423c90d0293d1a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517466b186d1de423c90d0293d1a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17866b186d1de423c90d0293d1a",
+        "width" : 160
+      } ],
+      "name" : "The Paranoias",
+      "popularity" : 23,
+      "type" : "artist",
+      "uri" : "spotify:artist:4xR0a2qurNH1PUikEUi6kB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 17987
+      },
+      "genres" : [ "art punk" ],
+      "href" : "https://api.spotify.com/v1/artists/0Vll0SNLozOGHbfHbjY4pv",
+      "id" : "0Vll0SNLozOGHbfHbjY4pv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb965cefd6fda173748730f748",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174965cefd6fda173748730f748",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178965cefd6fda173748730f748",
+        "width" : 160
+      } ],
+      "name" : "Sloppy Jane",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Vll0SNLozOGHbfHbjY4pv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0JfFwdDiDoOqTzKxXOwua5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2116
+      },
+      "genres" : [ "comedy rock" ],
+      "href" : "https://api.spotify.com/v1/artists/0JfFwdDiDoOqTzKxXOwua5",
+      "id" : "0JfFwdDiDoOqTzKxXOwua5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fbfd2372656852056bd61823",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fbfd2372656852056bd61823",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fbfd2372656852056bd61823",
+        "width" : 64
+      } ],
+      "name" : "The Paranormal Song Warrior",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:0JfFwdDiDoOqTzKxXOwua5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23280
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2kRFetyCeU3r24DVyTZVFx",
+      "id" : "2kRFetyCeU3r24DVyTZVFx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe6610137da69dcbf94266ef0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e6610137da69dcbf94266ef0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e6610137da69dcbf94266ef0",
+        "width" : 160
+      } ],
+      "name" : "Surfbort",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:2kRFetyCeU3r24DVyTZVFx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Nxo9N0Hc4J8KXntZuCt0j"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 940
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3Nxo9N0Hc4J8KXntZuCt0j",
+      "id" : "3Nxo9N0Hc4J8KXntZuCt0j",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb048cc353bfe509ebeb73a1c0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174048cc353bfe509ebeb73a1c0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178048cc353bfe509ebeb73a1c0",
+        "width" : 160
+      } ],
+      "name" : "The Paranoid Style",
+      "popularity" : 14,
+      "type" : "artist",
+      "uri" : "spotify:artist:3Nxo9N0Hc4J8KXntZuCt0j"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4SwaNrEPRcIqp0auhiOLkq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1912
+      },
+      "genres" : [ "oc indie" ],
+      "href" : "https://api.spotify.com/v1/artists/4SwaNrEPRcIqp0auhiOLkq",
+      "id" : "4SwaNrEPRcIqp0auhiOLkq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7e7cfc29ed6d86f2b81d0c9a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747e7cfc29ed6d86f2b81d0c9a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787e7cfc29ed6d86f2b81d0c9a",
+        "width" : 160
+      } ],
+      "name" : "The Bash Dogs",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:4SwaNrEPRcIqp0auhiOLkq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5M1GIf3grbA6cqPe9zmomb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 991
+      },
+      "genres" : [ "jazz rap" ],
+      "href" : "https://api.spotify.com/v1/artists/5M1GIf3grbA6cqPe9zmomb",
+      "id" : "5M1GIf3grbA6cqPe9zmomb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb80b4c2c7407ccd623958d868",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517480b4c2c7407ccd623958d868",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17880b4c2c7407ccd623958d868",
+        "width" : 160
+      } ],
+      "name" : "Paranorml",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:5M1GIf3grbA6cqPe9zmomb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 152345
+      },
+      "genres" : [ "art pop", "indie rock", "london indie", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+      "id" : "3PP6ghmOlDl2jaKaH0avUN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaebcf58177b9739feadb00b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aebcf58177b9739feadb00b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aebcf58177b9739feadb00b9",
+        "width" : 160
+      } ],
+      "name" : "Black Country, New Road",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5v6LfBBTC4Pc8OLq6SWYhW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1811
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5v6LfBBTC4Pc8OLq6SWYhW",
+      "id" : "5v6LfBBTC4Pc8OLq6SWYhW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6f319ff302a67fe4e25b1225",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746f319ff302a67fe4e25b1225",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786f319ff302a67fe4e25b1225",
+        "width" : 160
+      } ],
+      "name" : "Paranormales",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:5v6LfBBTC4Pc8OLq6SWYhW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1264353
+      },
+      "genres" : [ "alternative rock", "blues rock", "garage rock", "garage rock revival", "modern blues rock", "modern rock", "punk blues", "rock" ],
+      "href" : "https://api.spotify.com/v1/artists/4FZ3j1oH43e7cukCALsCwf",
+      "id" : "4FZ3j1oH43e7cukCALsCwf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1a8b7c92db7199450ed040e6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741a8b7c92db7199450ed040e6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781a8b7c92db7199450ed040e6",
+        "width" : 160
+      } ],
+      "name" : "Jack White",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:4FZ3j1oH43e7cukCALsCwf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QuU9tAhx06cSG57g5Fd2z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4058
+      },
+      "genres" : [ "slovak rock" ],
+      "href" : "https://api.spotify.com/v1/artists/4QuU9tAhx06cSG57g5Fd2z",
+      "id" : "4QuU9tAhx06cSG57g5Fd2z",
+      "images" : [ {
+        "height" : 1015,
+        "url" : "https://i.scdn.co/image/85e1a584b05762c48d2272c4b72247093c6758b9",
+        "width" : 1000
+      }, {
+        "height" : 650,
+        "url" : "https://i.scdn.co/image/2c8b27d6c26a2e37f41a157c0d60f443b8e6ff91",
+        "width" : 640
+      }, {
+        "height" : 203,
+        "url" : "https://i.scdn.co/image/498b65929488c1d7478b12f5390cb87679864db5",
+        "width" : 200
+      }, {
+        "height" : 65,
+        "url" : "https://i.scdn.co/image/fdad7192388187fd4ed4af49fe56bfdbfc74c333",
+        "width" : 64
+      } ],
+      "name" : "The Paranoid",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:4QuU9tAhx06cSG57g5Fd2z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VzyzR6DaEIfasrKKcJ8mI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 381
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3VzyzR6DaEIfasrKKcJ8mI",
+      "id" : "3VzyzR6DaEIfasrKKcJ8mI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb097acabee78d95a7b040c831",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174097acabee78d95a7b040c831",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178097acabee78d95a7b040c831",
+        "width" : 160
+      } ],
+      "name" : "Wet Satin",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:3VzyzR6DaEIfasrKKcJ8mI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rZKnhYrwfRs3wluf9vnsO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1163
+      },
+      "genres" : [ "doo-wop" ],
+      "href" : "https://api.spotify.com/v1/artists/3rZKnhYrwfRs3wluf9vnsO",
+      "id" : "3rZKnhYrwfRs3wluf9vnsO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27308ec8e69ac81ceab0720defb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0208ec8e69ac81ceab0720defb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485108ec8e69ac81ceab0720defb",
+        "width" : 64
+      } ],
+      "name" : "The Paradons",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:3rZKnhYrwfRs3wluf9vnsO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24580
+      },
+      "genres" : [ "neo-psychedelic", "swiss alternative rock" ],
+      "href" : "https://api.spotify.com/v1/artists/7iKleRyjLc8sVDN551vyiX",
+      "id" : "7iKleRyjLc8sVDN551vyiX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf9e198a751f3fc6b43843c29",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f9e198a751f3fc6b43843c29",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f9e198a751f3fc6b43843c29",
+        "width" : 160
+      } ],
+      "name" : "L'éclair",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:7iKleRyjLc8sVDN551vyiX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4RpkFmZGL3RA0CRpdJextT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5589
+      },
+      "genres" : [ "caracas indie", "venezuelan rock" ],
+      "href" : "https://api.spotify.com/v1/artists/4RpkFmZGL3RA0CRpdJextT",
+      "id" : "4RpkFmZGL3RA0CRpdJextT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb82c21c8afa489150eb6fe2e4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517482c21c8afa489150eb6fe2e4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17882c21c8afa489150eb6fe2e4",
+        "width" : 160
+      } ],
+      "name" : "Los Paranoias",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:4RpkFmZGL3RA0CRpdJextT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36165
+      },
+      "genres" : [ "afrobeat", "afropop", "world" ],
+      "href" : "https://api.spotify.com/v1/artists/1GQur7dDvAWhKT9u9YwBJZ",
+      "id" : "1GQur7dDvAWhKT9u9YwBJZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7361c1c60adf83e3d66352ef",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747361c1c60adf83e3d66352ef",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787361c1c60adf83e3d66352ef",
+        "width" : 160
+      } ],
+      "name" : "Seun Kuti",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:1GQur7dDvAWhKT9u9YwBJZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ds7qUg3xxu0gDIy4s3R9R"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 236
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Ds7qUg3xxu0gDIy4s3R9R",
+      "id" : "0Ds7qUg3xxu0gDIy4s3R9R",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7c427a5a7089304451c1e654",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747c427a5a7089304451c1e654",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787c427a5a7089304451c1e654",
+        "width" : 160
+      } ],
+      "name" : "The Paranoize",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ds7qUg3xxu0gDIy4s3R9R"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 71310
+      },
+      "genres" : [ "english indie rock", "modern alternative rock", "modern rock" ],
+      "href" : "https://api.spotify.com/v1/artists/04JIxSs2P0iteVWtaskfeh",
+      "id" : "04JIxSs2P0iteVWtaskfeh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7e18ef9b91a807661bbcb41e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747e18ef9b91a807661bbcb41e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787e18ef9b91a807661bbcb41e",
+        "width" : 160
+      } ],
+      "name" : "Sports Team",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:04JIxSs2P0iteVWtaskfeh"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=the+paranoyds&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 37
+  }
+}

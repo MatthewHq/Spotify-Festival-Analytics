@@ -1,0 +1,375 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=show+me+the+body&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75936
+      },
+      "genres" : [ "noise punk" ],
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2dc23250ce8a742f9d095e50",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742dc23250ce8a742f9d095e50",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782dc23250ce8a742f9d095e50",
+        "width" : 160
+      } ],
+      "name" : "Show Me the Body",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29026
+      },
+      "genres" : [ "art pop", "escape room", "scream rap" ],
+      "href" : "https://api.spotify.com/v1/artists/0mWrp0C4ShdOjs7P29Gzan",
+      "id" : "0mWrp0C4ShdOjs7P29Gzan",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9a277645bcc34a7b96d00add",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749a277645bcc34a7b96d00add",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789a277645bcc34a7b96d00add",
+        "width" : 160
+      } ],
+      "name" : "Soul Glo",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:0mWrp0C4ShdOjs7P29Gzan"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 126854
+      },
+      "genres" : [ "chamber psych", "indie rock", "modern alternative rock", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/4IeWU3NYBI9mISFVhzXG8f",
+      "id" : "4IeWU3NYBI9mISFVhzXG8f",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1f4c82dd5578030a1bcbd601",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741f4c82dd5578030a1bcbd601",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781f4c82dd5578030a1bcbd601",
+        "width" : 160
+      } ],
+      "name" : "shame",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:4IeWU3NYBI9mISFVhzXG8f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30121
+      },
+      "genres" : [ "mathcore" ],
+      "href" : "https://api.spotify.com/v1/artists/4V5obzWMr7BHZrjOiQwB4K",
+      "id" : "4V5obzWMr7BHZrjOiQwB4K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd92e0118bad05253ab058304",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d92e0118bad05253ab058304",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d92e0118bad05253ab058304",
+        "width" : 160
+      } ],
+      "name" : "The Armed",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:4V5obzWMr7BHZrjOiQwB4K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 152345
+      },
+      "genres" : [ "art pop", "indie rock", "london indie", "modern rock", "uk post-punk revival" ],
+      "href" : "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+      "id" : "3PP6ghmOlDl2jaKaH0avUN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebaebcf58177b9739feadb00b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174aebcf58177b9739feadb00b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178aebcf58177b9739feadb00b9",
+        "width" : 160
+      } ],
+      "name" : "Black Country, New Road",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 54011
+      },
+      "genres" : [ "garage psych", "irish indie rock" ],
+      "href" : "https://api.spotify.com/v1/artists/7IdPmzvB3PugXieZE9vS4S",
+      "id" : "7IdPmzvB3PugXieZE9vS4S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2dc84ad8eacc514dfeac6414",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742dc84ad8eacc514dfeac6414",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782dc84ad8eacc514dfeac6414",
+        "width" : 160
+      } ],
+      "name" : "Gilla Band",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:7IdPmzvB3PugXieZE9vS4S"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 40949
+      },
+      "genres" : [ "alternative dance", "brooklyn indie" ],
+      "href" : "https://api.spotify.com/v1/artists/5JWBow4ywgKNQ5HBxY8hcz",
+      "id" : "5JWBow4ywgKNQ5HBxY8hcz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8f6273f30a4fa5b2175bf047",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748f6273f30a4fa5b2175bf047",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788f6273f30a4fa5b2175bf047",
+        "width" : 160
+      } ],
+      "name" : "Nation of Language",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5JWBow4ywgKNQ5HBxY8hcz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 43271
+      },
+      "genres" : [ "french garage rock", "french stoner rock", "neo-psychedelic", "rock alternatif francais" ],
+      "href" : "https://api.spotify.com/v1/artists/0x9HCT7ZZlOEfLSVCDi5SO",
+      "id" : "0x9HCT7ZZlOEfLSVCDi5SO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb247ab814d00c3ee319eb2055",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174247ab814d00c3ee319eb2055",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178247ab814d00c3ee319eb2055",
+        "width" : 160
+      } ],
+      "name" : "SLIFT",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0x9HCT7ZZlOEfLSVCDi5SO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18SJLvRK2C84Ayo1owImsk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 68
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/18SJLvRK2C84Ayo1owImsk",
+      "id" : "18SJLvRK2C84Ayo1owImsk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb251081bb7b4eac9994ebe6aa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174251081bb7b4eac9994ebe6aa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178251081bb7b4eac9994ebe6aa",
+        "width" : 160
+      } ],
+      "name" : "Heads Are Heavy",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:18SJLvRK2C84Ayo1owImsk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23280
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2kRFetyCeU3r24DVyTZVFx",
+      "id" : "2kRFetyCeU3r24DVyTZVFx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe6610137da69dcbf94266ef0",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e6610137da69dcbf94266ef0",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e6610137da69dcbf94266ef0",
+        "width" : 160
+      } ],
+      "name" : "Surfbort",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:2kRFetyCeU3r24DVyTZVFx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 95547
+      },
+      "genres" : [ "indie garage rock" ],
+      "href" : "https://api.spotify.com/v1/artists/29q1axQPERERxUzqufXMqB",
+      "id" : "29q1axQPERERxUzqufXMqB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7450ca9e889e22fb2ac97d3b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747450ca9e889e22fb2ac97d3b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787450ca9e889e22fb2ac97d3b",
+        "width" : 160
+      } ],
+      "name" : "Together Pangea",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:29q1axQPERERxUzqufXMqB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zqDqnt5qZ7eKbsznDvRPB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4849
+      },
+      "genres" : [ "chain punk", "florida hardcore", "modern hardcore" ],
+      "href" : "https://api.spotify.com/v1/artists/4zqDqnt5qZ7eKbsznDvRPB",
+      "id" : "4zqDqnt5qZ7eKbsznDvRPB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b4748d752095f7f23e88e66e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b4748d752095f7f23e88e66e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b4748d752095f7f23e88e66e",
+        "width" : 64
+      } ],
+      "name" : "Armor",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:4zqDqnt5qZ7eKbsznDvRPB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2tM4YvbGRPeHpxdD6PqLwe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20632
+      },
+      "genres" : [ "dmv rap", "plugg", "underground hip hop", "vapor trap" ],
+      "href" : "https://api.spotify.com/v1/artists/2tM4YvbGRPeHpxdD6PqLwe",
+      "id" : "2tM4YvbGRPeHpxdD6PqLwe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebec95513298cc714ddf917587",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ec95513298cc714ddf917587",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ec95513298cc714ddf917587",
+        "width" : 160
+      } ],
+      "name" : "WiFiGawd",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:2tM4YvbGRPeHpxdD6PqLwe"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 13
+  }
+}

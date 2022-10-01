@@ -1,0 +1,523 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=the+armed&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 30121
+      },
+      "genres" : [ "mathcore" ],
+      "href" : "https://api.spotify.com/v1/artists/4V5obzWMr7BHZrjOiQwB4K",
+      "id" : "4V5obzWMr7BHZrjOiQwB4K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd92e0118bad05253ab058304",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d92e0118bad05253ab058304",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d92e0118bad05253ab058304",
+        "width" : 160
+      } ],
+      "name" : "The Armed",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:4V5obzWMr7BHZrjOiQwB4K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2BbWUtgOSQpPViYB4nTLG1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 533
+      },
+      "genres" : [ "post-disco soul" ],
+      "href" : "https://api.spotify.com/v1/artists/2BbWUtgOSQpPViYB4nTLG1",
+      "id" : "2BbWUtgOSQpPViYB4nTLG1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ae45202df5dbb638eed08437",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ae45202df5dbb638eed08437",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ae45202df5dbb638eed08437",
+        "width" : 64
+      } ],
+      "name" : "The Armed Gang",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:2BbWUtgOSQpPViYB4nTLG1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xYnbdPOwx0r5ett9Hhoq9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1964
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3xYnbdPOwx0r5ett9Hhoq9",
+      "id" : "3xYnbdPOwx0r5ett9Hhoq9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737a613011aefafda7946b51d7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027a613011aefafda7946b51d7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517a613011aefafda7946b51d7",
+        "width" : 64
+      } ],
+      "name" : "THE STAFF BAND OF THE NORWEGIAN ARMED FORCES",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:3xYnbdPOwx0r5ett9Hhoq9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 75936
+      },
+      "genres" : [ "noise punk" ],
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2dc23250ce8a742f9d095e50",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742dc23250ce8a742f9d095e50",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782dc23250ce8a742f9d095e50",
+        "width" : 160
+      } ],
+      "name" : "Show Me the Body",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0lTzFxPVAVFa5dcP1etijv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 26
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0lTzFxPVAVFa5dcP1etijv",
+      "id" : "0lTzFxPVAVFa5dcP1etijv",
+      "images" : [ ],
+      "name" : "KENNY CLAIRBONE AND THE ARMED GANG",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0lTzFxPVAVFa5dcP1etijv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 40949
+      },
+      "genres" : [ "alternative dance", "brooklyn indie" ],
+      "href" : "https://api.spotify.com/v1/artists/5JWBow4ywgKNQ5HBxY8hcz",
+      "id" : "5JWBow4ywgKNQ5HBxY8hcz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8f6273f30a4fa5b2175bf047",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748f6273f30a4fa5b2175bf047",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788f6273f30a4fa5b2175bf047",
+        "width" : 160
+      } ],
+      "name" : "Nation of Language",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5JWBow4ywgKNQ5HBxY8hcz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Q3OtwuVITwJkCkGztKiOH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6518
+      },
+      "genres" : [ "military band", "military cadence" ],
+      "href" : "https://api.spotify.com/v1/artists/2Q3OtwuVITwJkCkGztKiOH",
+      "id" : "2Q3OtwuVITwJkCkGztKiOH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27321f5a66dd63a2a27b71a8ba8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0221f5a66dd63a2a27b71a8ba8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485121f5a66dd63a2a27b71a8ba8",
+        "width" : 64
+      } ],
+      "name" : "The U.S. Army Airborne",
+      "popularity" : 28,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Q3OtwuVITwJkCkGztKiOH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2X0gZG718ZuvsxjBxQH4Qs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2X0gZG718ZuvsxjBxQH4Qs",
+      "id" : "2X0gZG718ZuvsxjBxQH4Qs",
+      "images" : [ ],
+      "name" : "Kenny Clairbone & The Armed Gang",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2X0gZG718ZuvsxjBxQH4Qs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23Wx0ow4qoL7mDZmWojvLR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/23Wx0ow4qoL7mDZmWojvLR",
+      "id" : "23Wx0ow4qoL7mDZmWojvLR",
+      "images" : [ ],
+      "name" : "The Armed",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:23Wx0ow4qoL7mDZmWojvLR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18SJLvRK2C84Ayo1owImsk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 68
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/18SJLvRK2C84Ayo1owImsk",
+      "id" : "18SJLvRK2C84Ayo1owImsk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb251081bb7b4eac9994ebe6aa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174251081bb7b4eac9994ebe6aa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178251081bb7b4eac9994ebe6aa",
+        "width" : 160
+      } ],
+      "name" : "Heads Are Heavy",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:18SJLvRK2C84Ayo1owImsk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ZrChYOsysN1jpOVecVko8"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4395
+      },
+      "genres" : [ "military cadence" ],
+      "href" : "https://api.spotify.com/v1/artists/4ZrChYOsysN1jpOVecVko8",
+      "id" : "4ZrChYOsysN1jpOVecVko8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de9784f7d9f6a57d3bb5d0a6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de9784f7d9f6a57d3bb5d0a6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de9784f7d9f6a57d3bb5d0a6",
+        "width" : 64
+      } ],
+      "name" : "The U.S. Army Airborne Rangers",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ZrChYOsysN1jpOVecVko8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pZDSmIsiPqCnEl4Zhvh58"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5pZDSmIsiPqCnEl4Zhvh58",
+      "id" : "5pZDSmIsiPqCnEl4Zhvh58",
+      "images" : [ ],
+      "name" : "Band of the Armed Forces of Malta",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5pZDSmIsiPqCnEl4Zhvh58"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0gKsXyKnfWKo6kWF7bC46J"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0gKsXyKnfWKo6kWF7bC46J",
+      "id" : "0gKsXyKnfWKo6kWF7bC46J",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396ecd30de7faaceb6b8042bd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296ecd30de7faaceb6b8042bd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196ecd30de7faaceb6b8042bd",
+        "width" : 64
+      } ],
+      "name" : "The Armedalite Rifles",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0gKsXyKnfWKo6kWF7bC46J"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 112266
+      },
+      "genres" : [ "bay area indie", "garage pop", "indie garage rock", "oakland indie", "power-pop punk" ],
+      "href" : "https://api.spotify.com/v1/artists/6A5Ns1SpGWTt8SzXPwiqVE",
+      "id" : "6A5Ns1SpGWTt8SzXPwiqVE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2a8721bf74d6ce8682d9795b",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742a8721bf74d6ce8682d9795b",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782a8721bf74d6ce8682d9795b",
+        "width" : 160
+      } ],
+      "name" : "Shannon & The Clams",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:6A5Ns1SpGWTt8SzXPwiqVE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5eUz51M1vq3U40cSttrDax"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5eUz51M1vq3U40cSttrDax",
+      "id" : "5eUz51M1vq3U40cSttrDax",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3e93afe948396a9594724c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3e93afe948396a9594724c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3e93afe948396a9594724c7",
+        "width" : 64
+      } ],
+      "name" : "Armed Armadillo",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:5eUz51M1vq3U40cSttrDax"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7auYlTYokPCgUvyWbzrZQB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7auYlTYokPCgUvyWbzrZQB",
+      "id" : "7auYlTYokPCgUvyWbzrZQB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731845e625e91ddb0f6249037e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021845e625e91ddb0f6249037e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511845e625e91ddb0f6249037e",
+        "width" : 64
+      } ],
+      "name" : "The One Armed Saints",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7auYlTYokPCgUvyWbzrZQB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 54104
+      },
+      "genres" : [ "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/1lsJmnN90u3KBvF3tGEWr3",
+      "id" : "1lsJmnN90u3KBvF3tGEWr3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9d89d1b035a444eba397e87f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749d89d1b035a444eba397e87f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789d89d1b035a444eba397e87f",
+        "width" : 160
+      } ],
+      "name" : "Mildlife",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:1lsJmnN90u3KBvF3tGEWr3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2aslq03Mx6HUUFEWrwAdwB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2aslq03Mx6HUUFEWrwAdwB",
+      "id" : "2aslq03Mx6HUUFEWrwAdwB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731eff793effa44af5253dcfa5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021eff793effa44af5253dcfa5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511eff793effa44af5253dcfa5",
+        "width" : 64
+      } ],
+      "name" : "The Armored",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:2aslq03Mx6HUUFEWrwAdwB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62750oUB4IG9KjRyg2Ho96"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 145
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/62750oUB4IG9KjRyg2Ho96",
+      "id" : "62750oUB4IG9KjRyg2Ho96",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bbd9ca5ae6c6d3fc9028eecd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029ba48145314e0f2bba081d5f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bbd9ca5ae6c6d3fc9028eecd",
+        "width" : 64
+      } ],
+      "name" : "The One Armed Man",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:62750oUB4IG9KjRyg2Ho96"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 137212
+      },
+      "genres" : [ "art pop", "uk alternative pop" ],
+      "href" : "https://api.spotify.com/v1/artists/09kXLeOXRyfNQMXRaDO4qA",
+      "id" : "09kXLeOXRyfNQMXRaDO4qA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1772815fafe2bdda56ce532d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741772815fafe2bdda56ce532d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781772815fafe2bdda56ce532d",
+        "width" : 160
+      } ],
+      "name" : "Nilüfer Yanya",
+      "popularity" : 51,
+      "type" : "artist",
+      "uri" : "spotify:artist:09kXLeOXRyfNQMXRaDO4qA"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=the+armed&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 52
+  }
+}

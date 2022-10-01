@@ -1,0 +1,551 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=leclair&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24580
+      },
+      "genres" : [ "neo-psychedelic", "swiss alternative rock" ],
+      "href" : "https://api.spotify.com/v1/artists/7iKleRyjLc8sVDN551vyiX",
+      "id" : "7iKleRyjLc8sVDN551vyiX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf9e198a751f3fc6b43843c29",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f9e198a751f3fc6b43843c29",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f9e198a751f3fc6b43843c29",
+        "width" : 160
+      } ],
+      "name" : "L'éclair",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:7iKleRyjLc8sVDN551vyiX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vJsa4XBkUYzpq1ni8X40K"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1vJsa4XBkUYzpq1ni8X40K",
+      "id" : "1vJsa4XBkUYzpq1ni8X40K",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27391ae1ea71088f929402c9d80",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0291ae1ea71088f929402c9d80",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485191ae1ea71088f929402c9d80",
+        "width" : 64
+      } ],
+      "name" : "Leclair Dennison",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:1vJsa4XBkUYzpq1ni8X40K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DJC9GGdjEH4CiaAeqAysE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5980
+      },
+      "genres" : [ "baroque", "early music", "french baroque" ],
+      "href" : "https://api.spotify.com/v1/artists/6DJC9GGdjEH4CiaAeqAysE",
+      "id" : "6DJC9GGdjEH4CiaAeqAysE",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/45bbcfe71b3b68e8d616c1980b951b16cab66bed",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2300dfc8e4e2b6c9a7e86e4a15eb30576d5e8bcc",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/5f890c921a70fb5d6802abb79b06690315630d36",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ad0d789f363ccf2dd77054d687f57e8a53754f65",
+        "width" : 64
+      } ],
+      "name" : "Jean-Marie Leclair",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:6DJC9GGdjEH4CiaAeqAysE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 54104
+      },
+      "genres" : [ "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/1lsJmnN90u3KBvF3tGEWr3",
+      "id" : "1lsJmnN90u3KBvF3tGEWr3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb9d89d1b035a444eba397e87f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051749d89d1b035a444eba397e87f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1789d89d1b035a444eba397e87f",
+        "width" : 160
+      } ],
+      "name" : "Mildlife",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:1lsJmnN90u3KBvF3tGEWr3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nhVwLQlcM9EM7P4Dz7tI0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 344
+      },
+      "genres" : [ "classical bassoon" ],
+      "href" : "https://api.spotify.com/v1/artists/0nhVwLQlcM9EM7P4Dz7tI0",
+      "id" : "0nhVwLQlcM9EM7P4Dz7tI0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731dede370886d4bc3db0a9f90",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021dede370886d4bc3db0a9f90",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511dede370886d4bc3db0a9f90",
+        "width" : 64
+      } ],
+      "name" : "Judith LeClair",
+      "popularity" : 15,
+      "type" : "artist",
+      "uri" : "spotify:artist:0nhVwLQlcM9EM7P4Dz7tI0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18SJLvRK2C84Ayo1owImsk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 68
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/18SJLvRK2C84Ayo1owImsk",
+      "id" : "18SJLvRK2C84Ayo1owImsk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb251081bb7b4eac9994ebe6aa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174251081bb7b4eac9994ebe6aa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178251081bb7b4eac9994ebe6aa",
+        "width" : 160
+      } ],
+      "name" : "Heads Are Heavy",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:18SJLvRK2C84Ayo1owImsk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0GCEX4wLfocWzgYQ47zOq6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0GCEX4wLfocWzgYQ47zOq6",
+      "id" : "0GCEX4wLfocWzgYQ47zOq6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b46e9f45e00e171c4657d661",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b46e9f45e00e171c4657d661",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b46e9f45e00e171c4657d661",
+        "width" : 64
+      } ],
+      "name" : "Leclaire.",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:0GCEX4wLfocWzgYQ47zOq6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Y9PxKp1nEgVir761qwzXU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 37
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4Y9PxKp1nEgVir761qwzXU",
+      "id" : "4Y9PxKp1nEgVir761qwzXU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebafd45418ee581f16ae412b15",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174afd45418ee581f16ae412b15",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178afd45418ee581f16ae412b15",
+        "width" : 160
+      } ],
+      "name" : "Didier Leclaire",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Y9PxKp1nEgVir761qwzXU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 12757
+      },
+      "genres" : [ "electra", "electronica", "float house" ],
+      "href" : "https://api.spotify.com/v1/artists/5Ly0z60jjgsY4rkmjRFtPS",
+      "id" : "5Ly0z60jjgsY4rkmjRFtPS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0b1015b14d90885e67c06b13",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740b1015b14d90885e67c06b13",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780b1015b14d90885e67c06b13",
+        "width" : 160
+      } ],
+      "name" : "Elkka",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Ly0z60jjgsY4rkmjRFtPS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2KUmzn63LwgfEEk8PV1SK7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2KUmzn63LwgfEEk8PV1SK7",
+      "id" : "2KUmzn63LwgfEEk8PV1SK7",
+      "images" : [ ],
+      "name" : "Kelly LeClair",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:2KUmzn63LwgfEEk8PV1SK7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Snqw7FyHuzA58ruGV9mL0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1053
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Snqw7FyHuzA58ruGV9mL0",
+      "id" : "2Snqw7FyHuzA58ruGV9mL0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb955affe988590778390665bf",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174955affe988590778390665bf",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178955affe988590778390665bf",
+        "width" : 160
+      } ],
+      "name" : "Jennifer LeClaire",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Snqw7FyHuzA58ruGV9mL0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 43271
+      },
+      "genres" : [ "french garage rock", "french stoner rock", "neo-psychedelic", "rock alternatif francais" ],
+      "href" : "https://api.spotify.com/v1/artists/0x9HCT7ZZlOEfLSVCDi5SO",
+      "id" : "0x9HCT7ZZlOEfLSVCDi5SO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb247ab814d00c3ee319eb2055",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174247ab814d00c3ee319eb2055",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178247ab814d00c3ee319eb2055",
+        "width" : 160
+      } ],
+      "name" : "SLIFT",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:0x9HCT7ZZlOEfLSVCDi5SO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35745
+      },
+      "genres" : [ "indie jazz", "indie soul", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/2Ks1Z1scmEDZfaYaCS7Osj",
+      "id" : "2Ks1Z1scmEDZfaYaCS7Osj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0eb5e8b89aa79f62e1bef593",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740eb5e8b89aa79f62e1bef593",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780eb5e8b89aa79f62e1bef593",
+        "width" : 160
+      } ],
+      "name" : "Surprise Chef",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Ks1Z1scmEDZfaYaCS7Osj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 211730
+      },
+      "genres" : [ "instrumental stoner rock", "japanese psychedelic", "japanese psychedelic rock", "neo-psychedelic" ],
+      "href" : "https://api.spotify.com/v1/artists/0hrb5WRiNlj8vh3WnCgXFq",
+      "id" : "0hrb5WRiNlj8vh3WnCgXFq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb952b074c07607f6b8afc3f93",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174952b074c07607f6b8afc3f93",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178952b074c07607f6b8afc3f93",
+        "width" : 160
+      } ],
+      "name" : "Kikagaku Moyo",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:0hrb5WRiNlj8vh3WnCgXFq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7u2mzWIe1TfYrTV8Ojc4rp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7u2mzWIe1TfYrTV8Ojc4rp",
+      "id" : "7u2mzWIe1TfYrTV8Ojc4rp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273abf03a95ec8a3200b217a651",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02abf03a95ec8a3200b217a651",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851abf03a95ec8a3200b217a651",
+        "width" : 64
+      } ],
+      "name" : "Jean-Marie Leclair I",
+      "popularity" : 12,
+      "type" : "artist",
+      "uri" : "spotify:artist:7u2mzWIe1TfYrTV8Ojc4rp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 22562
+      },
+      "genres" : [ "dutch indie rock", "latin afrobeat" ],
+      "href" : "https://api.spotify.com/v1/artists/02riqGdWw4EdqKJzOeWRZS",
+      "id" : "02riqGdWw4EdqKJzOeWRZS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1594d8954c03f5e3b89f61be",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741594d8954c03f5e3b89f61be",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781594d8954c03f5e3b89f61be",
+        "width" : 160
+      } ],
+      "name" : "The Mauskovic Dance Band",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:02riqGdWw4EdqKJzOeWRZS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wBa84sYdzb2uTxM6qwCby"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1wBa84sYdzb2uTxM6qwCby",
+      "id" : "1wBa84sYdzb2uTxM6qwCby",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a70962c4d21a1050e81487ca",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a70962c4d21a1050e81487ca",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a70962c4d21a1050e81487ca",
+        "width" : 64
+      } ],
+      "name" : "Ensemble instrumental Jean-Marie-Leclair",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:1wBa84sYdzb2uTxM6qwCby"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Zx5Bz2r2oX1TxE5YVDsBy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5Zx5Bz2r2oX1TxE5YVDsBy",
+      "id" : "5Zx5Bz2r2oX1TxE5YVDsBy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27314fe2b73a0721899fe4e4e1e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0214fe2b73a0721899fe4e4e1e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485114fe2b73a0721899fe4e4e1e",
+        "width" : 64
+      } ],
+      "name" : "l'éclaireur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Zx5Bz2r2oX1TxE5YVDsBy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5265
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3BUpv2goO0OTzcj7yYkRZJ",
+      "id" : "3BUpv2goO0OTzcj7yYkRZJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb51ec3e0ad79f0407ed7df130",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517451ec3e0ad79f0407ed7df130",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17851ec3e0ad79f0407ed7df130",
+        "width" : 160
+      } ],
+      "name" : "JJUUJJUU",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:3BUpv2goO0OTzcj7yYkRZJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ofRs8iuG2utamkAF3wHG0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 203
+      },
+      "genres" : [ "microhouse" ],
+      "href" : "https://api.spotify.com/v1/artists/1ofRs8iuG2utamkAF3wHG0",
+      "id" : "1ofRs8iuG2utamkAF3wHG0",
+      "images" : [ ],
+      "name" : "Marc Leclair",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ofRs8iuG2utamkAF3wHG0"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=leclair&type=artist&market=US&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 135
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/44byRkiG5AmHjfrBuodMzp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/44byRkiG5AmHjfrBuodMzp",
+      "id" : "44byRkiG5AmHjfrBuodMzp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fc5b945694542a289fd416b5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fc5b945694542a289fd416b5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fc5b945694542a289fd416b5",
+        "width" : 64
+      } ],
+      "name" : "Body War",
+      "release_date" : "2016-07-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:44byRkiG5AmHjfrBuodMzp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 193720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC4R1601947"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0H4fQFdmbkARxfqEUVAXPY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0H4fQFdmbkARxfqEUVAXPY",
+    "id" : "0H4fQFdmbkARxfqEUVAXPY",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Metallic Taste",
+    "popularity" : 51,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0H4fQFdmbkARxfqEUVAXPY"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2JCF0uPKnJCJdQ7C5acVFr",
+      "id" : "2JCF0uPKnJCJdQ7C5acVFr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273efd6c08deedb4935dedbc689",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02efd6c08deedb4935dedbc689",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851efd6c08deedb4935dedbc689",
+        "width" : 64
+      } ],
+      "name" : "We Came To Play",
+      "release_date" : "2022-09-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2JCF0uPKnJCJdQ7C5acVFr"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 135208,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC4R2216789"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/41zQURNrqtia1f2xXfZkUP",
+    "id" : "41zQURNrqtia1f2xXfZkUP",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "We Came To Play",
+    "popularity" : 48,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:41zQURNrqtia1f2xXfZkUP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4osZNJ2yO18sYtqJIFvMFy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4osZNJ2yO18sYtqJIFvMFy",
+      "id" : "4osZNJ2yO18sYtqJIFvMFy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dec62246b3568d62f54a74c8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dec62246b3568d62f54a74c8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dec62246b3568d62f54a74c8",
+        "width" : 64
+      } ],
+      "name" : "Dog Whistle",
+      "release_date" : "2019-03-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4osZNJ2yO18sYtqJIFvMFy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 180080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC4R1802564"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7MDSptyhpzjuErXQV9T6BD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7MDSptyhpzjuErXQV9T6BD",
+    "id" : "7MDSptyhpzjuErXQV9T6BD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Arcanum",
+    "popularity" : 47,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7MDSptyhpzjuErXQV9T6BD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4osZNJ2yO18sYtqJIFvMFy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4osZNJ2yO18sYtqJIFvMFy",
+      "id" : "4osZNJ2yO18sYtqJIFvMFy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dec62246b3568d62f54a74c8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dec62246b3568d62f54a74c8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dec62246b3568d62f54a74c8",
+        "width" : 64
+      } ],
+      "name" : "Dog Whistle",
+      "release_date" : "2019-03-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4osZNJ2yO18sYtqJIFvMFy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 283573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC4R1802556"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6TMotezvZny5m731LR5Gjo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6TMotezvZny5m731LR5Gjo",
+    "id" : "6TMotezvZny5m731LR5Gjo",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Camp Orchestra",
+    "popularity" : 43,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6TMotezvZny5m731LR5Gjo"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3HUFKFc1c2yA0KZq5VyORJ",
+      "id" : "3HUFKFc1c2yA0KZq5VyORJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a0983dd7ae73a0cbba62568c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a0983dd7ae73a0cbba62568c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a0983dd7ae73a0cbba62568c",
+        "width" : 64
+      } ],
+      "name" : "Loose Talk",
+      "release_date" : "2022-07-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3HUFKFc1c2yA0KZq5VyORJ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 206247,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USC4R2216786"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/11UO9AIzYPQfn91N093MTo",
+    "id" : "11UO9AIzYPQfn91N093MTo",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Loose Talk",
+    "popularity" : 42,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:11UO9AIzYPQfn91N093MTo"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4osZNJ2yO18sYtqJIFvMFy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4osZNJ2yO18sYtqJIFvMFy",
+      "id" : "4osZNJ2yO18sYtqJIFvMFy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dec62246b3568d62f54a74c8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dec62246b3568d62f54a74c8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dec62246b3568d62f54a74c8",
+        "width" : 64
+      } ],
+      "name" : "Dog Whistle",
+      "release_date" : "2019-03-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4osZNJ2yO18sYtqJIFvMFy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 147960,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC4R1802563"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/15WUTQUL9L4d3tFHUg6McH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/15WUTQUL9L4d3tFHUg6McH",
+    "id" : "15WUTQUL9L4d3tFHUg6McH",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Madonna Rocket",
+    "popularity" : 41,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:15WUTQUL9L4d3tFHUg6McH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3sR99ifBBjElpRmIGkstcm",
+      "id" : "3sR99ifBBjElpRmIGkstcm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732fd250e2666e6bfb0ea19c68",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022fd250e2666e6bfb0ea19c68",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512fd250e2666e6bfb0ea19c68",
+        "width" : 64
+      } ],
+      "name" : "Corpus I",
+      "release_date" : "2017-03-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3sR99ifBBjElpRmIGkstcm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 152150,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USC4R1702089"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1XEvAm9FBQYevZ2GEMlmZq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1XEvAm9FBQYevZ2GEMlmZq",
+    "id" : "1XEvAm9FBQYevZ2GEMlmZq",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Trash",
+    "popularity" : 39,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1XEvAm9FBQYevZ2GEMlmZq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/44byRkiG5AmHjfrBuodMzp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/44byRkiG5AmHjfrBuodMzp",
+      "id" : "44byRkiG5AmHjfrBuodMzp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fc5b945694542a289fd416b5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fc5b945694542a289fd416b5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fc5b945694542a289fd416b5",
+        "width" : 64
+      } ],
+      "name" : "Body War",
+      "release_date" : "2016-07-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:44byRkiG5AmHjfrBuodMzp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 221866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USC4R1601943"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/063F1Y38YPH6NCnvlWFfuD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/063F1Y38YPH6NCnvlWFfuD",
+    "id" : "063F1Y38YPH6NCnvlWFfuD",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Tight SWAT",
+    "popularity" : 38,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:063F1Y38YPH6NCnvlWFfuD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3sR99ifBBjElpRmIGkstcm",
+      "id" : "3sR99ifBBjElpRmIGkstcm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732fd250e2666e6bfb0ea19c68",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022fd250e2666e6bfb0ea19c68",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512fd250e2666e6bfb0ea19c68",
+        "width" : 64
+      } ],
+      "name" : "Corpus I",
+      "release_date" : "2017-03-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3sR99ifBBjElpRmIGkstcm"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lay1nwbE6hTx1jivysUAL",
+      "id" : "6lay1nwbE6hTx1jivysUAL",
+      "name" : "Princess Nokia",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lay1nwbE6hTx1jivysUAL"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 240044,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC4R1702103"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6XydPDin3lvWsT1tJI4QdL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6XydPDin3lvWsT1tJI4QdL",
+    "id" : "6XydPDin3lvWsT1tJI4QdL",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Spit",
+    "popularity" : 37,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6XydPDin3lvWsT1tJI4QdL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+        "id" : "5jh7sgXW2njALiIh0aPXjB",
+        "name" : "Show Me the Body",
+        "type" : "artist",
+        "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4osZNJ2yO18sYtqJIFvMFy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4osZNJ2yO18sYtqJIFvMFy",
+      "id" : "4osZNJ2yO18sYtqJIFvMFy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dec62246b3568d62f54a74c8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dec62246b3568d62f54a74c8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dec62246b3568d62f54a74c8",
+        "width" : 64
+      } ],
+      "name" : "Dog Whistle",
+      "release_date" : "2019-03-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4osZNJ2yO18sYtqJIFvMFy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jh7sgXW2njALiIh0aPXjB",
+      "id" : "5jh7sgXW2njALiIh0aPXjB",
+      "name" : "Show Me the Body",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jh7sgXW2njALiIh0aPXjB"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 159560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USC4R1802560"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/22TQY9Uzlh6MuOc0EgzB0e"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/22TQY9Uzlh6MuOc0EgzB0e",
+    "id" : "22TQY9Uzlh6MuOc0EgzB0e",
+    "is_local" : false,
+    "is_playable" : true,
+    "name" : "Drought",
+    "popularity" : 36,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:22TQY9Uzlh6MuOc0EgzB0e"
+  } ]
+}

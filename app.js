@@ -7,11 +7,11 @@ import * as userDbManage from './userDbManage.js'
 
 async function main() {
     //MAIN PROCEDURE HERE ++++++++++++++++
-    let festivalTitle = "Project Z 2022"
+    let festivalTitle = "Desert Daze 2022 Saturday"
 
     // dbManage.iniFestival(festivalTitle)
 
-    await clientTokenCreds()
+    // await clientTokenCreds()
     setTimeout(async () => {
 
         // await spotifyRequests.bulkArtistCache(festivalTitle)
@@ -21,10 +21,11 @@ async function main() {
         // await spotifyRequests.bulkArtistTopTrack(festivalTitle)
 
         // await spotifyRequests.getAllTrackAudioFeatures(festivalTitle)
-        // await dbManage.consolidateTopTracks(festivalTitle)
-        // await dbManage.consolidateArtists(festivalTitle)
-        // await dbManage.allArtistsToCSVcustom(festivalTitle)
-        // await dbManage.allTracksToCSVcustom(festivalTitle)
+
+        await dbManage.consolidateTopTracks(festivalTitle)
+        await dbManage.consolidateArtists(festivalTitle)
+        await dbManage.allArtistsToCSVcustom(festivalTitle)
+        await dbManage.allTracksToCSVcustom(festivalTitle)
     }, 2000);
 
     // END MAIN PROCEDURE HERE ++++++++++++++++++
@@ -35,6 +36,7 @@ async function main() {
     // userRefreshTokenCreds()
 
     setTimeout(async () => {
+        //!!!!!!! only when need new playlist
         // let playlistCreateResult = await userSpotifyRequests.createPlaylist("MY CODED PLAYLIST", false, false, "THIS IS MY PLAYLIST mADE WITH MY CODE")
         // console.log(playlistCreateResult)
 

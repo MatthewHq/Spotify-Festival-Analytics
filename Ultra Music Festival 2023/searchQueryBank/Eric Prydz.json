@@ -1,0 +1,123 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Eric+Prydz&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 514282
+      },
+      "genres" : [ "disco house", "edm", "electro house", "house", "pop dance", "progressive house", "vocal house" ],
+      "href" : "https://api.spotify.com/v1/artists/5sm0jQ1mq0dusiLtDJ2b4R",
+      "id" : "5sm0jQ1mq0dusiLtDJ2b4R",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4170f1e4c72c0a9fc2eddc1d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744170f1e4c72c0a9fc2eddc1d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784170f1e4c72c0a9fc2eddc1d",
+        "width" : 160
+      } ],
+      "name" : "Eric Prydz",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 134677
+      },
+      "genres" : [ "edm", "electro house", "house", "progressive electro house", "progressive house", "tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/37U9sPqTZMd7AKJCWgcvkt",
+      "id" : "37U9sPqTZMd7AKJCWgcvkt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb682940193e03a39f24a7ba52",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174682940193e03a39f24a7ba52",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178682940193e03a39f24a7ba52",
+        "width" : 160
+      } ],
+      "name" : "Pryda",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:37U9sPqTZMd7AKJCWgcvkt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6514662
+      },
+      "genres" : [ "big room", "brostep", "dance pop", "dutch edm", "edm", "house", "pop", "pop dance", "slap house", "trance", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+      "id" : "2o5jDhtHVPhrJdv3cEQ99Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8cb651b2e77c6d30b1de15e4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748cb651b2e77c6d30b1de15e4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788cb651b2e77c6d30b1de15e4",
+        "width" : 160
+      } ],
+      "name" : "Tiësto",
+      "popularity" : 82,
+      "type" : "artist",
+      "uri" : "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 55632
+      },
+      "genres" : [ "house", "tech house" ],
+      "href" : "https://api.spotify.com/v1/artists/31f4Ougr0lpsDrxigwV3TB",
+      "id" : "31f4Ougr0lpsDrxigwV3TB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba6d19b64e4a4fb3b17c54404",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a6d19b64e4a4fb3b17c54404",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a6d19b64e4a4fb3b17c54404",
+        "width" : 160
+      } ],
+      "name" : "Cirez D",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:31f4Ougr0lpsDrxigwV3TB"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}

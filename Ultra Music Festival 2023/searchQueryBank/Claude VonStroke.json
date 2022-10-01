@@ -1,0 +1,55 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Claude+VonStroke&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 115281
+      },
+      "genres" : [ "bass house", "electro house", "house", "microhouse", "minimal techno" ],
+      "href" : "https://api.spotify.com/v1/artists/5CYAFhywQTXdZmppCp0ukd",
+      "id" : "5CYAFhywQTXdZmppCp0ukd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb29b0766de337516e7f37a55",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b29b0766de337516e7f37a55",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b29b0766de337516e7f37a55",
+        "width" : 160
+      } ],
+      "name" : "Claude VonStroke",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:5CYAFhywQTXdZmppCp0ukd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6r5dMi6Ahh09KKKs9y7bz0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6r5dMi6Ahh09KKKs9y7bz0",
+      "id" : "6r5dMi6Ahh09KKKs9y7bz0",
+      "images" : [ ],
+      "name" : "Claude Vonstroke",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6r5dMi6Ahh09KKKs9y7bz0"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2
+  }
+}

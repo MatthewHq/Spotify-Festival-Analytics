@@ -1,0 +1,127 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Nghtmre&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 432936
+      },
+      "genres" : [ "brostep", "edm", "electro house", "electronic trap", "pop dance" ],
+      "href" : "https://api.spotify.com/v1/artists/76M2Ekj8bG8W7X2nbx2CpF",
+      "id" : "76M2Ekj8bG8W7X2nbx2CpF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb466d14e7d8546d3b51368157",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174466d14e7d8546d3b51368157",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178466d14e7d8546d3b51368157",
+        "width" : 160
+      } ],
+      "name" : "NGHTMRE",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:76M2Ekj8bG8W7X2nbx2CpF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3X5XVrxznFNCAdKRwZUpH7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 62
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3X5XVrxznFNCAdKRwZUpH7",
+      "id" : "3X5XVrxznFNCAdKRwZUpH7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb3cb9daddb5ca6b4443b4ab5f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051743cb9daddb5ca6b4443b4ab5f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1783cb9daddb5ca6b4443b4ab5f",
+        "width" : 160
+      } ],
+      "name" : "ZEYNI'S NGHTMRE",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:3X5XVrxznFNCAdKRwZUpH7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1e3a8LyR94jmWX4JZzV1ZG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 709
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1e3a8LyR94jmWX4JZzV1ZG",
+      "id" : "1e3a8LyR94jmWX4JZzV1ZG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb798956af8d43375a6c7bce00",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174798956af8d43375a6c7bce00",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178798956af8d43375a6c7bce00",
+        "width" : 160
+      } ],
+      "name" : "Cosy Nghtmre",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:1e3a8LyR94jmWX4JZzV1ZG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2mLAOCmADyx7fuM5KE651C"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2mLAOCmADyx7fuM5KE651C",
+      "id" : "2mLAOCmADyx7fuM5KE651C",
+      "images" : [ ],
+      "name" : "Cosy Nghtmre",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2mLAOCmADyx7fuM5KE651C"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1z6VSJlfERR1qBmb28y37N"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1z6VSJlfERR1qBmb28y37N",
+      "id" : "1z6VSJlfERR1qBmb28y37N",
+      "images" : [ ],
+      "name" : "COSY NGHTMRE",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1z6VSJlfERR1qBmb28y37N"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 5
+  }
+}

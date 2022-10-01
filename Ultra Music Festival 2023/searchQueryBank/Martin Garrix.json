@@ -1,0 +1,531 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Martin+Garrix&type=artist&market=US&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15618134
+      },
+      "genres" : [ "dance pop", "dutch edm", "edm", "pop", "pop dance", "progressive house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/60d24wfXkVzDSfLS6hyCjZ",
+      "id" : "60d24wfXkVzDSfLS6hyCjZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb66d17ee8690d2e8d94ee7387",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517466d17ee8690d2e8d94ee7387",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17866d17ee8690d2e8d94ee7387",
+        "width" : 160
+      } ],
+      "name" : "Martin Garrix",
+      "popularity" : 76,
+      "type" : "artist",
+      "uri" : "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3luMOlQhTOq7Nt3ntUdwim"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 85
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3luMOlQhTOq7Nt3ntUdwim",
+      "id" : "3luMOlQhTOq7Nt3ntUdwim",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273003ad8ccb01dbb46306cce48",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02003ad8ccb01dbb46306cce48",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851003ad8ccb01dbb46306cce48",
+        "width" : 64
+      } ],
+      "name" : "GARRIX MARTIN",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3luMOlQhTOq7Nt3ntUdwim"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 34280071
+      },
+      "genres" : [ "brostep", "dance pop", "edm", "pop", "pop dance", "progressive electro house" ],
+      "href" : "https://api.spotify.com/v1/artists/64KEffDW9EtZ1y2vBYgq8T",
+      "id" : "64KEffDW9EtZ1y2vBYgq8T",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba91af711541f8807ed7f0676",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a91af711541f8807ed7f0676",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a91af711541f8807ed7f0676",
+        "width" : 160
+      } ],
+      "name" : "Marshmello",
+      "popularity" : 83,
+      "type" : "artist",
+      "uri" : "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5B36EEnGIbV6st4Vf5qEUy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 49975
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5B36EEnGIbV6st4Vf5qEUy",
+      "id" : "5B36EEnGIbV6st4Vf5qEUy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27386a0b97f298ae9cdebdec0a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0286a0b97f298ae9cdebdec0a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485186a0b97f298ae9cdebdec0a5",
+        "width" : 64
+      } ],
+      "name" : "Martin Gabriel",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:5B36EEnGIbV6st4Vf5qEUy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3LfS3s5jf6ou6GcxKlX94y"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 100
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3LfS3s5jf6ou6GcxKlX94y",
+      "id" : "3LfS3s5jf6ou6GcxKlX94y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273482d618abde615636e5a1acf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02482d618abde615636e5a1acf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851482d618abde615636e5a1acf",
+        "width" : 64
+      } ],
+      "name" : "Mac Lerny feat Martin Garrix, Matisse & Sadko, John Martin",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3LfS3s5jf6ou6GcxKlX94y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 125731
+      },
+      "genres" : [ "edm", "electro house", "pop dance", "pop edm", "progressive electro house", "progressive house", "russian edm" ],
+      "href" : "https://api.spotify.com/v1/artists/2QMCcKIPHnjQaPPgoEst88",
+      "id" : "2QMCcKIPHnjQaPPgoEst88",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2f05a9d00436e8d6f1a4381e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742f05a9d00436e8d6f1a4381e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782f05a9d00436e8d6f1a4381e",
+        "width" : 160
+      } ],
+      "name" : "Matisse & Sadko",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:2QMCcKIPHnjQaPPgoEst88"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/332qHRaeT8eMsmVhLO2HKP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2080
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/332qHRaeT8eMsmVhLO2HKP",
+      "id" : "332qHRaeT8eMsmVhLO2HKP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebee8c8ac5a27e656e81b812b1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174ee8c8ac5a27e656e81b812b1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178ee8c8ac5a27e656e81b812b1",
+        "width" : 160
+      } ],
+      "name" : "Martin Garcia",
+      "popularity" : 13,
+      "type" : "artist",
+      "uri" : "spotify:artist:332qHRaeT8eMsmVhLO2HKP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7b5FUwXBFgbsvLEXcqHZXp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7b5FUwXBFgbsvLEXcqHZXp",
+      "id" : "7b5FUwXBFgbsvLEXcqHZXp",
+      "images" : [ ],
+      "name" : "Martin Garrixx",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7b5FUwXBFgbsvLEXcqHZXp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3897989
+      },
+      "genres" : [ "big room", "dance pop", "dutch house", "edm", "electro house", "pop dance", "pop rap", "progressive house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz",
+      "id" : "4D75GcNG95ebPtNvoNVXhz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb78484e23002e1607039af9b9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517478484e23002e1607039af9b9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17878484e23002e1607039af9b9",
+        "width" : 160
+      } ],
+      "name" : "Afrojack",
+      "popularity" : 72,
+      "type" : "artist",
+      "uri" : "spotify:artist:4D75GcNG95ebPtNvoNVXhz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZFTZ8QPnfYvjGkZa9BMip"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 50
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1ZFTZ8QPnfYvjGkZa9BMip",
+      "id" : "1ZFTZ8QPnfYvjGkZa9BMip",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738a102cd3553d920e8c5ebf83",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028a102cd3553d920e8c5ebf83",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518a102cd3553d920e8c5ebf83",
+        "width" : 64
+      } ],
+      "name" : "Martin Gatt",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZFTZ8QPnfYvjGkZa9BMip"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3265410
+      },
+      "genres" : [ "belgian dance", "belgian edm", "big room", "dance pop", "edm", "electro house", "pop dance", "progressive electro house", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/73jBynjsVtofjRpdpRAJGk",
+      "id" : "73jBynjsVtofjRpdpRAJGk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb02ccfd8ad7d5a445fb1766bc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517402ccfd8ad7d5a445fb1766bc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17802ccfd8ad7d5a445fb1766bc",
+        "width" : 160
+      } ],
+      "name" : "Dimitri Vegas & Like Mike",
+      "popularity" : 70,
+      "type" : "artist",
+      "uri" : "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fJ0uVfgglq5vO0UBwX3Am"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 157
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6fJ0uVfgglq5vO0UBwX3Am",
+      "id" : "6fJ0uVfgglq5vO0UBwX3Am",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c28eb10ced6232bf0c7b8907",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c28eb10ced6232bf0c7b8907",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c28eb10ced6232bf0c7b8907",
+        "width" : 64
+      } ],
+      "name" : "Martin Gardoqui",
+      "popularity" : 7,
+      "type" : "artist",
+      "uri" : "spotify:artist:6fJ0uVfgglq5vO0UBwX3Am"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8144632
+      },
+      "genres" : [ "edm", "pop", "pop dance", "tropical house" ],
+      "href" : "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+      "id" : "23fqKkggKUBHNkbKtXEls4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6567299e3c53cf2a250fbdce",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746567299e3c53cf2a250fbdce",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786567299e3c53cf2a250fbdce",
+        "width" : 160
+      } ],
+      "name" : "Kygo",
+      "popularity" : 80,
+      "type" : "artist",
+      "uri" : "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Zlj5NfQSEFG2Gb4OtkNn1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 573
+      },
+      "genres" : [ "indie tucumano" ],
+      "href" : "https://api.spotify.com/v1/artists/0Zlj5NfQSEFG2Gb4OtkNn1",
+      "id" : "0Zlj5NfQSEFG2Gb4OtkNn1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0eb7a07a52f0522fb9032e45",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740eb7a07a52f0522fb9032e45",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780eb7a07a52f0522fb9032e45",
+        "width" : 160
+      } ],
+      "name" : "Martin Garcia Canción",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Zlj5NfQSEFG2Gb4OtkNn1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24743042
+      },
+      "genres" : [ "big room", "dance pop", "edm", "pop", "pop dance" ],
+      "href" : "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+      "id" : "1Cs0zKBU1kc0i8ypK3B9ai",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb75348e1aade2645ad9c58829",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517475348e1aade2645ad9c58829",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17875348e1aade2645ad9c58829",
+        "width" : 160
+      } ],
+      "name" : "David Guetta",
+      "popularity" : 88,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0PztP1RAEPsalnggohqZc1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 103
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0PztP1RAEPsalnggohqZc1",
+      "id" : "0PztP1RAEPsalnggohqZc1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbb4d23013da2d24abc0cdd09",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bb4d23013da2d24abc0cdd09",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bb4d23013da2d24abc0cdd09",
+        "width" : 160
+      } ],
+      "name" : "Martín Gari",
+      "popularity" : 8,
+      "type" : "artist",
+      "uri" : "spotify:artist:0PztP1RAEPsalnggohqZc1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 49892438
+      },
+      "genres" : [ "canadian contemporary r&b", "canadian pop", "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id" : "1Xyo4u8uXC1ZmMpatF05PJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b5f9e28219c169fd4b9e8379",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b5f9e28219c169fd4b9e8379",
+        "width" : 160
+      } ],
+      "name" : "The Weeknd",
+      "popularity" : 94,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4HbVORzUF7b0V4IdX1c3KV"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1892
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4HbVORzUF7b0V4IdX1c3KV",
+      "id" : "4HbVORzUF7b0V4IdX1c3KV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb960b054ce6341bab2dd176ef",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174960b054ce6341bab2dd176ef",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178960b054ce6341bab2dd176ef",
+        "width" : 160
+      } ],
+      "name" : "Martin Harris",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:4HbVORzUF7b0V4IdX1c3KV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/187WReipBDIXCVaNoEZmZn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 127
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/187WReipBDIXCVaNoEZmZn",
+      "id" : "187WReipBDIXCVaNoEZmZn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb16ecb817a04e649504869ae7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517416ecb817a04e649504869ae7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17816ecb817a04e649504869ae7",
+        "width" : 160
+      } ],
+      "name" : "MARTIN",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:187WReipBDIXCVaNoEZmZn"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 19
+  }
+}
